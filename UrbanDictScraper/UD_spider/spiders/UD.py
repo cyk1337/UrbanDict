@@ -34,8 +34,9 @@ class UdSpider(CrawlSpider):
         :return: item
         """
         item = UdSpiderItem()
-
+        # -------------------------------------------------------------------
         # dict to save all the results and zip according to their index order
+        # -------------------------------------------------------------------
         results = dict()
         print("Start parsing {}...".format(response.url))
         # main field
@@ -43,12 +44,14 @@ class UdSpider(CrawlSpider):
         results['word'] = response.css('.word::text').extract()
         results['definition'] = response.xpath('//div[@class="meaning"]').xpath('normalize-space(string(.))').extract()
 
-        # others
-        results['thumbs_up'] = response.css('.left.thumbs .up span.count::text').extract()
-        results['thumbs_down'] = response.css('.left.thumbs .down span.count::text').extract()
-        results['author'] = response.css('.contributor a::text').extract()
-        results['written_date'] = response.css('.contributor::text').extract()[1::2]
-        results['egs'] = response.css('.example').xpath('normalize-space(string(.))').extract()
+        ##----------
+        # other fields
+        ##----------
+        # results['thumbs_up'] = response.css('.left.thumbs .up span.count::text').extract()
+        # results['thumbs_down'] = response.css('.left.thumbs .down span.count::text').extract()
+        # results['author'] = response.css('.contributor a::text').extract()
+        # results['written_date'] = response.css('.contributor::text').extract()[1::2]
+        # results['example'] = response.css('.example').xpath('normalize-space(string(.))').extract()
 
         # check if the length of lists are the same, all the same or empty
         if len(set(len(x) for x in (results['defid'], results['word'], results['definition']))) <= 1:

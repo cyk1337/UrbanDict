@@ -35,3 +35,4 @@ class UdSpiderItem(scrapy.Item):
     permalink = scrapy.Field()
     author = scrapy.Field()
     written_date = scrapy.Field()
+    example = scrapy.Field()

@@ -79,7 +79,8 @@ class AsyncMySQLPipeline(object):
                 params = (item['defid'], item['word'], item['definition'], item['url'])
             cursor.execute(insert_sql, params)
         except Exception as e:
-            logging.ERROR("Mysql Insert Error:"+ str(e.args[0])+ str(e.args[1]))
+            print("Mysql Insert Error:"+ str(e.args[0])+ str(e.args[1]))
+            print('Failed to insert records\n','-'*30)
             # self.conn.rollback()
 
     def spider_closed(self, spider):

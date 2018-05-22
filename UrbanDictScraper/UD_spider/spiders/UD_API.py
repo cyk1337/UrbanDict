@@ -4,7 +4,7 @@ from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
 from ..items import UdSpiderItem
 
-import string, requests
+import string, requests, re, logging
 from urllib.parse import urljoin
 
 class UdApiSpider(CrawlSpider):
@@ -21,18 +21,59 @@ class UdApiSpider(CrawlSpider):
 
     rules = (
         # extract pagination
-        Rule(LinkExtractor(allow=r'\/browse.php\?character=[\w|\*](\&page=\d+)*'), callback='_parse_token',follow=True),
-        # extract UD definition item
-        # # filter out phrase (token num >= 2, i.e. contains %20(plus sign))
-        # Rule(LinkExtractor(allow=r'\/define.php\?term=\S+', deny='(\%20)+',
-        #                    restrict_xpaths='//div[@id="columnist"]//li/a'), callback='parse_item')
+        Rule(LinkExtractor(allow=r'\/browse.php\?character=[\w|\*](\&page=\d+)*'), callback='_parse_word',follow=True),
     )
 
-    def _parse_token(self, response):
-        response
+    def _parse_word(self, response):
+        # ----------------------------------------------------------------------
+        #  filter out phrases (token num >= 2, i.e. contains %20(plus sign))
+        # ----------------------------------------------------------------------
+        href_list = response.xpath('//div[@id="columnist"]//li/a[not(contains(@href,"%20"))]/@href').extract()
+        pattern =  '\/define.php\?term=(\S+)'
+        word_list = list(map(lambda href: re.match(pattern, href).group(1), href_list))
 
-    def _api_fetch(self):
         item = UdSpiderItem()
 
+        # -------------------------------------
+        # fetch json data from Urban Dict API
+        # -------------------------------------
+        def _api_fetch(word):
+            url_api = 'http://api.urbandictionary.com/v0/define?term=%s' % word
+            r = requests.get(url_api)
+            data = r.json()
+            # -----------------------------
+            # check if successfully connect
+            # -----------------------------
+            if r.status_code == 200 and data['result_type'] == 'exact':
+                for meaning in data.get('list'):
+                    item['defid'] = meaning['defid']
+                    # -----------------------
+                    # main fields
+                    # -----------------------
+                    item['word'] = meaning['word']
+                    item['definition'] = meaning['definition']
+                    item['permalink'] = meaning['permalink']
+                    # -----------------------
+                    # other fields
+                    ##-----------------------
+                    # item['thumbs_up'] = meaning['thumbs_up']
+                    # item['thumbs_down'] = meaning['thumbs_down']
+                    # item['author'] = meaning['author']
+                    # item['written_date'] = meaning['written_on']
+                    # item['egs'] = meaning['example']
+                    ##-----------------------
+                    print('Item:{}'.format(item))
+                    print('Finish parsing', '-' * 10)
+                    return item
+            else:
+                # TODO
+                # code 429 -> Too many requests!
+                # --------------------------------
+                print('Fail to parse %s :(' % word)
+                logging.warning('Status code: {}'.format(r.status_code))
 
-
+        for word in word_list:
+            print('Start parsing %s ...' % word)
+            yield_item = _api_fetch(word)
+            if isinstance(yield_item, UdSpiderItem):
+                yield yield_item
