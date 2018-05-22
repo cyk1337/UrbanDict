@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Define here the models for your scraped items
+# Define here the models for scraped items
 #
 # See documentation in:
 # https://doc.scrapy.org/en/latest/topics/items.html

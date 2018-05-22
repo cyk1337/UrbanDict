@@ -14,6 +14,7 @@ class UdSpider(CrawlSpider):
     start_urls = []
     base_url = 'https://www.urbandictionary.com'
     url_prefix = '/browse.php?character='
+    # only consider alphabets as the beginning, excluding * symbol
     for ch in string.ascii_uppercase:
         start_url = urljoin(base_url, url_prefix+ch)
         start_urls.append(start_url)
@@ -27,11 +28,11 @@ class UdSpider(CrawlSpider):
     )
 
     def parse_item(self, response):
-        # i = {}
-        #i['domain_id'] = response.xpath('//input[@id="sid"]/@value').extract()
-        #i['name'] = response.xpath('//div[@id="name"]').extract()
-        #i['description'] = response.xpath('//div[@id="description"]').extract()
-        # return i
+        """
+        parse definition web page
+        :param response: response from downloader module.
+        :return: item
+        """
         item = UdSpiderItem()
 
         # dict to save all the results and zip according to their index order
@@ -52,8 +53,9 @@ class UdSpider(CrawlSpider):
         # check if the length of lists are the same, all the same or empty
         if len(set(len(x) for x in (results['defid'], results['word'], results['definition']))) <= 1:
 
-            for item['defid'], item['word'], item['definition'], item['url'] in \
-                    zip(results['defid'], results['word'], results['definition'], response.url):
-                # logging.info('Parse result: \n defid:{}, word:{}, definition:{}'.format(item['defid'], item['word'], item['definition']))
+            for item['defid'], item['word'], item['definition'] in \
+                    zip(results['defid'], results['word'], results['definition']):
+                # save url
+                # item['url'] = response.url
                 yield item
 
