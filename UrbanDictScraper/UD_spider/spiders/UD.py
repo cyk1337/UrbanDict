@@ -20,10 +20,13 @@ class UdSpider(CrawlSpider):
         start_urls.append(start_url)
 
     rules = (
-        # extract pagination
-        Rule(LinkExtractor(allow=r'\/browse.php\?character=[\w|\*](\&page=\d+)*'),  follow=True),
-        # extract UD definition item
-        # # filter out phrase (token num >= 2, i.e. contains %20(plus sign))
+        # 1. extract only next pagination
+        Rule(LinkExtractor(allow=r'\/browse.php\?character=[\w|\*](\&page=\d+)*', restrict_xpaths='//ul[@class="pagination"]//a[@rel="next"]'), follow=True),
+        # 2. extract UD definition item
+        # ----------------------------------
+         # the 1st step of filtering out words containing whitespace(s)
+         # i.e. filter out phrase (token num >= 2, i.e. contains %20(plus sign))
+        # -----------------------------------
         Rule(LinkExtractor(allow=r'\/define.php\?term=\S+', deny='(\%20)+', restrict_xpaths='//div[@id="columnist"]//li/a'), callback='parse_item')
     )
 
@@ -54,11 +57,21 @@ class UdSpider(CrawlSpider):
         # results['example'] = response.css('.example').xpath('normalize-space(string(.))').extract()
 
         # check if the length of lists are the same, all the same or empty
-        if len(set(len(x) for x in (results['defid'], results['word'], results['definition']))) <= 1:
+        if len(set(len(x) for x in (results['defid'], results['word'], results['definition']))) == 1:
 
-            for item['defid'], item['word'], item['definition'] in \
+            for  defid, word, definition in \
                     zip(results['defid'], results['word'], results['definition']):
-                # save url
-                # item['url'] = response.url
-                yield item
+
+                # the 2nd step of filtering out words containing whitespace(s)
+                if ' ' not in word:
+
+                    # TODO
+                    # filter out common names
+                    # ---------
+
+                    item['defid'], item['word'], item['definition'] = defid, word, definition
+
+                    # save url
+                    item['url'] = response.url
+                    yield item
 

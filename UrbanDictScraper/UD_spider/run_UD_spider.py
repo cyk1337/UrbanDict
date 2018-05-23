@@ -37,3 +37,10 @@ execute(['scrapy', 'crawl', 'UD'])
 
 # uncomment this for fetch data from API
 # execute(['scrapy', 'crawl', 'UD-API'])
+
+
+
+# -------------------------
+# prevent OSX from sleeping.
+# -------------------------
+# pmset noidle

@@ -86,15 +86,15 @@ class AsyncMySQLPipeline(object):
             print('Failed to insert records\n','-'*30)
 
             # write insert error to log file
-            err = err + ', defid:{}, word:{} \n'.format(item['defid'], item['word'])
+            err = err + ', defid:{}, word:{}\n'.format(item['defid'], item['word'])
             _err_log(err)
             # self.conn.rollback()
 
     def open_spider(self, spider):
         self.starttime = time.time()
-        msg = 'The spider is Open at {} ...\n'.format(self.starttime)
-        _msg_log(msg)
-        print(msg)
+        # msg = 'The spider is Open at {} ...\n'.format(self.starttime)
+        # _msg_log(msg)
+        # print(msg)
 
     def close_spider(self, spider):
         """
@@ -103,12 +103,10 @@ class AsyncMySQLPipeline(object):
         self.dbpool.close()
         self.endtime = time.time()
         run_time = - self.starttime - self.starttime
-        msg = 'Scraping prcess end at {}. \n The total running time is {} seconds \n'.format(self.endtime, run_time)
+        # msg1 = 'Scraping prcess end at {}. \n '.format(self.endtime)
+        msg = 'The total running time is {} seconds \n'.format(run_time)
         msg += '-'*10
-        _msg_log(msg)
-        print(msg)
-
-
+        _msg_log(msg); print(msg)
 
 
 class SyncMySQLPipeline(object):
