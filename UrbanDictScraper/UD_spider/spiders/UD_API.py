@@ -20,13 +20,14 @@ class UdApiSpider(CrawlSpider):
         start_urls.append(start_url)
 
     rules = (
-        # extract pagination
-        Rule(LinkExtractor(allow=r'\/browse.php\?character=[\w|\*](\&page=\d+)*'), callback='_parse_word',follow=True),
+        # extract next pagination
+        Rule(LinkExtractor(allow=r'\/browse.php\?character=[\w|\*](\&page=\d+)*', restrict_xpaths='//ul[@class="pagination"]//a[@rel="next"]'), callback='_parse_word',follow=True),
     )
 
     def _parse_word(self, response):
         # ----------------------------------------------------------------------
-        #  filter out phrases (token num >= 2, i.e. contains %20(plus sign))
+        #  the 1st step of filtering out words containing whitespace(s) in href
+        #  i.e. filter out phrases (token num >= 2, i.e. contains %20(plus sign))
         # ----------------------------------------------------------------------
         href_list = response.xpath('//div[@id="columnist"]//li/a[not(contains(@href,"%20"))]/@href').extract()
         pattern =  '\/define.php\?term=(\S+)'
@@ -73,6 +74,10 @@ class UdApiSpider(CrawlSpider):
                 logging.warning('Status code: {}'.format(r.status_code))
 
         for word in word_list:
+            # the 2nd step of filtering out words containing whitespace(s) in word list
+            if ' ' in word:
+                continue
+
             print('Start parsing %s ...' % word)
             yield_item = _api_fetch(word)
             if isinstance(yield_item, UdSpiderItem):

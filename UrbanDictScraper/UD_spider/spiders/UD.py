@@ -24,7 +24,7 @@ class UdSpider(CrawlSpider):
         Rule(LinkExtractor(allow=r'\/browse.php\?character=[\w|\*](\&page=\d+)*', restrict_xpaths='//ul[@class="pagination"]//a[@rel="next"]'), follow=True),
         # 2. extract UD definition item
         # ----------------------------------
-         # the 1st step of filtering out words containing whitespace(s)
+         # the 1st step of filtering out words containing whitespace(s) in href
          # i.e. filter out phrase (token num >= 2, i.e. contains %20(plus sign))
         # -----------------------------------
         Rule(LinkExtractor(allow=r'\/define.php\?term=\S+', deny='(\%20)+', restrict_xpaths='//div[@id="columnist"]//li/a'), callback='parse_item')
@@ -62,7 +62,7 @@ class UdSpider(CrawlSpider):
             for  defid, word, definition in \
                     zip(results['defid'], results['word'], results['definition']):
 
-                # the 2nd step of filtering out words containing whitespace(s)
+                # the 2nd step of filtering out words containing whitespace(s) in word list
                 if ' ' not in word:
 
                     # TODO
