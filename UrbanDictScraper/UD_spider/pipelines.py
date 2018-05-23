@@ -5,9 +5,11 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
-import pymysql, logging, os
+import pymysql, logging, os, time
 from twisted.enterprise import adbapi
 from scrapy.exporters import CsvItemExporter
+
+from ._crawl_utils import _err_log, _msg_log
 
 class CsvExporterPipeline(object):
     def __init__(self):
@@ -79,19 +81,41 @@ class AsyncMySQLPipeline(object):
                 params = (item['defid'], item['word'], item['definition'], item['url'])
             cursor.execute(insert_sql, params)
         except Exception as e:
-            print("Mysql Insert Error:"+ str(e.args[0])+ str(e.args[1]))
+            err = "Mysql Insert Error: "+ str(e.args[0])+", "+ str(e.args[1])
+            print(err)
             print('Failed to insert records\n','-'*30)
+
+            # write insert error to log file
+            err = err + ', defid:{}, word:{} \n'.format(item['defid'], item['word'])
+            _err_log(err)
             # self.conn.rollback()
 
-    def spider_closed(self, spider):
+    def open_spider(self, spider):
+        self.starttime = time.time()
+        msg = 'The spider is Open at {} ...\n'.format(self.starttime)
+        _msg_log(msg)
+        print(msg)
+
+    def close_spider(self, spider):
         """
         Close ConnectionPool after crawling.
          """
         self.dbpool.close()
+        self.endtime = time.time()
+        run_time = - self.starttime - self.starttime
+        msg = 'Scraping prcess end at {}. \n The total running time is {} seconds \n'.format(self.endtime, run_time)
+        msg += '-'*10
+        _msg_log(msg)
+        print(msg)
+
+
 
 
 class SyncMySQLPipeline(object):
     def __init__(self):
+        self.starttime = None
+        self.endtime = None
+
         self.conn = pymysql.connect(
             host='127.0.0.1',
             user='root',
@@ -114,5 +138,12 @@ class SyncMySQLPipeline(object):
             # self.conn.rollback()
         return item
 
-    def spider_closed(self, spider):
+    def open_spider(self, spider):
+        self.starttime = time.time()
+        print('The spider is Open ...\n', '-'*30)
+
+    def close_spider(self, spider):
         self.conn.close()
+        # compute running time
+        self.endtime = time.time() - self.starttime
+        print('The total running time is {} seconds'.format(self.endtime))

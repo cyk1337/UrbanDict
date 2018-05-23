@@ -33,7 +33,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 print("Urban Dict spider dir:", os.path.dirname(os.path.abspath(__file__)))
 
 # uncomment this for directly scraping from website
-# execute(['scrapy', 'crawl', 'UD'])
+execute(['scrapy', 'crawl', 'UD'])
 
 # uncomment this for fetch data from API
-execute(['scrapy', 'crawl', 'UD-API'])
+# execute(['scrapy', 'crawl', 'UD-API'])
