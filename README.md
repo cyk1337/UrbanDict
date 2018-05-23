@@ -3,7 +3,7 @@
 Scraping Urban Dict through website and API
 -------------
 
-* Scraping data from website:
+* Scraping data from webpage:
 ```diff
 + scrapy crawl UD
 ```
