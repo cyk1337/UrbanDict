@@ -1,4 +1,4 @@
-# Discovering Urban Dict spelling variants
+# Discovering spelling variants on Urban Dictionary
 
 
 Scraping Urban Dict through website and API
