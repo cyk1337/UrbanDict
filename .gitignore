@@ -2,11 +2,12 @@
 *.DS_Store
 
 # Byte-compiled / optimized / DLL files
+.idea/
 __pycache__/
 *.py[cod]
 *$py.class
-.idea/
 
-*.log
+# log file
+# *.log
 
 

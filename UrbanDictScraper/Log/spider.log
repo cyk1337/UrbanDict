@@ -1,0 +1,4 @@
+1. Async MySQL pipeline lost some definitions to be written
+------------------------------
+Spider:UD,SyncMySQLPipeline, start:2018-05-24 00:42:34.829883, finish:2018-05-24 08:54:56.717435, runtime:0d,8h,12m,14s
+------------------------------
