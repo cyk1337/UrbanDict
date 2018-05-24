@@ -34,7 +34,7 @@ def _err_log(err):
     with codecs.open(err_file, 'a', 'utf-8') as f:
         f.write(err)
 
-def _time_log(spider_name, pipline_name, start_time, finish_time):
+def _time_log(parse_full_field, spider_name, pipline_name, start_time, finish_time):
     if start_time is None or finish_time is None:
         return
     log_file = 'spider.log'
@@ -44,8 +44,8 @@ def _time_log(spider_name, pipline_name, start_time, finish_time):
     with codecs.open(log_file, 'a', 'utf-8') as f:
         timedelta = finish_time - start_time
         runtime_msg = days_hours_mins_secs(timedelta)
-        msg = 'Spider:{},{}, start:{}, finish:{}, runtime:{}\n'\
-            .format(spider_name, pipline_name, str(start_time), str(finish_time), runtime_msg)
+        msg = 'ParseAll:{}, Spider:{},{}, start:{}, finish:{}, runtime:{}\n'\
+            .format(parse_full_field, spider_name, pipline_name, str(start_time), str(finish_time), runtime_msg)
         msg = '{}{}{}'.format(msg, '-'*30, '\n')
         print(msg)
         f.write(msg)

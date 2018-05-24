@@ -63,7 +63,9 @@ class SyncMySQLPipeline(object):
         # compute running time
         finish_time = datetime.datetime.now()
         print(self.__class__.__name__, self.start_time, finish_time)
-        _time_log(spider.name, self.__class__.__name__, self.start_time, finish_time)
+        settings = get_project_settings()
+        parse_full_field = settings.get('PARSE_FULL_FIELD')
+        _time_log(parse_full_field, spider.name, self.__class__.__name__, self.start_time, finish_time)
 
         # 2. status collector
         # TODO: cann't get finish time in
