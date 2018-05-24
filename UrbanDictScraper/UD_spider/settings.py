@@ -65,9 +65,9 @@ ROBOTSTXT_OBEY = False
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'UD_spider.pipelines.AsyncMySQLPipeline': 100, # async MySQL exporter.
+   # 'UD_spider.pipelines.AsyncMySQLPipeline': 100, # async MySQL exporter.
    # 'UD_spider.pipelines.CsvExporterPipeline': 200, # export to csv file, but it's weak in duplicate removal.
-   # 'UD_spider.pipelines.SyncMySQLPipeline': 300, # !Sync MySQL written speed might be slower than parsing when the data size increases
+   'UD_spider.pipelines.SyncMySQLPipeline': 300, # !Sync MySQL written speed might be slower than parsing when the data size increases
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

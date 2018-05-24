@@ -2,14 +2,69 @@
 
 # item pipelines
 #
-# Don't forget to add your pipeline to the ITEM_PIPELINES setting
+# Don't forget to add pipeline to the ITEM_PIPELINES setting
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
-import pymysql, logging, os, time
+import pymysql, logging, os, datetime
 from twisted.enterprise import adbapi
 from scrapy.exporters import CsvItemExporter
 
-from ._crawl_utils import _err_log, _msg_log
+from ._crawl_utils import _time_log
+
+from scrapy.statscollectors import StatsCollector, DummyStatsCollector
+
+class SyncMySQLPipeline(object):
+    def __init__(self, stats):
+        self.start_time = None
+        self.stats = stats
+
+        self.conn = pymysql.connect(
+            host='127.0.0.1',
+            user='root',
+            passwd='admin',
+            db='UrbanDict',
+            # charset='utf8',
+        )
+        if self.conn:
+            logging.info("MySQL connect correctly!")
+
+    @classmethod
+    def from_crawler(cls, crawler):
+        return cls(crawler.stats)
+
+    def process_item(self, item, spider):
+
+        try:
+            with self.conn.cursor() as cur:
+                insert_sql = 'INSERT INTO UrbanDict(defid, word, definition) VALUES(%s, %s, %s);'
+                cur.execute(insert_sql, (item['defid'], item['word'], item['definition']))
+            self.conn.commit()
+        except Exception as e:
+            print("Mysql Insert Error:\t {}:{}, word:{}, defid:{}".format(e.args[0], e.args[1], item['word'], item['defid']))
+            # self.conn.rollback()
+        return item
+
+    def open_spider(self, spider):
+        self.start_time = datetime.datetime.now()
+
+    def close_spider(self, spider):
+        # compute running time
+        finish_time = datetime.datetime.now()
+        print(self.__class__.__name__, self.start_time, finish_time)
+        _time_log(spider.name, self.__class__.__name__, self.start_time, finish_time)
+
+        # 2. status collector
+        # TODO: cann't get finish time in
+        # start_time = self.stats.get_value('start_time')
+        # finish_time = datetime.datetime.now()
+        # print(self.__class__.__name__, start_time, finish_time)
+        # _time_log(self.__class__.__name__, start_time, finish_time)
+
+    def spider_closed(self, spider):
+        self.conn.close()
+
+
+
 
 class CsvExporterPipeline(object):
     def __init__(self):
@@ -35,12 +90,14 @@ class CsvExporterPipeline(object):
         return item
 
 
+# TODO Bug: sometimes lose some item to be written!
 class AsyncMySQLPipeline(object):
     """
-    asynchronous MySQL pipeline using twisted
+    asynchronous MySQL pipeline using twisted,
     """
     def __init__(self, dbpool):
         self.dbpool = dbpool
+        self.starttime = None
 
     @classmethod
     def from_settings(cls, settings):
@@ -73,12 +130,8 @@ class AsyncMySQLPipeline(object):
 
     def _add_record(self, cursor, item):
         try:
-            if item.get('url') is None:
-                insert_sql = 'INSERT INTO UrbanDict(defid, word, definition) VALUES(%s, %s, %s);'
-                params = (item['defid'], item['word'], item['definition'])
-            else:
-                insert_sql = 'INSERT INTO UrbanDict(defid, word, definition, url) VALUES(%s, %s, %s, %s);'
-                params = (item['defid'], item['word'], item['definition'], item['url'])
+            insert_sql = 'INSERT INTO UrbanDict(defid, word, definition) VALUES(%s, %s, %s);'
+            params = (item['defid'], item['word'], item['definition'])
             cursor.execute(insert_sql, params)
         except Exception as e:
             err = "Mysql Insert Error: "+ str(e.args[0])+", "+ str(e.args[1])
@@ -86,62 +139,20 @@ class AsyncMySQLPipeline(object):
             print('Failed to insert records\n','-'*30)
 
             # write insert error to log file
-            err = err + ', defid:{}, word:{}\n'.format(item['defid'], item['word'])
-            _err_log(err)
+            # err = err + ', defid:{}, word:{}\n'.format(item['defid'], item['word'])
+            # _err_log(err)
+
             # self.conn.rollback()
 
     def open_spider(self, spider):
-        self.starttime = time.time()
-        # msg = 'The spider is Open at {} ...\n'.format(self.starttime)
-        # _msg_log(msg)
-        # print(msg)
+        self.start_time = datetime.datetime.now()
 
     def close_spider(self, spider):
         """
         Close ConnectionPool after crawling.
          """
         self.dbpool.close()
-        self.endtime = time.time()
-        run_time = - self.starttime - self.starttime
-        # msg1 = 'Scraping prcess end at {}. \n '.format(self.endtime)
-        msg = 'The total running time is {} seconds \n'.format(run_time)
-        msg += '-'*10
-        _msg_log(msg); print(msg)
-
-
-class SyncMySQLPipeline(object):
-    def __init__(self):
-        self.starttime = None
-        self.endtime = None
-
-        self.conn = pymysql.connect(
-            host='127.0.0.1',
-            user='root',
-            passwd='admin',
-            db='UrbanDict',
-            # charset='utf8',
-        )
-        if self.conn:
-            logging.info("MySQL connect correctly!")
-
-    def process_item(self, item, spider):
-
-        try:
-            with self.conn.cursor() as cur:
-                insert_sql = 'INSERT INTO UrbanDict(defid, word, definition, url) VALUES(%s, %s, %s, %s);'
-                cur.execute(insert_sql, (item['defid'], item['word'], item['definition'], item['url']))
-            self.conn.commit()
-        except Exception as e:
-            logging.ERROR("Mysql Insert Error:\t {}:{}".format(e.args[0], e.args[1]))
-            # self.conn.rollback()
-        return item
-
-    def open_spider(self, spider):
-        self.starttime = time.time()
-        print('The spider is Open ...\n', '-'*30)
-
-    def close_spider(self, spider):
-        self.conn.close()
         # compute running time
-        self.endtime = time.time() - self.starttime
-        print('The total running time is {} seconds'.format(self.endtime))
+        finish_time = datetime.datetime.now()
+        print(self.__class__.__name__, self.start_time, finish_time)
+        _time_log(spider.name, self.__class__.__name__, self.start_time, finish_time)

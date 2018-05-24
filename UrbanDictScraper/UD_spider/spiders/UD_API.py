@@ -53,10 +53,12 @@ class UdApiSpider(CrawlSpider):
                     # -----------------------
                     item['word'] = meaning['word']
                     item['definition'] = meaning['definition']
-                    item['permalink'] = meaning['permalink']
+
                     # -----------------------
                     # other fields
                     ##-----------------------
+                    # item['url'] = url_api
+                    # item['permalink'] = meaning['permalink']
                     # item['thumbs_up'] = meaning['thumbs_up']
                     # item['thumbs_down'] = meaning['thumbs_down']
                     # item['author'] = meaning['author']
@@ -75,7 +77,7 @@ class UdApiSpider(CrawlSpider):
 
         for word in word_list:
             # the 2nd step of filtering out words containing whitespace(s) in word list
-            if ' ' in word:
+            if ' ' in word.strip():
                 continue
 
             print('Start parsing %s ...' % word)

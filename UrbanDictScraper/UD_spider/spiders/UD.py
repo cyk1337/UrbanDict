@@ -3,6 +3,7 @@ import scrapy
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
 from ..items import UdSpiderItem
+from .._crawl_utils import _filter_word_log
 
 import string
 from urllib.parse import urljoin
@@ -27,7 +28,7 @@ class UdSpider(CrawlSpider):
          # the 1st step of filtering out words containing whitespace(s) in href
          # i.e. filter out phrase (token num >= 2, i.e. contains %20(plus sign))
         # -----------------------------------
-        Rule(LinkExtractor(allow=r'\/define.php\?term=\S+', deny='(\%20)+', restrict_xpaths='//div[@id="columnist"]//li/a'), callback='parse_item')
+        Rule(LinkExtractor(allow=r'\/define.php\?term=\S+', deny='(\%20)+', restrict_xpaths='//div[@id="columnist" and not(contains(@class,"trending-words-panel"))]//li/a'), callback='parse_item')
     )
 
     def parse_item(self, response):
@@ -63,15 +64,16 @@ class UdSpider(CrawlSpider):
                     zip(results['defid'], results['word'], results['definition']):
 
                 # the 2nd step of filtering out words containing whitespace(s) in word list
-                if ' ' not in word:
+                if ' ' in word.strip():
+                    _filter_word_log("word:{}, defid:{}\n".format(word, defid))
+                    continue
+                # TODO
+                # filter out common names
+                # ---------
 
-                    # TODO
-                    # filter out common names
-                    # ---------
+                item['defid'], item['word'], item['definition'] = defid, word, definition
+                # save url
+                # item['url'] = response.url
 
-                    item['defid'], item['word'], item['definition'] = defid, word, definition
-
-                    # save url
-                    item['url'] = response.url
-                    yield item
+                yield item
 

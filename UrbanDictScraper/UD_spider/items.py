@@ -27,12 +27,12 @@ class UdSpiderItem(scrapy.Item):
     defid = scrapy.Field()
     word = scrapy.Field()
     definition = scrapy.Field()
-    url = scrapy.Field()
 
     # fields for analysis
     thumbs_up = scrapy.Field()
     thumbs_down = scrapy.Field()
     permalink = scrapy.Field()
+    url = scrapy.Field()  # 'https://www.urbandictionary.com/define.php?term=%s' % word
     author = scrapy.Field()
     written_date = scrapy.Field()
     example = scrapy.Field()
