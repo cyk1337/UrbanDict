@@ -2,10 +2,12 @@
 import scrapy
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
+from scrapy.utils.project import get_project_settings
 from ..items import UdSpiderItem
 from .._crawl_utils import _filter_word_log
 
 import string
+from datetime import datetime
 from urllib.parse import urljoin
 import logging
 
@@ -48,32 +50,66 @@ class UdSpider(CrawlSpider):
         results['word'] = response.css('.word::text').extract()
         results['definition'] = response.xpath('//div[@class="meaning"]').xpath('normalize-space(string(.))').extract()
 
-        ##----------
-        # other fields
-        ##----------
-        # results['thumbs_up'] = response.css('.left.thumbs .up span.count::text').extract()
-        # results['thumbs_down'] = response.css('.left.thumbs .down span.count::text').extract()
-        # results['author'] = response.css('.contributor a::text').extract()
-        # results['written_date'] = response.css('.contributor::text').extract()[1::2]
-        # results['example'] = response.css('.example').xpath('normalize-space(string(.))').extract()
+        settings = get_project_settings()
+        parse_full_field = settings.get('PARSE_FULL_FIELD')
+        if parse_full_field:
+            #----------
+            # parse full fields
+            #----------
+            results['thumbs_up'] = response.css('.left.thumbs .up span.count::text').extract()
+            results['thumbs_down'] = response.css('.left.thumbs .down span.count::text').extract()
+            results['author'] = response.css('.contributor a::text').extract()
+            results['written_date'] = response.css('.contributor::text').extract()[1::2]
+            results['example'] = response.css('.example').xpath('normalize-space(string(.))').extract()
 
-        # check if the length of lists are the same, all the same or empty
-        if len(set(len(x) for x in (results['defid'], results['word'], results['definition']))) == 1:
+            # check if the length of lists are the same, all the same or empty
+            if len(set(len(x) for x in (results['defid'], results['word'], results['definition']))) == 1:
 
-            for  defid, word, definition in \
-                    zip(results['defid'], results['word'], results['definition']):
+                for defid, word, definition, thumbs_up, thumbs_down, author, written_date_raw, example in \
+                        zip(results['defid'], results['word'], results['definition'],
+                            results['thumbs_up'],results['thumbs_down'], results['author'],
+                            results['written_date'], results['example']):
 
-                # the 2nd step of filtering out words containing whitespace(s) in word list
-                if ' ' in word.strip():
-                    _filter_word_log("word:{}, defid:{}\n".format(word, defid))
-                    continue
-                # TODO
-                # filter out common names
-                # ---------
+                    # the 2nd step of filtering out words containing whitespace(s) in word list
+                    if ' ' in word.strip():
+                        _filter_word_log("word:{}, defid:{}\n".format(word, defid))
+                        continue
 
-                item['defid'], item['word'], item['definition'] = defid, word, definition
-                # save url
-                # item['url'] = response.url
+                    item['defid'] = defid
+                    item['word'] = word
+                    item['definition'] = definition
+                    item['thumbs_up'] = thumbs_up
+                    item['thumbs_down'] = thumbs_down
+                    item['author'] = author
+                    item['example'] = example
 
-                yield item
+                    datetime_obj = datetime.strptime(written_date_raw.strip(),'%B %d, %Y')
+                    written_date = datetime_obj.strftime("%Y-%m-%d")
+                    item['written_date'] = written_date
+
+                    # save url
+                    # item['url'] = response.url
+                    yield item
+        else:
+            # parse only three fields: defid, definition, word
+            # --------------------------
+            # check if the length of lists are the same, all the same or empty
+            if len(set(len(x) for x in (results['defid'], results['word'], results['definition']))) == 1:
+
+                for  defid, word, definition in \
+                        zip(results['defid'], results['word'], results['definition']):
+
+                    # the 2nd step of filtering out words containing whitespace(s) in word list
+                    if ' ' in word.strip():
+                        _filter_word_log("word:{}, defid:{}\n".format(word, defid))
+                        continue
+                    # TODO
+                    # filter out common names
+                    # ---------
+
+                    item['defid'], item['word'], item['definition'] = defid, word, definition
+                    # save url
+                    # item['url'] = response.url
+
+                    yield item
 

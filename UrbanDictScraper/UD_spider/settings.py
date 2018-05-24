@@ -101,3 +101,7 @@ MYSQL_PASSWD ='admin'
 MYSQL_DBNAME ='UrbanDict'
 MYSQL_PORT = 3306
 MYSQL_CHARSET='utf8'
+
+# Flag of parsing full field
+# PARSE_FULL_FIELD = True
+PARSE_FULL_FIELD = False

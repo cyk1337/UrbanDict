@@ -8,6 +8,7 @@
 import pymysql, logging, os, datetime
 from twisted.enterprise import adbapi
 from scrapy.exporters import CsvItemExporter
+from scrapy.utils.project import get_project_settings
 
 from ._crawl_utils import _time_log
 
@@ -36,8 +37,19 @@ class SyncMySQLPipeline(object):
 
         try:
             with self.conn.cursor() as cur:
-                insert_sql = 'INSERT INTO UrbanDict(defid, word, definition) VALUES(%s, %s, %s);'
-                cur.execute(insert_sql, (item['defid'], item['word'], item['definition']))
+                settings = get_project_settings()
+                parse_full_field = settings.get('PARSE_FULL_FIELD')
+                if parse_full_field:
+                    insert_sql = 'INSERT INTO UD_full(defid, word, definition, ' \
+                                 'thumbs_up, thumbs_down, author, written_date, example)' \
+                                 ' VALUES(%s, %s, %s, %s, %s, %s, %s, %s);'
+                    params = (item['defid'], item['word'], item['definition'],
+                              item['thumbs_up'],item['thumbs_down'], item['author'],
+                              item['written_date'], item['example'])
+                else:
+                    insert_sql = 'INSERT INTO UrbanDict(defid, word, definition) VALUES(%s, %s, %s);'
+                    params = (item['defid'], item['word'], item['definition'])
+                cur.execute(insert_sql, params)
             self.conn.commit()
         except Exception as e:
             print("Mysql Insert Error:\t {}:{}, word:{}, defid:{}".format(e.args[0], e.args[1], item['word'], item['defid']))
