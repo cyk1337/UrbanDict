@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="521be802-a8f4-463c-8265-af912a85c268" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDictScraper/UD_spider/_crawl_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDictScraper/UD_spider/_crawl_utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDictScraper/UD_spider/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDictScraper/UD_spider/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDictScraper/main.sh" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDictScraper/main.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,43 +36,35 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="106" column="20" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
+            <state relative-caret-position="359">
+              <caret line="106" column="23" lean-forward="true" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UrbanDictScraper/main.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="spider.log" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UrbanDictScraper/Log/spider.log">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="UD.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/spiders/UD.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="86" column="60" selection-start-line="86" selection-start-column="60" selection-end-line="86" selection-end-column="60" />
-              <folding>
-                <element signature="e#24#37#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spider_.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UrbanDictScraper/Log/spider_.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+            <state relative-caret-position="354">
+              <caret line="56" column="19" lean-forward="true" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
               <folding>
                 <element signature="e#172#209#0" expanded="true" />
               </folding>
@@ -80,13 +72,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_crawl_utils.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/_crawl_utils.py">
+      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UrbanDictScraper/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#592#626#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scrapy.cfg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UrbanDictScraper/scrapy.cfg">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -131,7 +131,6 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/UrbanDictScraper/UD_spider/Log/msg.log" />
         <option value="$PROJECT_DIR$/UrbanDictScraper/Log/err.log" />
-        <option value="$PROJECT_DIR$/UrbanDictScraper/main.sh" />
         <option value="$PROJECT_DIR$/UrbanDictScraper/UD_spider/items.py" />
         <option value="$PROJECT_DIR$/UrbanDictScraper/Log/msg.log" />
         <option value="$PROJECT_DIR$/UrbanDictScraper/UD_spider/spiders/UD_API.py" />
@@ -139,9 +138,10 @@
         <option value="$PROJECT_DIR$/UrbanDictScraper/Log/msg_.log" />
         <option value="$PROJECT_DIR$/UrbanDictScraper/Log/spider.log" />
         <option value="$PROJECT_DIR$/UrbanDictScraper/UD_spider/spiders/UD.py" />
-        <option value="$PROJECT_DIR$/UrbanDictScraper/UD_spider/pipelines.py" />
-        <option value="$PROJECT_DIR$/UrbanDictScraper/UD_spider/settings.py" />
         <option value="$PROJECT_DIR$/UrbanDictScraper/UD_spider/_crawl_utils.py" />
+        <option value="$PROJECT_DIR$/UrbanDictScraper/main.sh" />
+        <option value="$PROJECT_DIR$/UrbanDictScraper/UD_spider/settings.py" />
+        <option value="$PROJECT_DIR$/UrbanDictScraper/UD_spider/pipelines.py" />
       </list>
     </option>
   </component>
@@ -161,10 +161,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="98" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="77" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="1363" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -188,7 +188,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,6 +228,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -330,7 +330,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="77" y="23" width="1363" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32893" />
@@ -338,10 +338,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32893" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32793018" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925038" visible="true" weight="0.4351621" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49925038" weight="0.3254364" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925038" weight="0.4351621" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49925038" visible="true" weight="0.34478202" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2539342" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2725208" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.329296" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -359,25 +359,25 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" weight="0.329296" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25738078" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32806325" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32806325" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="right" id="SciView" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3992095" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Database" order="4" weight="0.329296" />
-      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3992095" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,13 +458,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/spiders/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../ENV/anaconda3/envs/mlp/lib/python3.6/site-packages/scrapy/linkextractors/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -612,27 +605,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UrbanDictScraper/Log/err.log" />
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/main.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/spiders/UD_API.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="43" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -664,49 +640,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/Log2/spider.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/Log2/filtered_word.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/Log/err.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/Log/msg.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/Log/filtered_word.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/Log/spider.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/Log/msg_.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/Log2/spider.log" />
+    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/Log2/filtered_word.log" />
+    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/Log/err.log" />
+    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/Log/msg.log" />
+    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/Log/filtered_word.log" />
+    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/Log/spider.log" />
+    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/Log/msg_.log" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-98">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#592#626#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -717,23 +661,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
-          <folding>
-            <element signature="e#172#209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/Log/filtered_word.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/UrbanDictScraper/Log/filtered_word_contains_whitespace.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="24403" column="8" selection-start-line="24403" selection-start-column="8" selection-end-line="24403" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/_crawl_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -744,30 +682,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/Log/spider.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="106" column="20" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/spiders/UD.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1290">
           <caret line="86" column="60" selection-start-line="86" selection-start-column="60" selection-end-line="86" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#592#626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/Log/filtered_word.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61996" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/spiders/UD_API.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="59" column="43" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/_crawl_utils.py">
+    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+        <state relative-caret-position="359">
+          <caret line="106" column="23" lean-forward="true" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/main.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/Log/spider.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="56" column="19" lean-forward="true" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+          <folding>
+            <element signature="e#172#209#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

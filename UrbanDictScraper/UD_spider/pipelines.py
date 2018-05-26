@@ -47,7 +47,7 @@ class SyncMySQLPipeline(object):
                               item['thumbs_up'],item['thumbs_down'], item['author'],
                               item['written_date'], item['example'])
                 else:
-                    insert_sql = 'INSERT INTO UrbanDict(defid, word, definition) VALUES(%s, %s, %s);'
+                    insert_sql = 'INSERT INTO UrbanDict2(defid, word, definition) VALUES(%s, %s, %s);'
                     params = (item['defid'], item['word'], item['definition'])
                 cur.execute(insert_sql, params)
             self.conn.commit()
