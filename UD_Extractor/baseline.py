@@ -51,14 +51,24 @@ class Baseline(Basic):
         pattern_spelling = re.compile(u"spelling[^\.,]*[ of| for|][^\.,]* ['|\"|\[](?P<Spelling>\w+)['|\"|\]]")
         m = re.search(pattern_spelling, definition)
         if m is not None:
-            return m.group('SV')
-
+            spelling_variant = m.group('Spelling')
+            print('Extracted spelling variant:{}'.format(spelling_variant))
+            return spelling_variant
 
 
 if __name__ == "__main__":
-    baseline = Baseline(chunksize=10000)
+    chunksize = 10000
+    baseline = Baseline(chunksize=chunksize)
+    target_list = []
     for i, chunk in enumerate(baseline.UD_data):
-        if i>10: break
-        print(chunk)
-    pass
-
+        # if i>100: break
+        # print(chunk)
+        for defn in chunk['definition'].values:
+            spelling_variant = baseline.RE_match(defn)
+            if spelling_variant:
+                row = chunk.loc[chunk['definition']==defn]
+                defid = row['defid']
+                word = row['word']
+                target_tuple = (word, spelling_variant, defid)
+                target_list.append(target_tuple)
+                print(target_tuple)
