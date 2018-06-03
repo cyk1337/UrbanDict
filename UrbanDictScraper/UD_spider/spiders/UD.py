@@ -6,7 +6,7 @@ from scrapy.utils.project import get_project_settings
 from ..items import UdSpiderItem
 from .._crawl_utils import _filter_word_log
 
-import string
+import string, bleach, re
 from datetime import datetime
 from urllib.parse import urljoin
 import logging
@@ -40,6 +40,9 @@ class UdSpider(CrawlSpider):
         :return: item
         """
         item = UdSpiderItem()
+
+        settings = get_project_settings()
+
         # -------------------------------------------------------------------
         # dict to save all the results and zip according to their index order
         # -------------------------------------------------------------------
@@ -48,9 +51,21 @@ class UdSpider(CrawlSpider):
         # main field
         results['defid'] = response.css('div.def-panel::attr(data-defid)').extract()
         results['word'] = response.css('.word::text').extract()
-        results['definition'] = response.xpath('//div[@class="meaning"]').xpath('normalize-space(string(.))').extract()
 
-        settings = get_project_settings()
+        # check whether add HTML tag *a* INFO
+        if settings.get('ADD_LINK_INFO'):
+            raw_definition = response.xpath('//div[@class="meaning"]').extract()
+            defn_list = []
+            for defn in raw_definition:
+                defn = bleach.clean(defn, tags=['a'], attributes=[], strip=True)
+                defn = re.sub('<a>', ' <a> ', defn)
+                defn = re.sub('</a>', ' </a> ', defn)
+                defn = re.sub( '\s+', ' ', defn).strip()
+                defn_list.append(defn)
+            results['definition'] = defn_list
+        else:
+            results['definition'] = response.xpath('//div[@class="meaning"]').xpath('normalize-space(string(.))').extract()
+
         parse_full_field = settings.get('PARSE_FULL_FIELD')
         if parse_full_field:
             #----------

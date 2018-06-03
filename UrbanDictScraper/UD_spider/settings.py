@@ -105,3 +105,5 @@ MYSQL_CHARSET='utf8'
 # Flag of parsing full field
 # PARSE_FULL_FIELD = True
 PARSE_FULL_FIELD = False
+
+ADD_LINK_INFO = True
