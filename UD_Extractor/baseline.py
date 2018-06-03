@@ -59,16 +59,18 @@ class Baseline(Basic):
 if __name__ == "__main__":
     chunksize = 10000
     baseline = Baseline(chunksize=chunksize)
-    target_list = []
+    target_dict = {}
     for i, chunk in enumerate(baseline.UD_data):
         # if i>100: break
         # print(chunk)
-        for defn in chunk['definition'].values:
+        for defid, word, defn in chunk.values:
             spelling_variant = baseline.RE_match(defn)
             if spelling_variant:
-                row = chunk.loc[chunk['definition']==defn]
-                defid = row['defid']
-                word = row['word']
-                target_tuple = (word, spelling_variant, defid)
-                target_list.append(target_tuple)
-                print(target_tuple)
+                target_tuple = (word, spelling_variant)
+                print(defid, target_tuple)
+                target_dict[defid] = target_tuple
+
+    print(len(target_dict))
+    # 1283
+
+
