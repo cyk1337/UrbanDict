@@ -10,6 +10,6 @@ __pycache__/
 # log file
 # *.log
 
-
+pkl/
 *.pkl
 en_tweets
