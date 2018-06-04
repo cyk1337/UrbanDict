@@ -26,6 +26,8 @@ import pandas as pd
 import sqlalchemy as sa
 import re
 
+from UD_Extractor.ie_utils import load_pkl, dump_pkl
+
 class Basic(object):
     def __init__(self, sql, chunksize=None):
         engine = sa.create_engine('mysql+pymysql://root:admin@localhost/UrbanDict?charset=utf8')
@@ -48,7 +50,9 @@ class Baseline(Basic):
 
     # RegEx
     def RE_match(self, definition):
-        pattern_spelling = re.compile(u"spelling[^\.,]*[ of| for|][^\.,]* ['|\"|\[](?P<Spelling>\w+)['|\"|\]]")
+        # pattern_spelling = re.compile(u"spelling[^\.,]*[ of| for|][^\.,]* ['|\"|\[](?P<Spelling>\w+)['|\"|\]]")
+        pattern_spelling = re.compile(
+            u"spelling[^\.,]*?( of| for| to|:| the word| include| )[^\.,]*?['|\"|\[](?P<Spelling>\w+)['|\"|\]]")
         m = re.search(pattern_spelling, definition)
         if m is not None:
             spelling_variant = m.group('Spelling')
@@ -72,5 +76,8 @@ if __name__ == "__main__":
 
     print(len(target_dict))
     # 1283
+    dump_pkl(target_dict, 's2.pkl')
+    # 1091
+    # dump_pkl(target_dict, 's1.pkl')
 
 

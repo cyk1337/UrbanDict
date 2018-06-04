@@ -26,7 +26,6 @@
 import pandas as pd
 import sqlalchemy as sa
 import re
-
 # engine = sa.create_engine('mysql+pymysql://root:admin@localhost/UrbanDict?charset=utf8')
 # conn = engine.connect()
 # db_name = 'UrbanDict2'
@@ -38,4 +37,11 @@ import re
 # for i, chunk in enumerate(df):
 #     print(chunk)
 
-
+from __init__ import *
+from UD_Extractor.settings import *
+from UD_Extractor.ie_utils import load_pkl
+d1 = load_pkl('s1.pkl')
+d2 = load_pkl('s2.pkl')
+diff = set(d1.values())^set(d2.values())
+diff2 = set(d1.keys())^set(d2.keys())
+print(diff)
