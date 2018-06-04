@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="521be802-a8f4-463c-8265-af912a85c268" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/UD_Extractor/ie_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UD_Extractor/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/baseline.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/baseline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocess/TwitterProcess.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocess/TwitterProcess.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,11 +37,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="baseline.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="baseline.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/baseline.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="54" column="66" selection-start-line="54" selection-start-column="66" selection-end-line="54" selection-end-column="66" />
+            <state relative-caret-position="185">
+              <caret line="54" column="65" lean-forward="true" selection-start-line="54" selection-start-column="65" selection-end-line="54" selection-end-column="65" />
               <folding>
                 <element signature="e#499#518#0" expanded="true" />
               </folding>
@@ -56,11 +52,8 @@
       <file leaf-file-name="ie_utils.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/ie_utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
+            <state relative-caret-position="585">
               <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-              <folding>
-                <element signature="e#503#526#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -68,7 +61,7 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
+            <state relative-caret-position="360">
               <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
               <folding>
                 <element signature="e#513#527#0" expanded="true" />
@@ -77,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwitterProcess.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TwitterProcess.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/preprocess/TwitterProcess.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="24" selection-start-line="24" selection-end-line="27" selection-end-column="25" />
+            <state relative-caret-position="209">
+              <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -89,7 +82,7 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="450">
               <caret line="46" selection-start-line="46" selection-end-line="46" />
               <folding>
                 <element signature="e#499#518#0" expanded="true" />
@@ -171,13 +164,13 @@
         <option value="$PROJECT_DIR$/preprocess/preprocess-twitter.py" />
         <option value="$PROJECT_DIR$/preprocess/Preprocess_sub.py" />
         <option value="$PROJECT_DIR$/preprocess/__init__.py" />
-        <option value="$PROJECT_DIR$/preprocess/TwitterProcess.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/plot_wordcloud.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/ie_utils.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/__init__.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/settings.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/test.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/baseline.py" />
+        <option value="$PROJECT_DIR$/preprocess/TwitterProcess.py" />
       </list>
     </option>
   </component>
@@ -224,7 +217,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,6 +243,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -416,53 +409,54 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="77" y="23" width="1363" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32893" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50074965" side_tool="true" weight="0.4002642" />
       <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32893" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925038" weight="0.4346103" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32760897" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49925038" weight="0.34478202" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925038" weight="0.4346103" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49925038" visible="true" weight="0.34478202" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28766087" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2922029" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.329296" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="3" weight="0.38152915" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.46235138" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46235138" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32893" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925038" weight="0.4351621" />
       <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28766087" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32893" />
-      <window_info anchor="bottom" id="Database Changes" order="12" weight="0.32893" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925038" weight="0.4351621" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32893" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32793018" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46235138" />
-      <window_info anchor="right" id="Database" order="4" weight="0.329296" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49925038" weight="0.34478202" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074965" side_tool="true" weight="0.4002642" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="12" weight="0.32893" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="5" weight="0.3297568" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32793018" />
+      <window_info anchor="right" id="Database" order="4" weight="0.329296" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -654,9 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="885">
           <caret line="59" column="43" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -671,9 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
           <caret line="64" selection-start-line="64" selection-end-line="64" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -718,9 +706,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preprocess/preprocess-twitter.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocess/preprocess-twitter.py" />
     <entry file="file://$PROJECT_DIR$/preprocess/twokenize.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
@@ -809,16 +795,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preprocess/TwitterProcess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="24" selection-start-line="24" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="450">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
           <folding>
             <element signature="e#499#518#0" expanded="true" />
@@ -828,7 +807,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="360">
           <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
           <folding>
             <element signature="e#513#527#0" expanded="true" />
@@ -838,11 +817,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/ie_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
+        <state relative-caret-position="585">
           <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-          <folding>
-            <element signature="e#503#526#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -855,11 +831,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/baseline.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="54" column="66" selection-start-line="54" selection-start-column="66" selection-end-line="54" selection-end-column="66" />
+        <state relative-caret-position="185">
+          <caret line="54" column="65" lean-forward="true" selection-start-line="54" selection-start-column="65" selection-end-line="54" selection-end-column="65" />
           <folding>
             <element signature="e#499#518#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocess/TwitterProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
         </state>
       </provider>
     </entry>

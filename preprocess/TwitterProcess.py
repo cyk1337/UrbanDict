@@ -40,16 +40,19 @@ from numba import jit
 "originalTweetId", "originalTweetText",]
 """
 
-
+# Run on the hawksworth machine
 tweets_dir='/disk/data/wmagdy/TweetCrawlers/General/data'
 en_tweets = 'en_tweets'
 
 # test_file_path = os.path.join(tweets_dir, 'tweets.2017-02-07.txt.gz')
+
+# Run on the local OSX
 # tweets_dir = '/Volumes/Ed/129.215.197.21:2020'
 # en_tweets = os.path.join(tweets_dir, 'en_tweets')
 
 # if os.path.exists(en_tweets):
 #     os.remove(en_tweets)
+
 @jit
 def tweet_process(text):
     line = ' '.join(tokenizeRawTweetText(text)).lower()
