@@ -18,10 +18,8 @@
 @file: TwitterProcess.py
 
 @time: 03/06/2018 16:10 
-
-@desc：       
-               
 '''
+
 import gzip, os, sys
 
 work_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -43,12 +41,12 @@ from numba import jit
 """
 
 
+tweets_dir='/disk/data/wmagdy/TweetCrawlers/General/data'
+en_tweets = 'en_tweets'
 
-
-tweets_dir = '/Volumes/Ed/129.215.197.21:2020'
 # test_file_path = os.path.join(tweets_dir, 'tweets.2017-02-07.txt.gz')
-
-en_tweets = os.path.join(tweets_dir, 'en_tweets')
+# tweets_dir = '/Volumes/Ed/129.215.197.21:2020'
+# en_tweets = os.path.join(tweets_dir, 'en_tweets')
 
 # if os.path.exists(en_tweets):
 #     os.remove(en_tweets)
@@ -65,6 +63,8 @@ def traverse_docs():
         if not file_path.endswith('txt.gz'):
             continue
         else:
+            with open('tweet_process.log', 'a') as f:
+                f.write("Processing {}".format(file_path))
             file_path = os.path.join(tweets_dir, file_path)
             yield file_path
 
@@ -73,13 +73,13 @@ def save_en_tweets(langId, text):
         if langId.lower() == 'en' and detect(text) == 'en':
             # preprocess tweets
             text = tweet_process(text)
-            print(langId, text)
+            # print(langId, text.encode('utf-8'))
             with open(en_tweets, 'a', encoding='utf8') as f:
                 f.write(text + '\n')
     except Exception as e:
         # merely URL, emoji, hard to detect languages
-        print("Except:", text, e)
-
+        # print("Except:", text.encode('utf-8'), e)
+        pass
 
 def main():
     for file_path in traverse_docs():
