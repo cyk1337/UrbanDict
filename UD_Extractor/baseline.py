@@ -52,10 +52,11 @@ class Baseline(Basic):
     def RE_match(self, definition):
         # pattern_spelling = re.compile(u"spelling[^\.,]*[ of| for|][^\.,]* ['|\"|\[](?P<Spelling>\w+)['|\"|\]]")
         pattern_spelling = re.compile(
-            u"spelling[^\.,]*?( of| for| to|:| the word| include| )[^\.,]*?['|\"|\[](?P<Spelling>\w+)['|\"|\]]")
+            u"spelling[^\.,]{0,3}?( of| for| to|:| the word| include)[^\.,]{0,5}?['|\"|\[](?P<Spelling>\w+)['|\"|\]]")
         m = re.search(pattern_spelling, definition)
         if m is not None:
             spelling_variant = m.group('Spelling')
+            print(definition)
             print('Extracted spelling variant:{}'.format(spelling_variant))
             return spelling_variant
 
@@ -76,7 +77,7 @@ if __name__ == "__main__":
 
     print(len(target_dict))
     # 1283
-    dump_pkl(target_dict, 's2.pkl')
+    # dump_pkl(target_dict, 's2.pkl')
     # 1091
     # dump_pkl(target_dict, 's1.pkl')
 

@@ -25,7 +25,7 @@
 import os, sys
 
 from __init__ import *
-# work_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-# sys.path.append(work_dir)
+work_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(work_dir)
 
 pkl_dir = os.path.join(work_dir, 'pkl')

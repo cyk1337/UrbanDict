@@ -41,14 +41,17 @@ from numba import jit
 """
 
 # Run on the hawksworth machine
-tweets_dir='/disk/data/wmagdy/TweetCrawlers/General/data'
-en_tweets = 'en_tweets'
+# tweets_dir='/disk/data/wmagdy/TweetCrawlers/General/data'
+# en_tweets = 'en_tweets'
 
 # test_file_path = os.path.join(tweets_dir, 'tweets.2017-02-07.txt.gz')
 
 # Run on the local OSX
-# tweets_dir = '/Volumes/Ed/129.215.197.21:2020'
+tweets_dir = '/Volumes/Ed/129.215.197.21:2020'
 # en_tweets = os.path.join(tweets_dir, 'en_tweets')
+en_tweets = os.path.join(tweets_dir, 'test')
+non_en = os.path.join(tweets_dir, 'non_en')
+no_feat = os.path.join(tweets_dir, 'no_feat')
 
 # if os.path.exists(en_tweets):
 #     os.remove(en_tweets)
@@ -60,7 +63,7 @@ def tweet_process(text):
     # return tokenize(line)
     return line
 
-@jit
+# @jit
 def traverse_docs():
     for file_path in os.listdir(tweets_dir):
         if not file_path.endswith('txt.gz'):
@@ -74,6 +77,7 @@ def traverse_docs():
 def save_en_tweets(langId, text):
     try:
         if langId.lower() == 'en' and detect(text) == 'en':
+        # if langId.lower() == 'en':
             # preprocess tweets
             text = tweet_process(text)
             # print(langId, text.encode('utf-8'))
@@ -87,14 +91,26 @@ def save_en_tweets(langId, text):
 def main():
     for file_path in traverse_docs():
         with gzip.open(file_path, mode='rt', encoding='utf8') as f:
-            for line in f:
+            for count, line in enumerate(f):
                 cols = line.split('\t')
                 if len(cols) != 23:
                     continue
-                # langId = cols[9]
-                # text = cols[15]
-                save_en_tweets(cols[9], cols[15])
+                langId = cols[9]
+                text = cols[15]
+                if len(text.split()) == 1:
+                    # print('1 token: {}'.format(text))
+                    continue
+                # uncomment this when running
+                # save_en_tweets(cols[9], text)
 
+                # test
+                if langId.lower() == 'en':
+                    try:
+                        if detect(text) != 'en':
+                            print(text, file=open(non_en, 'a', encoding='utf8'))
+                            print(count)
+                    except Exception as e:
+                        print(text, file=open(no_feat, 'a', encoding='utf8'))
 
 if __name__ == '__main__':
     main()

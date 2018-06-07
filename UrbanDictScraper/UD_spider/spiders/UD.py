@@ -19,18 +19,31 @@ class UdSpider(CrawlSpider):
     url_prefix = '/browse.php?character='
     # only consider alphabets as the beginning, excluding * symbol
     for ch in string.ascii_uppercase:
+       # uncomment this to test 'A'
+        # for ch in 'A':
         start_url = urljoin(base_url, url_prefix+ch)
         start_urls.append(start_url)
+
+    # test url
+    # start_urls = ['https://www.urbandictionary.com/browse.php?character=U&page=98']
 
     rules = (
         # 1. extract only next pagination
         Rule(LinkExtractor(allow=r'\/browse.php\?character=[\w|\*](\&page=\d+)*', restrict_xpaths='//ul[@class="pagination"]//a[@rel="next"]'), follow=True),
         # 2. extract UD definition item
+
         # ----------------------------------
          # the 1st step of filtering out words containing whitespace(s) in href
          # i.e. filter out phrase (token num >= 2, i.e. contains %20(plus sign))
         # -----------------------------------
-        Rule(LinkExtractor(allow=r'\/define.php\?term=\S+', deny='(\%20)+', restrict_xpaths='//div[@id="columnist" and not(contains(@class,"trending-words-panel"))]//li/a'), callback='parse_item')
+        Rule(LinkExtractor(
+            allow=r'\/define.php\?term=\S+', deny=('(\%20)+', ), restrict_xpaths='//div[@id="columnist" and not(contains(@class,"trending-words-panel"))]//li/a'),
+             callback='parse_item', follow=True),
+
+        # if exists pagination, iteratively parse
+        Rule(LinkExtractor(allow=r'\/define.php\?term=\w+&page=[0-9]+',
+                           restrict_xpaths='//div[@id="content"]/div[@class="pagination-centered"]/ul[@class="pagination"]//a[@rel="next"]'),
+             callback='parse_item', follow=True),
     )
 
     def parse_item(self, response):
