@@ -6,3 +6,5 @@ ParseAll:False, Spider:UD,SyncMySQLPipeline, start:2018-06-02 18:11:53.993081, f
 ------------------------------
 ParseAll:False, Spider:UD,SyncMySQLPipeline, start:2018-06-06 18:54:19.858193, finish:2018-06-07 06:59:14.855858, runtime:0d,12h,4m,54s
 ------------------------------
+ParseAll:False, Spider:UD,SyncMySQLPipeline, start:2018-06-08 00:16:38.462683, finish:2018-06-08 22:16:12.430615, runtime:0d,21h,59m,33s
+------------------------------

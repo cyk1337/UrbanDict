@@ -44,21 +44,28 @@ class Baseline(Basic):
 
     @property
     def load_sql(self):
-        db_name = 'UrbanDict2'
+        db_name = 'UrbanDict'
         sql_loadUD = "SELECT defid, word, definition FROM %s" % db_name
         return sql_loadUD
 
     # RegEx
     def RE_match(self, definition):
         # pattern_spelling = re.compile(u"spelling[^\.,]*[ of| for|][^\.,]* ['|\"|\[](?P<Spelling>\w+)['|\"|\]]")
-        pattern_spelling = re.compile(
-            u"spelling[^\.,]{0,3}?( of| for| to|:| the word| include)[^\.,]{0,5}?['|\"|\[](?P<Spelling>\w+)['|\"|\]]")
-        m = re.search(pattern_spelling, definition)
-        if m is not None:
-            spelling_variant = m.group('Spelling')
-            print(definition)
-            print('Extracted spelling variant:{}'.format(spelling_variant))
-            return spelling_variant
+        Regex_patterns = [
+            # u"spelling[^\.,]{0,3}?( of| for| to|:| the word| include)[^\.,]{0,5}?['|\"|\[](?P<Spelling>\w+)['|\"|\]]",
+            # u"^meaning ['|\"|\[](?P<Spelling>\w+)['|\"|\]]",
+            u"way of saying ['|\"|\[](?P<Spelling>\w+)['|\"|\]]",
+
+        ]
+        for regex in Regex_patterns:
+            pattern = re.compile(regex)
+
+            m = re.search(pattern, definition)
+            if m is not None:
+                spelling_variant = m.group('Spelling')
+                print(definition)
+                print('Extracted spelling variant:{}'.format(spelling_variant))
+                return spelling_variant
 
 
 if __name__ == "__main__":

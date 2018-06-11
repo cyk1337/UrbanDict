@@ -38,7 +38,7 @@ import matplotlib.pyplot as plt
 def fetch_data():
     engine = sa.create_engine('mysql+pymysql://root:admin@localhost/UrbanDict?charset=utf8')
     conn = engine.connect()
-    db_name = 'UrbanDict2'
+    db_name = 'UrbanDict'
     sql_loadUD = "SELECT definition FROM %s" % db_name
     chunksize = None
     df = pd.read_sql(sql=sql_loadUD, con=conn, chunksize=chunksize)
@@ -119,5 +119,5 @@ def mask(text):
 
 if __name__ == '__main__':
     text = fetch_data()
-    # basic_plot(text)
-    mask(text)
+    basic_plot(text)
+    # mask(text)
