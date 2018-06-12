@@ -52,11 +52,39 @@ class Baseline(Basic):
     def RE_match(self, definition):
         # pattern_spelling = re.compile(u"spelling[^\.,]*[ of| for|][^\.,]* ['|\"|\[](?P<Spelling>\w+)['|\"|\]]")
         Regex_patterns = [
-            # u"spelling[^\.,]{0,3}?( of| for| to|:| the word| include)[^\.,]{0,5}?['|\"|\[](?P<Spelling>\w+)['|\"|\]]",
-            # u"^meaning ['|\"|\[](?P<Spelling>\w+)['|\"|\]]",
-            u"way of saying ['|\"|\[](?P<Spelling>\w+)['|\"|\]]",
+            # u"spelling[^\.,]{0,3}?( of| for| to|:| the word| include)[^\.,]{0,5}?['\"](?P<Spelling>\w+)['\"]",
+            # u"^meaning ['\"](?P<Spelling>\w+)['\"]",
+            # u"way of saying ['\"](?P<Spelling>\w+)['\"]",
+
+
+            # u"spelling[^\.,]{0,3}?( of| for| to|:| the word| include|)[^\.,]{0,5}?\"(?P<Spelling>\w+)\"",
+            # u"spelling[^\.,]{0,3}?( of| for| to|:| the word| include|)[^\.,]{0,5}?'(?P<Spelling>\w+)'",
+
+            # u"^meaning \"(?P<Spelling>[\w']+)\"",
+            # u"^meaning '(?P<Spelling>\w+)'",
+
+            # u"way of saying \"(?P<Spelling>[\w']+)\"", # 843
+            # u"way of saying '(?P<Spelling>\w+)'", # 234
+
+            # u"form of [^\.,]{0,3}?\"(?P<Spelling>[\w']+)\"", # 518 - 527
+            # u"form of '(?P<Spelling>\w+)'",
+
+            # u"^short for \"(?P<Spelling>[\w']+)\"", # 104
+            # u"^short for '(?P<Spelling>\w+)'",
 
         ]
+
+        # ---------------------------------
+        # no [] in the definition field in webpage crawling
+        # API might have [], e.g. http: // deathxchester.urbanup.com / 1255472
+        # ---------------------------------
+        # u"spelling[^\.,]{0,3}?( of| for| to|:| the word| include|)[^\.,]{0,5}?\[(?P<Spelling>\w+)\]" #0
+        # u"^meaning \[(?P<Spelling>\w+)\]",  # 0
+        # u"way of saying \[(?P<Spelling>\w+)\]", # 0
+        # u"form of \[(?P<Spelling>\w+)\]", # 0
+        # u"^short for \[(?P<Spelling>\w+)\]",
+
+
         for regex in Regex_patterns:
             pattern = re.compile(regex)
 
@@ -83,9 +111,9 @@ if __name__ == "__main__":
                 target_dict[defid] = target_tuple
 
     print(len(target_dict))
-    # 1283
+
+
     # dump_pkl(target_dict, 's2.pkl')
-    # 1091
     # dump_pkl(target_dict, 's1.pkl')
 
 
