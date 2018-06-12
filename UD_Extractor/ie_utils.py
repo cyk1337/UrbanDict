@@ -23,7 +23,7 @@
                
 '''
 
-from .settings import *
+from _config import *
 
 import pickle, os
 

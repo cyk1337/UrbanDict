@@ -26,27 +26,29 @@ import pandas as pd
 import sqlalchemy as sa
 import re
 
-from UD_Extractor.ie_utils import load_pkl, dump_pkl
+from ie_utils import load_pkl, dump_pkl
 
 class Basic(object):
-    def __init__(self, sql, chunksize=None):
+    def __init__(self, chunksize=None, sql=None):
         engine = sa.create_engine('mysql+pymysql://root:admin@localhost/UrbanDict?charset=utf8')
         self.conn = engine.connect()
+        if sql is None:
+            sql = self.load_sql
         self.UD_data = pd.read_sql(sql=sql, con= self.conn, chunksize=chunksize)
         # UD_data = self.UD_data.to_json(orient='records')
-
-
-
-class Baseline(Basic):
-    def __init__(self, chunksize):
-        super(Baseline, self).__init__(self.load_sql, chunksize=chunksize)
-
 
     @property
     def load_sql(self):
         db_name = 'UrbanDict'
         sql_loadUD = "SELECT defid, word, definition FROM %s" % db_name
         return sql_loadUD
+
+
+
+class Baseline(Basic):
+    def __init__(self, chunksize):
+        super(Baseline, self).__init__(chunksize=chunksize)
+
 
     # RegEx
     def RE_match(self, definition):
@@ -57,7 +59,7 @@ class Baseline(Basic):
             # u"way of saying ['\"](?P<Spelling>\w+)['\"]",
 
 
-            # u"spelling[^\.,]{0,3}?( of| for| to|:| the word| include|)[^\.,]{0,5}?\"(?P<Spelling>\w+)\"",
+            u"spelling[^\.,]{0,3}?( of| for| to|:| the word| include|)[^\.,]{0,5}?\"(?P<Spelling>\w+)\"",
             # u"spelling[^\.,]{0,3}?( of| for| to|:| the word| include|)[^\.,]{0,5}?'(?P<Spelling>\w+)'",
 
             # u"^meaning \"(?P<Spelling>[\w']+)\"",

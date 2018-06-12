@@ -37,9 +37,8 @@ import re
 # for i, chunk in enumerate(df):
 #     print(chunk)
 
-from __init__ import *
-from UD_Extractor.settings import *
-from UD_Extractor.ie_utils import load_pkl
+
+from ie_utils import load_pkl
 d1 = load_pkl('s1.pkl')
 d2 = load_pkl('s2.pkl')
 diff = set(d1.values())^set(d2.values())

@@ -15,17 +15,19 @@
 
 @contact: s1718204@sms.ed.ac.uk
 
-@file: settings.py
+@file: Pattern.py
 
-@time: 03/06/2018 23:54 
+@time: 12/06/2018 15:55 
 
 @desc：       
                
 '''              
-import os, sys
 
-from __init__ import *
-work_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-sys.path.append(work_dir)
+class Pattern(object):
+    def __init__(self,seeds):
+        self.seeds = seeds
+        self.context_before = list()
+        self.context_after = list()
 
-pkl_dir = os.path.join(work_dir, 'pkl')
+    def _all_context(self):
+        pass
