@@ -38,7 +38,7 @@ pkl_dir = os.path.join(work_dir, 'pkl')
 
 
 #***use all the context from the start
-enableAllContext=False
+enableAllContext=True
 
 #***use context on the left
 usePreviousContext= True
