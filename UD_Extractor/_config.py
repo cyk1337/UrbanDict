@@ -38,12 +38,13 @@ pkl_dir = os.path.join(work_dir, 'pkl')
 
 
 #***use all the context from the start
-enableAllContext=True
+# enableAllContext=True
+enableAllContext=False
 
 #***use context on the left
 usePreviousContext= True
 
-CONTEXT_WINDOW_SIZE = 4
+CONTEXT_WINDOW_SIZE = 3
 
 #***use context on the right
 useNextContext = False

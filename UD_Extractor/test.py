@@ -38,9 +38,19 @@ import re
 #     print(chunk)
 
 
-from ie_utils import load_pkl
-d1 = load_pkl('s1.pkl')
-d2 = load_pkl('s2.pkl')
-diff = set(d1.values())^set(d2.values())
-diff2 = set(d1.keys())^set(d2.keys())
-print(diff)
+# from ie_utils import load_pkl
+# d1 = load_pkl('s1.pkl')
+# d2 = load_pkl('s2.pkl')
+# diff = set(d1.values())^set(d2.values())
+# diff2 = set(d1.keys())^set(d2.keys())
+# print(diff)
+
+def pattern_filter(candidate_pattern):
+    non_pat_list = ['synonym', ]
+    for non_pat in non_pat_list:
+        if non_pat in candidate_pattern:
+            return False
+        else:
+            return True
+
+print(pattern_filter(['synonym', 'for']))

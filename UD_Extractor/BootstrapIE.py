@@ -22,7 +22,7 @@
 @desc：       
                
 '''
-import codecs, logging
+import codecs, logging, string
 import pandas as pd
 from nltk.tokenize import sent_tokenize, word_tokenize
 from numba import jit
@@ -39,12 +39,12 @@ class BootstrapIE(Basic):
         super(BootstrapIE, self).__init__(chunksize=self.chunksize, sql=self.load_sql)
         self.patterns = list()
         self.candidate_patterns = list()
-        self.seeds = set()
+        self.seeds = list()
         self.candidate_seeds = list()
-
+        self.iter_num = 0
+        self.seeds_num = list()
         # start bootstrap
         self.init_bootstrap()
-
 
     @property
     def load_sql(self):
@@ -60,12 +60,25 @@ class BootstrapIE(Basic):
     def init_bootstrap(self):
         # initialize seed instances from file
         self.read_init_seeds_from_file(seed_file=SEED_FILE)
-        self.generate_pattern_from_seeds()
-        # TODO: score patterns
-        self.patterns = self.candidate_patterns
-        self.get_seed_from_pattern()
-        # TODO: evaluate seeds
-        # TODO: loop
+
+        self.seeds_num.append(len(self.seeds))
+        while True:
+            print('-'*80)
+            logger.info("Iteration {} starting...".format(self.iter_num))
+            self.seeds_num[self.iter_num] = len(self.seeds)
+
+            self.generate_pattern_from_seeds()
+
+            # TODO: score patterns
+            self.score_candidate_pattern()
+            self.get_seed_from_pattern()
+            # TODO: evaluate seeds
+            self.score_candidate_seed()
+
+            if self.iter_num>1 and self.seeds_num[self.iter_num] == self.seeds_num[self.iter_num - 1]:
+                print('Overall 0-{} iteration'.format(self.iter_num))
+                break
+            self.iter_num = self.iter_num + 1
 
     def read_init_seeds_from_file(self, seed_file=SEED_FILE):
         logger.info('Start reading initial seeds ...')
@@ -83,7 +96,9 @@ class BootstrapIE(Basic):
         Given seeds, generate patterns accordingly.
         :return:
         """
-        logger.info('Start generating candidate patterns ...')
+        logger.info('Iteration {}: start generating candidate patterns ...'.format(self.iter_num))
+        if self.iter_num > 0:
+            self.reset_generator()
         # seed_words = [seed_tuple[0] for seed_tuple in self.seeds]
         # seed_variants = [seed_tuple[1] for seed_tuple in self.seeds]
         seeds_dict = dict()
@@ -133,15 +148,16 @@ class BootstrapIE(Basic):
             # collect all the variant occurrence
             for variant in variant_set:
                 candidate_index_list = [i for i, tok in enumerate(defn_sent) if tok==variant]
-            # if the variant occur once
-            if len(candidate_index_list) == 1:
-                variant_index_dict[sent_index].append(candidate_index_list[0])
-            # variant appear multiple times, choose by the context quote symbol
-            elif len(candidate_index_list) > 1:
-                for index in candidate_index_list:
-                    if defn_sent[index-1] in ('"', "'") and defn_sent[index+1] in ('"', "'"):
-                        variant_index_dict[sent_index].append(candidate_index_list[0])
+                # if the variant occur once
+                if len(candidate_index_list) == 1:
+                    variant_index_dict[sent_index].append(candidate_index_list[0])
+                # variant appear multiple times, choose by the context quote symbol
+                elif len(candidate_index_list) > 1:
+                    for index in candidate_index_list:
+                        if defn_sent[index-1] in ('"', "'") and defn_sent[index+1] in ('"', "'"):
+                            variant_index_dict[sent_index].append(candidate_index_list[0])
         return {k: v for k, v in variant_index_dict.items() if len(v)>0}
+
 
     def definition_tokenize(self, definition):
         """
@@ -157,14 +173,19 @@ class BootstrapIE(Basic):
 
     # TODO: score candidate patterns
     def score_candidate_pattern(self):
-        pass
+
+        for pat in self.candidate_patterns:
+            if self.pattern_filter(pat) is False:
+                self.candidate_patterns.remove(pat)
+        self.patterns = self.patterns+self.candidate_patterns
+        self.pattern_duplicate_removal()
 
     # TODO
     def get_seed_from_pattern(self):
         # test
         # self.patterns = [['individuals', 'way', 'of', 'saying'],
         #                  ['moronic', 'abbreviation', 'for', '``']]
-        logger.info('Start parsing candidate seeds ...')
+        logger.info('Iteration {}: start parsing candidate seeds ...'.format(self.iter_num))
         self.reset_generator()
         for i, chunk in enumerate(self.UD_data):
             # print(chunk)
@@ -173,14 +194,16 @@ class BootstrapIE(Basic):
                 # print(defn_tokenized)
                 for sent in defn_tokenized:
                     for sent_pattern in self.patterns:
-                        var = self.simple_match_pattern(sent_pattern, sent)
+                        var = self.surface_match_pattern(sent_pattern, sent)
                         if var is not None:
                             candidate_pair = (row['word'].lower(),var.lower())
                             self.candidate_seeds.append(candidate_pair)
                             print("matching pattern: {}".format(sent_pattern))
                             logger.info("Candidate pair: {}".format(candidate_pair))
+        self.seed_duplicate_removal()
 
-    def simple_match_pattern(self, seed_pattern, definition):
+
+    def surface_match_pattern(self, seed_pattern, definition):
         """
         simply match the pattern and
         :param seed_pattern: array, that contains 1 pattern
@@ -188,28 +211,72 @@ class BootstrapIE(Basic):
         :return: candidate spelling variant if matched
         """
         len_pat = len(seed_pattern)
-        for i in range(len(definition)-len_pat+1):
-            if definition[i:i+len_pat] == seed_pattern:
-                return definition[i+len_pat]
+        len_defn = len(definition)
+        for i in range(len_defn-len_pat+1):
+            if definition[i:i+len_pat] == seed_pattern and len_defn > i+len_pat:
+                var = definition[i+len_pat]
+                if self.variant_filter(var):
+                    return var
 
+    def variant_filter(self, candidate_variant):
+        filter_list = string.punctuation + '``'
+        if candidate_variant in filter_list:
+            return False
+        else:
+            return True
+
+    def pattern_filter(self, candidate_pattern):
+        non_pat_list = ['synonym',]
+        for non_pat in non_pat_list:
+            if non_pat in candidate_pattern:
+                print("Remove pattern: {}".format(candidate_pattern))
+                return False
+            else:
+                return True
 
     # TODO: score candidate seeds
     def score_candidate_seed(self):
-        pass
+        self.seeds = self.seeds + self.candidate_seeds
+        self.seed_duplicate_removal()
 
 
     def pattern_duplicate_removal(self):
         self.candidate_patterns = list(list(i) for i in set([tuple(t) for t in self.candidate_patterns]))
 
+    def seed_duplicate_removal(self):
+        self.candidate_seeds = list(set([tuple(t) for t in self.candidate_seeds]))
+
+
 class Pattern(object):
-    def __init__(self,seeds):
-        self.seeds = seeds
+    def __init__(self,context):
+        self.pattern = list()
         self.context_before = list()
         self.context_after = list()
+        self.PosTagPat = list()
+
 
     def _all_context(self):
         pass
 
+    def __str__(self):
+        return self.pattern
+
+    def __repr__(self):
+        return self.pattern
+
+class Seed(object):
+    def __init__(self, word, variant):
+        self.word = word
+        self.variant = variant
+
+    def __str__(self):
+        return (self.word, self.variant)
+
+    def __repr__(self):
+        return "Seed pair: ({}, {})".format(self.word, self.variant)
+
+    def __eq__(self, other):
+        return self.word==other.word and self.variant==other.variant
 
 
 if __name__ == "__main__":
