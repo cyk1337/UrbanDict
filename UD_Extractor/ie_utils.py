@@ -42,3 +42,7 @@ def load_pkl(filename):
     with open(filepath, 'rb') as f:
         obj = pickle.load(f)
     return obj
+
+
+def days_hours_mins_secs(td):
+    return "{}d,{}h,{}m,{}s".format(td.days, td.seconds//3600, (td.seconds//60)%60, td.seconds%60)

@@ -22,19 +22,21 @@
 @desc：       
                
 '''
-import codecs, logging, string
+import codecs, logging, string, datetime
 import pandas as pd
 from nltk.tokenize import sent_tokenize, word_tokenize
 from numba import jit
 
 from baseline import Basic
 from _config import *
+from ie_utils import days_hours_mins_secs
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 class BootstrapIE(Basic):
     def __init__(self, chunksize=10000):
+        self.start_time = datetime.datetime.now()
         self.chunksize = chunksize
         super(BootstrapIE, self).__init__(chunksize=self.chunksize, sql=self.load_sql)
         self.patterns = list()
@@ -57,15 +59,24 @@ class BootstrapIE(Basic):
     def reset_generator(self):
         self.UD_data = pd.read_sql(sql=self.load_sql, con=self.conn, chunksize=self.chunksize)
 
+    def reset_candidate_seeds(self):
+        self.candidate_seeds = []
+
+    def reset_candidate_pattern(self):
+        self.candidate_patterns = []
+
     def init_bootstrap(self):
         # initialize seed instances from file
         self.read_init_seeds_from_file(seed_file=SEED_FILE)
 
-        self.seeds_num.append(len(self.seeds))
         while True:
+            self.seeds_num.append(len(self.seeds))
+            print("Iteratin num: {}, seed_num:{}".format(self.iter_num, self.seeds_num[self.iter_num]))
+            print("*"*80)
+            print("Pattern list: {}".format(self.patterns))
+            print("Seed list: {}".format(self.seeds))
             print('-'*80)
             logger.info("Iteration {} starting...".format(self.iter_num))
-            self.seeds_num[self.iter_num] = len(self.seeds)
 
             self.generate_pattern_from_seeds()
 
@@ -80,14 +91,19 @@ class BootstrapIE(Basic):
                 break
             self.iter_num = self.iter_num + 1
 
+        self.close_bootstrap()
+
+
+
+
     def read_init_seeds_from_file(self, seed_file=SEED_FILE):
         logger.info('Start reading initial seeds ...')
-        seeds_init = set()
+        seeds_init = list()
         with codecs.open(seed_file, mode='r', encoding='utf-8') as f:
             for line in f.readlines():
                 seed = line.split()
                 if len(seed) == 2:
-                    seeds_init.add((seed[0].lower(), seed[1].lower()))
+                    seeds_init.append((seed[0].lower(), seed[1].lower()))
             # print(seeds_init)
         self.seeds = seeds_init
 
@@ -99,6 +115,7 @@ class BootstrapIE(Basic):
         logger.info('Iteration {}: start generating candidate patterns ...'.format(self.iter_num))
         if self.iter_num > 0:
             self.reset_generator()
+            self.reset_candidate_seeds()
         # seed_words = [seed_tuple[0] for seed_tuple in self.seeds]
         # seed_variants = [seed_tuple[1] for seed_tuple in self.seeds]
         seeds_dict = dict()
@@ -136,7 +153,7 @@ class BootstrapIE(Basic):
                         if len(lexico_pattern) > 0:
                             logger.info("Candidate pattern: %s" % lexico_pattern)
                             self.candidate_patterns.append(lexico_pattern)
-            self.pattern_duplicate_removal()
+            # self.pattern_duplicate_removal()
 
 
     def get_index_of_varaint(self, defn_tokenized, variant_set):
@@ -186,7 +203,10 @@ class BootstrapIE(Basic):
         # self.patterns = [['individuals', 'way', 'of', 'saying'],
         #                  ['moronic', 'abbreviation', 'for', '``']]
         logger.info('Iteration {}: start parsing candidate seeds ...'.format(self.iter_num))
+
         self.reset_generator()
+        self.reset_candidate_pattern()
+
         for i, chunk in enumerate(self.UD_data):
             # print(chunk)
             for index, row in chunk.iterrows():
@@ -200,7 +220,7 @@ class BootstrapIE(Basic):
                             self.candidate_seeds.append(candidate_pair)
                             print("matching pattern: {}".format(sent_pattern))
                             logger.info("Candidate pair: {}".format(candidate_pair))
-        self.seed_duplicate_removal()
+        # self.seed_duplicate_removal()
 
 
     def surface_match_pattern(self, seed_pattern, definition):
@@ -226,6 +246,10 @@ class BootstrapIE(Basic):
             return True
 
     def pattern_filter(self, candidate_pattern):
+         # TODO: discard contexts that contains only 2 or fewer stopwords,
+         # allowing at most 2 stopwords in context
+        # TODO: ﻿create flexible patterns by ignoring the words {‘a’, ‘an’, ‘the’, ‘,’, ‘.’}
+        #  TODO: with and without POS tag restrictionnof ﻿target(e.g. contains Nouns)
         non_pat_list = ['synonym',]
         for non_pat in non_pat_list:
             if non_pat in candidate_pattern:
@@ -241,10 +265,22 @@ class BootstrapIE(Basic):
 
 
     def pattern_duplicate_removal(self):
-        self.candidate_patterns = list(list(i) for i in set([tuple(t) for t in self.candidate_patterns]))
+        self.patterns = list(list(i) for i in set([tuple(t) for t in self.patterns]))
+        # self.candidate_patterns = list(list(i) for i in set([tuple(t) for t in self.candidate_patterns]))
 
     def seed_duplicate_removal(self):
-        self.candidate_seeds = list(set([tuple(t) for t in self.candidate_seeds]))
+        # self.candidate_seeds = list(set([tuple(t) for t in self.candidate_seeds]))
+        self.seeds = list(set([tuple(t) for t in self.seeds]))
+
+    def close_bootstrap(self):
+        self.get_runtime()
+
+
+    def get_runtime(self):
+        finish_time = datetime.datetime.now()
+        timedelta = finish_time - self.start_time
+        run_time = days_hours_mins_secs(timedelta)
+        logger.info("Runtime:{}".format(run_time))
 
 
 class Pattern(object):
@@ -283,8 +319,8 @@ if __name__ == "__main__":
     bootstrap_ie = BootstrapIE(chunksize=10000)
     seeds = bootstrap_ie.seeds
     print('-'*100)
-    print("Candidate pattern list:", bootstrap_ie.candidate_patterns)
-    print("Candidate seed list:", bootstrap_ie.candidate_seeds)
+    print("Candidate pattern list:", bootstrap_ie.patterns)
+    print("Candidate seed list:", bootstrap_ie.seeds)
     # bootstrap_ie.get_seed_from_pattern()
     # target_dict = {}
     # for i, chunk in enumerate(bootstrap_ie.UD_data):
