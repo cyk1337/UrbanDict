@@ -45,15 +45,14 @@ class BootstrapIE(Basic):
         self.candidate_seeds = list()
         self.iter_num = 0
         self.seeds_num = list()
-        # start bootstrap
-        self.init_bootstrap()
+
 
     @property
     def load_sql(self):
         db_name = 'UrbanDict'
-        sql_loadUD = "SELECT defid, word, definition FROM %s" % db_name
-        # sql_loadUD = "SELECT defid, word, definition FROM %s WHERE word in " \
-        #              "('ur','looser','m8s','partay','peaple')" % db_name
+        # sql_loadUD = "SELECT defid, word, definition FROM %s" % db_name
+        sql_loadUD = "SELECT defid, word, definition FROM %s WHERE word in " \
+                     "('ur','looser','m8s','partay','peaple')" % db_name
         return sql_loadUD
 
     def reset_generator(self):
@@ -94,8 +93,6 @@ class BootstrapIE(Basic):
         self.close_bootstrap()
 
 
-
-
     def read_init_seeds_from_file(self, seed_file=SEED_FILE):
         logger.info('Start reading initial seeds ...')
         seeds_init = list()
@@ -115,7 +112,7 @@ class BootstrapIE(Basic):
         logger.info('Iteration {}: start generating candidate patterns ...'.format(self.iter_num))
         if self.iter_num > 0:
             self.reset_generator()
-            self.reset_candidate_seeds()
+            self.reset_candidate_pattern()
         # seed_words = [seed_tuple[0] for seed_tuple in self.seeds]
         # seed_variants = [seed_tuple[1] for seed_tuple in self.seeds]
         seeds_dict = dict()
@@ -171,7 +168,7 @@ class BootstrapIE(Basic):
                 # variant appear multiple times, choose by the context quote symbol
                 elif len(candidate_index_list) > 1:
                     for index in candidate_index_list:
-                        if defn_sent[index-1] in ('"', "'") and defn_sent[index+1] in ('"', "'"):
+                        if defn_sent[index-1] in ('"', "'", "``") and len(defn_sent)>= index+1 and defn_sent[index+1] in ('"', "'", "``"):
                             variant_index_dict[sent_index].append(candidate_index_list[0])
         return {k: v for k, v in variant_index_dict.items() if len(v)>0}
 
@@ -205,7 +202,7 @@ class BootstrapIE(Basic):
         logger.info('Iteration {}: start parsing candidate seeds ...'.format(self.iter_num))
 
         self.reset_generator()
-        self.reset_candidate_pattern()
+        self.reset_candidate_seeds()
 
         for i, chunk in enumerate(self.UD_data):
             # print(chunk)
@@ -213,7 +210,7 @@ class BootstrapIE(Basic):
                 defn_tokenized = self.definition_tokenize(row['definition'])
                 # print(defn_tokenized)
                 for sent in defn_tokenized:
-                    for sent_pattern in self.patterns:
+                    for sent_pattern in self.candidate_patterns:
                         var = self.surface_match_pattern(sent_pattern, sent)
                         if var is not None:
                             candidate_pair = (row['word'].lower(),var.lower())
@@ -255,8 +252,16 @@ class BootstrapIE(Basic):
             if non_pat in candidate_pattern:
                 print("Remove pattern: {}".format(candidate_pattern))
                 return False
+            elif len(candidate_pattern)==1 and 'meaning' not in candidate_pattern:
+                return False
             else:
-                return True
+                for tok in candidate_pattern:
+                    if tok in ['a', 'an', 'the', ',', '.', 'or', '``', 'has', 'extreme2']:
+                        candidate_pattern.remove(tok)
+                if len(candidate_pattern) > 0:
+                    return True
+                else:
+                    return False
 
     # TODO: score candidate seeds
     def score_candidate_seed(self):
@@ -265,11 +270,11 @@ class BootstrapIE(Basic):
 
 
     def pattern_duplicate_removal(self):
+        self.candidate_patterns = list(list(i) for i in set([tuple(t) for t in self.candidate_patterns]))
         self.patterns = list(list(i) for i in set([tuple(t) for t in self.patterns]))
-        # self.candidate_patterns = list(list(i) for i in set([tuple(t) for t in self.candidate_patterns]))
 
     def seed_duplicate_removal(self):
-        # self.candidate_seeds = list(set([tuple(t) for t in self.candidate_seeds]))
+        self.candidate_seeds = list(set([tuple(t) for t in self.candidate_seeds]))
         self.seeds = list(set([tuple(t) for t in self.seeds]))
 
     def close_bootstrap(self):
@@ -283,48 +288,16 @@ class BootstrapIE(Basic):
         logger.info("Runtime:{}".format(run_time))
 
 
-class Pattern(object):
-    def __init__(self,context):
-        self.pattern = list()
-        self.context_before = list()
-        self.context_after = list()
-        self.PosTagPat = list()
-
-
-    def _all_context(self):
-        pass
-
-    def __str__(self):
-        return self.pattern
-
-    def __repr__(self):
-        return self.pattern
-
-class Seed(object):
-    def __init__(self, word, variant):
-        self.word = word
-        self.variant = variant
-
-    def __str__(self):
-        return (self.word, self.variant)
-
-    def __repr__(self):
-        return "Seed pair: ({}, {})".format(self.word, self.variant)
-
-    def __eq__(self, other):
-        return self.word==other.word and self.variant==other.variant
-
-
-if __name__ == "__main__":
+def main():
     bootstrap_ie = BootstrapIE(chunksize=10000)
     seeds = bootstrap_ie.seeds
+    # start bootstrap
+    bootstrap_ie.init_bootstrap()
     print('-'*100)
     print("Candidate pattern list:", bootstrap_ie.patterns)
     print("Candidate seed list:", bootstrap_ie.seeds)
     # bootstrap_ie.get_seed_from_pattern()
-    # target_dict = {}
-    # for i, chunk in enumerate(bootstrap_ie.UD_data):
-    #     print(chunk)
-    #     for defid, word, definition in chunk.values:
-    #         pass
 
+
+if __name__ == "__main__":
+    main()

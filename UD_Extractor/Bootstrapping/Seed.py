@@ -15,19 +15,23 @@
 
 @contact: s1718204@sms.ed.ac.uk
 
-@file: Pattern.py
+@file: Seed.py
 
-@time: 12/06/2018 15:55 
+@time: 16/06/2018 14:07 
 
 @desc：       
                
 '''              
+class Seed(object):
+    def __init__(self, word, variant):
+        self.word = word
+        self.variant = variant
 
-class Pattern(object):
-    def __init__(self,seeds):
-        self.seeds = seeds
-        self.context_before = list()
-        self.context_after = list()
+    def __str__(self):
+        return (self.word, self.variant)
 
-    def _all_context(self):
-        pass
+    def __repr__(self):
+        return "Seed pair: ({}, {})".format(self.word, self.variant)
+
+    def __eq__(self, other):
+        return self.word==other.word and self.variant==other.variant
