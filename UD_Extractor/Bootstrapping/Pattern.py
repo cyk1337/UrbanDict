@@ -23,9 +23,15 @@
                
 '''
 
+from _config import *
+from nltk.tokenize import word_tokenize
+
 
 class Pattern(object):
-    def __init__(self, context):
+    def __init__(self, context, variant):
+        self.ctx = context
+        self.var = variant
+
         self.positive = 0
         self.negtive = 0
         self.unknown = 0
@@ -36,11 +42,19 @@ class Pattern(object):
         self.context_after = list()
         self.PosTagPat = list()
 
-    def _all_context(self):
+        self.useBothCtx = useBothContext
+        self.usePrevCtx = usePreviousContext
+        self.useNextCtx = useNextContext
+        self.usePosCtx = usePOS4Pattern
+
+    def parse_context(self):
+        # TODO: parse context according to config
         pass
 
+
+
     def __str__(self):
-        return self.pattern
+        return "{}".format(self.pattern)
 
     def __repr__(self):
-        return self.pattern
+        return "{}".format(self.pattern)

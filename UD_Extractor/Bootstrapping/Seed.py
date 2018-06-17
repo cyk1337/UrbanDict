@@ -27,10 +27,10 @@ class Seed(object):
         self.word = word
         self.variant = variant
 
-    def __str__(self):
-        return (self.word, self.variant)
-
     def __repr__(self):
+        return "({},{})".format(self.word, self.variant)
+
+    def __str__(self):
         return "Seed pair: ({}, {})".format(self.word, self.variant)
 
     def __eq__(self, other):

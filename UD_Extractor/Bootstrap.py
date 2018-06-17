@@ -15,9 +15,9 @@
 
 @contact: s1718204@sms.ed.ac.uk
 
-@file: BootstrapIE.py
+@file: Bootstrap.py
 
-@time: 11/06/2018 20:50 
+@time: 17/06/2018 21:00
 
 @desc：       
                
@@ -26,10 +26,14 @@ import codecs, logging, string, datetime
 import pandas as pd
 from nltk.tokenize import sent_tokenize, word_tokenize
 from numba import jit
+from collections import defaultdict
 
 from baseline import Basic
 from _config import *
 from ie_utils import days_hours_mins_secs
+from Bootstrapping.Seed import Seed
+from Bootstrapping.Tuple import Tuple
+from Bootstrapping.Pattern import Pattern
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -41,8 +45,10 @@ class BootstrapIE(Basic):
         super(BootstrapIE, self).__init__(chunksize=self.chunksize, sql=self.load_sql)
         self.patterns = list()
         self.candidate_patterns = list()
+
         self.seeds = list()
-        self.candidate_seeds = list()
+        self.candidate_seeds = defaultdict(list)
+
         self.iter_num = 0
         self.seeds_num = list()
 
@@ -95,14 +101,13 @@ class BootstrapIE(Basic):
 
     def read_init_seeds_from_file(self, seed_file=SEED_FILE):
         logger.info('Start reading initial seeds ...')
-        seeds_init = list()
         with codecs.open(seed_file, mode='r', encoding='utf-8') as f:
             for line in f.readlines():
-                seed = line.split()
-                if len(seed) == 2:
-                    seeds_init.append((seed[0].lower(), seed[1].lower()))
-            # print(seeds_init)
-        self.seeds = seeds_init
+                line_ = line.split()
+                if len(line_) == 2:
+                    tup_seed = Seed(line_[0].lower(), line_[1].lower())
+                    self.seeds.append(tup_seed)
+            print("Initial {} seeds: {}".format(len(self.seeds), self.seeds))
 
     def generate_pattern_from_seeds(self):
         """
@@ -113,14 +118,9 @@ class BootstrapIE(Basic):
         if self.iter_num > 0:
             self.reset_generator()
             self.reset_candidate_pattern()
-        # seed_words = [seed_tuple[0] for seed_tuple in self.seeds]
-        # seed_variants = [seed_tuple[1] for seed_tuple in self.seeds]
-        seeds_dict = dict()
-        for seed_tuple in self.seeds:
-            seeds_dict[seed_tuple[0]] = set()
-            seeds_dict[seed_tuple[0]].add(seed_tuple[1])
 
-        seed_words = list(seeds_dict.keys())
+
+        seed_words = [tup_.word for tup_ in self.seeds]
 
         assert self.chunksize is not None, "Chunksize is None!! Assign a real number and continue:)"
 
@@ -128,30 +128,41 @@ class BootstrapIE(Basic):
             # print(chunk)
             df_word = chunk.ix[chunk['word'].str.lower().isin(seed_words)]
             for index, row in df_word.iterrows():
-                defn_tokenized = self.definition_tokenize(row['definition'])
-                print(defn_tokenized)
-                word = row.at['word'].lower()
-                variant_index_dict= self.get_index_of_varaint(defn_tokenized, seeds_dict[word])
-                for sent_num, index_set in variant_index_dict.items():
-                    defn_sent = defn_tokenized[sent_num]
-                    for index in index_set:
-                        variant = defn_sent[index]
-                        lexico_context_before = defn_sent[:index]
-                        lexico_context_after = defn_sent[index+1:]
+                defn_sent = row['definition']
+                word = row['word'].lower()
+                variant = self._find_variant_for_word(word)
+                pat_ = Pattern(defn_sent, variant)
 
-                        lexico_pattern=[]
-                        if useBothContext:
-                            lexico_pattern = lexico_context_before
-                        elif usePreviousContext:
-                            if len(lexico_context_before) >=CONTEXT_WINDOW_SIZE:
-                                lexico_pattern = lexico_context_before[-CONTEXT_WINDOW_SIZE:]
-                            else:
-                                lexico_pattern = lexico_context_before
-                        if len(lexico_pattern) > 0:
-                            logger.info("Candidate pattern: %s" % lexico_pattern)
-                            self.candidate_patterns.append(lexico_pattern)
-            # self.pattern_duplicate_removal()
 
+            #     defn_tokenized = self.definition_tokenize()
+            #     # print(defn_tokenized)
+            #     # TODO find pattern/context
+            #
+            #     variant_index_dict= self.get_index_of_varaint(defn_tokenized, seeds_dict[word])
+            #     for sent_num, index_set in variant_index_dict.items():
+            #         defn_sent = defn_tokenized[sent_num]
+            #         for index in index_set:
+            #             variant = defn_sent[index]
+            #             lexico_context_before = defn_sent[:index]
+            #             lexico_context_after = defn_sent[index+1:]
+            #
+            #             lexico_pattern=[]
+            #             if enableAllContext:
+            #                 lexico_pattern = lexico_context_before
+            #             elif usePreviousContext:
+            #                 if len(lexico_context_before) >=CONTEXT_WINDOW_SIZE:
+            #                     lexico_pattern = lexico_context_before[-CONTEXT_WINDOW_SIZE:]
+            #                 else:
+            #                     lexico_pattern = lexico_context_before
+            #             if len(lexico_pattern) > 0:
+            #                 logger.info("Candidate pattern: %s" % lexico_pattern)
+            #                 self.candidate_patterns.append(lexico_pattern)
+            # # self.pattern_duplicate_removal()
+
+    def _find_variant_for_word(self, word):
+        for word, variant in self.seeds:
+            if word == word:
+                return variant
 
     def get_index_of_varaint(self, defn_tokenized, variant_set):
         # k -> v:
@@ -173,17 +184,17 @@ class BootstrapIE(Basic):
         return {k: v for k, v in variant_index_dict.items() if len(v)>0}
 
 
-    def definition_tokenize(self, definition):
-        """
-        tokenize definition sentences,
-        :param definition: definition sentences
-        :return: 2-dim array, each inside array represents a sentence.
-        """
-        defn_tokenized = []
-        sent_list = sent_tokenize(definition)
-        for sent in sent_list:
-            defn_tokenized.append([tok.lower() for tok in word_tokenize(sent)])
-        return defn_tokenized
+    # def definition_tokenize(self, definition):
+    #     """
+    #     tokenize definition sentences,
+    #     :param definition: definition sentences
+    #     :return: 2-dim array, each inside array represents a sentence.
+    #     """
+    #     defn_tokenized = []
+    #     sent_list = sent_tokenize(definition)
+    #     for sent in sent_list:
+    #         defn_tokenized.append([tok.lower() for tok in word_tokenize(sent)])
+    #     return defn_tokenized
 
     # TODO: score candidate patterns
     def score_candidate_pattern(self):
@@ -290,9 +301,11 @@ class BootstrapIE(Basic):
 
 def main():
     bootstrap_ie = BootstrapIE(chunksize=10000)
+    bootstrap_ie.read_init_seeds_from_file()
     seeds = bootstrap_ie.seeds
+
     # start bootstrap
-    bootstrap_ie.init_bootstrap()
+    # bootstrap_ie.init_bootstrap()
     print('-'*100)
     print("Candidate pattern list:", bootstrap_ie.patterns)
     print("Candidate seed list:", bootstrap_ie.seeds)

@@ -28,7 +28,9 @@ class Tuple(object):
         self.variant = variant
 
         self.defid = defid
+
         self.defn_sent = defn_sent
         self.ctx_bef = ctx_bef
         self.ctx_aft = ctx_aft
+
 
