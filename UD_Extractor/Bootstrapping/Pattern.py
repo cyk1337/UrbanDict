@@ -28,16 +28,22 @@ from nltk.tokenize import word_tokenize
 
 
 class Pattern(object):
-    def __init__(self, ctx_bef, ctx_aft):
+    def __init__(self, ctx_bef, ctx_aft, **kwargs):
 
         self.ctx_bef = ctx_bef
         self.ctx_aft = ctx_aft
+
         self.tuples_list = []
         self.tuples_list.append(tuple)
 
-        self.positive = 0
-        self.negtive = 0
-        self.unknown = 0
+        # RlogF metric
+        self.match_seed_count = 0
+        self.match_all_count = 0
+
+        # Snowball metric
+        # self.positive = 0
+        # self.negtive = 0
+        # self.unknown = 0
         self.confidence = 0
 
         self.patterns = list()
@@ -52,8 +58,10 @@ class Pattern(object):
 
         self.repr = "%s" % self.ctx_bef
 
-    def parse_context(self):
-        pass
+    def ctx_match(self, defn_sent):
+
+
+        return
 
 
 

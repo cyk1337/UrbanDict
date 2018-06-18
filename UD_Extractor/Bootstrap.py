@@ -35,7 +35,6 @@ from Bootstrapping.Seed import Seed
 from Bootstrapping.Tuple import Tuple
 from Bootstrapping.Definition import Definition
 from Bootstrapping.Pattern import Pattern
-from Bootstrapping.MatchPattern import MatchPattern
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -187,13 +186,12 @@ class Bootstrap(Basic):
         self.reset_candidate_seeds()
 
         for pat in self.candidate_patterns:
-            match_pat = MatchPattern(pat)
             for i, chunk in enumerate(self.UD_data):
                 # print(chunk)
                 for index, row in chunk.iterrows():
                     defn_sents = row['definition']
                     for defn_sent in sent_tokenize(defn_sents):
-                        match_pat.ctx_match(defn_sent)
+                        pat.ctx_match(defn_sent)
 
 
 
