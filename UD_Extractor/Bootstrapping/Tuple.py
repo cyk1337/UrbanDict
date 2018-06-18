@@ -17,20 +17,12 @@
 
 @file: Tuple.py
 
-@time: 16/06/2018 14:07 
+@time: 18/06/2018 11:29 
 
 @desc：       
                
 '''              
 class Tuple(object):
-    def __init__(self, word, variant, defn_sent, ctx_bef, ctx_aft, defid=None, config=None):
+    def __init__(self, word, variant):
         self.word = word
         self.variant = variant
-
-        self.defid = defid
-
-        self.defn_sent = defn_sent
-        self.ctx_bef = ctx_bef
-        self.ctx_aft = ctx_aft
-
-

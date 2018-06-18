@@ -33,16 +33,17 @@ from _config import *
 from ie_utils import days_hours_mins_secs
 from Bootstrapping.Seed import Seed
 from Bootstrapping.Tuple import Tuple
+from Bootstrapping.Definition import Definition
 from Bootstrapping.Pattern import Pattern
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-class BootstrapIE(Basic):
+class Bootstrap(Basic):
     def __init__(self, chunksize=10000):
         self.start_time = datetime.datetime.now()
         self.chunksize = chunksize
-        super(BootstrapIE, self).__init__(chunksize=self.chunksize, sql=self.load_sql)
+        super(Bootstrap, self).__init__(chunksize=self.chunksize, sql=self.load_sql)
         self.patterns = list()
         self.candidate_patterns = list()
 
@@ -78,7 +79,7 @@ class BootstrapIE(Basic):
             self.seeds_num.append(len(self.seeds))
             print("Iteratin num: {}, seed_num:{}".format(self.iter_num, self.seeds_num[self.iter_num]))
             print("*"*80)
-            print("Pattern list: {}".format(self.patterns))
+            # print("Pattern list: {}".format(self.patterns))
             print("Seed list: {}".format(self.seeds))
             print('-'*80)
             logger.info("Iteration {} starting...".format(self.iter_num))
@@ -120,68 +121,48 @@ class BootstrapIE(Basic):
             self.reset_candidate_pattern()
 
 
-        seed_words = [tup_.word for tup_ in self.seeds]
-
-        assert self.chunksize is not None, "Chunksize is None!! Assign a real number and continue:)"
+        # assert self.chunksize is not None, "Chunksize is None!! Assign a real number and continue:)"
 
         for i, chunk in enumerate(self.UD_data):
             # print(chunk)
+            seed_words = [tup_.word for tup_ in self.seeds]
+
             df_word = chunk.ix[chunk['word'].str.lower().isin(seed_words)]
             for index, row in df_word.iterrows():
                 defn_sent = row['definition']
                 word = row['word'].lower()
+                defid = row['defid']
                 variant = self._find_variant_for_word(word)
-                pat_ = Pattern(defn_sent, variant)
-
-
-            #     defn_tokenized = self.definition_tokenize()
-            #     # print(defn_tokenized)
-            #     # TODO find pattern/context
-            #
-            #     variant_index_dict= self.get_index_of_varaint(defn_tokenized, seeds_dict[word])
-            #     for sent_num, index_set in variant_index_dict.items():
-            #         defn_sent = defn_tokenized[sent_num]
-            #         for index in index_set:
-            #             variant = defn_sent[index]
-            #             lexico_context_before = defn_sent[:index]
-            #             lexico_context_after = defn_sent[index+1:]
-            #
-            #             lexico_pattern=[]
-            #             if enableAllContext:
-            #                 lexico_pattern = lexico_context_before
-            #             elif usePreviousContext:
-            #                 if len(lexico_context_before) >=CONTEXT_WINDOW_SIZE:
-            #                     lexico_pattern = lexico_context_before[-CONTEXT_WINDOW_SIZE:]
-            #                 else:
-            #                     lexico_pattern = lexico_context_before
-            #             if len(lexico_pattern) > 0:
-            #                 logger.info("Candidate pattern: %s" % lexico_pattern)
-            #                 self.candidate_patterns.append(lexico_pattern)
-            # # self.pattern_duplicate_removal()
+                defn = Definition(word, variant, defn_sent, defid)
+                if defn.match_seed is True:
+                    pat_ = Pattern(defn)
+                    self.candidate_patterns.append(pat_)
+                    print("Before Ctx: %s" % pat_.ctx_bef)
+                    print("After Ctx: %s" % pat_.ctx_aft)
 
     def _find_variant_for_word(self, word):
-        for word, variant in self.seeds:
-            if word == word:
-                return variant
+        for seed in self.seeds:
+            if word == seed.word:
+                return seed.variant
 
-    def get_index_of_varaint(self, defn_tokenized, variant_set):
-        # k -> v:
-        # sent_num: int -> index in each sent: set{}
-        variant_index_dict = {}
-        for sent_index, defn_sent in enumerate(defn_tokenized):
-            variant_index_dict[sent_index] = []
-            # collect all the variant occurrence
-            for variant in variant_set:
-                candidate_index_list = [i for i, tok in enumerate(defn_sent) if tok==variant]
-                # if the variant occur once
-                if len(candidate_index_list) == 1:
-                    variant_index_dict[sent_index].append(candidate_index_list[0])
-                # variant appear multiple times, choose by the context quote symbol
-                elif len(candidate_index_list) > 1:
-                    for index in candidate_index_list:
-                        if defn_sent[index-1] in ('"', "'", "``") and len(defn_sent)>= index+1 and defn_sent[index+1] in ('"', "'", "``"):
-                            variant_index_dict[sent_index].append(candidate_index_list[0])
-        return {k: v for k, v in variant_index_dict.items() if len(v)>0}
+    # def get_index_of_varaint(self, defn_tokenized, variant_set):
+    #     # k -> v:
+    #     # sent_num: int -> index in each sent: set{}
+    #     variant_index_dict = {}
+    #     for sent_index, defn_sent in enumerate(defn_tokenized):
+    #         variant_index_dict[sent_index] = []
+    #         # collect all the variant occurrence
+    #         for variant in variant_set:
+    #             candidate_index_list = [i for i, tok in enumerate(defn_sent) if tok==variant]
+    #             # if the variant occur once
+    #             if len(candidate_index_list) == 1:
+    #                 variant_index_dict[sent_index].append(candidate_index_list[0])
+    #             # variant appear multiple times, choose by the context quote symbol
+    #             elif len(candidate_index_list) > 1:
+    #                 for index in candidate_index_list:
+    #                     if defn_sent[index-1] in ('"', "'", "``") and len(defn_sent)>= index+1 and defn_sent[index+1] in ('"', "'", "``"):
+    #                         variant_index_dict[sent_index].append(candidate_index_list[0])
+    #     return {k: v for k, v in variant_index_dict.items() if len(v)>0}
 
 
     # def definition_tokenize(self, definition):
@@ -197,13 +178,13 @@ class BootstrapIE(Basic):
     #     return defn_tokenized
 
     # TODO: score candidate patterns
-    def score_candidate_pattern(self):
-
-        for pat in self.candidate_patterns:
-            if self.pattern_filter(pat) is False:
-                self.candidate_patterns.remove(pat)
-        self.patterns = self.patterns+self.candidate_patterns
-        self.pattern_duplicate_removal()
+    # def score_candidate_pattern(self):
+    #
+    #     for pat in self.candidate_patterns:
+    #         if self.pattern_filter(pat) is False:
+    #             self.candidate_patterns.remove(pat)
+    #     self.patterns = self.patterns+self.candidate_patterns
+    #     self.pattern_duplicate_removal()
 
     # TODO
     def get_seed_from_pattern(self):
@@ -218,16 +199,18 @@ class BootstrapIE(Basic):
         for i, chunk in enumerate(self.UD_data):
             # print(chunk)
             for index, row in chunk.iterrows():
-                defn_tokenized = self.definition_tokenize(row['definition'])
+                # TODO: match definition
+                row['definition']
+                # defn_tokenized = self.definition_tokenize()
                 # print(defn_tokenized)
-                for sent in defn_tokenized:
-                    for sent_pattern in self.candidate_patterns:
-                        var = self.surface_match_pattern(sent_pattern, sent)
-                        if var is not None:
-                            candidate_pair = (row['word'].lower(),var.lower())
-                            self.candidate_seeds.append(candidate_pair)
-                            print("matching pattern: {}".format(sent_pattern))
-                            logger.info("Candidate pair: {}".format(candidate_pair))
+                # for sent in defn_tokenized:
+                #     for sent_pattern in self.candidate_patterns:
+                #         var = self.surface_match_pattern(sent_pattern, sent)
+                #         if var is not None:
+                #             candidate_pair = (row['word'].lower(),var.lower())
+                #             self.candidate_seeds.append(candidate_pair)
+                #             print("matching pattern: {}".format(sent_pattern))
+                #             logger.info("Candidate pair: {}".format(candidate_pair))
         # self.seed_duplicate_removal()
 
 
@@ -300,15 +283,16 @@ class BootstrapIE(Basic):
 
 
 def main():
-    bootstrap_ie = BootstrapIE(chunksize=10000)
-    bootstrap_ie.read_init_seeds_from_file()
-    seeds = bootstrap_ie.seeds
+    bootstrap_ = Bootstrap(chunksize=10000)
+    bootstrap_.read_init_seeds_from_file()
+    bootstrap_.generate_pattern_from_seeds()
+    candidate_patterns = bootstrap_.candidate_patterns
 
     # start bootstrap
     # bootstrap_ie.init_bootstrap()
     print('-'*100)
-    print("Candidate pattern list:", bootstrap_ie.patterns)
-    print("Candidate seed list:", bootstrap_ie.seeds)
+    # print("Candidate pattern list:", bootstrap_.patterns)
+    print("Candidate seed list:", bootstrap_.seeds)
     # bootstrap_ie.get_seed_from_pattern()
 
 
