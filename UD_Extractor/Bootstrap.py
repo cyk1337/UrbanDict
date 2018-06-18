@@ -48,7 +48,8 @@ class Bootstrap(Basic):
         self.candidate_patterns = list()
 
         self.seeds = list()
-        self.candidate_seeds = defaultdict(list)
+        self.candidate_seeds = list()
+        # self.candidate_seeds = defaultdict(list)
 
         self.iter_num = 0
         self.seeds_num = list()
@@ -57,8 +58,8 @@ class Bootstrap(Basic):
     @property
     def load_sql(self):
         db_name = 'UrbanDict'
-        # sql_loadUD = "SELECT defid, word, definition FROM %s" % db_name
-        sql_loadUD = "SELECT defid, word, definition FROM %s WHERE word in ('ur','looser','m8s','partay','peaple')" % db_name
+        sql_loadUD = "SELECT defid, word, definition FROM %s" % db_name
+        # sql_loadUD = "SELECT defid, word, definition FROM %s WHERE word in ('ur','looser','m8s','partay','peaple')" % db_name
         return sql_loadUD
 
     def reset_generator(self):
@@ -183,18 +184,19 @@ class Bootstrap(Basic):
     def score_candidate_pattern(self):
 
         self.reset_generator()
-        self.reset_candidate_seeds()
+        # self.reset_candidate_seeds()
 
         for pat in self.candidate_patterns:
             for i, chunk in enumerate(self.UD_data):
                 # print(chunk)
                 for index, row in chunk.iterrows():
                     defn_sents = row['definition']
+                    word = row['word']
                     for defn_sent in sent_tokenize(defn_sents):
-                        pat.ctx_match(defn_sent)
-
-
-
+                        pair = pat.ctx_match(defn_sent, word)
+                        if pair is not None and pair not in self.candidate_seeds:
+                            self.candidate_seeds.append(pair)
+        print("Candidate seeds:", self.candidate_seeds)
 
 
 
@@ -212,7 +214,7 @@ class Bootstrap(Basic):
         logger.info('Iteration {}: start parsing candidate seeds ...'.format(self.iter_num))
 
         self.reset_generator()
-        self.reset_candidate_seeds()
+        # self.reset_candidate_seeds()
 
         for i, chunk in enumerate(self.UD_data):
             # print(chunk)
@@ -304,13 +306,15 @@ def main():
     bootstrap_ = Bootstrap(chunksize=10000)
     bootstrap_.read_init_seeds_from_file()
     bootstrap_.generate_pattern_from_seeds()
-    candidate_patterns = bootstrap_.candidate_patterns
+    bootstrap_.score_candidate_pattern()
+    # bootstrap_.get_seed_from_pattern()
+    # candidate_patterns = bootstrap_.candidate_patterns
 
     # start bootstrap
     # bootstrap_ie.init_bootstrap()
     print('-'*100)
     # print("Candidate pattern list:", bootstrap_.patterns)
-    print("Candidate seed list:", bootstrap_.seeds)
+    # print("Candidate seed list:", bootstrap_.seeds)
     # bootstrap_ie.get_seed_from_pattern()
 
 

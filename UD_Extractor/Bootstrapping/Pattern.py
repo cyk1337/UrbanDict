@@ -25,6 +25,7 @@
 
 from _config import *
 from nltk.tokenize import word_tokenize
+import re
 
 
 class Pattern(object):
@@ -34,7 +35,7 @@ class Pattern(object):
         self.ctx_aft = ctx_aft
 
         self.tuples_list = []
-        self.tuples_list.append(tuple)
+        # self.tuples_list.append(tuple)
 
         # RlogF metric
         self.match_seed_count = 0
@@ -56,12 +57,48 @@ class Pattern(object):
         self.useNextCtx = useNextContext
         self.usePosCtx = usePOS4Pattern
 
-        self.repr = "%s" % self.ctx_bef
+        self.repr = "%s <var> %s" % (self.ctx_bef, self.ctx_aft)
 
-    def ctx_match(self, defn_sent):
+    def ctx_match(self, defn_sent, word):
+        bef = self.ctx_bef
+
+        _bef = word_tokenize(self.ctx_bef)
+        if '<BOS>' in _bef:
+            tok_bef = [tok for tok in _bef if tok != '<BOS>']
+            bef = ' '.join(tok_bef)
 
 
-        return
+        if useNextContext is False:
+            aft = ''
+        else:
+            aft = self.ctx_aft
+            _aft = word_tokenize(self.ctx_aft)
+            if '<EOS>' in _aft:
+                tok_aft = [tok for tok in _aft if tok != '<EOS']
+                aft = ' '.join(tok_aft)
+
+
+        pat = re.compile(r"%s\s(?P<quote>['\"]){0,1}(?P<Variant>\b\w+\b)[.,]{0,1}(?P=quote){0,1}\s%s" % (bef, aft))
+        m = pat.search(defn_sent)
+
+        if m is not None:
+            var = m.group('Variant')
+            pair = (word, var)
+
+            if pair not in self.tuples_list:
+                self.tuples_list.append(pair)
+
+            print(defn_sent)
+            print("Before: %s" % bef)
+            print("Parsing pair: {}".format(pair))
+            print('-'*80)
+
+            return pair
+        # else:
+        #     print(defn_sent)
+        #     print("Before: %s" % bef)
+        #     print("Didn't match")
+        #     print('-'*80)
 
 
 
