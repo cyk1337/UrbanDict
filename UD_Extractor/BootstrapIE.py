@@ -143,8 +143,8 @@ class BootstrapIE(Basic):
                         if useBothContext:
                             lexico_pattern = lexico_context_before
                         elif usePreviousContext:
-                            if len(lexico_context_before) >=CONTEXT_WINDOW_SIZE:
-                                lexico_pattern = lexico_context_before[-CONTEXT_WINDOW_SIZE:]
+                            if len(lexico_context_before) >=CTX_SIZE:
+                                lexico_pattern = lexico_context_before[-CTX_SIZE:]
                             else:
                                 lexico_pattern = lexico_context_before
                         if len(lexico_pattern) > 0:

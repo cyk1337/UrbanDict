@@ -35,6 +35,7 @@ from Bootstrapping.Seed import Seed
 from Bootstrapping.Tuple import Tuple
 from Bootstrapping.Definition import Definition
 from Bootstrapping.Pattern import Pattern
+from Bootstrapping.MatchPattern import MatchPattern
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -58,8 +59,7 @@ class Bootstrap(Basic):
     def load_sql(self):
         db_name = 'UrbanDict'
         # sql_loadUD = "SELECT defid, word, definition FROM %s" % db_name
-        sql_loadUD = "SELECT defid, word, definition FROM %s WHERE word in " \
-                     "('ur','looser','m8s','partay','peaple')" % db_name
+        sql_loadUD = "SELECT defid, word, definition FROM %s WHERE word in ('ur','looser','m8s','partay','peaple')" % db_name
         return sql_loadUD
 
     def reset_generator(self):
@@ -75,7 +75,7 @@ class Bootstrap(Basic):
         # initialize seed instances from file
         self.read_init_seeds_from_file(seed_file=SEED_FILE)
 
-        while True:
+        while self.iter_num <= MAX_ITER:
             self.seeds_num.append(len(self.seeds))
             print("Iteratin num: {}, seed_num:{}".format(self.iter_num, self.seeds_num[self.iter_num]))
             print("*"*80)
@@ -129,16 +129,19 @@ class Bootstrap(Basic):
 
             df_word = chunk.ix[chunk['word'].str.lower().isin(seed_words)]
             for index, row in df_word.iterrows():
-                defn_sent = row['definition']
+                defn_sents = row['definition']
                 word = row['word'].lower()
                 defid = row['defid']
                 variant = self._find_variant_for_word(word)
-                defn = Definition(word, variant, defn_sent, defid)
-                if defn.match_seed is True:
-                    pat_ = Pattern(defn)
-                    self.candidate_patterns.append(pat_)
-                    print("Before Ctx: %s" % pat_.ctx_bef)
-                    print("After Ctx: %s" % pat_.ctx_aft)
+                for defn_sent in sent_tokenize(defn_sents):
+                    defn = Definition(word, variant, defn_sent, defid)
+                    if defn.match_seed is True and defn.isCtxValid is True:
+                        # TODO: use pattern obj to count?
+                        pat_ = Pattern(defn.ctx_bef, defn.ctx_aft)
+                        self.candidate_patterns.append(pat_)
+                        # print("Before Ctx: %s" % pat_.ctx_bef)
+                        # print("After Ctx: %s" % pat_.ctx_aft)
+        logger.info("Iteration %s: \n candidate patterns: %s" % (self.iter_num,self.candidate_patterns))
 
     def _find_variant_for_word(self, word):
         for seed in self.seeds:
@@ -178,13 +181,30 @@ class Bootstrap(Basic):
     #     return defn_tokenized
 
     # TODO: score candidate patterns
-    # def score_candidate_pattern(self):
-    #
-    #     for pat in self.candidate_patterns:
-    #         if self.pattern_filter(pat) is False:
-    #             self.candidate_patterns.remove(pat)
-    #     self.patterns = self.patterns+self.candidate_patterns
-    #     self.pattern_duplicate_removal()
+    def score_candidate_pattern(self):
+
+        self.reset_generator()
+        self.reset_candidate_seeds()
+
+        for pat in self.candidate_patterns:
+            match_pat = MatchPattern(pat)
+            for i, chunk in enumerate(self.UD_data):
+                # print(chunk)
+                for index, row in chunk.iterrows():
+                    defn_sents = row['definition']
+                    for defn_sent in sent_tokenize(defn_sents):
+                        match_pat.ctx_match(defn_sent)
+
+
+
+
+
+
+        # for pat in self.candidate_patterns:
+        #     if self.pattern_filter(pat) is False:
+        #         self.candidate_patterns.remove(pat)
+        # self.patterns = self.patterns+self.candidate_patterns
+        # self.pattern_duplicate_removal()
 
     # TODO
     def get_seed_from_pattern(self):

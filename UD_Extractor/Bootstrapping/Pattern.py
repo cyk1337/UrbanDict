@@ -28,9 +28,10 @@ from nltk.tokenize import word_tokenize
 
 
 class Pattern(object):
-    def __init__(self, defn):
-        self.ctx_bef = defn.ctx_bef
-        self.ctx_aft = defn.ctx_aft
+    def __init__(self, ctx_bef, ctx_aft):
+
+        self.ctx_bef = ctx_bef
+        self.ctx_aft = ctx_aft
         self.tuples_list = []
         self.tuples_list.append(tuple)
 
@@ -49,13 +50,15 @@ class Pattern(object):
         self.useNextCtx = useNextContext
         self.usePosCtx = usePOS4Pattern
 
+        self.repr = "%s" % self.ctx_bef
+
     def parse_context(self):
         pass
 
 
 
     def __str__(self):
-        return "{}".format(self.pattern)
+        return "{}".format(self.repr)
 
     def __repr__(self):
-        return "{}".format(self.pattern)
+        return "{}".format(self.repr)

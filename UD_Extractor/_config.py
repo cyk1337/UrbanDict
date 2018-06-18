@@ -36,6 +36,7 @@ SEED_FILE = os.path.join(data_dir, 'seed.txt')
 
 pkl_dir = os.path.join(work_dir, 'pkl')
 
+MAX_ITER = 5
 
 #***use all the context from the start
 useBothContext=True
@@ -44,7 +45,7 @@ useBothContext=True
 #***use context on the left
 usePreviousContext= True
 
-CONTEXT_WINDOW_SIZE = 3
+CTX_SIZE = 4
 
 #***use context on the right
 useNextContext = False
@@ -60,3 +61,6 @@ usePOS4Pattern = False
 
 #***remove all adjectives from the text
 removeAdjPattern = False
+
+# minimum number of patterns that generated a tuple so that tuple can be used in the clustering phase
+min_pattern_support=2
