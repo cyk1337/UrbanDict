@@ -23,7 +23,7 @@
                
 '''
 from _config import *
-
+from ie_utils import detokenize
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 from nltk import pos_tag
@@ -91,8 +91,8 @@ class Definition(object):
             else:
                 ctx_aft = after + ['<EOS>']*AFT_EMPTY
 
-            ctx_bef = " ".join(ctx_bef)
-            ctx_aft = " ".join(ctx_aft)
+            ctx_bef = detokenize(ctx_bef)
+            ctx_aft = detokenize(ctx_aft)
 
             # TODO: remove stopwords in context
             self.ctx_bef = ctx_bef
@@ -144,8 +144,10 @@ class Definition(object):
                 else:
                     ctx_aft = after + ['<EOS>'] * AFT_EMPTY
 
-                ctx_bef = " ".join(ctx_bef)
-                ctx_aft = " ".join(ctx_aft)
+                # ctx_bef = " ".join(ctx_bef)
+                # ctx_aft = " ".join(ctx_aft)
+                ctx_bef = detokenize(ctx_bef)
+                ctx_aft = detokenize(ctx_aft)
 
                 # TODO: remove stopwords in context
                 self.ctx_bef = ctx_bef

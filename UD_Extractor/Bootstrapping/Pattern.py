@@ -24,6 +24,7 @@
 '''
 
 from _config import *
+from ie_utils import detokenize
 from nltk.tokenize import word_tokenize
 import re
 
@@ -69,7 +70,7 @@ class Pattern(object):
         _bef = word_tokenize(self.ctx_bef)
         if '<BOS>' in _bef:
             tok_bef = [tok for tok in _bef if tok != '<BOS>']
-            bef = ' '.join(tok_bef)
+            bef = detokenize(tok_bef)
 
 
         if useNextContext is False:
@@ -79,9 +80,9 @@ class Pattern(object):
             _aft = word_tokenize(self.ctx_aft)
             if '<EOS>' in _aft:
                 tok_aft = [tok for tok in _aft if tok != '<EOS']
-                aft = ' '.join(tok_aft)
+                aft = detokenize(tok_aft)
 
-        pat = re.compile(r"%s\s(?P<quote>(['\"]|``)){0,1}(?P<Variant>\b\w+\b)[.,]{0,1}(?P=quote){0,1}%s" % (bef, aft))
+        pat = re.compile(r"%s\s(?P<quote>(['\"]|``){0,1})(?P<Variant>\b\w+\b)[.,]{0,1}(?P=quote)%s" % (bef, aft))
         m = pat.search(defn_sent)
 
         if m is not None:
