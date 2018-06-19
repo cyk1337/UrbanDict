@@ -36,11 +36,13 @@ class Definition(object):
         self.tuple = (word, variant)
         self.defid = defid
 
-        self.defn_sent = defn_sent
+        # self.defn_sent = " ".join(word_tokenize(defn_sent.lower())) # need to deal with space between quote and token
+        self.defn_sent = defn_sent.lower()
         self.ctx_bef = None
         self.ctx_aft = None
-
-        self.stopwords = stopwords.words('english')+ ['``','(',')',"''",'"',"'","'re"]
+        stopword_list = stopwords.words('english')
+        # stopword_list.remove('of')
+        self.stopwords = stopword_list + ['``','(',')',"''",'"',"'","'re"]
 
         self.useBothCtx = useBothContext
         self.usePrevCtx = usePreviousContext
@@ -55,13 +57,13 @@ class Definition(object):
 
     def parse_ctx(self):
         matches = []
-        regex_quote = re.compile(r"(?P<quote>['\"])(?P<Variant>\b%s\b)[.]{0,1}(?P=quote)" % self.variant)
+        regex_quote = re.compile(r"(?P<quote>(['\"]|``))(?P<Variant>\b%s\b)[.]{0,1}(?P=quote)" % self.variant)
         # regex_no_quote = re.compile(r"(?P<Variant>\b%s\b)[.]{0,1}" % self.variant)
 
         for m in re.finditer(regex_quote, self.defn_sent):
             matches.append(m)
 
-        if len(matches) == 1:
+        if len(matches) >= 1:
             self.match_seed = True
             var_span = matches[0].span("Variant")
             start_quote = matches[0].start("quote")
@@ -109,12 +111,12 @@ class Definition(object):
                 matches.append(m)
 
         else:
-
+            print("sentence: %s"% self.defn_sent)
             regex_no_quote = re.compile(r"(?P<Variant>\b%s\b)[.]{0,1}" % self.variant)
             matches = []
             for m in re.finditer(regex_no_quote, self.defn_sent):
                 matches.append(m)
-            if len(matches) == 1:
+            if len(matches) >= 1:
                 self.match_seed = True
                 var_span = matches[0].span("Variant")
                 start_quote = var_span[0]
@@ -156,6 +158,7 @@ class Definition(object):
                     print("Before Ctx: %s" % self.ctx_bef)
                     print("After Ctx: %s" % self.ctx_aft)
 
+
     def _count_stopwords_in_ctx(self):
         count_bef = 0
         tok_bef = word_tokenize(self.ctx_bef)
@@ -164,7 +167,7 @@ class Definition(object):
                 count_bef += 1
 
         # if count_bef != 0 and count_bef/CTX_SIZE>.6:
-        if count_bef == len(tok_bef) and count_bef<= 2:
+        if count_bef != 0 and count_bef == len(tok_bef):
             print("Remove before ctx: %s" % self.ctx_bef)
             self.isCtxValid = False
             # self.isLeftCtxValid = False
@@ -180,15 +183,15 @@ class Definition(object):
                 count_aft += 1
 
         # if count_aft != 0 and count_aft/CTX_SIZE>.6:
-        if count_aft == len(tok_aft) and count_aft<=2:
+        if count_aft != 0 and count_aft == len(tok_aft):
             print("Remove after ctx: %s" % self.ctx_aft)
             self.isCtxValid = False
             # self.isRightCtxValid = False
 
 if __name__ == '__main__':
-    defn_sent =  'Idiotic way of spelling "loser".'
-    word = 'looser'
-    variant = 'loser'
+    defn_sent =  'alternative spelling for "mates" in text messaging and internet blogs.'
+    word = 'mates'
+    variant = 'm8'
     defid = 11272
     defn = Definition(word, variant, defn_sent, defid)
     # defn.parse_ctx()

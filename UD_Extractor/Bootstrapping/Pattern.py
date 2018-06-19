@@ -63,6 +63,7 @@ class Pattern(object):
             self.repr = "%s <Var> %s" % (self.ctx_bef, self.ctx_aft)
 
     def ctx_match(self, defn_sent, word):
+        # word = word.lower()
         bef = self.ctx_bef
 
         _bef = word_tokenize(self.ctx_bef)
@@ -80,8 +81,7 @@ class Pattern(object):
                 tok_aft = [tok for tok in _aft if tok != '<EOS']
                 aft = ' '.join(tok_aft)
 
-
-        pat = re.compile(r"%s\s(?P<quote>['\"]){0,1}(?P<Variant>\b\w+\b)[.,]{0,1}(?P=quote){0,1}%s" % (bef, aft))
+        pat = re.compile(r"%s\s(?P<quote>(['\"]|``)){0,1}(?P<Variant>\b\w+\b)[.,]{0,1}(?P=quote){0,1}%s" % (bef, aft))
         m = pat.search(defn_sent)
 
         if m is not None:
@@ -110,3 +110,9 @@ class Pattern(object):
 
     def __repr__(self):
         return "{}".format(self.repr)
+
+
+if __name__ == '__main__':
+    pat = Pattern(ctx_bef="alternative spelling for", ctx_aft='')
+    defn = 'alternative spelling for "mates" in text messaging and internet blogs.'
+    pat.ctx_match(defn, word='m8')

@@ -183,20 +183,22 @@ class Bootstrap(Basic):
     # TODO: score candidate patterns
     def score_candidate_pattern(self):
 
-        self.reset_generator()
         # self.reset_candidate_seeds()
 
-        for pat in self.candidate_patterns:
+        for i, pat in enumerate(self.candidate_patterns):
+            print('*'*80)
+            print("start searching pattern %s: %s" % (i,pat))
+            self.reset_generator()
             for i, chunk in enumerate(self.UD_data):
                 # print(chunk)
                 for index, row in chunk.iterrows():
                     defn_sents = row['definition']
-                    word = row['word']
+                    word = row['word'].lower()
                     for defn_sent in sent_tokenize(defn_sents):
                         pair = pat.ctx_match(defn_sent, word)
                         if pair is not None and pair not in self.candidate_seeds:
                             self.candidate_seeds.append(pair)
-        print("Candidate seeds:", self.candidate_seeds)
+        logger.info("Candidate seeds: %s" % self.candidate_seeds)
 
 
 
