@@ -45,7 +45,7 @@ useBothContext=True
 #***use context on the left
 usePreviousContext= True
 
-CTX_SIZE = 4
+CTX_SIZE = 3
 
 #***use context on the right
 useNextContext = False

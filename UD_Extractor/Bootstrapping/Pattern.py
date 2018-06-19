@@ -57,7 +57,10 @@ class Pattern(object):
         self.useNextCtx = useNextContext
         self.usePosCtx = usePOS4Pattern
 
-        self.repr = "%s <var> %s" % (self.ctx_bef, self.ctx_aft)
+        if useNextContext is False:
+            self.repr = "%s <Var>" % (self.ctx_bef)
+        else:
+            self.repr = "%s <Var> %s" % (self.ctx_bef, self.ctx_aft)
 
     def ctx_match(self, defn_sent, word):
         bef = self.ctx_bef
@@ -78,7 +81,7 @@ class Pattern(object):
                 aft = ' '.join(tok_aft)
 
 
-        pat = re.compile(r"%s\s(?P<quote>['\"]){0,1}(?P<Variant>\b\w+\b)[.,]{0,1}(?P=quote){0,1}\s%s" % (bef, aft))
+        pat = re.compile(r"%s\s(?P<quote>['\"]){0,1}(?P<Variant>\b\w+\b)[.,]{0,1}(?P=quote){0,1}%s" % (bef, aft))
         m = pat.search(defn_sent)
 
         if m is not None:

@@ -40,7 +40,7 @@ class Definition(object):
         self.ctx_bef = None
         self.ctx_aft = None
 
-        self.stopwords = stopwords.words('english')+ ['``','(',')',"''",'"',"'"]
+        self.stopwords = stopwords.words('english')+ ['``','(',')',"''",'"',"'","'re"]
 
         self.useBothCtx = useBothContext
         self.usePrevCtx = usePreviousContext
@@ -163,7 +163,8 @@ class Definition(object):
             if ctx_tok in self.stopwords:
                 count_bef += 1
 
-        if count_bef != 0 and count_bef/CTX_SIZE>.6:
+        # if count_bef != 0 and count_bef/CTX_SIZE>.6:
+        if count_bef == len(tok_bef) and count_bef<= 2:
             print("Remove before ctx: %s" % self.ctx_bef)
             self.isCtxValid = False
             # self.isLeftCtxValid = False
@@ -178,7 +179,8 @@ class Definition(object):
             if ctx_tok in self.stopwords:
                 count_aft += 1
 
-        if count_aft != 0 and count_aft/CTX_SIZE>.6:
+        # if count_aft != 0 and count_aft/CTX_SIZE>.6:
+        if count_aft == len(tok_aft) and count_aft<=2:
             print("Remove after ctx: %s" % self.ctx_aft)
             self.isCtxValid = False
             # self.isRightCtxValid = False

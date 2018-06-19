@@ -58,8 +58,8 @@ class Bootstrap(Basic):
     @property
     def load_sql(self):
         db_name = 'UrbanDict'
-        sql_loadUD = "SELECT defid, word, definition FROM %s" % db_name
-        # sql_loadUD = "SELECT defid, word, definition FROM %s WHERE word in ('ur','looser','m8s','partay','peaple')" % db_name
+        # sql_loadUD = "SELECT defid, word, definition FROM %s" % db_name
+        sql_loadUD = "SELECT defid, word, definition FROM %s WHERE word in ('ur','looser','m8s','partay','peaple')" % db_name
         return sql_loadUD
 
     def reset_generator(self):
