@@ -30,6 +30,7 @@ from ie_utils import load_pkl, dump_pkl
 
 class Basic(object):
     def __init__(self, chunksize=None, sql=None):
+        print("Starting loading Urdian Dict corpus ...")
         engine = sa.create_engine('mysql+pymysql://root:admin@localhost/UrbanDict?charset=utf8')
         self.conn = engine.connect()
         if sql is None:
