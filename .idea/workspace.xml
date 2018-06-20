@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="521be802-a8f4-463c-8265-af912a85c268" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/UD_Extractor/Bootstrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/Bootstrap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/baseline.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/baseline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Definition.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Definition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/data/seed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/data/seed.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/ie_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/ie_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,14 +22,15 @@
     <SUITE FILE_PATH="coverage/UrbanDict_SpellingVariants$Definition.coverage" NAME="Definition Coverage Results" MODIFIED="1529342606929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UD_Extractor/Bootstrapping" />
     <SUITE FILE_PATH="coverage/UrbanDict_SpellingVariants$twokenize.coverage" NAME="twokenize Coverage Results" MODIFIED="1527162104470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/preprocess" />
     <SUITE FILE_PATH="coverage/UrbanDict_SpellingVariants$run.coverage" NAME="run Coverage Results" MODIFIED="1528311940802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UrbanDictScraper" />
+    <SUITE FILE_PATH="coverage/UrbanDict_SpellingVariants$eval.coverage" NAME="eval Coverage Results" MODIFIED="1529519502046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UD_Extractor" />
     <SUITE FILE_PATH="coverage/UrbanDict_SpellingVariants$run_UD_spider__1_.coverage" NAME="run_UD_spider (1) Coverage Results" MODIFIED="1526988196406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UrbanDictScraper/UD_spider" />
     <SUITE FILE_PATH="coverage/UrbanDict_SpellingVariants$baseline.coverage" NAME="baseline Coverage Results" MODIFIED="1528819124954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UD_Extractor" />
     <SUITE FILE_PATH="coverage/UrbanDict_SpellingVariants$ie_utils.coverage" NAME="plot_wordcloud Coverage Results" MODIFIED="1528735682047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UD_Extractor" />
     <SUITE FILE_PATH="coverage/UrbanDict_SpellingVariants$TwitterProcess.coverage" NAME="TwitterProcess Coverage Results" MODIFIED="1528311929528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/preprocess" />
     <SUITE FILE_PATH="coverage/UrbanDict_SpellingVariants$BootstrapIE.coverage" NAME="BootstrapIE Coverage Results" MODIFIED="1529396908692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UD_Extractor" />
-    <SUITE FILE_PATH="coverage/UrbanDict_SpellingVariants$Bootstrap.coverage" NAME="Bootstrap Coverage Results" MODIFIED="1529488880375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UD_Extractor" />
+    <SUITE FILE_PATH="coverage/UrbanDict_SpellingVariants$Bootstrap.coverage" NAME="Bootstrap Coverage Results" MODIFIED="1529520448418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UD_Extractor" />
     <SUITE FILE_PATH="coverage/UrbanDict_SpellingVariants$Pattern.coverage" NAME="Pattern Coverage Results" MODIFIED="1529486581333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UD_Extractor/Bootstrapping" />
-    <SUITE FILE_PATH="coverage/UrbanDict_SpellingVariants$test.coverage" NAME="test Coverage Results" MODIFIED="1528997003650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UD_Extractor" />
+    <SUITE FILE_PATH="coverage/UrbanDict_SpellingVariants$test.coverage" NAME="test Coverage Results" MODIFIED="1529521253914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UD_Extractor" />
     <SUITE FILE_PATH="coverage/UrbanDict_SpellingVariants$run_UD_spider.coverage" NAME="run_UD_spider Coverage Results" MODIFIED="1527161938598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UrbanDictScraper/UD_spider" />
     <SUITE FILE_PATH="coverage/UrbanDict_SpellingVariants$Preprocess_sub.coverage" NAME="Preprocess_sub Coverage Results" MODIFIED="1528049189078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/preprocess" />
   </component>
@@ -41,23 +48,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="baseline.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/UD_Extractor/baseline.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-              <folding>
-                <element signature="e#499#518#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Seed.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Seed.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+            <state relative-caret-position="361">
+              <caret line="36" column="68" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="36" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -65,17 +60,23 @@
       <file leaf-file-name="Tuple.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-66">
-              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+            <state relative-caret-position="399">
+              <caret line="42" column="64" selection-start-line="42" selection-start-column="64" selection-end-line="42" selection-end-column="64" />
+              <folding>
+                <element signature="e#497#532#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UD_Extractor/_config.py">
+      <file leaf-file-name="eval.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UD_Extractor/eval.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="287">
+              <caret line="63" column="25" lean-forward="true" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+              <folding>
+                <element signature="e#495#516#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,8 +84,8 @@
       <file leaf-file-name="Definition.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Definition.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1949">
-              <caret line="175" lean-forward="true" selection-start-line="175" selection-end-line="175" />
+            <state relative-caret-position="5">
+              <caret line="104" column="31" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
               <folding>
                 <element signature="e#501#522#0" expanded="true" />
               </folding>
@@ -92,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bootstrap.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Bootstrap.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+            <state relative-caret-position="328">
+              <caret line="240" column="59" selection-start-line="240" selection-start-column="59" selection-end-line="240" selection-end-column="59" />
               <folding>
                 <element signature="e#499#539#0" expanded="true" />
               </folding>
@@ -107,11 +108,32 @@
       <file leaf-file-name="Pattern.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="88" column="76" selection-start-line="88" selection-start-column="76" selection-end-line="88" selection-end-column="76" />
+            <state relative-caret-position="139">
+              <caret line="107" column="43" selection-start-line="107" selection-start-column="32" selection-end-line="107" selection-end-column="43" />
               <folding>
                 <element signature="e#499#520#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UD_Extractor/_config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="40" selection-start-line="40" selection-end-line="40" selection-end-column="41" />
+              <folding>
+                <element signature="e#499#508#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seed.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UD_Extractor/data/seed.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -127,20 +149,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>set()</find>
-      <find>iteration</find>
-      <find>time</find>
-      <find>candidate_s</find>
-      <find>honetic spelling how some</find>
-      <find>has extreme</find>
-      <find>individuals</find>
-      <find>way of say</find>
-      <find>your,</find>
-      <find>individual</find>
-      <find>Pronounce as:</find>
-      <find>pronounce as :</find>
-      <find>abbre</find>
-      <find>match_seed</find>
       <find>alternative spelling for</find>
       <find>stop</find>
       <find>alternative spe</find>
@@ -156,7 +164,21 @@
       <find>('looser', 'loser')</find>
       <find>way of saying</find>
       <find>of the word</find>
+      <find>pattern</find>
       <find>join</find>
+      <find>&lt;Var&gt;</find>
+      <find>==</find>
+      <find>alterna</find>
+      <find>CTX</find>
+      <find>EOS</find>
+      <find>hoe</find>
+      <find>ghey</find>
+      <find>BOS( see</find>
+      <find>abbr</find>
+      <find>``</find>
+      <find>tuples_list</find>
+      <find>seeds</find>
+      <find>candidate_seeds</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -198,23 +220,24 @@
         <option value="$PROJECT_DIR$/UD_Extractor/plot_wordcloud.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/settings.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/__init__.py" />
-        <option value="$PROJECT_DIR$/UD_Extractor/data/seed.txt" />
-        <option value="$PROJECT_DIR$/UD_Extractor/test.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/Pattern.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/Seed.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/Tuple.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/Bootstrapping.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/Bootstrapping/__init__.py" />
-        <option value="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/BootstrapIE.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/Bootstrapping/MatchPattern.py" />
-        <option value="$PROJECT_DIR$/UD_Extractor/_config.py" />
-        <option value="$PROJECT_DIR$/UD_Extractor/ie_utils.py" />
-        <option value="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Definition.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Seed.py" />
-        <option value="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py" />
-        <option value="$PROJECT_DIR$/UD_Extractor/Bootstrap.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/baseline.py" />
+        <option value="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Definition.py" />
+        <option value="$PROJECT_DIR$/UD_Extractor/ie_utils.py" />
+        <option value="$PROJECT_DIR$/UD_Extractor/data/seed.txt" />
+        <option value="$PROJECT_DIR$/UD_Extractor/_config.py" />
+        <option value="$PROJECT_DIR$/UD_Extractor/eval.py" />
+        <option value="$PROJECT_DIR$/UD_Extractor/test.py" />
+        <option value="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py" />
+        <option value="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py" />
+        <option value="$PROJECT_DIR$/UD_Extractor/Bootstrap.py" />
       </list>
     </option>
   </component>
@@ -279,6 +302,18 @@
               <item name="UD_Extractor" type="462c0819:PsiDirectoryNode" />
               <item name="Bootstrapping" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="UrbanDict_SpellingVariants" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UrbanDict_SpellingVariants" type="462c0819:PsiDirectoryNode" />
+              <item name="UD_Extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UrbanDict_SpellingVariants" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UrbanDict_SpellingVariants" type="462c0819:PsiDirectoryNode" />
+              <item name="UD_Extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="iter_result" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -321,7 +356,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Bootstrap">
+  <component name="RunManager" selected="Python.test">
     <configuration name="Bootstrap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="UrbanDict_SpellingVariants" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -360,25 +395,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Definition" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="UrbanDict_SpellingVariants" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UD_Extractor/Bootstrapping" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Definition.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="Pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="UrbanDict_SpellingVariants" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -393,6 +409,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="eval" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UrbanDict_SpellingVariants" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UD_Extractor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UD_Extractor/eval.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -419,18 +454,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.BootstrapIE" />
-      <item itemvalue="Python.test" />
       <item itemvalue="Python.Bootstrap" />
-      <item itemvalue="Python.Definition" />
       <item itemvalue="Python.Pattern" />
+      <item itemvalue="Python.eval" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.Bootstrap" />
+        <item itemvalue="Python.eval" />
         <item itemvalue="Python.Pattern" />
         <item itemvalue="Python.BootstrapIE" />
-        <item itemvalue="Python.Definition" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -464,12 +499,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50074965" side_tool="true" weight="0.4002642" />
       <window_info anchor="right" x="0" y="0" width="290" height="677" id="Documentation" order="6" side_tool="true" weight="0.329296" />
       <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32893" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925038" visible="true" weight="0.38778055" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49925038" visible="true" weight="0.38778055" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32793018" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32668328" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49925038" weight="0.18578553" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.329296" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.369814" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.369814" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.329296" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -529,78 +564,80 @@
           <option name="timeStamp" value="153" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py</url>
-          <line>322</line>
-          <option name="timeStamp" value="156" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py</url>
-          <line>138</line>
+          <line>149</line>
           <option name="timeStamp" value="204" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Definition.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py</url>
-          <line>204</line>
-          <option name="timeStamp" value="206" />
+          <line>129</line>
+          <option name="timeStamp" value="225" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="207" />
+      <option name="time" value="226" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="pat.search(defn_sent)" language="Python" />
+        <watch expression="self.defn_sent[32]" language="Python" />
+        <watch expression="self.defn_sent[var_span[1]]" language="Python" />
+        <watch expression="self.defn_sent" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>pat.search(defn_sent)</expression-string>
+        <expression-string>self.defn_sent[var_span[1]]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>'individuals' in defn_sent</expression-string>
+        <expression-string>self.defn_sent[32]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>regex_quote.search(defn_sent)</expression-string>
+        <expression-string>self.defn_sent[31]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>sent_tokenize(defn_sent)</expression-string>
+        <expression-string>self.defn_sent</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>defn.ctx_bef</expression-string>
+        <expression-string>self.defn_sent[34]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>self.seeds</expression-string>
+        <expression-string>self.defn_sent[33]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len(&quot; &quot;.join(after).split('.'))</expression-string>
+        <expression-string>self.defn_sent[25:32]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>&quot; &quot;.join(after).split('.')</expression-string>
+        <expression-string>regex_quote.search('moronic abbreviation for &quot;your,&quot; &quot;you are,&quot; or &quot;you\'re.&quot;')</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>matches[0].span('string')</expression-string>
+        <expression-string>regex_quote.search('')</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>defn_sent[matches[0].span('string')]</expression-string>
+        <expression-string>self.defn_sent[30]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -633,27 +670,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../ENV/anaconda3/envs/mlp/lib/python3.6/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="320" selection-start-line="320" selection-end-line="320" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../ENV/anaconda3/envs/mlp/lib/python3.6/site-packages/matplotlib/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="1059" selection-start-line="1059" selection-end-line="1059" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../ENV/anaconda3/envs/mlp/lib/python3.6/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="484" column="25" selection-start-line="484" selection-start-column="25" selection-end-line="484" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/WordCloud/stormtrooper_mask.png" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -770,13 +786,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../ENV/anaconda3/envs/mlp/lib/python3.6/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="292" selection-start-line="292" selection-end-line="292" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UrbanDictScraper/UD_spider/spiders/UD.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -805,13 +814,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/data/seed.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../ENV/anaconda3/envs/mlp/lib/python3.6/site-packages/IPython/core/interactiveshell.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -823,16 +825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="53" selection-start-line="53" selection-end-line="54" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
-          <folding>
-            <element signature="e#499#518#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -874,64 +866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../ENV/anaconda3/envs/mlp/lib/python3.6/site-packages/nltk/tokenize/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="112" column="4" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/ie_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="54" column="15" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
-          <folding>
-            <element signature="e#500#521#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Seed.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="88" column="76" selection-start-line="88" selection-start-column="76" selection-end-line="88" selection-end-column="76" />
-          <folding>
-            <element signature="e#499#520#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/_config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Definition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1949">
-          <caret line="175" lean-forward="true" selection-start-line="175" selection-end-line="175" />
-          <folding>
-            <element signature="e#501#522#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/2145055069/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
@@ -939,22 +873,126 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py">
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/baseline.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        <state relative-caret-position="-647">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
           <folding>
-            <element signature="e#499#539#0" expanded="true" />
+            <element signature="e#499#518#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/baseline.py">
+    <entry file="file://$PROJECT_DIR$/../../ENV/anaconda3/envs/mlp/lib/python3.6/re.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        <state relative-caret-position="127">
+          <caret line="228" selection-start-line="228" selection-end-line="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ENV/anaconda3/envs/mlp/lib/python3.6/site-packages/nltk/tokenize/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="99" column="58" lean-forward="true" selection-start-line="99" selection-start-column="58" selection-end-line="99" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/data/spelling_variants_valid.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/data/seed.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/ie_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#500#521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/Iter1/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="68" column="7" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
           <folding>
             <element signature="e#499#518#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="40" selection-start-line="40" selection-end-line="40" selection-end-column="41" />
+          <folding>
+            <element signature="e#499#508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/eval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="63" column="25" lean-forward="true" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+          <folding>
+            <element signature="e#495#516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="107" column="43" selection-start-line="107" selection-start-column="32" selection-end-line="107" selection-end-column="43" />
+          <folding>
+            <element signature="e#499#520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Seed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="36" column="68" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="36" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="42" column="64" selection-start-line="42" selection-start-column="64" selection-end-line="42" selection-end-column="64" />
+          <folding>
+            <element signature="e#497#532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Definition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="104" column="31" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
+          <folding>
+            <element signature="e#501#522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="240" column="59" selection-start-line="240" selection-start-column="59" selection-end-line="240" selection-end-column="59" />
+          <folding>
+            <element signature="e#499#539#0" expanded="true" />
           </folding>
         </state>
       </provider>

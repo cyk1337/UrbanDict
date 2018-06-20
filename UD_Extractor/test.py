@@ -45,12 +45,27 @@ import re
 # diff2 = set(d1.keys())^set(d2.keys())
 # print(diff)
 
-def pattern_filter(candidate_pattern):
-    non_pat_list = ['synonym', ]
-    for non_pat in non_pat_list:
-        if non_pat in candidate_pattern:
-            return False
-        else:
-            return True
+# def pattern_filter(candidate_pattern):
+#     non_pat_list = ['synonym', ]
+#     for non_pat in non_pat_list:
+#         if non_pat in candidate_pattern:
+#             return False
+#         else:
+#             return True
+#
+# print(pattern_filter(['synonym', 'for']))
 
-print(pattern_filter(['synonym', 'for']))
+class Test:
+    def __init__(self):
+        self.x = 0
+
+
+t = Test()
+print(t.x)
+l = list()
+l.append(t)
+t.x +=1
+print(t.x)
+t.x +=1
+print(l[0].x)
+

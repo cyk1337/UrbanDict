@@ -43,7 +43,8 @@ class Pattern(object):
         # RlogF metric
         self.match_seed_count = 0
         self.match_tot_count = 0
-        self.RlogF_score = None
+        # self.match_dupl_count = 0
+        self.RlogF_score = -1
 
         # Snowball metric
         # self.positive = 0
@@ -72,9 +73,11 @@ class Pattern(object):
         bef = self.ctx_bef
 
         _bef = word_tokenize(self.ctx_bef)
-        if '<BOS>' in _bef:
-            tok_bef = [tok for tok in _bef if tok != '<BOS>']
+        if BEGIN_OF_SENT in _bef:
+            tok_bef = [tok for tok in _bef if tok != BEGIN_OF_SENT]
             bef = detokenize(tok_bef)
+        if '(' in _bef and ')' not in _bef:
+            bef = detokenize(tok_bef).replace('(', '\(')
 
 
         if useNextContext is False:
@@ -82,20 +85,29 @@ class Pattern(object):
         else:
             aft = self.ctx_aft
             _aft = word_tokenize(self.ctx_aft)
-            if '<EOS>' in _aft:
-                tok_aft = [tok for tok in _aft if tok != '<EOS']
+            if END_OF_SENT in _aft:
+                tok_aft = [tok for tok in _aft if tok != END_OF_SENT]
                 aft = detokenize(tok_aft)
 
-        pat = re.compile(r"%s\s(?P<quote>(['\"]|``){0,1})(?P<Variant>\b[\w-]+\b)[.,]{0,1}(?P=quote)%s" % (bef, aft))
-        m = pat.search(defn_sent)
+        pat = re.compile(r"%s\s(?P<quote>['\"]{0,1})(?P<Variant>[\w-]+)[.,]{0,1}(?P=quote)%s" % (bef, aft))
+        m = pat.search(defn_sent.lower())
 
         if m is not None:
             var = m.group('Variant').lower()
+            # TODO: rule `way of spelling` the name "xx", also require compute word similarity if possible
+            # if var in stopwords:
+            #     # Allow for 3 tokens between quote and pattern ctx
+            #     pat_ = re.compile(r"%\s(\w+|\s){0,6}(?P<q>(['\"]|``))(?P<Variant>[\w-]+)(?P=q)%s" % (bef, aft))
+            #     m_ = pat_.search(defn_sent)
+            #     if m_ is not None:
+            #         var = m_.group('Variant').lower()
             pair = (word, var)
+            # self.match_dupl_count += 1
             self.match_tot_count += 1
 
             if pair not in self.tuples_list:
                 self.tuples_list.append(pair)
+
             if pair in seeds_list:
                 self.match_seed_count += 1
             print(defn_sent)
@@ -110,11 +122,10 @@ class Pattern(object):
         #     print("Didn't match")
         #     print('-'*80)
 
-    def update_RlogF_score(self):
+    def calc_RlogF_score(self):
         if self.match_seed_count >0 and self.match_tot_count>0:
             self.RlogF_score = (self.match_seed_count/self.match_tot_count) * math.log2(self.match_seed_count)
-        else:
-            self.RlogF_score = -1
+
 
     def __eq__(self, other):
         if useNextContext is False and self.ctx_bef == other.ctx_bef:

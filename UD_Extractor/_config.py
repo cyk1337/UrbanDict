@@ -24,7 +24,7 @@
 '''
 
 import os
-
+from nltk.corpus import stopwords
 # ------------------------
 # extraction config
 # ------------------------
@@ -33,10 +33,24 @@ work_dir = os.path.dirname(os.path.abspath(__file__))
 
 data_dir = os.path.join(work_dir, 'data')
 SEED_FILE = os.path.join(data_dir, 'seed.txt')
+VALID_FILE = os.path.join(data_dir, 'spelling_variants_valid.txt')
 
 pkl_dir = os.path.join(work_dir, 'pkl')
 
+iter_dir = os.path.join(work_dir, 'iter_result')
+prec_dir = os.path.join(iter_dir, 'prec')
+rec_dir = os.path.join(iter_dir, 'rec')
+
+
+BEGIN_OF_SENT = 'BOS'
+END_OF_SENT = 'EOS'
+
 MAX_ITER = 5
+
+# nltk word_tokenize usually transforms the double quote " to two forward quotes `` and backward quotes ''
+stopword_list = stopwords.words('english')
+# stopword_list.remove('of')
+stopwords = stopword_list + ['``',"''",'(',')','"',"'","'re",BEGIN_OF_SENT,END_OF_SENT]
 
 #***use all the context from the start
 useBothContext=True
@@ -45,7 +59,8 @@ useBothContext=True
 #***use context on the left
 usePreviousContext= True
 
-CTX_SIZE = 3
+CTX_PREV_SIZE = 3
+CTX_NEXT_SIZE = 1
 
 #***use context on the right
 useNextContext = False
@@ -64,3 +79,4 @@ removeAdjPattern = False
 
 # minimum number of patterns that generated a tuple so that tuple can be used in the clustering phase
 min_pattern_support=2
+

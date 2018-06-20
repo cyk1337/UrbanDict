@@ -21,8 +21,23 @@
 
 @desc：       
                
-'''              
-class Tuple(object):
+'''
+from collections import defaultdict
+import math
+
+from Bootstrapping.Seed import Seed
+
+class Tuple(Seed):
     def __init__(self, word, variant):
         self.word = word
         self.variant = variant
+
+        self.pattern_list = list()
+        self.RlogF_ent_score = None
+
+    def calc_RlogF_score(self):
+        numerator = 0
+        for pat in self.patterns:
+            Fj = len(set(pat.tuples_list))
+            numerator += math.log2(Fj+1)
+        self.RlogF_ent_score = numerator / len(self.pattern_list)

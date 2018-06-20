@@ -25,7 +25,6 @@
 from _config import *
 from ie_utils import detokenize
 from nltk.tokenize import word_tokenize, sent_tokenize
-from nltk.corpus import stopwords
 from nltk import pos_tag
 import re
 
@@ -40,24 +39,24 @@ class Definition(object):
         self.defn_sent = defn_sent.lower()
         self.ctx_bef = None
         self.ctx_aft = None
-        stopword_list = stopwords.words('english')
-        # stopword_list.remove('of')
-        self.stopwords = stopword_list + ['``','(',')',"''",'"',"'","'re",'<BOS>','<EOS>']
+
+        self.stopwords = stopwords
 
         self.useBothCtx = useBothContext
         self.usePrevCtx = usePreviousContext
         self.useNextCtx = useNextContext
         self.usePosCtx = usePOS4Pattern
         self.match_seed = None
-        self.isCtxValid = True
-        self.isLeftCtxValid = False
-        self.isRightCtxValid = False
+        self.isCtxValid = None
+        self.isLeftCtxValid = None
+        self.isRightCtxValid = None
 
         self.parse_ctx()
 
     def parse_ctx(self):
         matches = []
-        regex_quote = re.compile(r"(?P<quote>(['\"]|``))(?P<Variant>\b%s\b)[.]{0,1}(?P=quote)" % self.variant)
+        # regex_quote = re.compile(r"(?P<quote>['\"])(?P<Variant>\b%s\b)[.]{0,1}(?P=quote)" % self.variant)
+        regex_quote = re.compile(r"(?P<quote>['\"])(?P<Variant>\b%s\b)[.,]{0,1}(?P=quote)" % self.variant)
         # regex_no_quote = re.compile(r"(?P<Variant>\b%s\b)[.]{0,1}" % self.variant)
 
         for m in re.finditer(regex_quote, self.defn_sent):
@@ -67,7 +66,10 @@ class Definition(object):
             self.match_seed = True
             var_span = matches[0].span("Variant")
             start_quote = matches[0].start("quote")
-            end_quote = matches[0].end("quote")
+            if self.defn_sent[var_span[1]] in ["'", '"']:
+                end_quote = var_span[1]+1
+            else:
+                end_quote = var_span[1]+2
             start = 0
             before = word_tokenize(self.defn_sent[start:start_quote])
             after = word_tokenize(self.defn_sent[end_quote:])
@@ -79,17 +81,17 @@ class Definition(object):
             #     ctx_aft = " ".join(after).split('.')[:1]
 
             # if length less than ctx window size, pad with <BOS>
-            BEF_EMPTY = CTX_SIZE - len(before)
-            if not BEF_EMPTY>0:
-                ctx_bef = before[-CTX_SIZE:]
+            BEF_EMPTY = CTX_PREV_SIZE - len(before)
+            if BEF_EMPTY<=0:
+                ctx_bef = before[-CTX_PREV_SIZE:]
             else:
-                ctx_bef = ['<BOS>']*BEF_EMPTY + before
+                ctx_bef = [BEGIN_OF_SENT]*BEF_EMPTY + before
             # if length less than ctx window size, pad with <EOS>
-            AFT_EMPTY = CTX_SIZE - len(after)
-            if not AFT_EMPTY>0:
-                ctx_aft = after[:CTX_SIZE]
+            AFT_EMPTY = CTX_NEXT_SIZE - len(after)
+            if AFT_EMPTY<=0:
+                ctx_aft = after[:CTX_NEXT_SIZE]
             else:
-                ctx_aft = after + ['<EOS>']*AFT_EMPTY
+                ctx_aft = after + [END_OF_SENT]*AFT_EMPTY
 
             ctx_bef = detokenize(ctx_bef)
             ctx_aft = detokenize(ctx_aft)
@@ -132,17 +134,17 @@ class Definition(object):
                 #     ctx_aft = " ".join(after).split('.')[:1]
 
                 # if length less than ctx window size, pad with <BOS>
-                BEF_EMPTY = CTX_SIZE - len(before)
+                BEF_EMPTY = CTX_PREV_SIZE - len(before)
                 if not BEF_EMPTY > 0:
-                    ctx_bef = before[-CTX_SIZE:]
+                    ctx_bef = before[-CTX_PREV_SIZE:]
                 else:
-                    ctx_bef = ['<BOS>'] * BEF_EMPTY + before
+                    ctx_bef = [BEGIN_OF_SENT] * BEF_EMPTY + before
                 # if length less than ctx window size, pad with <EOS>
-                AFT_EMPTY = CTX_SIZE - len(after)
+                AFT_EMPTY = CTX_NEXT_SIZE - len(after)
                 if not AFT_EMPTY > 0:
-                    ctx_aft = after[:CTX_SIZE]
+                    ctx_aft = after[:CTX_NEXT_SIZE]
                 else:
-                    ctx_aft = after + ['<EOS>'] * AFT_EMPTY
+                    ctx_aft = after + [END_OF_SENT] * AFT_EMPTY
 
                 # ctx_bef = " ".join(ctx_bef)
                 # ctx_aft = " ".join(ctx_aft)
@@ -162,6 +164,7 @@ class Definition(object):
 
 
     def _count_stopwords_in_ctx(self):
+
         count_bef = 0
         tok_bef = word_tokenize(self.ctx_bef)
         for ctx_tok in tok_bef:
@@ -171,12 +174,19 @@ class Definition(object):
         # if count_bef != 0 and count_bef/CTX_SIZE>.6:
         if count_bef != 0 and count_bef == len(tok_bef):
             print("Remove before ctx: %s" % self.ctx_bef)
+            if useNextContext is False:
+                self.isLeftCtxValid = False
             self.isCtxValid = False
-            # self.isLeftCtxValid = False
+        else:
+            self.isCtxValid = True
+            self.isLeftCtxValid = True
 
         # context 'NN' constraint
         # if 'NN' not in [tag_pair[1] for tag_pair in pos_tag(tok_bef)]:
         #     self.isCtxValid = False
+
+        if useNextContext is False:
+            return
 
         count_aft = 0
         tok_aft = word_tokenize(self.ctx_aft)
@@ -187,8 +197,9 @@ class Definition(object):
         # if count_aft != 0 and count_aft/CTX_SIZE>.6:
         if count_aft != 0 and count_aft == len(tok_aft):
             print("Remove after ctx: %s" % self.ctx_aft)
-            self.isCtxValid = False
-            # self.isRightCtxValid = False
+            self.isRightCtxCtxValid = False
+        else:
+            self.isRightCtxValid = True
 
 if __name__ == '__main__':
     defn_sent =  'alternative spelling for "mates" in text messaging and internet blogs.'
