@@ -228,7 +228,7 @@ class Bootstrap(Basic):
         logger.info("%s candidate seeds: %s" % (len(self.candidate_tuples), self.candidate_tuples))
 
 
-        # TODO: filter out patterns, add to pattern, empty pattern pool
+        # TODO: filter out top patterns, add to pattern, empty pattern pool
 
         for tup in self.candidate_tuples:
             tup.calc_RlogF_score()
@@ -240,6 +240,7 @@ class Bootstrap(Basic):
             print("RlogF_entity_score: %s" % t.RlogF_ent_score)
             print("candidate patterns: %s" % t.pattern_list)
 
+        # TODO : filter out top tuples
     # def get_seed_from_pattern(self):
     #     # test
     #     # self.patterns = [['individuals', 'way', 'of', 'saying'],
