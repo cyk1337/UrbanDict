@@ -218,6 +218,7 @@ class Bootstrap(Basic):
 
         self.candidate_patterns.sort(key=lambda p: p.RlogF_score, reverse=True)
         for pat in self.candidate_patterns:
+            logger.info("RlogF score of patterns:")
             print('#'*80)
             print("pattern: %s" % pat)
             print("RlogF_score: %s" % pat.RlogF_score)
@@ -235,7 +236,8 @@ class Bootstrap(Basic):
 
         self.candidate_tuples.sort(key=lambda t: t.RlogF_ent_score, reverse=True)
         for t in self.candidate_tuples:
-            print('#'*80)
+            logger.info("RlogF score of tuples:")
+            print('$'*80)
             print("tuple: %s" % t)
             print("RlogF_entity_score: %s" % t.RlogF_ent_score)
             print("candidate patterns: %s" % t.pattern_list)
