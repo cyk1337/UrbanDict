@@ -237,7 +237,7 @@ class Bootstrap(Basic):
         for t in self.candidate_tuples:
             print('#'*80)
             print("tuple: %s" % t)
-            print("RlogF_score: %s" % t.RlogF_ent_score)
+            print("RlogF_entity_score: %s" % t.RlogF_ent_score)
             print("candidate patterns: %s" % t.pattern_list)
 
     # def get_seed_from_pattern(self):
