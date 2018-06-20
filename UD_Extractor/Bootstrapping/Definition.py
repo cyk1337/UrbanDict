@@ -42,7 +42,7 @@ class Definition(object):
         self.ctx_aft = None
         stopword_list = stopwords.words('english')
         # stopword_list.remove('of')
-        self.stopwords = stopword_list + ['``','(',')',"''",'"',"'","'re"]
+        self.stopwords = stopword_list + ['``','(',')',"''",'"',"'","'re",'<BOS>','<EOS>']
 
         self.useBothCtx = useBothContext
         self.usePrevCtx = usePreviousContext

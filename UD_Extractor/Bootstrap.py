@@ -58,7 +58,8 @@ class Bootstrap(Basic):
     @property
     def load_sql(self):
         db_name = 'UrbanDict'
-        sql_loadUD = "SELECT defid, word, definition FROM %s" % db_name
+        # sql_loadUD = "SELECT defid, word, definition FROM %s" % db_name
+        sql_loadUD = "SELECT defid, word, definition FROM %s LIMIT 10000000" % db_name
         # sql_loadUD = "SELECT defid, word, definition FROM %s WHERE word in ('ur','looser','m8s','partay','peaple')" % db_name
         return sql_loadUD
 
@@ -122,11 +123,9 @@ class Bootstrap(Basic):
 
 
         # assert self.chunksize is not None, "Chunksize is None!! Assign a real number and continue:)"
-
+        seed_words = [tup_.word for tup_ in self.seeds]
         for i, chunk in enumerate(self.UD_data):
             # print(chunk)
-            seed_words = [tup_.word for tup_ in self.seeds]
-
             df_word = chunk.ix[chunk['word'].str.lower().isin(seed_words)]
             for index, row in df_word.iterrows():
                 defn_sents = row['definition']
@@ -138,10 +137,14 @@ class Bootstrap(Basic):
                     if defn.match_seed is True and defn.isCtxValid is True:
                         # TODO: use pattern obj to count?
                         pat_ = Pattern(defn.ctx_bef, defn.ctx_aft)
-                        self.candidate_patterns.append(pat_)
+                        if pat_ not in self.candidate_patterns:
+                            self.candidate_patterns.append(pat_)
                         # print("Before Ctx: %s" % pat_.ctx_bef)
                         # print("After Ctx: %s" % pat_.ctx_aft)
-        logger.info("Iteration %s: \n candidate patterns: %s" % (self.iter_num,self.candidate_patterns))
+        logger.info("Iteration %s: \n %s candidate patterns: %s"
+                    %
+                    (self.iter_num, len(self.candidate_patterns), self.candidate_patterns)
+        )
 
     def _find_variant_for_word(self, word):
         for seed in self.seeds:
@@ -184,7 +187,7 @@ class Bootstrap(Basic):
     def score_candidate_pattern(self):
 
         # self.reset_candidate_seeds()
-
+        seeds_list = [(tup_.word, tup_.variant) for tup_ in self.seeds]
         for i, pat in enumerate(self.candidate_patterns):
             print('*'*80)
             print("start searching pattern %s: %s" % (i,pat))
@@ -195,10 +198,17 @@ class Bootstrap(Basic):
                     defn_sents = row['definition']
                     word = row['word'].lower()
                     for defn_sent in sent_tokenize(defn_sents):
-                        pair = pat.ctx_match(defn_sent, word)
+                        pair = pat.ctx_match(defn_sent, word, seeds_list)
                         if pair is not None and pair not in self.candidate_seeds:
                             self.candidate_seeds.append(pair)
-        logger.info("Candidate seeds: %s" % self.candidate_seeds)
+        for pat in self.candidate_patterns:
+            pat.update_RlogF_score()
+
+        self.candidate_patterns.sort(key=lambda p: p.RlogF_score, reverse=True)
+        for pat in self.candidate_patterns:
+            print(pat, pat.RlogF_score, pat.match_seed_count, pat.match_tot_count, pat.tuples_list)
+
+        logger.info("%s candidate seeds: %s" % (len(self.candidate_seeds), self.candidate_seeds))
 
 
 
@@ -311,14 +321,13 @@ def main():
     bootstrap_.score_candidate_pattern()
     # bootstrap_.get_seed_from_pattern()
     # candidate_patterns = bootstrap_.candidate_patterns
-
+    bootstrap_.get_runtime()
     # start bootstrap
     # bootstrap_ie.init_bootstrap()
     print('-'*100)
     # print("Candidate pattern list:", bootstrap_.patterns)
     # print("Candidate seed list:", bootstrap_.seeds)
     # bootstrap_ie.get_seed_from_pattern()
-
 
 if __name__ == "__main__":
     main()
