@@ -236,7 +236,7 @@ class Bootstrap(Basic):
         self.candidate_patterns.sort(key=lambda p: p.RlogF_score, reverse=True)
 
         self.candidate_patterns = [p for p in self.candidate_patterns if p.RlogF_score > 0]
-        N_pattern = 5
+        N_pattern = 10
         if len(self.candidate_patterns) <= N_pattern:
             # self.patterns += [p for p in self.candidate_patterns if p not in self.patterns]
             self.patterns = self.candidate_patterns
@@ -313,7 +313,7 @@ class Bootstrap(Basic):
         rec = eval_recall([(t.word, t.variant) for t in self.candidate_tuples])
         self.rec.append(rec)
 
-        N_tuple = 20
+        N_tuple = 10
         if len(self.candidate_patterns) <= N_tuple:
             self.seeds += [tup for tup in self.candidate_tuples if tup not in self.seeds]
         else:
