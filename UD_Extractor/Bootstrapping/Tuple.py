@@ -53,15 +53,19 @@ class Tuple(Seed):
 
     def __str__(self):
         if self.RlogF_ent_score is not None:
-            return "({}, {})\t{}".format(self.word, self.variant,self.RlogF_ent_score)
+            return "({}, {})\t{}\t {}".format(self.word, self.variant,self.RlogF_ent_score, self.defid_list)
         else:
             return "({}, {})".format(self.word, self.variant)
 
 if __name__ == '__main__':
-    t = Tuple(1,2)
-    t2 = Tuple(1,2)
-    print(t in [t2])
-    from eval import save_iter
-
-    save_iter(1, [t,t2], 'test', exp_name='test')
+    # t = Tuple(1,2)
+    # t2 = Tuple(1,2)
+    # print(t in [t2])
+    # from eval import save_iter
+    #
+    # save_iter(1, [t,t2], 'test', exp_name='test')
+    from eval import load_iter
+    t_list = load_iter(0, 'tup.pkl')
+    for t in t_list:
+        print(t.defid_list, t.pattern_list, t)
 

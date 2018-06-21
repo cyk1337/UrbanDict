@@ -50,7 +50,7 @@ class Bootstrap(Basic):
         self.candidate_patterns = list()
 
         self.seeds = list()
-        self.processed_tuples = []
+        # self.processed_tuples = []
         self.candidate_tuples = list()
         # self.candidate_tuples = defaultdict(list)
 
@@ -60,8 +60,8 @@ class Bootstrap(Basic):
 
     @property
     def load_sql(self):
-        # sql_loadUD = "SELECT defid, word, definition FROM %s" % self.tbl_name
-        sql_loadUD = "SELECT defid, word, definition FROM %s LIMIT 900000" % self.tbl_name
+        sql_loadUD = "SELECT defid, word, definition FROM %s" % self.tbl_name
+        # sql_loadUD = "SELECT defid, word, definition FROM %s LIMIT 900000" % self.tbl_name
         # sql_loadUD = "SELECT defid, word, definition FROM %s WHERE word in ('ho', 'owned', 'owns', 'chode', 'cool')" % self.tbl_name
         # sql_loadUD = "SELECT defid, word, definition FROM UrbanDict WHERE defid=172638"
         return sql_loadUD
@@ -79,7 +79,7 @@ class Bootstrap(Basic):
         # initialize seed instances from file
         self.read_init_seeds_from_file(seed_file=SEED_FILE)
 
-        while self.iter_num <= MAX_ITER:
+        while self.iter_num < MAX_ITER:
             self.seeds_num.append(len(self.seeds))
             print("Iteratin num: {}, seed_num:{}".format(self.iter_num, self.seeds_num[self.iter_num]))
             print("*"*80)
@@ -89,16 +89,16 @@ class Bootstrap(Basic):
             logger.info("Iteration {} starting...".format(self.iter_num))
 
             self.generate_pattern_from_seeds()
-
-            # TODO: score patterns
+            # RlogF metric
             self.score_candidate_pattern()
-            # self.get_seed_from_pattern()
-            # TODO: evaluate seeds
-            # self.score_candidate_seed()
+            self.get_seed_from_pattern()
+
 
             if self.iter_num>1 and self.seeds_num[self.iter_num] == self.seeds_num[self.iter_num - 1]:
                 print('Overall 0-{} iteration'.format(self.iter_num))
                 break
+
+            self.get_runtime()
             self.iter_num = self.iter_num + 1
 
         self.close_bootstrap()
@@ -110,7 +110,7 @@ class Bootstrap(Basic):
             for line in f.readlines():
                 line_ = line.split()
                 if len(line_) == 2:
-                    tup_seed = Seed(line_[0].lower(), line_[1].lower())
+                    tup_seed = Tuple(line_[0].lower(), line_[1].lower())
                     self.seeds.append(tup_seed)
             print("Initial {} seeds: {}".format(len(self.seeds), self.seeds))
 
@@ -123,7 +123,6 @@ class Bootstrap(Basic):
         if self.iter_num > 0:
             self.reset_generator()
             self.reset_candidate_pattern()
-
 
         # assert self.chunksize is not None, "Chunksize is None!! Assign a real number and continue:)"
         seed_words = [tup_.word for tup_ in self.seeds]
@@ -153,6 +152,7 @@ class Bootstrap(Basic):
 
     def _find_variant_for_word(self, word):
         for seed in self.seeds:
+        # for seed in self.processed_tuples:
             if word == seed.word:
                 return seed.variant
 
@@ -191,7 +191,6 @@ class Bootstrap(Basic):
     # TODO: score candidate patterns: RlogF metric
     def score_candidate_pattern(self):
 
-        # self.reset_candidate_tuples()
         seeds_list = [(tup_.word, tup_.variant) for tup_ in self.seeds]
 
         for _, pat in enumerate(self.candidate_patterns):
@@ -218,19 +217,19 @@ class Bootstrap(Basic):
                         if pair is None:
                             continue
                         else:
-                            tup = Tuple(pair[0], pair[1])
-
-                            if tup not in self.candidate_tuples:
-                                self.candidate_tuples.append(tup)
-
-                            # tuple score count
-                            if pat not in tup.pattern_list:
-                                tup.pattern_list.append(pat)
-                                tup.defid_list.append(defid)
+                            # tup = Tuple(pair[0], pair[1])
+                            #
+                            # if tup not in self.candidate_tuples:
+                            #     self.candidate_tuples.append(tup)
+                            #
+                            # # tuple score count
+                            # if pat not in tup.pattern_list:
+                            #     tup.pattern_list.append(pat)
+                            #     tup.defid_list.append(defid)
                             # only match the first var
                             break
         for pat in self.candidate_patterns:
-            pat.calc_RlogF_score()
+            pat.calc_pattern_RlogF_score()
 
 
         self.candidate_patterns.sort(key=lambda p: p.RlogF_score, reverse=True)
@@ -238,6 +237,7 @@ class Bootstrap(Basic):
         self.candidate_patterns = [p for p in self.candidate_patterns if p.RlogF_score <= 0]
         N_pattern = 5
         if len(self.candidate_patterns) <= N_pattern:
+            # self.patterns += [p for p in self.candidate_patterns if p not in self.patterns]
             self.patterns = self.candidate_patterns
         else:
             self.patterns = self.candidate_patterns[:5]
@@ -259,7 +259,11 @@ class Bootstrap(Basic):
 
         # filter out top tuples
     def get_seed_from_pattern(self):
+        if self.iter_num > 0:
+            self.reset_candidate_tuples()
+
         seeds_list = [(tup_.word, tup_.variant) for tup_ in self.seeds]
+        # seeds_list = [(tup_.word, tup_.variant) for tup_ in self.processed_tuples]
         for _, pat in enumerate(self.patterns):
             _ctx_bef = pat.ctx_bef
             # use mysql engine to search
@@ -305,10 +309,11 @@ class Bootstrap(Basic):
         self.candidate_tuples = [p for p in self.candidate_tuples if p.RlogF_ent_score != 1]
         N_tuple = 20
         if len(self.candidate_patterns) <= N_tuple:
-            self.processed_tuples = self.candidate_tuples
+            self.seeds += [tup for tup in self.candidate_tuples if tup not in self.seeds]
         else:
-            self.processed_tuples = self.candidate_tuples[:N_tuple]
-        for t in self.processed_tuples:
+            self.seeds += [tup for tup in self.candidate_tuples[:N_tuple] if tup not in self.seeds]
+
+        for t in self.seeds:
             print('='*80)
             print("RlogF score of tuples:")
             print("tuple: %s" % t)
@@ -317,65 +322,9 @@ class Bootstrap(Basic):
             print("RlogF_entity_score: %s" % t.RlogF_ent_score)
             print("candidate patterns: %s" % t.pattern_list)
 
-        save_iter(self.iter_num, self.processed_tuples, 'tup')
+        save_iter(self.iter_num, self.seeds, 'tup')
         save_iter(self.iter_num, self.candidate_tuples, 'candi_tup')
 
-    # def surface_match_pattern(self, seed_pattern, definition):
-    #     """
-    #     simply match the pattern and
-    #     :param seed_pattern: array, that contains 1 pattern
-    #     :param definition: array, per definition sentence
-    #     :return: candidate spelling variant if matched
-    #     """
-    #     len_pat = len(seed_pattern)
-    #     len_defn = len(definition)
-    #     for i in range(len_defn-len_pat+1):
-    #         if definition[i:i+len_pat] == seed_pattern and len_defn > i+len_pat:
-    #             var = definition[i+len_pat]
-    #             if self.variant_filter(var):
-    #                 return var
-    #
-    # def variant_filter(self, candidate_variant):
-    #     filter_list = string.punctuation + '``'
-    #     if candidate_variant in filter_list:
-    #         return False
-    #     else:
-    #         return True
-    #
-    # def pattern_filter(self, candidate_pattern):
-    #      # TODO: discard contexts that contains only 2 or fewer stopwords,
-    #      # allowing at most 2 stopwords in context
-    #     # TODO: ﻿create flexible patterns by ignoring the words {‘a’, ‘an’, ‘the’, ‘,’, ‘.’}
-    #     #  TODO: with and without POS tag restrictionnof ﻿target(e.g. contains Nouns)
-    #     non_pat_list = ['synonym',]
-    #     for non_pat in non_pat_list:
-    #         if non_pat in candidate_pattern:
-    #             print("Remove pattern: {}".format(candidate_pattern))
-    #             return False
-    #         elif len(candidate_pattern)==1 and 'meaning' not in candidate_pattern:
-    #             return False
-    #         else:
-    #             for tok in candidate_pattern:
-    #                 if tok in ['a', 'an', 'the', ',', '.', 'or', '``', 'has', 'extreme2']:
-    #                     candidate_pattern.remove(tok)
-    #             if len(candidate_pattern) > 0:
-    #                 return True
-    #             else:
-    #                 return False
-
-    # # TODO: score candidate seeds
-    # def score_candidate_seed(self):
-    #     self.seeds = self.seeds + self.candidate_tuples
-    #     self.seed_duplicate_removal()
-
-
-    def pattern_duplicate_removal(self):
-        self.candidate_patterns = list(list(i) for i in set([tuple(t) for t in self.candidate_patterns]))
-        self.patterns = list(list(i) for i in set([tuple(t) for t in self.patterns]))
-
-    def seed_duplicate_removal(self):
-        self.candidate_tuples = list(set([tuple(t) for t in self.candidate_tuples]))
-        self.seeds = list(set([tuple(t) for t in self.seeds]))
 
     def close_bootstrap(self):
         self.get_runtime()
@@ -386,18 +335,25 @@ class Bootstrap(Basic):
         timedelta = finish_time - self.start_time
         run_time = days_hours_mins_secs(timedelta)
         logger.info("Runtime:{}".format(run_time))
+        logpath = os.path.join(Bootstrap_dir, 'logs')
+        with open(logpath, 'a') as f:
+            f.write("Iteration {}, runtime:{}, seed_num: {}, pattern num: {}\n".
+                format(self.iter_num, run_time, len(self.seeds), len(self.patterns))
+            )
+
 
 
 def main():
     bootstrap_ = Bootstrap(chunksize=10000)
-    bootstrap_.read_init_seeds_from_file()
-    bootstrap_.generate_pattern_from_seeds()
-    bootstrap_.score_candidate_pattern()
-    bootstrap_.get_seed_from_pattern()
-    # candidate_patterns = bootstrap_.candidate_patterns
-    bootstrap_.get_runtime()
+    # test ===================================
+    # bootstrap_.read_init_seeds_from_file()
+    # bootstrap_.generate_pattern_from_seeds()
+    # bootstrap_.score_candidate_pattern()
+    # bootstrap_.get_seed_from_pattern()
+    # bootstrap_.get_runtime()
+    # test ===================================
     # start bootstrap
-    # bootstrap_ie.init_bootstrap()
+    bootstrap_.init_bootstrap()
     print('-'*100)
     # print("Candidate pattern list:", bootstrap_.patterns)
     # print("Candidate seed list:", bootstrap_.seeds)

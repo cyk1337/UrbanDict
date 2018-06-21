@@ -1,0 +1,26 @@
+(ur, your)
+(looser, loser)
+(m8s, mates)
+(partay, people)
+(peaple, people)
+(qual, cool)
+(secks, sex)
+(tickler, fetish)	1.584962500721156	 [2214]
+(homework, torture)	1.584962500721156	 [5533]
+(spooning, affection)	1.584962500721156	 [5613]
+(turntablism, music)	1.584962500721156	 [10845]
+(homework, written)	1.584962500721156	 [11180]
+(bleed, tag)	1.584962500721156	 [13381]
+(burn, tag)	1.584962500721156	 [13382]
+(slag, a)	1.584962500721156	 [15385]
+(favor, sexual)	1.584962500721156	 [16808]
+(rap, popular)	1.584962500721156	 [18305]
+(w0rd, the)	1.584962500721156	 [19014]
+(gas, food)	1.584962500721156	 [21078]
+(homework, cruel)	1.584962500721156	 [21105]
+(meeple, greeting)	1.584962500721156	 [21952]
+(plonk, public)	1.584962500721156	 [25276]
+(grind, a)	1.584962500721156	 [25988]
+(jafdildo, dildo)	1.584962500721156	 [29140]
+(cunny, the)	1.584962500721156	 [29646]
+(sked, burnout)	1.584962500721156	 [36776]

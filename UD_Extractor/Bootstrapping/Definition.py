@@ -56,7 +56,7 @@ class Definition(object):
     def parse_ctx(self):
         matches = []
         # regex_quote = re.compile(r"(?P<quote>['\"])(?P<Variant>\b%s\b)[.]{0,1}(?P=quote)" % self.variant)
-        regex_quote = re.compile(r"(?P<quote>['\"])(?P<Variant>\b%s\b)[.,]{0,1}(?P=quote)" % self.variant)
+        regex_quote = re.compile(r"(?P<quote>['\"])(?P<Variant>\b%s\b)[.,]?(?P=quote)" % self.variant)
         # regex_no_quote = re.compile(r"(?P<Variant>\b%s\b)[.]{0,1}" % self.variant)
 
         for m in re.finditer(regex_quote, self.defn_sent):
@@ -114,7 +114,7 @@ class Definition(object):
 
         else:
             print("sentence: %s"% self.defn_sent)
-            regex_no_quote = re.compile(r"(?P<Variant>\b%s\b)[.]{0,1}" % self.variant)
+            regex_no_quote = re.compile(r"(?P<Variant>\b%s\b)[.]?" % self.variant)
             matches = []
             for m in re.finditer(regex_no_quote, self.defn_sent):
                 matches.append(m)

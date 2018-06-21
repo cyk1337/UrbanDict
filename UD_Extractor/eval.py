@@ -55,7 +55,7 @@ def save_iter(iter_num, list_obj, fname, exp_name='Bootstrap'):
     print('Finish writing into %s !' % filename)
 
 def load_iter(iter_num , fname, exp_name='Bootstrap'):
-    iter_No = os.path.join(iter_dir, 'Iter%s' % iter_num)
+    iter_No = os.path.join(iter_dir, exp_name, 'Iter%s' % iter_num)
 
     assert fname.endswith('.pkl'), "fname needs to be ended with '.pkl' !"
     filename = os.path.join(iter_No, fname)

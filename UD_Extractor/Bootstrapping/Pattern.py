@@ -90,7 +90,7 @@ class Pattern(object):
                 aft = detokenize(tok_aft)
 
         try:
-            pat = re.compile(r"%s\s(?P<quote>['\"]{0,1})(?P<Variant>[\w-]+)[.,]{0,1}(?P=quote)%s" % (bef, aft))
+            pat = re.compile(r"%s\s(?P<quote>['\"]?)(?P<Variant>[\w-]+)[.,]?(?P=quote)%s" % (bef, aft))
         except:
             return
         m = pat.search(defn_sent.lower())
@@ -125,7 +125,7 @@ class Pattern(object):
         #     print("Didn't match")
         #     print('-'*80)
 
-    def calc_RlogF_score(self):
+    def calc_pattern_RlogF_score(self):
         if self.match_seed_count >0 and self.match_tot_count>0:
             self.RlogF_score = (self.match_seed_count/self.match_tot_count) * math.log2(self.match_seed_count)
 
