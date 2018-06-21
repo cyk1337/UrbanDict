@@ -33,6 +33,7 @@ class Basic(object):
         print("Starting loading Urdian Dict corpus ...")
         engine = sa.create_engine('mysql+pymysql://root:admin@localhost/UrbanDict?charset=utf8')
         self.conn = engine.connect()
+        self.tbl_name = 'UrbanDict'
         if sql is None:
             sql = self.load_sql
         self.UD_data = pd.read_sql(sql=sql, con= self.conn, chunksize=chunksize)
@@ -40,8 +41,7 @@ class Basic(object):
 
     @property
     def load_sql(self):
-        db_name = 'UrbanDict'
-        sql_loadUD = "SELECT defid, word, definition FROM %s" % db_name
+        sql_loadUD = "SELECT defid, word, definition FROM %s" % self.tbl_name
         return sql_loadUD
 
 

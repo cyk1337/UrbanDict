@@ -89,7 +89,10 @@ class Pattern(object):
                 tok_aft = [tok for tok in _aft if tok != END_OF_SENT]
                 aft = detokenize(tok_aft)
 
-        pat = re.compile(r"%s\s(?P<quote>['\"]{0,1})(?P<Variant>[\w-]+)[.,]{0,1}(?P=quote)%s" % (bef, aft))
+        try:
+            pat = re.compile(r"%s\s(?P<quote>['\"]{0,1})(?P<Variant>[\w-]+)[.,]{0,1}(?P=quote)%s" % (bef, aft))
+        except:
+            return
         m = pat.search(defn_sent.lower())
 
         if m is not None:

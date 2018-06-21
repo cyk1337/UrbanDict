@@ -49,7 +49,7 @@ def save_iter(iter_num, list_obj, fname, exp_name='Bootstrap'):
     with open(pkl_fname, 'wb') as f:
         pickle.dump(list_obj, f)
 
-    with open(filename, 'w') as f:
+    with open(filename, 'w', encoding='utf-8') as f:
         for tup in list_obj:
             f.write('{}\n'.format(tup))
     print('Finish writing into %s !' % filename)

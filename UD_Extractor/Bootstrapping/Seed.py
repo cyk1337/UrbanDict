@@ -31,7 +31,7 @@ class Seed(object):
         return "({},{})".format(self.word, self.variant)
 
     def __str__(self):
-        return "Seed pair: ({}, {})".format(self.word, self.variant)
+        return "({}, {})".format(self.word, self.variant)
 
     def __eq__(self, other):
         return self.word==other.word and self.variant==other.variant

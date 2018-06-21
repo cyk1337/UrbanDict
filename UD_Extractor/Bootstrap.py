@@ -30,6 +30,7 @@ from collections import defaultdict
 
 from baseline import Basic
 from _config import *
+from eval import *
 from ie_utils import days_hours_mins_secs
 from Bootstrapping.Seed import Seed
 from Bootstrapping.Tuple import Tuple
@@ -40,14 +41,16 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 class Bootstrap(Basic):
-    def __init__(self, chunksize=5000):
+    def __init__(self, chunksize=10000):
         self.start_time = datetime.datetime.now()
         self.chunksize = chunksize
+        self.tbl_name = 'UrbanDict'
         super(Bootstrap, self).__init__(chunksize=self.chunksize, sql=self.load_sql)
         self.patterns = list()
         self.candidate_patterns = list()
 
         self.seeds = list()
+        self.processed_tuples = []
         self.candidate_tuples = list()
         # self.candidate_tuples = defaultdict(list)
 
@@ -57,10 +60,9 @@ class Bootstrap(Basic):
 
     @property
     def load_sql(self):
-        db_name = 'UrbanDict'
-        # sql_loadUD = "SELECT defid, word, definition FROM %s" % db_name
-        sql_loadUD = "SELECT defid, word, definition FROM %s LIMIT 50000" % db_name
-        # sql_loadUD = "SELECT defid, word, definition FROM %s WHERE word in ('ho', 'owned', 'owns', 'chode', 'cool')" % db_name
+        # sql_loadUD = "SELECT defid, word, definition FROM %s" % self.tbl_name
+        sql_loadUD = "SELECT defid, word, definition FROM %s LIMIT 900000" % self.tbl_name
+        # sql_loadUD = "SELECT defid, word, definition FROM %s WHERE word in ('ho', 'owned', 'owns', 'chode', 'cool')" % self.tbl_name
         # sql_loadUD = "SELECT defid, word, definition FROM UrbanDict WHERE defid=172638"
         return sql_loadUD
 
@@ -191,16 +193,27 @@ class Bootstrap(Basic):
 
         # self.reset_candidate_tuples()
         seeds_list = [(tup_.word, tup_.variant) for tup_ in self.seeds]
-        for i, pat in enumerate(self.candidate_patterns):
-            print('*'*80)
-            print("start searching pattern %s: %s" % (i,pat))
-            self.reset_generator()
-            for i, chunk in enumerate(self.UD_data):
+
+        for _, pat in enumerate(self.candidate_patterns):
+            _ctx_bef = pat.ctx_bef
+            # use mysql engine to search
+            try:
+                sql = "SELECT defid, word, definition FROM UrbanDict WHERE definition like '%%"+_ctx_bef+"%%'"
+                pat_data = pd.read_sql(sql=sql, con=self.conn, chunksize=self.chunksize)
+            except Exception as e:
+                logger.warning("Ctx:%s \n Except: %s" % (_ctx_bef, e))
+                continue
+
+            for _, chunk in enumerate(pat_data):
                 # print(chunk)
-                for index, row in chunk.iterrows():
+                for _, row in chunk.iterrows():
                     defn_sents = row['definition']
                     word = row['word'].lower()
+                    defid = row['defid']
+
                     for defn_sent in sent_tokenize(defn_sents):
+                        # print('*' * 80)
+                        # print("start searching pattern %s: %s" % (i, pat))
                         pair = pat.ctx_match(defn_sent, word, seeds_list)
                         if pair is None:
                             continue
@@ -213,62 +226,99 @@ class Bootstrap(Basic):
                             # tuple score count
                             if pat not in tup.pattern_list:
                                 tup.pattern_list.append(pat)
+                                tup.defid_list.append(defid)
+                            # only match the first var
+                            break
         for pat in self.candidate_patterns:
             pat.calc_RlogF_score()
 
+
         self.candidate_patterns.sort(key=lambda p: p.RlogF_score, reverse=True)
-        for pat in self.candidate_patterns:
-            logger.info("RlogF score of patterns:")
+
+        self.candidate_patterns = [p for p in self.candidate_patterns if p.RlogF_score <= 0]
+        N_pattern = 5
+        if len(self.candidate_patterns) <= N_pattern:
+            self.patterns = self.candidate_patterns
+        else:
+            self.patterns = self.candidate_patterns[:5]
+
+        for pat in self.patterns:
             print('#'*80)
+            print("RlogF score of patterns:")
             print("pattern: %s" % pat)
             print("RlogF_score: %s" % pat.RlogF_score)
             print("match_seed_count: %s" % pat.match_seed_count)
             print("match_tot_count: %s" % pat.match_tot_count)
             print("candidate tuples: %s" % pat.tuples_list)
 
-        logger.info("%s candidate seeds: %s" % (len(self.candidate_tuples), self.candidate_tuples))
+        save_iter(self.iter_num, self.candidate_patterns, 'candi_pat')
+        save_iter(self.iter_num, self.patterns, 'pat')
+
+        # logger.info("%s candidate seeds: %s" % (len(self.candidate_tuples), self.candidate_tuples))
 
 
-        # TODO: filter out top patterns, add to pattern, empty pattern pool
+        # filter out top tuples
+    def get_seed_from_pattern(self):
+        seeds_list = [(tup_.word, tup_.variant) for tup_ in self.seeds]
+        for _, pat in enumerate(self.patterns):
+            _ctx_bef = pat.ctx_bef
+            # use mysql engine to search
+            try:
+                sql = "SELECT defid, word, definition FROM UrbanDict WHERE definition like '%%" + _ctx_bef + "%%'"
+                pat_data = pd.read_sql(sql=sql, con=self.conn, chunksize=self.chunksize)
+            except Exception as e:
+                logger.warning("Ctx:%s \n Except: %s" % (_ctx_bef, e))
+                continue
+            for _, chunk in enumerate(pat_data):
+                # print(chunk)
+                for _, row in chunk.iterrows():
+                    defn_sents = row['definition']
+                    word = row['word'].lower()
+                    defid = row['defid']
+
+                    for defn_sent in sent_tokenize(defn_sents):
+                        # print('*' * 80)
+                        # print("start searching pattern %s: %s" % (i, pat))
+                        pair = pat.ctx_match(defn_sent, word, seeds_list)
+                        if pair is None:
+                            continue
+                        else:
+                            tup = Tuple(pair[0], pair[1])
+
+                            if tup not in self.candidate_tuples:
+                                self.candidate_tuples.append(tup)
+
+                            # tuple score count
+                            if pat not in tup.pattern_list:
+                                tup.pattern_list.append(pat)
+                                tup.defid_list.append(defid)
+                            # only match the first var
+                            break
+
+        # TODO: select top patterns, add to pattern, empty pattern pool
 
         for tup in self.candidate_tuples:
             tup.calc_RlogF_score()
 
         self.candidate_tuples.sort(key=lambda t: t.RlogF_ent_score, reverse=True)
-        for t in self.candidate_tuples:
-            logger.info("RlogF score of tuples:")
-            print('$'*80)
+
+        self.candidate_tuples = [p for p in self.candidate_tuples if p.RlogF_ent_score != 1]
+        N_tuple = 20
+        if len(self.candidate_patterns) <= N_tuple:
+            self.processed_tuples = self.candidate_tuples
+        else:
+            self.processed_tuples = self.candidate_tuples[:N_tuple]
+        for t in self.processed_tuples:
+            print('='*80)
+            print("RlogF score of tuples:")
             print("tuple: %s" % t)
+            print("Numerator:", t.numerator)
+            print("denom:", t.pattern_list)
             print("RlogF_entity_score: %s" % t.RlogF_ent_score)
             print("candidate patterns: %s" % t.pattern_list)
 
-        # TODO : filter out top tuples
-    # def get_seed_from_pattern(self):
-    #     # test
-    #     # self.patterns = [['individuals', 'way', 'of', 'saying'],
-    #     #                  ['moronic', 'abbreviation', 'for', '``']]
-    #     logger.info('Iteration {}: start parsing candidate seeds ...'.format(self.iter_num))
-    #
-    #     self.reset_generator()
-    #     # self.reset_candidate_tuples()
-    #
-    #     for i, chunk in enumerate(self.UD_data):
-    #         # print(chunk)
-    #         for index, row in chunk.iterrows():
-    #             # TODO: match definition
-    #             row['definition']
-                # defn_tokenized = self.definition_tokenize()
-                # print(defn_tokenized)
-                # for sent in defn_tokenized:
-                #     for sent_pattern in self.candidate_patterns:
-                #         var = self.surface_match_pattern(sent_pattern, sent)
-                #         if var is not None:
-                #             candidate_pair = (row['word'].lower(),var.lower())
-                #             self.candidate_tuples.append(candidate_pair)
-                #             print("matching pattern: {}".format(sent_pattern))
-                #             logger.info("Candidate pair: {}".format(candidate_pair))
-        # self.seed_duplicate_removal()
-
+        save_iter(self.iter_num, self.processed_tuples, 'tup')
+        save_iter(self.iter_num, self.candidate_tuples, 'candi_tup')
 
     # def surface_match_pattern(self, seed_pattern, definition):
     #     """
@@ -343,7 +393,7 @@ def main():
     bootstrap_.read_init_seeds_from_file()
     bootstrap_.generate_pattern_from_seeds()
     bootstrap_.score_candidate_pattern()
-    # bootstrap_.get_seed_from_pattern()
+    bootstrap_.get_seed_from_pattern()
     # candidate_patterns = bootstrap_.candidate_patterns
     bootstrap_.get_runtime()
     # start bootstrap
