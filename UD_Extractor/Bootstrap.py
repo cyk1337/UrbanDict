@@ -235,13 +235,14 @@ class Bootstrap(Basic):
 
         self.candidate_patterns.sort(key=lambda p: p.RlogF_score, reverse=True)
 
-        self.candidate_patterns = [p for p in self.candidate_patterns if p.RlogF_score <= 0]
+        self.candidate_patterns = [p for p in self.candidate_patterns if p.RlogF_score > 0]
         N_pattern = 5
         if len(self.candidate_patterns) <= N_pattern:
             # self.patterns += [p for p in self.candidate_patterns if p not in self.patterns]
             self.patterns = self.candidate_patterns
         else:
-            self.patterns = self.candidate_patterns[:5]
+            # self.patterns += [p for p in self.candidate_patterns[:N_pattern] if p not in self.patterns]
+            self.patterns = self.candidate_patterns[:N_pattern]
 
         for pat in self.patterns:
             print('#'*80)

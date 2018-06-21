@@ -77,8 +77,9 @@ class Pattern(object):
             tok_bef = [tok for tok in _bef if tok != BEGIN_OF_SENT]
             bef = detokenize(tok_bef)
         if '(' in _bef and ')' not in _bef:
-            bef = detokenize(tok_bef).replace('(', '\(')
-
+            bef = detokenize(_bef).replace('(', '\(')
+        if ')' in _bef and '(' not in _bef:
+            bef = detokenize(_bef).replace(')', '\)')
 
         if useNextContext is False:
             aft = ''
@@ -90,7 +91,7 @@ class Pattern(object):
                 aft = detokenize(tok_aft)
 
         try:
-            pat = re.compile(r"%s\s(?P<quote>['\"]?)(?P<Variant>[\w-]+)[.,]?(?P=quote)%s" % (bef, aft))
+            pat = re.compile(r"%s\s(?P<quote>['\"]?)(?P<Variant>[\w*-]+)[.,]?(?P=quote)%s" % (bef, aft))
         except:
             return
         m = pat.search(defn_sent.lower())
