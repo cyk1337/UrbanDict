@@ -62,8 +62,8 @@ class Bootstrap(Basic):
 
     @property
     def load_sql(self):
-        sql_loadUD = "SELECT defid, word, definition FROM %s" % self.tbl_name
-        # sql_loadUD = "SELECT defid, word, definition FROM %s LIMIT 900000" % self.tbl_name
+        # sql_loadUD = "SELECT defid, word, definition FROM %s" % self.tbl_name
+        sql_loadUD = "SELECT defid, word, definition FROM %s LIMIT 90000" % self.tbl_name
         # sql_loadUD = "SELECT defid, word, definition FROM %s WHERE word in ('ho', 'owned', 'owns', 'chode', 'cool')" % self.tbl_name
         # sql_loadUD = "SELECT defid, word, definition FROM UrbanDict WHERE defid=172638"
         return sql_loadUD
@@ -308,16 +308,16 @@ class Bootstrap(Basic):
 
         self.candidate_tuples.sort(key=lambda t: t.RlogF_ent_score, reverse=True)
 
-        self.candidate_tuples = [p for p in self.candidate_tuples if p.RlogF_ent_score != 1]
+        self.candidate_tuples = [p for p in self.candidate_tuples if p.RlogF_ent_score > 1]
 
         rec = eval_recall([(t.word, t.variant) for t in self.candidate_tuples])
         self.rec.append(rec)
 
         N_tuple = 10
-        if len(self.candidate_patterns) <= N_tuple:
+        if len(self.candidate_tuples) <= N_tuple:
             self.seeds += [tup for tup in self.candidate_tuples if tup not in self.seeds]
         else:
-            self.seeds += [tup for tup in self.candidate_tuples[:N_tuple] if tup not in self.seeds]
+            self.seeds += [tup for tup in self.candidate_tuples[:10] if tup not in self.seeds]
 
         for t in self.seeds:
             print('='*80)
