@@ -343,7 +343,7 @@ class Bootstrap(Basic):
         logger.info("Runtime:{}".format(run_time))
         logpath = os.path.join(Bootstrap_dir, 'logs')
         with open(logpath, 'a') as f:
-            f.write("Iteration {}, runtime:{}, rec:{}, prec:{},seed_num: {}, pattern num: {}\n".
+            f.write("Iteration {}, runtime:{}, rec:{:.4f}, prec:{},seed_num: {}, pattern num: {}\n".
                 format(self.iter_num, run_time, self.rec[self.iter_num], 'None',len(self.seeds), len(self.patterns))
             )
 
