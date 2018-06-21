@@ -33,7 +33,9 @@ work_dir = os.path.dirname(os.path.abspath(__file__))
 
 data_dir = os.path.join(work_dir, 'data')
 SEED_FILE = os.path.join(data_dir, 'seed.txt')
+
 VALID_FILE = os.path.join(data_dir, 'spelling_variants_valid.txt')
+VAL_pkl = os.path.join(data_dir, 'val_rec.pkl')
 
 pkl_dir = os.path.join(work_dir, 'pkl')
 

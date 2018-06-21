@@ -34,8 +34,26 @@ def read_valid_file():
                 pair = (line_[0].lower(), line_[1].lower())
                 valid_pair.append(pair)
         # print("Initial {} seeds: {}".format(len(valid_pair), valid_pair))
+
+    with open(VAL_pkl, 'wb') as f:
+        pickle.dump(valid_pair, f)
     return valid_pair
 
+def eval_recall(_list):
+
+    if not os.path.exists(VAL_pkl):
+        valid_tup = read_valid_file()
+    else:
+        with open(VAL_pkl, 'rb') as f:
+            valid_tup = pickle.load(f)
+    tp = 0
+    for tup in valid_tup:
+        if tup in _list:
+            tp += 1
+    rec = tp/len(valid_tup)
+    print("Recall: %s" % rec)
+    # print("tp:", tp)
+    return rec
 
 def save_iter(iter_num, list_obj, fname, exp_name='Bootstrap'):
 
@@ -72,5 +90,7 @@ if __name__ == '__main__':
     # from collections import Counter
     # words = Counter(pair[0] for pair in valid_pair)
     # print(words.most_common())
-    test = [('ur', 'your'), ('m8', 'mate')]
-    save_iter(1, test, 'test')
+
+    test = [('ur', 'your'), ('m8s', 'mates')]
+    # save_iter(1, test, 'test')
+    eval_recall(test)

@@ -56,6 +56,8 @@ class Bootstrap(Basic):
 
         self.iter_num = 0
         self.seeds_num = list()
+        self.rec=[]
+        self.prec=[]
 
 
     @property
@@ -82,7 +84,6 @@ class Bootstrap(Basic):
         while self.iter_num < MAX_ITER:
             self.seeds_num.append(len(self.seeds))
             print("Iteratin num: {}, seed_num:{}".format(self.iter_num, self.seeds_num[self.iter_num]))
-            print("*"*80)
             # print("Pattern list: {}".format(self.patterns))
             print("Seed list: {}".format(self.seeds))
             print('-'*80)
@@ -98,10 +99,10 @@ class Bootstrap(Basic):
                 print('Overall 0-{} iteration'.format(self.iter_num))
                 break
 
-            self.get_runtime()
+            self.iter_log()
             self.iter_num = self.iter_num + 1
 
-        self.close_bootstrap()
+        # self.close_bootstrap()
 
 
     def read_init_seeds_from_file(self, seed_file=SEED_FILE):
@@ -307,6 +308,10 @@ class Bootstrap(Basic):
         self.candidate_tuples.sort(key=lambda t: t.RlogF_ent_score, reverse=True)
 
         self.candidate_tuples = [p for p in self.candidate_tuples if p.RlogF_ent_score != 1]
+
+        rec = eval_recall([(t.word, t.variant) for t in self.candidate_tuples])
+        self.rec.append(rec)
+
         N_tuple = 20
         if len(self.candidate_patterns) <= N_tuple:
             self.seeds += [tup for tup in self.candidate_tuples if tup not in self.seeds]
@@ -326,19 +331,19 @@ class Bootstrap(Basic):
         save_iter(self.iter_num, self.candidate_tuples, 'candi_tup')
 
 
-    def close_bootstrap(self):
-        self.get_runtime()
+    # def close_bootstrap(self):
+    #     self.get_runtime()
 
 
-    def get_runtime(self):
+    def iter_log(self):
         finish_time = datetime.datetime.now()
         timedelta = finish_time - self.start_time
         run_time = days_hours_mins_secs(timedelta)
         logger.info("Runtime:{}".format(run_time))
         logpath = os.path.join(Bootstrap_dir, 'logs')
         with open(logpath, 'a') as f:
-            f.write("Iteration {}, runtime:{}, seed_num: {}, pattern num: {}\n".
-                format(self.iter_num, run_time, len(self.seeds), len(self.patterns))
+            f.write("Iteration {}, runtime:{}, rec:{}, prec:{},seed_num: {}, pattern num: {}\n".
+                format(self.iter_num, run_time, self.rec[self.iter_num], 'None',len(self.seeds), len(self.patterns))
             )
 
 
