@@ -27,30 +27,34 @@ from _config import *
 from ie_utils import detokenize
 from nltk.tokenize import word_tokenize
 import re, math
-
+from collections import defaultdict
 
 class Pattern(object):
     def __init__(self, ctx_bef, ctx_aft, **kwargs):
 
         self.ctx_bef = ctx_bef
         self.ctx_aft = ctx_aft
+        self.seeds_list = None
 
-        self.tuples_list = []
-        # self.tuples_list.append(tuple)
+        self.tuples_list = [] # match candidate tuples
+        # self.match_seed_stat = set() # mach seeds
+        self.match_seed_list = [] # mach seeds, consider duplicates
 
-        self.scores = []
+        self.score_dict = defaultdict(float)
+        self.overallscore = 0
 
         # RlogF metric
         self.match_seed_count = 0
         self.match_tot_count = 0
         # self.match_dupl_count = 0
-        self.RlogF_score = -1
+        self.RlogF_score = 0
 
         # Snowball metric
-        # self.positive = 0
-        # self.negtive = 0
-        # self.unknown = 0
-        self.confidence = None
+        self.positive = 0
+        self.negative = 0
+        self.unknown = 0
+        self.confidence = 0
+        self.confidence_simple = 0
 
         # self.patterns = list()
         # self.context_before = list()
@@ -71,7 +75,7 @@ class Pattern(object):
     def ctx_match(self, defn_sent, word, seeds_list):
         # word = word.lower()
         bef = self.ctx_bef
-
+        self.seeds_list = seeds_list
         _bef = word_tokenize(self.ctx_bef)
         if BEGIN_OF_SENT in _bef:
             tok_bef = [tok for tok in _bef if tok != BEGIN_OF_SENT]
@@ -98,7 +102,7 @@ class Pattern(object):
 
         if m is not None:
             var = m.group('Variant').lower()
-            # TODO: rule `way of spelling` the name "xx", also require compute word similarity if possible
+            # todo: rule `way of spelling` the name "xx", also require compute word similarity if possible
             # if var in stopwords:
             #     # Allow for 3 tokens between quote and pattern ctx
             #     pat_ = re.compile(r"%\s(\w+|\s){0,6}(?P<q>(['\"]|``))(?P<Variant>[\w-]+)(?P=q)%s" % (bef, aft))
@@ -106,14 +110,23 @@ class Pattern(object):
             #     if m_ is not None:
             #         var = m_.group('Variant').lower()
             pair = (word, var)
-            # self.match_dupl_count += 1
-            self.match_tot_count += 1
 
-            if pair not in self.tuples_list:
-                self.tuples_list.append(pair)
+            # TODO: opt1.consider duplicated total count
+            self.tuples_list.append(pair)
+            # self.match_tot_count += 1
+
+            # if pair not in self.tuples_list:
+            #     # TODO: opt2. consider distinct total count
+            #     self.tuples_list.append(pair)
 
             if pair in seeds_list:
-                self.match_seed_count += 1
+                # TODO: opt1.consider duplicated seed count
+                # self.match_seed_count += 1
+                self.match_seed_list.append(pair)
+                # TODO: opt2. consider distinct seed count
+                # self.match_seed_stat.add(pair)
+
+
             print(defn_sent)
             print("Before: %s" % bef)
             print("Parsing pair: {}".format(pair))
@@ -126,15 +139,53 @@ class Pattern(object):
         #     print("Didn't match")
         #     print('-'*80)
 
-    def calc_pattern_RlogF_score(self):
+
+    def _calc_pattern_RlogF_score(self):
+        """
+        # Basilisk 2002,
+         https://aclanthology.info/pdf/W/W02/W02-1028.pdf
+        :return:
+        """
+        self.match_seed_count = len(self.match_seed_list)
+        self.match_tot_count = len(self.tuples_list)
         if self.match_seed_count >0 and self.match_tot_count>0:
             self.RlogF_score = (self.match_seed_count/self.match_tot_count) * math.log2(self.match_seed_count)
+
+
+    def _calc_snowball_conf_simple(self):
+        """
+         # Snowball 2000, defn 1
+         ftp://ftp.cse.buffalo.edu/users/azhang/disc/disc01/cd1/out/papers/dl/p85-agichtein.pdf
+         """
+        # consider duplicates
+        for t in self.tuples_list:
+            if t in self.seeds_list:
+                self.positive += 1
+            else:
+                self.negative += 1
+
+        if self.positive > 0 or self.negative > 0:
+            self.confidence_simple = self.positive /(self.positive + self.negative)
+
+    def calc_pattern_score(self):
+        if USE_RlogF is True:
+            self._calc_pattern_RlogF_score()
+            self.score_dict['RlogF'] = self.RlogF_score
+            score = self.score_dict['RlogF'] * 1
+        elif USE_SNOWBALL_SIMPLE is True:
+            self._calc_snowball_conf_simple()
+            self.score_dict['Snowball_simple'] = self.confidence_simple
+            score = self.score_dict['Snowball_simple']
+
+        assert len(self.score_dict) > 0, "No score method used!"
+        self.overallscore = score
+
 
 
     def __eq__(self, other):
         if useNextContext is False and self.ctx_bef == other.ctx_bef:
             return True
-        if useNextContext is True and self.ctx_bef == other.ctx_bef and self.ctx_aft == other.ctx_aft:
+        elif useNextContext is True and self.ctx_bef == other.ctx_bef and self.ctx_aft == other.ctx_aft:
             return True
         else:
             return False

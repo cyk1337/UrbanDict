@@ -1,0 +1,4 @@
+Top 30
+----------
+
+('quote', 13412), ('oscars', 9950), ('destinedtobeyoursworldpremiere', 9786), ('grammys', 9717), ('giveaway', 8203), ('shopmycloset', 6004), ('bbnaija', 4982), ('soundcloud', 4159), ('jointaddress', 2700), ('amndbots', 2152), ('aldub82ndweeksary', 2037), ('aldubxdtbysinjie', 2034), ('aldubebhappyhearts', 2029), ('aldubdestinedtobeloved', 2016), ('aldubohtporeber', 1987), ('aldubxdtbydreamhouse', 1926), ('thebachelor', 1918), ('aldubdreamcometrue', 1833), ('gainwithxtiandela', 1749), ('maga', 1741), ('aldubxdtbyfate', 1735), ('aldubxdtbylandas', 1714), ('aldub19thmonthsary', 1625), ('aldubxdtbyftbukasna', 1609), ('aldubxdtbyin6days', 1601), ('jointsession', 1557), ('onedbestfans', 1535), ('aldubxdtbyin5days', 1529), ('sona2017', 1523), ('aldubxdtbyin10days', 1507)

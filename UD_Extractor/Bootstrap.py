@@ -230,13 +230,11 @@ class Bootstrap(Basic):
                             # only match the first var
                             break
         for pat in self.candidate_patterns:
-            pat.calc_pattern_RlogF_score()
+            pat.calc_pattern_score()
 
+        self.candidate_patterns.sort(key=lambda p: p.overallscore, reverse=True)
 
-        self.candidate_patterns.sort(key=lambda p: p.RlogF_score, reverse=True)
-
-        self.candidate_patterns = [p for p in self.candidate_patterns if p.RlogF_score > 0]
-        N_pattern = 10
+        self.candidate_patterns = [p for p in self.candidate_patterns if p.overallscore > 0]
         if len(self.candidate_patterns) <= N_pattern:
             # self.patterns += [p for p in self.candidate_patterns if p not in self.patterns]
             self.patterns = self.candidate_patterns
@@ -246,8 +244,10 @@ class Bootstrap(Basic):
 
         for pat in self.patterns:
             print('#'*80)
-            print("RlogF score of patterns:")
+            print("overall score of patterns:")
             print("pattern: %s" % pat)
+            print("overallscore: %s" % pat.overallscore)
+            print('-'*20)
             print("RlogF_score: %s" % pat.RlogF_score)
             print("match_seed_count: %s" % pat.match_seed_count)
             print("match_tot_count: %s" % pat.match_tot_count)
@@ -293,35 +293,40 @@ class Bootstrap(Basic):
 
                             if tup not in self.candidate_tuples:
                                 self.candidate_tuples.append(tup)
+                            else:
+                                # if tuple exists, add `defid`
+                                i = self.candidate_tuples.index(tup)
+                                self.candidate_tuples[i].defid_list.append(defid)
 
                             # tuple score count
                             if pat not in tup.pattern_list:
                                 tup.pattern_list.append(pat)
                                 tup.defid_list.append(defid)
-                            # only match the first var
+                            # only match the first variant
                             break
 
         # TODO: select top patterns, add to pattern, empty pattern pool
 
         for tup in self.candidate_tuples:
-            tup.calc_RlogF_score()
+            tup.calc_tuple_score()
 
-        self.candidate_tuples.sort(key=lambda t: t.RlogF_ent_score, reverse=True)
+        self.candidate_tuples.sort(key=lambda t: t.overallscore, reverse=True)
 
-        self.candidate_tuples = [p for p in self.candidate_tuples if p.RlogF_ent_score > 1]
+        self.candidate_tuples = [p for p in self.candidate_tuples if p.overallscore > 1]
 
         rec = eval_recall([(t.word, t.variant) for t in self.candidate_tuples])
         self.rec.append(rec)
 
-        N_tuple = 10
         if len(self.candidate_tuples) <= N_tuple:
             self.seeds += [tup for tup in self.candidate_tuples if tup not in self.seeds]
         else:
-            self.seeds += [tup for tup in self.candidate_tuples[:10] if tup not in self.seeds]
+            self.seeds += [tup for tup in self.candidate_tuples[:N_tuple] if tup not in self.seeds]
 
         for t in self.seeds:
             print('='*80)
-            print("RlogF score of tuples:")
+            print("score of tuples:")
+            print("overall score of tuples: %f" % t.overallscore)
+            print('-'*20)
             print("tuple: %s" % t)
             print("Numerator:", t.numerator)
             print("denom:", t.pattern_list)

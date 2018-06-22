@@ -71,18 +71,25 @@ with codecs.open('stat_hashtag10.pkl', 'rb') as f:
     hashtag_10 = pickle.load(f)
 
 
-with codecs.open(en_tweets, encoding='utf-8') as f:
-    print("Start writing to file ...")
-    for i,line in enumerate(f):
-        for t in hashtag_10:
-            tag = t[0]
-            fname = os.path.join('hashtag', tag)
-            if i in hashtag_stat[tag]:
-                with open(fname, 'a', encoding='utf-8') as file:
-                    file.write(line+'\n')
-                    print(line)
+def write2file():
+    with codecs.open(en_tweets, encoding='utf-8') as f:
+        print("Start writing to file ...")
+        for i, line in enumerate(f):
+            for t in hashtag_10:
+                tag = t[0]
+                fname = os.path.join('hashtag', tag)
+                if i in hashtag_stat[tag]:
+                    with open(fname, 'a', encoding='utf-8') as file:
+                        file.write(line + '\n')
+                        print(line)
 
-    print("finish writing ...")
+        print("finish writing ...")
+
+write2file()
+
+
+
+print(hashtag_10)
 
 # remove the duplicates
 # rm_l = []

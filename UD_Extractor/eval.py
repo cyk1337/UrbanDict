@@ -55,7 +55,7 @@ def eval_recall(_list):
     # print("tp:", tp)
     return rec
 
-def save_iter(iter_num, list_obj, fname, exp_name='Bootstrap'):
+def save_iter(iter_num, list_obj, fname, exp_name=EXP_NAME):
 
     iter_No = os.path.join(iter_dir, exp_name,  'Iter%s' % iter_num)
     filename = os.path.join(iter_No, fname+'.txt')
@@ -72,7 +72,7 @@ def save_iter(iter_num, list_obj, fname, exp_name='Bootstrap'):
             f.write('{}\n'.format(tup))
     print('Finish writing into %s !' % filename)
 
-def load_iter(iter_num , fname, exp_name='Bootstrap'):
+def load_iter(iter_num , fname, exp_name=EXP_NAME):
     iter_No = os.path.join(iter_dir, exp_name, 'Iter%s' % iter_num)
 
     assert fname.endswith('.pkl'), "fname needs to be ended with '.pkl' !"

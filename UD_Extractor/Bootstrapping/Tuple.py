@@ -24,8 +24,9 @@
 '''
 from collections import defaultdict
 import math
-
+from _config import *
 from Bootstrapping.Seed import Seed
+from collections import defaultdict
 
 class Tuple(Seed):
     def __init__(self, word, variant):
@@ -34,12 +35,22 @@ class Tuple(Seed):
         # self.variant = variant
         self.defid_list = []
 
+        self.overallscore=None
+        self.score_dict = defaultdict(float)
+
         self.pattern_list = list()
         self.RlogF_ent_score = None
         self.numerator = None
         self.denom = None
 
-    def calc_RlogF_score(self):
+        self.confidence = 0
+        self.confidence_simple = 0
+
+    def _calc_RlogF_score(self):
+        """
+        # Basilisk 2002,
+         https://aclanthology.info/pdf/W/W02/W02-1028.pdf
+        """
         numerator = 0
         Fj_list = []
         for pat in self.pattern_list:
@@ -51,9 +62,31 @@ class Tuple(Seed):
         self.denom = len(self.pattern_list)
         self.RlogF_ent_score = numerator / len(self.pattern_list)
 
+    def _calc_snowball_conf_simple(self):
+        """
+            # Snowball 2000, defn 4
+            ftp://ftp.cse.buffalo.edu/users/azhang/disc/disc01/cd1/out/papers/dl/p85-agichtein.pdf
+        """
+        conf = 1
+        for p in self.pattern_list:
+            conf *= (1-p.confidence)
+        self.confidence_simple = 1- conf
+
+    def calc_tuple_score(self):
+        if USE_RlogF is True:
+            self._calc_RlogF_score()
+            self.score_dict['RlogF']=self.RlogF_ent_score
+            self.overallscore = self.score_dict['RlogF']
+        elif USE_SNOWBALL_SIMPLE is True:
+            self._calc_snowball_conf_simple()
+            self.score_dict['Snowball_simple'] = self.confidence_simple
+            self.overallscore = self.score_dict['Snowball_simple']
+
+
+
     def __str__(self):
-        if self.RlogF_ent_score is not None:
-            return "({}, {})\t{}\t {}".format(self.word, self.variant,self.RlogF_ent_score, self.defid_list)
+        if self.overallscore is not None:
+            return "({}, {})\t{}\t {}".format(self.word, self.variant,self.overallscore, self.defid_list)
         else:
             return "({}, {})".format(self.word, self.variant)
 
