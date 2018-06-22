@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="521be802-a8f4-463c-8265-af912a85c268" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,10 +46,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="baseline.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UD_Extractor/baseline.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-338" />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Bootstrap.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3990">
+            <state relative-caret-position="595">
               <caret line="315" column="37" selection-start-line="315" selection-start-column="37" selection-end-line="315" selection-end-column="37" />
               <folding>
                 <element signature="e#499#539#0" expanded="true" />
@@ -61,7 +68,7 @@
       <file leaf-file-name="eval.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/eval.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
+            <state relative-caret-position="1110">
               <caret line="74" column="49" selection-start-line="74" selection-start-column="49" selection-end-line="74" selection-end-column="49" />
               <folding>
                 <element signature="e#495#516#0" expanded="true" />
@@ -73,7 +80,7 @@
       <file leaf-file-name="Tuple.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
+            <state relative-caret-position="1485">
               <caret line="99" selection-start-line="99" selection-end-line="99" />
               <folding>
                 <element signature="e#496#531#0" expanded="true" />
@@ -85,7 +92,7 @@
       <file leaf-file-name="_config.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/_config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
+            <state relative-caret-position="1215">
               <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
               <folding>
                 <element signature="e#499#508#0" expanded="true" />
@@ -97,8 +104,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="240">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -106,7 +113,7 @@
       <file leaf-file-name="Pattern.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
+            <state relative-caret-position="1785">
               <caret line="119" selection-start-line="119" selection-end-line="119" />
               <folding>
                 <element signature="e#499#520#0" expanded="true" />
@@ -179,7 +186,6 @@
         <option value="$PROJECT_DIR$/preprocess/preprocess-twitter.py" />
         <option value="$PROJECT_DIR$/preprocess/Preprocess_sub.py" />
         <option value="$PROJECT_DIR$/preprocess/__init__.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/UrbanDictScraper/UD_spider/settings.py" />
         <option value="$PROJECT_DIR$/preprocess/TwitterProcess.py" />
         <option value="$PROJECT_DIR$/preprocess/tweet_process.log" />
@@ -215,6 +221,7 @@
         <option value="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/Bootstrap.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/_config.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -272,7 +279,23 @@
             <path>
               <item name="UrbanDict_SpellingVariants" type="b2602c69:ProjectViewProjectNode" />
               <item name="UrbanDict_SpellingVariants" type="462c0819:PsiDirectoryNode" />
+              <item name="Embedding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UrbanDict_SpellingVariants" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UrbanDict_SpellingVariants" type="462c0819:PsiDirectoryNode" />
               <item name="preprocess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UrbanDict_SpellingVariants" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UrbanDict_SpellingVariants" type="462c0819:PsiDirectoryNode" />
+              <item name="preprocess" type="462c0819:PsiDirectoryNode" />
+              <item name="glove" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UrbanDict_SpellingVariants" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UrbanDict_SpellingVariants" type="462c0819:PsiDirectoryNode" />
+              <item name="UD_Extractor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -453,72 +476,56 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="77" y="23" width="1363" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32760897" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5018925" side_tool="true" weight="0.49141347" />
-      <window_info anchor="right" x="0" y="0" width="290" height="677" id="Documentation" order="6" side_tool="true" weight="0.32904148" />
+      <window_info anchor="right" x="0" y="0" width="290" height="677" id="Documentation" order="6" side_tool="true" weight="0.32853898" />
       <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32893" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4981075" weight="0.49141347" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32760897" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4988645" weight="0.32628798" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988645" visible="true" weight="0.17456359" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988645" weight="0.18494056" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.329296" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.369814" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3974262" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.32904148" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" x="391" y="259" width="735" height="407" id="SciView" order="5" weight="0.6316166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.31175694" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Remote Host" order="3" weight="0.329296" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39137018" />
-      <window_info anchor="right" x="391" y="259" width="735" height="407" id="SciView" order="5" weight="0.6316166" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32760897" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32760897" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4981075" weight="0.49141347" />
-      <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32893" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" x="0" y="0" width="290" height="677" id="Documentation" order="6" side_tool="true" weight="0.32904148" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32904148" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5018925" side_tool="true" weight="0.49141347" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31175694" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988645" visible="true" weight="0.18494056" />
-      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4988645" weight="0.32628798" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28766087" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32893" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32893" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925038" weight="0.4351621" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32793018" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46235138" />
       <window_info anchor="right" id="Database" order="4" weight="0.329296" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49925038" weight="0.34478202" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074965" side_tool="true" weight="0.4002642" />
       <window_info anchor="bottom" id="Database Changes" order="12" weight="0.32893" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32893" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="5" weight="0.3297568" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32793018" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -630,10 +637,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UrbanDictScraper/Log/filtered_word.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preprocess/Preprocess_sub.py" />
     <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter0/candi_tup.txt" />
     <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter0/tup.txt" />
     <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Definition.py">
@@ -705,7 +708,7 @@
     <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_dup/Iter0/candi_pat.txt" />
     <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
+        <state relative-caret-position="1485">
           <caret line="99" selection-start-line="99" selection-end-line="99" />
           <folding>
             <element signature="e#496#531#0" expanded="true" />
@@ -715,7 +718,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
+        <state relative-caret-position="1785">
           <caret line="119" selection-start-line="119" selection-end-line="119" />
           <folding>
             <element signature="e#499#520#0" expanded="true" />
@@ -723,19 +726,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3990">
-          <caret line="315" column="37" selection-start-line="315" selection-start-column="37" selection-end-line="315" selection-end-column="37" />
-          <folding>
-            <element signature="e#499#539#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/eval.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
+        <state relative-caret-position="1110">
           <caret line="74" column="49" selection-start-line="74" selection-start-column="49" selection-end-line="74" selection-end-column="49" />
           <folding>
             <element signature="e#495#516#0" expanded="true" />
@@ -745,11 +738,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/_config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
+        <state relative-caret-position="1215">
           <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
           <folding>
             <element signature="e#499#508#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="315" column="37" selection-start-line="315" selection-start-column="37" selection-end-line="315" selection-end-column="37" />
+          <folding>
+            <element signature="e#499#539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/baseline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>

@@ -13,3 +13,5 @@ __pycache__/
 pkl/
 *.pkl
 en_tweets
+
+*.txt
