@@ -1,2 +1,8 @@
-Iteration 0, runtime:0d,0h,11m,41s, rec:0.3813, prec:None,seed_num: 15, pattern num: 10
-Iteration 1, runtime:0d,0h,23m,40s, rec:0.3799, prec:None,seed_num: 15, pattern num: 10
+Iteration 0, runtime:0d,0h,9m,14s, rec:0.3813, prec:None,seed_num: 15, pattern num: 10
+Iteration 1, runtime:0d,0h,18m,52s, rec:0.3799, prec:None,seed_num: 15, pattern num: 10
+Iteration 2, runtime:0d,0h,28m,30s, rec:0.3799, prec:None,seed_num: 15, pattern num: 10
+Iteration 3, runtime:0d,0h,38m,9s, rec:0.3799, prec:None,seed_num: 15, pattern num: 10
+Iteration 4, runtime:0d,0h,47m,48s, rec:0.3799, prec:None,seed_num: 15, pattern num: 10
+Iteration 5, runtime:0d,0h,57m,27s, rec:0.3799, prec:None,seed_num: 15, pattern num: 10
+Iteration 6, runtime:0d,1h,7m,7s, rec:0.3799, prec:None,seed_num: 15, pattern num: 10
+Iteration 7, runtime:0d,1h,16m,47s, rec:0.3799, prec:None,seed_num: 15, pattern num: 10
