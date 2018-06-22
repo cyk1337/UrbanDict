@@ -176,7 +176,7 @@ class Pattern(object):
             self.threshold = self.RlogF_threshold
             self._calc_pattern_RlogF_score()
             self.score_dict['RlogF'] = self.RlogF_score
-            score = self.score_dict['RlogF'] * 1
+            score = self.score_dict['RlogF']
         elif USE_SNOWBALL_SIMPLE is True:
             self.threshold = self.confidence_threhold
             self._calc_snowball_conf_simple()

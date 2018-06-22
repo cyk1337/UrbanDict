@@ -278,7 +278,7 @@ class Bootstrap(Basic):
 
         self.candidate_tuples.sort(key=lambda t: t.overallscore, reverse=True)
 
-        self.candidate_tuples = [t for t in self.candidate_tuples if t.overallscore > t.threshold]
+        # self.candidate_tuples = [t for t in self.candidate_tuples if t.overallscore > t.threshold]
 
         rec = eval_recall([(t.word, t.variant) for t in self.candidate_tuples])
         self.rec.append(rec)
