@@ -62,8 +62,8 @@ class Bootstrap(Basic):
 
     @property
     def load_sql(self):
-        # sql_loadUD = "SELECT defid, word, definition FROM %s" % self.tbl_name
-        sql_loadUD = "SELECT defid, word, definition FROM %s LIMIT 90000" % self.tbl_name
+        sql_loadUD = "SELECT defid, word, definition FROM %s" % self.tbl_name
+        # sql_loadUD = "SELECT defid, word, definition FROM %s LIMIT 90000" % self.tbl_name
         # sql_loadUD = "SELECT defid, word, definition FROM %s WHERE word in ('ho', 'owned', 'owns', 'chode', 'cool')" % self.tbl_name
         # sql_loadUD = "SELECT defid, word, definition FROM UrbanDict WHERE defid=172638"
         return sql_loadUD

@@ -49,7 +49,7 @@ Bootstrap_dir = os.path.join(iter_dir, 'Bootstrap')
 BEGIN_OF_SENT = 'BOS'
 END_OF_SENT = 'EOS'
 
-MAX_ITER = 5
+MAX_ITER = 8
 
 # nltk word_tokenize usually transforms the double quote " to two forward quotes `` and backward quotes ''
 stopword_list = stopwords.words('english')
