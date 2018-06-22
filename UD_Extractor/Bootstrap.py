@@ -94,9 +94,9 @@ class Bootstrap(Basic):
             self.get_seed_from_pattern()
 
 
-            if self.iter_num>1 and self.seeds_num[self.iter_num] == self.seeds_num[self.iter_num - 1]:
-                print('Overall 0-{} iteration'.format(self.iter_num))
-                break
+            # if self.iter_num>1 and self.seeds_num[self.iter_num] == self.seeds_num[self.iter_num - 1]:
+            #     print('Overall 0-{} iteration'.format(self.iter_num))
+            #     break
 
             self.iter_log()
             self.iter_num = self.iter_num + 1

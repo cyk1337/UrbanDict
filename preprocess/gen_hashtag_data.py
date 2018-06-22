@@ -53,29 +53,31 @@ count_tweets()
 with codecs.open('stat_hashtag.pkl', 'rb') as f:
     hashtag_stat = pickle.load(f)
 
-def take_top_30():
+N=30
+
+def take_top_N():
     hashtag_count = dict()
     for k, v in hashtag_stat.items():
         hashtag_count[k] = len(v)
 
-    # take the most 10
-    d = sorted(hashtag_count.items(), key=lambda x: x[1], reverse=True)[:30]
+    # take the most N
+    d = sorted(hashtag_count.items(), key=lambda x: x[1], reverse=True)[:N]
     # tags = [t[0] for t in d]
 
-    with codecs.open('stat_hashtag10.pkl', 'wb') as f:
+    with codecs.open('stat_hashtag%s.pkl' % N, 'wb') as f:
         pickle.dump(d, f)
 
-take_top_30()
+take_top_N()
 
-with codecs.open('stat_hashtag10.pkl', 'rb') as f:
-    hashtag_10 = pickle.load(f)
+with codecs.open('stat_hashtag%s.pkl' % N, 'rb') as f:
+    hashtag_N = pickle.load(f)
 
 
 def write2file():
     with codecs.open(en_tweets, encoding='utf-8') as f:
         print("Start writing to file ...")
         for i, line in enumerate(f):
-            for t in hashtag_10:
+            for t in hashtag_N:
                 tag = t[0]
                 fname = os.path.join('hashtag', tag)
                 if i in hashtag_stat[tag]:
@@ -89,7 +91,7 @@ write2file()
 
 
 
-print(hashtag_10)
+print(hashtag_N)
 
 # remove the duplicates
 # rm_l = []

@@ -171,6 +171,7 @@ class Pattern(object):
             self.confidence_simple = self.positive /(self.positive + self.negative)
 
     def calc_pattern_score(self):
+        score=0
         if USE_RlogF is True:
             self.threshold = self.RlogF_threshold
             self._calc_pattern_RlogF_score()
