@@ -14,4 +14,7 @@ pkl/
 *.pkl
 en_tweets
 
-*.txt
+# glove vector file
+vectors.txt
+vocab.txt
+!iter_result/*

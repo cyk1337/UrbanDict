@@ -4,6 +4,18 @@
     <list default="true" id="521be802-a8f4-463c-8265-af912a85c268" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/candi_pat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/candi_tup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/pat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/tup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/candi_pat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/candi_tup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/pat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/tup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/candi_pat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/candi_tup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/pat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/tup.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,7 +92,7 @@
       <file leaf-file-name="Tuple.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1485">
+            <state relative-caret-position="366">
               <caret line="99" selection-start-line="99" selection-end-line="99" />
               <folding>
                 <element signature="e#496#531#0" expanded="true" />
@@ -89,10 +101,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="_config.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/_config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1215">
+            <state relative-caret-position="412">
               <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
               <folding>
                 <element signature="e#499#508#0" expanded="true" />
@@ -101,19 +122,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Pattern.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1785">
+            <state relative-caret-position="109">
               <caret line="119" selection-start-line="119" selection-end-line="119" />
               <folding>
                 <element signature="e#499#520#0" expanded="true" />
@@ -486,9 +498,9 @@
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4981075" weight="0.49141347" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32760897" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4988645" weight="0.32628798" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988645" weight="0.18494056" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4988645" visible="true" weight="0.18494056" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.329296" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3974262" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3974262" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.32904148" />
       <window_info anchor="right" x="391" y="259" width="735" height="407" id="SciView" order="5" weight="0.6316166" />
@@ -706,42 +718,12 @@
     <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_dup/Iter0/pat.txt" />
     <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter0/candi_pat.txt" />
     <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_dup/Iter0/candi_pat.txt" />
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="99" selection-start-line="99" selection-end-line="99" />
-          <folding>
-            <element signature="e#496#531#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="119" selection-start-line="119" selection-end-line="119" />
-          <folding>
-            <element signature="e#499#520#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/eval.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
           <caret line="74" column="49" selection-start-line="74" selection-start-column="49" selection-end-line="74" selection-end-column="49" />
           <folding>
             <element signature="e#495#516#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/_config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
-          <folding>
-            <element signature="e#499#508#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -761,10 +743,40 @@
         <state relative-caret-position="-338" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+          <folding>
+            <element signature="e#496#531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+          <folding>
+            <element signature="e#499#508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+          <folding>
+            <element signature="e#499#520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
