@@ -37,14 +37,20 @@ class Tuple(Seed):
 
         self.overallscore=None
         self.score_dict = defaultdict(float)
+        self.threshold = None
 
         self.pattern_list = list()
+
         self.RlogF_ent_score = None
         self.numerator = None
         self.denom = None
 
         self.confidence = 0
         self.confidence_simple = 0
+
+        # threshold
+        self.RlogF_threshold = 1
+        self.conf_threshold = 0
 
     def _calc_RlogF_score(self):
         """
@@ -74,10 +80,12 @@ class Tuple(Seed):
 
     def calc_tuple_score(self):
         if USE_RlogF is True:
+            self.threshold = self.RlogF_threshold
             self._calc_RlogF_score()
             self.score_dict['RlogF']=self.RlogF_ent_score
             self.overallscore = self.score_dict['RlogF']
         elif USE_SNOWBALL_SIMPLE is True:
+            self.threshold = self.conf_threshold
             self._calc_snowball_conf_simple()
             self.score_dict['Snowball_simple'] = self.confidence_simple
             self.overallscore = self.score_dict['Snowball_simple']

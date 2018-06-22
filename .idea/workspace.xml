@@ -2,47 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="521be802-a8f4-463c-8265-af912a85c268" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/preprocess/hashtag/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UD_Extractor/Bootstrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/Bootstrap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UD_Extractor/_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/eval.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter0/candi_pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter0/candi_pat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter0/candi_tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter0/candi_tup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter0/pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter0/pat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter0/tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter0/tup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter1/candi_pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter1/candi_pat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter1/candi_tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter1/candi_tup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter1/pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter1/pat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter1/tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter1/tup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter2/candi_pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter2/candi_pat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter2/candi_tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter2/candi_tup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter2/pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter2/pat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter2/tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter2/tup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter3/candi_pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter3/candi_pat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter3/candi_tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter3/candi_tup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter3/pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter3/pat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter3/tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter3/tup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter4/candi_pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter4/candi_pat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter4/candi_tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter4/candi_tup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter4/pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter4/pat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter4/tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter4/tup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter5/candi_pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter5/candi_pat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter5/candi_tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter5/candi_tup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter5/pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter5/pat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter5/tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter5/tup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter6/candi_pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter6/candi_pat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter6/candi_tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter6/candi_tup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter6/pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter6/pat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter6/tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter6/tup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter7/candi_pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter7/candi_pat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter7/candi_tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter7/candi_tup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter7/pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter7/pat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/Iter7/tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter7/tup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Bootstrap/logs" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/logs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preprocess/gen_hashtag_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocess/gen_hashtag_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter0/candi_pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter0/candi_pat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter0/candi_tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter0/candi_tup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter0/pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter0/pat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter0/tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter0/tup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter1/candi_pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter1/candi_pat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter1/candi_tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter1/candi_tup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter1/pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter1/pat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter1/tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter1/tup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter2/candi_pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter2/candi_pat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter2/candi_tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter2/candi_tup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter2/pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter2/pat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter2/tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter2/tup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter3/candi_pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter3/candi_pat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter3/candi_tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter3/candi_tup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter3/pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter3/pat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter3/tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter3/tup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter4/candi_pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter4/candi_pat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter4/candi_tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter4/candi_tup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter4/pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter4/pat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter4/tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter4/tup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter5/candi_pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter5/candi_pat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter5/candi_tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter5/candi_tup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter5/pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter5/pat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter5/tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter5/tup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter6/candi_pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter6/candi_pat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter6/candi_tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter6/candi_tup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter6/pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter6/pat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter6/tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter6/tup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter7/candi_pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter7/candi_pat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter7/candi_tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter7/candi_tup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter7/pat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter7/pat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter7/tup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter7/tup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/logs" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/logs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -104,8 +101,8 @@
       <file leaf-file-name="Bootstrap.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="335" column="15" selection-start-line="335" selection-start-column="15" selection-end-line="335" selection-end-column="15" />
+            <state relative-caret-position="-795">
+              <caret line="103" column="12" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
               <folding>
                 <element signature="e#499#539#0" expanded="true" />
               </folding>
@@ -116,7 +113,7 @@
       <file leaf-file-name="eval.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/eval.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-82">
+            <state relative-caret-position="43">
               <caret line="74" column="49" selection-start-line="74" selection-start-column="49" selection-end-line="74" selection-end-column="49" />
               <folding>
                 <element signature="e#495#516#0" expanded="true" />
@@ -128,8 +125,8 @@
       <file leaf-file-name="Tuple.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="35" column="23" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="23" />
+            <state relative-caret-position="306">
+              <caret line="87" column="26" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="26" />
               <folding>
                 <element signature="e#496#531#0" expanded="true" />
               </folding>
@@ -140,8 +137,8 @@
       <file leaf-file-name="_config.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/_config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="82" column="30" lean-forward="true" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+            <state relative-caret-position="300">
+              <caret line="82" column="59" selection-start-line="82" selection-start-column="59" selection-end-line="82" selection-end-column="59" />
               <folding>
                 <element signature="e#499#508#0" expanded="true" />
               </folding>
@@ -152,8 +149,8 @@
       <file leaf-file-name="Pattern.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="179" column="64" selection-start-line="179" selection-start-column="64" selection-end-line="179" selection-end-column="64" />
+            <state relative-caret-position="163">
+              <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
               <folding>
                 <element signature="e#499#520#0" expanded="true" />
               </folding>
@@ -172,8 +169,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>hoe</find>
-      <find>ghey</find>
       <find>BOS( see</find>
       <find>abbr</find>
       <find>``</find>
@@ -202,6 +197,8 @@
       <find>N_</find>
       <find>Tuple</find>
       <find>save</find>
+      <find>sort</find>
+      <find>overal</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -256,10 +253,10 @@
         <option value="$PROJECT_DIR$/preprocess/generate_hashtag_data.py" />
         <option value="$PROJECT_DIR$/preprocess/hashtag/README.md" />
         <option value="$PROJECT_DIR$/preprocess/gen_hashtag_data.py" />
+        <option value="$PROJECT_DIR$/UD_Extractor/eval.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/Bootstrap.py" />
-        <option value="$PROJECT_DIR$/UD_Extractor/eval.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/_config.py" />
       </list>
     </option>
@@ -324,12 +321,6 @@
               <item name="UrbanDict_SpellingVariants" type="462c0819:PsiDirectoryNode" />
               <item name="UD_Extractor" type="462c0819:PsiDirectoryNode" />
               <item name="Bootstrapping" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UrbanDict_SpellingVariants" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UrbanDict_SpellingVariants" type="462c0819:PsiDirectoryNode" />
-              <item name="UD_Extractor" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UrbanDict_SpellingVariants" type="b2602c69:ProjectViewProjectNode" />
@@ -525,8 +516,8 @@
       <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32893" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4981075" weight="0.49141347" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32760897" />
-      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4988645" weight="0.32628798" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988645" visible="true" weight="0.18494056" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4988645" visible="true" weight="0.32628798" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988645" weight="0.18494056" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.329296" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39137018" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -589,12 +580,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py</url>
-          <line>335</line>
+          <line>301</line>
           <option name="timeStamp" value="239" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py</url>
-          <line>336</line>
+          <line>302</line>
           <option name="timeStamp" value="240" />
         </line-breakpoint>
       </breakpoints>
@@ -677,16 +668,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter1/pat.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../ENV/anaconda3/envs/mlp/lib/python3.6/site-packages/PIL/Image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="128" selection-start-line="128" selection-end-line="128" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/run_Bootstrap.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -709,7 +690,7 @@
     <entry file="file://$PROJECT_DIR$/UrbanDictScraper/Log/filtered_word.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter0/candi_pat.txt">
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter0/candi_pat.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
@@ -721,24 +702,17 @@
         <state relative-caret-position="-174" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter0/candi_tup.txt">
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter0/candi_tup.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter0/tup.txt">
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter0/tup.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56580">
           <caret line="3772" column="42" selection-start-line="3772" selection-start-column="42" selection-end-line="3772" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter0/pat.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-line="2" selection-start-column="12" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -797,15 +771,8 @@
     <entry file="file://$PROJECT_DIR$/preprocess/hashtag/kcapinoystar">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter2/tup.txt">
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter2/tup.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/data/spelling_variants_valid.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-182">
-          <caret line="406" column="2" selection-start-line="406" selection-end-line="406" selection-end-column="2" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/data/seed2.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -814,30 +781,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter7/tup.txt">
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter7/tup.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter6/tup.txt">
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter6/tup.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter5/tup.txt">
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter5/tup.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/logs">
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/logs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter7/pat.txt">
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter7/pat.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup/Iter7/candi_tup.txt">
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter7/candi_tup.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="19284" column="37" selection-start-line="19284" selection-start-column="37" selection-end-line="19284" selection-end-column="37" />
@@ -923,35 +890,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_no_dup/Iter2/candi_pat.txt">
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_no_dup/Iter2/candi_tup.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_no_dup/Iter2/candi_tup.txt">
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_dup0/Iter0/pat.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-line="2" selection-start-column="12" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/data/spelling_variants_valid.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="406" column="2" selection-start-line="406" selection-end-line="406" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/BT_RlogF_no_dup/Iter2/candi_pat.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/pat.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/candi_pat.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="35" column="23" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="23" />
+        <state relative-caret-position="306">
+          <caret line="87" column="26" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="26" />
           <folding>
             <element signature="e#496#531#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="179" column="64" selection-start-line="179" selection-start-column="64" selection-end-line="179" selection-end-column="64" />
-          <folding>
-            <element signature="e#499#520#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/eval.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-82">
+        <state relative-caret-position="43">
           <caret line="74" column="49" selection-start-line="74" selection-start-column="49" selection-end-line="74" selection-end-column="49" />
           <folding>
             <element signature="e#495#516#0" expanded="true" />
@@ -959,10 +944,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+          <folding>
+            <element signature="e#499#520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="335" column="15" selection-start-line="335" selection-start-column="15" selection-end-line="335" selection-end-column="15" />
+        <state relative-caret-position="-795">
+          <caret line="103" column="12" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
           <folding>
             <element signature="e#499#539#0" expanded="true" />
           </folding>
@@ -971,8 +966,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/_config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="82" column="30" lean-forward="true" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+        <state relative-caret-position="300">
+          <caret line="82" column="59" selection-start-line="82" selection-start-column="59" selection-end-line="82" selection-end-column="59" />
           <folding>
             <element signature="e#499#508#0" expanded="true" />
           </folding>

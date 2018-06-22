@@ -42,12 +42,14 @@ class Pattern(object):
 
         self.score_dict = defaultdict(float)
         self.overallscore = 0
+        self.threshold = None
 
         # RlogF metric
         self.match_seed_count = 0
         self.match_tot_count = 0
         # self.match_dupl_count = 0
         self.RlogF_score = 0
+        self.RlogF_threshold = 0
 
         # Snowball metric
         self.positive = 0
@@ -55,6 +57,7 @@ class Pattern(object):
         self.unknown = 0
         self.confidence = 0
         self.confidence_simple = 0
+        self.confidence_threhold = 0
 
         # self.patterns = list()
         # self.context_before = list()
@@ -169,10 +172,12 @@ class Pattern(object):
 
     def calc_pattern_score(self):
         if USE_RlogF is True:
+            self.threshold = self.RlogF_threshold
             self._calc_pattern_RlogF_score()
             self.score_dict['RlogF'] = self.RlogF_score
             score = self.score_dict['RlogF'] * 1
         elif USE_SNOWBALL_SIMPLE is True:
+            self.threshold = self.confidence_threhold
             self._calc_snowball_conf_simple()
             self.score_dict['Snowball_simple'] = self.confidence_simple
             score = self.score_dict['Snowball_simple']

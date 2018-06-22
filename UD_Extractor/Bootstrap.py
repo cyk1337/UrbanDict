@@ -46,13 +46,12 @@ class Bootstrap(Basic):
         self.chunksize = chunksize
         self.tbl_name = 'UrbanDict'
         super(Bootstrap, self).__init__(chunksize=self.chunksize, sql=self.load_sql)
+
         self.patterns = list()
         self.candidate_patterns = list()
 
         self.seeds = list()
-        # self.processed_tuples = []
         self.candidate_tuples = list()
-        # self.candidate_tuples = defaultdict(list)
 
         self.iter_num = 0
         self.seeds_num = list()
@@ -90,7 +89,7 @@ class Bootstrap(Basic):
             logger.info("Iteration {} starting...".format(self.iter_num))
 
             self.generate_pattern_from_seeds()
-            # RlogF metric
+            # score metric
             self.score_candidate_pattern()
             self.get_seed_from_pattern()
 
@@ -103,7 +102,6 @@ class Bootstrap(Basic):
             self.iter_num = self.iter_num + 1
 
         # self.close_bootstrap()
-
 
     def read_init_seeds_from_file(self, seed_file=SEED_FILE):
         logger.info('Start reading initial seeds ...')
@@ -157,38 +155,6 @@ class Bootstrap(Basic):
             if word == seed.word:
                 return seed.variant
 
-    # def get_index_of_varaint(self, defn_tokenized, variant_set):
-    #     # k -> v:
-    #     # sent_num: int -> index in each sent: set{}
-    #     variant_index_dict = {}
-    #     for sent_index, defn_sent in enumerate(defn_tokenized):
-    #         variant_index_dict[sent_index] = []
-    #         # collect all the variant occurrence
-    #         for variant in variant_set:
-    #             candidate_index_list = [i for i, tok in enumerate(defn_sent) if tok==variant]
-    #             # if the variant occur once
-    #             if len(candidate_index_list) == 1:
-    #                 variant_index_dict[sent_index].append(candidate_index_list[0])
-    #             # variant appear multiple times, choose by the context quote symbol
-    #             elif len(candidate_index_list) > 1:
-    #                 for index in candidate_index_list:
-    #                     if defn_sent[index-1] in ('"', "'", "``") and len(defn_sent)>= index+1 and defn_sent[index+1] in ('"', "'", "``"):
-    #                         variant_index_dict[sent_index].append(candidate_index_list[0])
-    #     return {k: v for k, v in variant_index_dict.items() if len(v)>0}
-
-
-    # def definition_tokenize(self, definition):
-    #     """
-    #     tokenize definition sentences,
-    #     :param definition: definition sentences
-    #     :return: 2-dim array, each inside array represents a sentence.
-    #     """
-    #     defn_tokenized = []
-    #     sent_list = sent_tokenize(definition)
-    #     for sent in sent_list:
-    #         defn_tokenized.append([tok.lower() for tok in word_tokenize(sent)])
-    #     return defn_tokenized
-
     # TODO: score candidate patterns: RlogF metric
     def score_candidate_pattern(self):
 
@@ -234,7 +200,7 @@ class Bootstrap(Basic):
 
         self.candidate_patterns.sort(key=lambda p: p.overallscore, reverse=True)
 
-        self.candidate_patterns = [p for p in self.candidate_patterns if p.overallscore > 0]
+        self.candidate_patterns = [p for p in self.candidate_patterns if p.overallscore > p.threshold]
         if len(self.candidate_patterns) <= N_pattern:
             # self.patterns += [p for p in self.candidate_patterns if p not in self.patterns]
             self.patterns = self.candidate_patterns
@@ -312,7 +278,7 @@ class Bootstrap(Basic):
 
         self.candidate_tuples.sort(key=lambda t: t.overallscore, reverse=True)
 
-        self.candidate_tuples = [p for p in self.candidate_tuples if p.overallscore > 1]
+        self.candidate_tuples = [t for t in self.candidate_tuples if t.overallscore > t.threshold]
 
         rec = eval_recall([(t.word, t.variant) for t in self.candidate_tuples])
         self.rec.append(rec)
@@ -325,7 +291,7 @@ class Bootstrap(Basic):
         for t in self.seeds:
             print('='*80)
             print("score of tuples:")
-            print("overall score of tuples: %f" % t.overallscore)
+            print("overall score of tuples: %s" % t.overallscore)
             print('-'*20)
             print("tuple: %s" % t)
             print("Numerator:", t.numerator)

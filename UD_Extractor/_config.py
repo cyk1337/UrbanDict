@@ -64,23 +64,32 @@ useBothContext=True
 usePreviousContext= True
 
 CTX_PREV_SIZE = 3
-CTX_NEXT_SIZE = 1
-
 
 #***use context on the right
 useNextContext = False
+
+CTX_NEXT_SIZE = 1
+
 
 # select num for each iter
 N_pattern = 10
 N_tuple = 10
 
-# score method
-USE_RlogF = False # TODO: increase the num pattern each iter
-
-USE_SNOWBALL_SIMPLE = True
-
 # results saved path: ./iter_result/{EXP_NAME}
-EXP_NAME = 'Snowball_simp_dup'
+# EXP_NAME = 'Snowball_simp_dup'
+EXP_NAME = 'RlogF_dup'
+
+# score method group1
+USE_RlogF = True # TODO: increase the num pattern each iter
+USE_SNOWBALL_SIMPLE = False
+
+# score method group2
+# USE_RlogF = False
+# USE_SNOWBALL_SIMPLE = True
+
+
+
+
 
 #***the context should be at least this long
 minWindow4Pattern = 2
