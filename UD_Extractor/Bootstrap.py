@@ -312,7 +312,7 @@ class Bootstrap(Basic):
         timedelta = finish_time - self.start_time
         run_time = days_hours_mins_secs(timedelta)
         logger.info("Runtime:{}".format(run_time))
-        logpath = os.path.join(Bootstrap_dir, 'logs')
+        logpath = os.path.join(EXP_DIR, 'logs')
         with open(logpath, 'a') as f:
             f.write("Iteration {}, runtime:{}, rec:{:.4f}, prec:{},seed_num: {}, pattern num: {}\n".
                 format(self.iter_num, run_time, self.rec[self.iter_num], 'None',len(self.seeds), len(self.patterns))

@@ -115,14 +115,14 @@ class Pattern(object):
             pair = (word, var)
 
             # TODO: opt1.consider duplicated total count
-            self.tuples_list.append(pair)
+            # self.tuples_list.append(pair)
             # self.match_tot_count += 1
 
-            # if pair not in self.tuples_list:
-            #     # TODO: opt2. consider distinct total count
-            #     self.tuples_list.append(pair)
+            if pair not in self.tuples_list:
+                # TODO: opt2. consider distinct total count
+                self.tuples_list.append(pair)
 
-            if pair in seeds_list:
+            if pair in seeds_list and pair not in self.match_seed_list:
                 # TODO: opt1.consider duplicated seed count
                 # self.match_seed_count += 1
                 self.match_seed_list.append(pair)

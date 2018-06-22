@@ -43,7 +43,6 @@ iter_dir = os.path.join(work_dir, 'iter_result')
 prec_dir = os.path.join(iter_dir, 'prec')
 rec_dir = os.path.join(iter_dir, 'rec')
 
-Bootstrap_dir = os.path.join(iter_dir, 'Bootstrap')
 
 
 BEGIN_OF_SENT = 'BOS'
@@ -77,7 +76,8 @@ N_tuple = 10
 
 # results saved path: ./iter_result/{EXP_NAME}
 # EXP_NAME = 'Snowball_simp_dup'
-EXP_NAME = 'RlogF_dup'
+EXP_NAME = 'RlogF_distinct'
+EXP_DIR = os.path.join(iter_dir, EXP_NAME)
 
 # score method group1
 USE_RlogF = True # TODO: increase the num pattern each iter
