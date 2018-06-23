@@ -123,7 +123,7 @@ preds = Dense(5, activation='softmax')(x)
 
 model = Model(sequence_input, preds)
 model.compile(loss='categorical_crossentropy',
-              optimizer='rmsprop',
+              optimizer='adam',
               metrics=['acc'])
 
 history  = model.fit(train_pad_seq, y_train,
@@ -132,7 +132,7 @@ history  = model.fit(train_pad_seq, y_train,
           validation_data=(val_pad_seq, y_val))
 
 # save history info
-plot_filename = 'glove_cnn.pdf'
+plot_filename = 'glove_cnn_adam.pdf'
 save_history(history, '{}.csv'.format(plot_filename[:-4]), subdir=subdir)
 # save model
 visialize_model(model, filepath=plot_filename)
