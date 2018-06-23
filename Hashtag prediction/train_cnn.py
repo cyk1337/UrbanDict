@@ -105,17 +105,20 @@ embedding_layer = Embedding(num_words,
                             trainable=False)
 
 print('Training model.')
+# hyper-params
+filters = 128
+kernel_size = 5
 
 # train a 1D convnet with global maxpooling
 sequence_input = Input(shape=(MAX_SEQUENCE_LENGTH,), dtype='int32')
 embedded_sequences = embedding_layer(sequence_input)
-x = Conv1D(128, 5, activation='relu')(embedded_sequences)
+x = Conv1D(filters, kernel_size, activation='relu')(embedded_sequences)
 x = MaxPooling1D(5)(x)
-x = Conv1D(128, 5, activation='relu')(x)
+x = Conv1D(filters, kernel_size, activation='relu')(x)
 x = MaxPooling1D(5)(x)
-x = Conv1D(128, 5, activation='relu')(x)
+x = Conv1D(filters, kernel_size, activation='relu')(x)
 x = GlobalMaxPooling1D()(x)
-x = Dense(128, activation='relu')(x)
+x = Dense(filters, activation='relu')(x)
 preds = Dense(5, activation='softmax')(x)
 
 model = Model(sequence_input, preds)
@@ -124,8 +127,8 @@ model.compile(loss='categorical_crossentropy',
               metrics=['acc'])
 
 history  = model.fit(train_pad_seq, y_train,
-          batch_size=128,
-          epochs=10,
+          batch_size=BATCH_SIZE,
+          epochs=EPOCH_NUM,
           validation_data=(val_pad_seq, y_val))
 
 # save history info
