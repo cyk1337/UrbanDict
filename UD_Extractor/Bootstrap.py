@@ -205,6 +205,7 @@ class Bootstrap(Basic):
 
         self.candidate_patterns = [p for p in self.candidate_patterns if p.overallscore > p.threshold]
 
+        # fixme: keep more patterns in later iterations
         if USE_RlogF is True:
             N_pattern = self.N_pattern + 5 *self.iter_num
         else:
@@ -271,8 +272,8 @@ class Bootstrap(Basic):
                             else:
                                 # if tuple exists, add `defid`
                                 i = self.candidate_tuples.index(tup)
-                                self.candidate_tuples[i].defid_list.append(defid)
-
+                                if defid not in self.candidate_tuples[i].defid_list:
+                                    self.candidate_tuples[i].defid_list.append(defid)
                             # tuple score count
                             if pat not in tup.pattern_list:
                                 tup.pattern_list.append(pat)
