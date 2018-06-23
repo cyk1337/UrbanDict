@@ -100,11 +100,13 @@ class Tuple(Seed):
             self._calc_RlogF_score()
             self.score_dict['RlogF']=self.RlogF_ent_score
             self.overallscore = self.score_dict['RlogF']
+
         elif USE_RlogF_IMPROVE is True:
             self.threshold = self.RlogF_threshold
             self._calc_RlogF_score()
             self.score_dict['RlogF_improved']=self.RlogF_ent_score
             self.overallscore = self.score_dict['RlogF_improved']
+
         elif USE_SNOWBALL_SIMPLE is True:
             self.threshold = self.conf_threshold
             self._calc_snowball_conf_simple()

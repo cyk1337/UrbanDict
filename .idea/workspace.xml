@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="521be802-a8f4-463c-8265-af912a85c268" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/Bootstrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/Bootstrap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/logs" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/logs" afterDir="false" />
+>>>>>>> cb75a35a7ecc1997652c415668bee218749c2fc3
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,8 +58,13 @@
       <file leaf-file-name="Bootstrap.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="-1232">
               <caret line="184" column="13" selection-start-line="184" selection-start-column="13" selection-end-line="184" selection-end-column="13" />
+=======
+            <state relative-caret-position="-2">
+              <caret line="184" column="13" lean-forward="true" selection-start-line="184" selection-start-column="13" selection-end-line="184" selection-end-column="13" />
+>>>>>>> cb75a35a7ecc1997652c415668bee218749c2fc3
               <folding>
                 <element signature="e#499#539#0" expanded="true" />
               </folding>
@@ -58,11 +72,19 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Pattern.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="417">
               <caret line="197" lean-forward="true" selection-start-line="197" selection-end-line="197" />
+=======
+      <file leaf-file-name="Pattern.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="195" column="33" lean-forward="true" selection-start-line="195" selection-start-column="33" selection-end-line="195" selection-end-column="33" />
+>>>>>>> cb75a35a7ecc1997652c415668bee218749c2fc3
               <folding>
                 <element signature="e#499#520#0" expanded="true" />
               </folding>
@@ -72,6 +94,7 @@
       </file>
       <file leaf-file-name="data_loader.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hashtag prediction/data_loader.py">
+<<<<<<< HEAD
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="660">
               <caret line="47" selection-start-line="47" selection-end-line="47" />
@@ -89,21 +112,41 @@
               <caret line="103" column="36" lean-forward="true" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="36" />
               <folding>
                 <element signature="e#496#531#0" expanded="true" />
+=======
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="e#502#520#0" expanded="true" />
+>>>>>>> cb75a35a7ecc1997652c415668bee218749c2fc3
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="_config.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/_config.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="377">
               <caret line="93" column="14" lean-forward="true" selection-start-line="93" selection-start-column="14" selection-end-line="93" selection-end-column="14" />
+=======
+      <file leaf-file-name="Tuple.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
+>>>>>>> cb75a35a7ecc1997652c415668bee218749c2fc3
               <folding>
-                <element signature="e#499#508#0" expanded="true" />
+                <element signature="e#496#531#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tup.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter7/tup.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -491,9 +534,15 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32668328" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4988645" weight="0.3254364" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4981075" weight="0.49127182" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988645" visible="true" weight="0.17437252" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.329296" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40878123" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988645" weight="0.17456359" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.329296" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40878123" />
+>>>>>>> cb75a35a7ecc1997652c415668bee218749c2fc3
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.32904148" />
       <window_info anchor="right" x="391" y="259" width="735" height="407" id="SciView" order="5" weight="0.6251788" />
@@ -812,6 +861,19 @@
     <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_improved/Iter0/candi_pat.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="91" column="17" lean-forward="true" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
+          <folding>
+            <element signature="e#499#508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> cb75a35a7ecc1997652c415668bee218749c2fc3
     <entry file="file://$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_improved/Iter0/pat.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -822,6 +884,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/UD_Extractor/_config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
@@ -838,26 +901,48 @@
           <caret line="197" lean-forward="true" selection-start-line="197" selection-end-line="197" />
           <folding>
             <element signature="e#499#520#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
+          <folding>
+            <element signature="e#496#531#0" expanded="true" />
+>>>>>>> cb75a35a7ecc1997652c415668bee218749c2fc3
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-1232">
           <caret line="184" column="13" selection-start-line="184" selection-start-column="13" selection-end-line="184" selection-end-column="13" />
+=======
+        <state relative-caret-position="-2">
+          <caret line="184" column="13" lean-forward="true" selection-start-line="184" selection-start-column="13" selection-end-line="184" selection-end-column="13" />
+>>>>>>> cb75a35a7ecc1997652c415668bee218749c2fc3
           <folding>
             <element signature="e#499#539#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Tuple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
           <caret line="103" column="36" lean-forward="true" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="36" />
           <folding>
             <element signature="e#496#531#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="195" column="33" lean-forward="true" selection-start-line="195" selection-start-column="33" selection-end-line="195" selection-end-column="33" />
+          <folding>
+            <element signature="e#499#520#0" expanded="true" />
+>>>>>>> cb75a35a7ecc1997652c415668bee218749c2fc3
           </folding>
         </state>
       </provider>
