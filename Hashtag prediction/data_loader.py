@@ -25,9 +25,9 @@
 import numpy as np
 import pandas as pd
 
-from .settings import *
+from settings import *
 
-def load_imdb():
+def load_tweets():
     ## train data
     train_data = pd.read_csv(train_csv)
     X_train = train_data['tweets']
