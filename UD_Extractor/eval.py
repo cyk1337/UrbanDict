@@ -24,6 +24,9 @@
 '''
 from _config import *
 import codecs, pickle, os
+import random
+import pandas as pd
+import sqlalchemy as sa
 
 def read_valid_file():
     valid_pair = []
@@ -78,11 +81,42 @@ def load_iter(iter_num , fname, exp_name=EXP_NAME):
     assert fname.endswith('.pkl'), "fname needs to be ended with '.pkl' !"
     filename = os.path.join(iter_No, fname)
 
-    if not os.path.exists(iter_No):
-        os.mkdir(iter_No)
     with open(filename, 'rb') as f:
         list_obj = pickle.load(f)
     return list_obj
+
+
+def get_defns_from_defids(defid_list):
+    pd.options.display.max_colwidth = 10000
+    engine = sa.create_engine('mysql+pymysql://root:admin@localhost/UrbanDict?charset=utf8')
+    conn = engine.connect()
+    db_name = 'UrbanDict'
+    sql_loadUD = "SELECT defid, definition FROM %s WHERE defid in %s" % (db_name, defid_list)
+    df = pd.read_sql(sql=sql_loadUD, con=conn)
+    defns = df.to_string(header=False, index=False)
+    return defns
+
+
+def sample2Estimate_prec(_dir):
+    bt_dir = os.path.join('iter_result', _dir)
+    for iter_dir in os.listdir(bt_dir):
+        if not iter_dir.startswith('Iter'): continue
+        filename = os.path.join(bt_dir, iter_dir, 'candi_tup.pkl')
+        with open(filename, 'rb') as f:
+            tup_list = pickle.load(f)
+        tup_sample = random.sample(tup_list, 100)
+        file = os.path.join(bt_dir, iter_dir, '%ssample100.txt' % iter_dir)
+        records = []
+        for tup in tup_sample:
+            pair = '%s, %s' % (tup.word, tup.variant)
+            defids = '('+','.join([str(id) for id in set(tup.defid_list)])+')'
+
+            defn = get_defns_from_defids(defids)
+            records.append((None,pair, defn))
+
+        df = pd.DataFrame.from_records(records)
+        df.to_csv(file, header=False, index=False, sep="\t", escapechar='\\',doublequote=False)
+        print("Finish writing into %s" % file)
 
 
 if __name__ == '__main__':
@@ -91,6 +125,8 @@ if __name__ == '__main__':
     # words = Counter(pair[0] for pair in valid_pair)
     # print(words.most_common())
 
-    test = [('ur', 'your'), ('m8s', 'mates')]
-    # save_iter(1, test, 'test')
-    eval_recall(test)
+    # test = [('ur', 'your'), ('m8s', 'mates')]
+    # # save_iter(1, test, 'test')
+    # eval_recall(test)
+
+    sample2Estimate_prec('RlogF_distinct')
