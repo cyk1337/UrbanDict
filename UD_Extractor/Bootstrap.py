@@ -207,6 +207,8 @@ class Bootstrap(Basic):
 
         if USE_RlogF is True:
             N_pattern = self.N_pattern + 5 *self.iter_num
+        else:
+            N_pattern = self.N_pattern
 
         if len(self.candidate_patterns) <= N_pattern:
             # self.patterns += [p for p in self.candidate_patterns if p not in self.patterns]
