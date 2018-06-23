@@ -161,14 +161,17 @@ class Pattern(object):
          ftp://ftp.cse.buffalo.edu/users/azhang/disc/disc01/cd1/out/papers/dl/p85-agichtein.pdf
          """
         # consider duplicates
-        for t in self.tuples_list:
-            if t in self.seeds_list:
-                self.positive += 1
-            else:
-                self.negative += 1
+        # for t in self.tuples_list:
+        #     if t in self.seeds_list:
+        #         self.positive += 1
+        #     else:
+        #         self.negative += 1
+        self.positive = len(self.match_seed_list)
+        self.negative = len(self.tuples_list) - self.positive
 
         if self.positive > 0 or self.negative > 0:
             self.confidence_simple = self.positive /(self.positive + self.negative)
+
 
     def calc_pattern_score(self):
         score=0
@@ -177,11 +180,17 @@ class Pattern(object):
             self._calc_pattern_RlogF_score()
             self.score_dict['RlogF'] = self.RlogF_score
             score = self.score_dict['RlogF']
+        elif USE_RlogF_IMPROVE is True:
+            self.threshold = self.RlogF_threshold
+            self._calc_pattern_RlogF_score()
+            self.score_dict['RlogF_improved'] = self.RlogF_score
+            score = self.score_dict['RlogF_improved']
         elif USE_SNOWBALL_SIMPLE is True:
             self.threshold = self.confidence_threhold
             self._calc_snowball_conf_simple()
             self.score_dict['Snowball_simple'] = self.confidence_simple
             score = self.score_dict['Snowball_simple']
+
 
         assert len(self.score_dict) > 0, "No score method used!"
         self.overallscore = score

@@ -68,6 +68,21 @@ class Tuple(Seed):
         self.denom = len(self.pattern_list)
         self.RlogF_ent_score = numerator / len(self.pattern_list)
 
+    def _calc_RlogF_score_improved(self):
+
+        numerator = 0
+        Fj_list = []
+        for pat in self.pattern_list:
+            # Fj = len(set(pat.tuples_list))
+            Fj = pat.match_seed_count
+            numerator += math.log2(Fj + 1)
+            Fj_list.append(Fj)
+        self.numerator = Fj_list
+        self.denom = len(self.pattern_list)
+        self.RlogF_ent_score = numerator / len(self.pattern_list)
+        self.RlogF_ent_score *= math.log2(len(self.defid_list)+1)
+
+
     def _calc_snowball_conf_simple(self):
         """
             # Snowball 2000, defn 4
@@ -84,11 +99,16 @@ class Tuple(Seed):
             self._calc_RlogF_score()
             self.score_dict['RlogF']=self.RlogF_ent_score
             self.overallscore = self.score_dict['RlogF']
+        elif USE_RlogF is True:
+            self.threshold = self.RlogF_threshold
+            self._calc_RlogF_score()
+            self.score_dict['RlogF_improved']=self.RlogF_ent_score
+            self.overallscore = self.score_dict['RlogF_improved']
         elif USE_SNOWBALL_SIMPLE is True:
             self.threshold = self.conf_threshold
             self._calc_snowball_conf_simple()
             self.score_dict['Snowball_simple'] = self.confidence_simple
-            self.overallscore = self.score_dict['Snowball_simple']
+            self.overallscore  = self.score_dict['Snowball_simple']
 
 
 
