@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="521be802-a8f4-463c-8265-af912a85c268" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/Bootstrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/Bootstrap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/candi_pat.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/candi_pat.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/candi_tup.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/candi_tup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/pat.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/pat.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/tup.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/tup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/candi_pat.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/candi_pat.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/candi_tup.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/candi_tup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/pat.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/pat.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/tup.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/tup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/candi_pat.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/candi_pat.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/candi_tup.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/candi_tup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/pat.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/pat.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/tup.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/tup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/logs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/candi_pat.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/candi_pat.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/candi_tup.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/candi_tup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/pat.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/pat.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/tup.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/tup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/logs" beforeDir="false" />
-    </list>
+    <list default="true" id="521be802-a8f4-463c-8265-af912a85c268" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -499,7 +461,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32760897" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5018925" side_tool="true" weight="0.49141347" />
@@ -508,9 +469,9 @@
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4981075" weight="0.49127182" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32760897" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4988645" weight="0.32628798" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988645" visible="true" weight="0.17456359" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4988645" visible="true" weight="0.17456359" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.329296" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37553647" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37553647" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.32904148" />
       <window_info anchor="right" x="391" y="259" width="735" height="407" id="SciView" order="5" weight="0.6251788" />
