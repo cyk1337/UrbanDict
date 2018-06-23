@@ -2,16 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="521be802-a8f4-463c-8265-af912a85c268" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Hashtag prediction/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashtag prediction/data_loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashtag prediction/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hashtag prediction/data/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Hashtag prediction/csv/test.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hashtag prediction/data/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Hashtag prediction/csv/train.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hashtag prediction/data/val.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Hashtag prediction/csv/val.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UD_Extractor/Bootstrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/Bootstrap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UD_Extractor/_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/UD_Extractor/_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/candi_pat.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/candi_pat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/candi_tup.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/candi_tup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/pat.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/pat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/tup.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter0/tup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/candi_pat.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/candi_pat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/candi_tup.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/candi_tup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/pat.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/pat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/tup.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter1/tup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/candi_pat.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/candi_pat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/candi_tup.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/candi_tup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/pat.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/pat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/tup.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/Iter2/tup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/RlogF_distinct/logs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/candi_pat.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/candi_pat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/candi_tup.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/candi_tup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/pat.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/pat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/tup.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/Iter0/tup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD_Extractor/iter_result/Snowball_simp_dup/logs" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,11 +82,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Bootstrap.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="209" selection-start-line="209" selection-end-line="209" />
+              <folding>
+                <element signature="e#499#539#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="data_loader.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hashtag prediction/data_loader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="285">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <element signature="e#502#520#0" expanded="true" />
               </folding>
@@ -79,7 +118,7 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hashtag prediction/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
+            <state relative-caret-position="495">
               <caret line="33" selection-start-line="33" selection-end-line="33" selection-end-column="60" />
             </state>
           </provider>
@@ -88,8 +127,8 @@
       <file leaf-file-name="_config.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UD_Extractor/_config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="77" column="71" selection-start-line="77" selection-start-column="71" selection-end-line="77" selection-end-column="71" />
+            <state relative-caret-position="133">
+              <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
               <folding>
                 <element signature="e#499#508#0" expanded="true" />
               </folding>
@@ -108,7 +147,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>abbr</find>
       <find>``</find>
       <find>seeds</find>
       <find>candidate_seeds</find>
@@ -132,12 +170,13 @@
       <find>not in</find>
       <find>match_se</find>
       <find>self.tuples_list</find>
-      <find>N_</find>
       <find>Tuple</find>
       <find>save</find>
       <find>sort</find>
       <find>overal</find>
       <find>print</find>
+      <find>N_pa</find>
+      <find>N_</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -191,11 +230,11 @@
         <option value="$PROJECT_DIR$/preprocess/gen_hashtag_data.py" />
         <option value="$PROJECT_DIR$/preprocess/data_split.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/Bootstrapping/Pattern.py" />
-        <option value="$PROJECT_DIR$/UD_Extractor/Bootstrap.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/Bootstrapping/__init__.py" />
         <option value="$PROJECT_DIR$/Hashtag prediction/__init__.py" />
         <option value="$PROJECT_DIR$/Hashtag prediction/settings.py" />
         <option value="$PROJECT_DIR$/Hashtag prediction/data_loader.py" />
+        <option value="$PROJECT_DIR$/UD_Extractor/Bootstrap.py" />
         <option value="$PROJECT_DIR$/UD_Extractor/_config.py" />
       </list>
     </option>
@@ -260,44 +299,24 @@
               <item name="UrbanDict_SpellingVariants" type="b2602c69:ProjectViewProjectNode" />
               <item name="UrbanDict_SpellingVariants" type="462c0819:PsiDirectoryNode" />
               <item name="Hashtag prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="csv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UrbanDict_SpellingVariants" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UrbanDict_SpellingVariants" type="462c0819:PsiDirectoryNode" />
+              <item name="Hashtag prediction" type="462c0819:PsiDirectoryNode" />
               <item name="glove" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UrbanDict_SpellingVariants" type="b2602c69:ProjectViewProjectNode" />
               <item name="UrbanDict_SpellingVariants" type="462c0819:PsiDirectoryNode" />
-              <item name="preprocess" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UrbanDict_SpellingVariants" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UrbanDict_SpellingVariants" type="462c0819:PsiDirectoryNode" />
               <item name="UD_Extractor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UrbanDict_SpellingVariants" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UrbanDict_SpellingVariants" type="462c0819:PsiDirectoryNode" />
-              <item name="UD_Extractor" type="462c0819:PsiDirectoryNode" />
-              <item name="Bootstrapping" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UrbanDict_SpellingVariants" type="b2602c69:ProjectViewProjectNode" />
               <item name="UrbanDict_SpellingVariants" type="462c0819:PsiDirectoryNode" />
               <item name="UD_Extractor" type="462c0819:PsiDirectoryNode" />
               <item name="iter_result" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UrbanDict_SpellingVariants" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UrbanDict_SpellingVariants" type="462c0819:PsiDirectoryNode" />
-              <item name="UD_Extractor" type="462c0819:PsiDirectoryNode" />
-              <item name="iter_result" type="462c0819:PsiDirectoryNode" />
-              <item name="Snowball_simp_dup" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UrbanDict_SpellingVariants" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UrbanDict_SpellingVariants" type="462c0819:PsiDirectoryNode" />
-              <item name="UD_Extractor" type="462c0819:PsiDirectoryNode" />
-              <item name="iter_result" type="462c0819:PsiDirectoryNode" />
-              <item name="Snowball_simp_dup" type="462c0819:PsiDirectoryNode" />
-              <item name="Iter0" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -486,10 +505,10 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5018925" side_tool="true" weight="0.49141347" />
       <window_info anchor="right" x="0" y="0" width="290" height="677" id="Documentation" order="6" side_tool="true" weight="0.32853898" />
       <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32893" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4981075" visible="true" weight="0.49127182" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4981075" weight="0.49127182" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32760897" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4988645" weight="0.32628798" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988645" weight="0.17456359" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4988645" visible="true" weight="0.17456359" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.329296" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37553647" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -552,12 +571,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py</url>
-          <line>301</line>
+          <line>308</line>
           <option name="timeStamp" value="239" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py</url>
-          <line>302</line>
+          <line>309</line>
           <option name="timeStamp" value="240" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -711,13 +730,6 @@
     <entry file="file://$PROJECT_DIR$/preprocess/data/test.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hashtag prediction/csv/train.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="81" lean-forward="true" selection-start-line="8" selection-start-column="81" selection-end-line="8" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/preprocess/data_split.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -807,32 +819,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="280" column="81" lean-forward="true" selection-start-line="280" selection-start-column="81" selection-end-line="280" selection-end-column="81" />
-          <folding>
-            <element signature="e#499#539#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Hashtag prediction/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hashtag prediction/csv/test.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hashtag prediction/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="33" selection-start-line="33" selection-end-line="33" selection-end-column="60" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrapping/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -841,20 +829,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Hashtag prediction/csv/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4418">
+          <caret selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hashtag prediction/csv/train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-535535">
+          <caret line="8" column="67" lean-forward="true" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Hashtag prediction/data_loader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="285">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
             <element signature="e#502#520#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Hashtag prediction/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" selection-start-line="33" selection-end-line="33" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UD_Extractor/Bootstrap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="209" selection-start-line="209" selection-end-line="209" />
+          <folding>
+            <element signature="e#499#539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/UD_Extractor/_config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="77" column="71" selection-start-line="77" selection-start-column="71" selection-end-line="77" selection-end-column="71" />
+        <state relative-caret-position="133">
+          <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
           <folding>
             <element signature="e#499#508#0" expanded="true" />
           </folding>

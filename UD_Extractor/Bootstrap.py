@@ -59,6 +59,9 @@ class Bootstrap(Basic):
         self.prec=[]
 
 
+        self.N_pattern = N_pattern
+        self.N_tuple = N_tuple
+
     @property
     def load_sql(self):
         sql_loadUD = "SELECT defid, word, definition FROM %s" % self.tbl_name
@@ -201,6 +204,10 @@ class Bootstrap(Basic):
         self.candidate_patterns.sort(key=lambda p: p.overallscore, reverse=True)
 
         self.candidate_patterns = [p for p in self.candidate_patterns if p.overallscore > p.threshold]
+
+        if USE_RlogF is True:
+            N_pattern = self.N_pattern + 5 *self.iter_num
+
         if len(self.candidate_patterns) <= N_pattern:
             # self.patterns += [p for p in self.candidate_patterns if p not in self.patterns]
             self.patterns = self.candidate_patterns
