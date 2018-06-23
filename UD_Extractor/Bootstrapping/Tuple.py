@@ -103,7 +103,7 @@ class Tuple(Seed):
 
         elif USE_RlogF_IMPROVE is True:
             self.threshold = self.RlogF_threshold
-            self._calc_RlogF_score()
+            self._calc_RlogF_score_improved()
             self.score_dict['RlogF_improved']=self.RlogF_ent_score
             self.overallscore = self.score_dict['RlogF_improved']
 
