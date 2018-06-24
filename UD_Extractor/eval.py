@@ -105,7 +105,10 @@ def sample2Estimate_prec(_dir):
         with open(filename, 'rb') as f:
             tup_list = pickle.load(f)
         tup_sample = random.sample(tup_list, 100)
-        file = os.path.join(bt_dir, iter_dir, '%ssample100.txt' % iter_dir)
+        sample_dir = os.path.join(bt_dir, '%ssample100' % _dir)
+        if not os.path.exists(sample_dir):
+            os.mkdir(sample_dir)
+        file = os.path.join(sample_dir, '%ssample100.txt' % iter_dir)
         records = []
         for tup in tup_sample:
             pair = '%s, %s' % (tup.word, tup.variant)
@@ -129,4 +132,5 @@ if __name__ == '__main__':
     # # save_iter(1, test, 'test')
     # eval_recall(test)
 
-    sample2Estimate_prec('RlogF_distinct')
+    # sample2Estimate_prec('RlogF_distinct_t10_p10+')
+    sample2Estimate_prec('RlogF_improved_t10_p10')

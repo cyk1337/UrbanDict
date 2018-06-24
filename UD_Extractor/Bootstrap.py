@@ -206,7 +206,7 @@ class Bootstrap(Basic):
         self.candidate_patterns = [p for p in self.candidate_patterns if p.overallscore > p.threshold]
 
         # fixme: keep more patterns in later iterations
-        if USE_RlogF is True:
+        if USE_RlogF is True or USE_RlogF_IMPROVE is True:
             N_pattern = self.N_pattern + 5 *self.iter_num
         else:
             N_pattern = self.N_pattern
