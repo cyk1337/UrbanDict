@@ -71,7 +71,7 @@ class Pattern(object):
         self.useBothCtx = useBothContext
         self.usePrevCtx = usePreviousContext
         self.useNextCtx = useNextContext
-        self.usePosCtx = usePOS4Pattern
+        # self.usePosCtx = usePOS4Pattern
 
         if useNextContext is False:
             self.repr = "%s <Var>" % (self.ctx_bef)

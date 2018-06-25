@@ -45,7 +45,8 @@ class Definition(object):
         self.useBothCtx = useBothContext
         self.usePrevCtx = usePreviousContext
         self.useNextCtx = useNextContext
-        self.usePosCtx = usePOS4Pattern
+        # self.usePosCtx = usePOS4Pattern
+
         self.match_seed = None
         self.isCtxValid = None
         self.isLeftCtxValid = None
