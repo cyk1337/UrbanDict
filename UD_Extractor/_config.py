@@ -62,7 +62,7 @@ useBothContext=True
 #***use context on the left
 usePreviousContext= True
 
-CTX_PREV_SIZE = 4
+CTX_PREV_SIZE = 3
 
 #***use context on the right
 useNextContext = False
@@ -71,8 +71,8 @@ CTX_NEXT_SIZE = 1
 
 
 # select num for each iter
-N_pattern = 10
-N_tuple = 10
+N_pattern = 20
+N_tuple = 20
 
 
 # score method group1
@@ -92,11 +92,11 @@ USE_RlogF_IMPROVE = False
 assert USE_RlogF or USE_RlogF_IMPROVE or USE_SNOWBALL_SIMPLE is True, "Assert at least set one score method!"
 EXP_NAME = ''
 if USE_RlogF is True:
-    EXP_NAME += 'RlogF'
+    EXP_NAME += 'RlogF_'
 elif USE_RlogF_IMPROVE is True:
-    EXP_NAME += 'RlogF_impr'
+    EXP_NAME += 'RlogF_impr_'
 elif USE_SNOWBALL_SIMPLE is True:
-    EXP_NAME += 'Snowball_simp'
+    EXP_NAME += 'Snowball_simp_'
 
 EXP_NAME = '%sctx%s_tup%s_pat%s' % (EXP_NAME, CTX_PREV_SIZE, N_tuple, N_pattern)
 

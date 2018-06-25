@@ -331,6 +331,7 @@ class Bootstrap(Basic):
 
 
 def main():
+    print("Exp:%s" % EXP_NAME)
     bootstrap_ = Bootstrap(chunksize=10000)
     # test ===================================
     # bootstrap_.read_init_seeds_from_file()
