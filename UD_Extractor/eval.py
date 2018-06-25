@@ -205,7 +205,12 @@ if __name__ == '__main__':
     # # save_iter(1, test, 'test')
     # eval_recall(test)
 
-    # sample2Estimate_prec('RlogF_distinct_t10_p10+')
+    # sample
+    # sample2Estimate_prec('RlogF_distinct_ctx3_t20_p20')
     # sample2Estimate_prec('RlogF_distinct_ctx3_t10_p10')
-    file = 'iter_result/RlogF_distinct_ctx3_t10_p10/RlogF_distinct_ctx3_t10_p10sample100/Iter6sample100.txt'
+
+    # manual labeling
+
+    # summary
+    file = 'iter_result/RlogF_distinct_ctx3_t20_p20/RlogF_distinct_ctx3_t20_p20sample100/Iter3sample100.txt'
     _count_and_write_db(file)
