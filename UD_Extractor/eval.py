@@ -85,11 +85,14 @@ def load_iter(iter_num , fname, exp_name=EXP_NAME):
         list_obj = pickle.load(f)
     return list_obj
 
+def conn_db():
+    engine = sa.create_engine('mysql+pymysql://root:admin@localhost/UrbanDict?charset=utf8')
+    conn = engine.connect()
+    return conn
 
 def get_defns_from_defids(defid):
     pd.options.display.max_colwidth = 10000
-    engine = sa.create_engine('mysql+pymysql://root:admin@localhost/UrbanDict?charset=utf8')
-    conn = engine.connect()
+    conn = conn_db()
     db_name = 'UrbanDict'
     sql_loadUD = "SELECT label, defid, definition FROM %s WHERE defid = %s" % (db_name, defid)
     df = pd.read_sql(sql=sql_loadUD, con=conn)
@@ -124,16 +127,26 @@ def sample2Estimate_prec(_dir):
         print("Finish writing into %s" % file)
 
 def update_label_db(defid_list, label, sample_file):
-    engine = sa.create_engine('mysql+pymysql://root:admin@localhost/UrbanDict?charset=utf8')
-    conn = engine.connect()
-    sql_update = "UPDATE UrbanDict SET label = %s WHERE defid in %s" % (label, defid_list)
+    conn = conn = conn_db()
+    len_ = len(defid_list)
+    if len_ > 1:
+        sql_update = "UPDATE UrbanDict SET label = %s WHERE defid in %s" % (label, defid_list)
+    elif len_ == 1:
+        sql_update = "UPDATE UrbanDict SET label = %s WHERE defid = %s" % (label, defid_list[0])
     try:
         conn.execute(sql_update)
+        print("Update label %s complete!" % label)
     except Exception as e:
-        print("Fail to update %s" % sample_file)
-    finally:
-        print("%s update successfully" % sample_file)
+        print("Fail to update label: %s, %s" % (sample_file[-18:-13],e))
 
+def update_variant_db(defid, variant, sample_file):
+    conn = conn_db()
+    sql_update = "UPDATE UrbanDict SET variant ='"+variant+"' WHERE defid = "+ str(defid)
+    try:
+        conn.execute(sql_update)
+        # print('Finish updating variant: %s' % defid)
+    except Exception as e:
+        print("Update variant fail: %s: %s" % (sample_file[-18:-13], e))
 
 def _count_and_write_db(sample_file):
     df = pd.read_csv(sample_file, sep="\t")
@@ -145,7 +158,8 @@ def _count_and_write_db(sample_file):
     label_nan = df[df['label'].isna()]
     # prec = label_1['pair'].count()/100
     prec = label_1['pair'].nunique()/100
-    # TODO: write variant into db!
+
+    # update label in db
     pos_list = tuple(label_1['defid'].tolist())
     neg_list = tuple(label_nan['defid'].tolist())
     if len(pos_list) >0:
@@ -157,11 +171,22 @@ def _count_and_write_db(sample_file):
     else:
         print('Please manually label first! %s' % sample_file)
 
+    # update variant in db
+    corr = df[df['label'] >= 1]
+    if corr['label'].count() > 0:
+        variant = corr['pair'].str.split(',', expand=True)[1]
+        corr.insert(loc=2, column='variant', value=variant)
+        for i, row in corr.iterrows():
+            defid = row['defid']
+            variant = row['variant']
+            update_variant_db(defid, variant, sample_file)
+
+    # write precision into log file
     result_dir = os.path.dirname(os.path.dirname(sample_file))
     log_file = os.path.join(result_dir, 'logs')
     with open(log_file, 'a') as f:
         log_iter = "Iteration %s: prec %s" % (sample_file[-14], prec)
-        f.write(log_iter)
+        f.write(log_iter+'\n')
         print(log_iter)
 
 def update_sample_dir(_dir):
@@ -182,5 +207,5 @@ if __name__ == '__main__':
 
     # sample2Estimate_prec('RlogF_distinct_t10_p10+')
     # sample2Estimate_prec('RlogF_distinct_ctx3_t10_p10')
-    file = 'iter_result/RlogF_distinct_ctx3_t10_p10/RlogF_distinct_ctx3_t10_p10sample100/Iter0sample100.txt'
+    file = 'iter_result/RlogF_distinct_ctx3_t10_p10/RlogF_distinct_ctx3_t10_p10sample100/Iter1sample100.txt'
     _count_and_write_db(file)

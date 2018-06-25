@@ -16,7 +16,7 @@ label	pair	defid	definition
 	noog, goon	392230	the reverse of the word goon with the same meaning
 	butchen, annoying	3873672	another word for annoying.
 1	slis, penis	4963439	Slis is another word for penis.
-2	mags, it	1352445	Another word for rims, but the ghetto way to say it.
+	mags, it	1352445	Another word for rims, but the ghetto way to say it.
 	brokeback, that	1613816	1. Another way of saying that something is \"gay\" (not neccessarily dissing homosexuals) or \"messed up\"; effed, funked, crapped, or whatever else a person would use to express that something that is negative in nature. 2. A way to express that something or someone is gay. Both definitions date back to 2005 referring to the movie about two homosexual men, \"Brokeback Mountain\".
 1	koolness, awesome	4479256	Koolness is another word for awesome. Just a cooler way to say it.
 1	eppie, episode	4186645	1) slang for the word 'episode'2) a girl's name, can be short for Hepzibah people with this name are usually very random and hyper, but are also gifted with great artistic talent. they make great friends as they are very loyal.
