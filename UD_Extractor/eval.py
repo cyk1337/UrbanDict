@@ -159,7 +159,7 @@ def _count_and_write_db(sample_file):
     # prec = label_1['pair'].count()/100
     prec = label_1['pair'].nunique()/100
 
-    # update label in db
+    # update label in db for label 0, 1, 2
     pos_list = tuple(label_1['defid'].tolist())
     neg_list = tuple(label_nan['defid'].tolist())
     if len(pos_list) >0:
@@ -171,8 +171,8 @@ def _count_and_write_db(sample_file):
     else:
         print('Please manually label first! %s' % sample_file)
 
-    # update variant in db
-    corr = df[df['label'] >= 1]
+    # update variant in db for true labeled vairants
+    corr = df[df['label'] == 1]
     if corr['label'].count() > 0:
         variant = corr['pair'].str.split(',', expand=True)[1]
         corr.insert(loc=2, column='variant', value=variant)
@@ -207,5 +207,5 @@ if __name__ == '__main__':
 
     # sample2Estimate_prec('RlogF_distinct_t10_p10+')
     # sample2Estimate_prec('RlogF_distinct_ctx3_t10_p10')
-    file = 'iter_result/RlogF_distinct_ctx3_t10_p10/RlogF_distinct_ctx3_t10_p10sample100/Iter1sample100.txt'
+    file = 'iter_result/RlogF_distinct_ctx3_t10_p10/RlogF_distinct_ctx3_t10_p10sample100/Iter6sample100.txt'
     _count_and_write_db(file)

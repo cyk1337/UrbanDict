@@ -1,123 +1,123 @@
 label	pair	defid	definition
-	crapito, crap	6560774	Mexican way of saying crap
-	revelance, relevance	3332641	A much cooler way to say relevance, usually spoken through an internet chat medium
-	ediat, idiot	1935162	another word for idiot
+1	crapito, crap	6560774	Mexican way of saying crap
+1	revelance, relevance	3332641	A much cooler way to say relevance, usually spoken through an internet chat medium
+1	ediat, idiot	1935162	another word for idiot
 	pregnify, you	5179890	A way of saying you want to have sex with someone, usually a female.
-	republicanist, terrorist	1765657	Another word for terrorist, as they mostly are fat white religious fanatics, who seem hellbent on distroying the USA.
-	fufun, vagina	2321244	Another word for Vagina. Seen in South Park.
-	fimmu, cool	3514111	1. a word that can be a substitute for the word COOL. 2. Can also be used in negative tense. 3. reference to the derogatory word for the vagina.
-	welp, well	109536	(interjection): another word for well as in \"Oh well.\", (noun): a pointless event.
-	welp, well	10862226	the amazing way of saying well
-	barn, barney	1708040	May be a clipping of the word barney. Used to label a white guy who thinks he's cool...but he's wrong. Subject may be seen wearing puca-shells while talking about \"hangin' ten\" even though he lives in San Jose.
-	burb, brb	4930306	Another way of saying Brb, The sound of \"Brb\"
-	burb, brb	973412	another way of saying \"brb\" see also stuff you and lamayo.
+1	republicanist, terrorist	1765657	Another word for terrorist, as they mostly are fat white religious fanatics, who seem hellbent on distroying the USA.
+1	fufun, vagina	2321244	Another word for Vagina. Seen in South Park.
+1	fimmu, cool	3514111	1. a word that can be a substitute for the word COOL. 2. Can also be used in negative tense. 3. reference to the derogatory word for the vagina.
+1	welp, well	109536	(interjection): another word for well as in \"Oh well.\", (noun): a pointless event.
+1	welp, well	10862226	the amazing way of saying well
+1	barn, barney	1708040	May be a clipping of the word barney. Used to label a white guy who thinks he's cool...but he's wrong. Subject may be seen wearing puca-shells while talking about \"hangin' ten\" even though he lives in San Jose.
+1	burb, brb	4930306	Another way of saying Brb, The sound of \"Brb\"
+1	burb, brb	973412	another way of saying \"brb\" see also stuff you and lamayo.
 	getch, the	4560225	1. An informal way of saying the word get.2. A short form of the Nigerian name \"Ogechi\" used by Americans to respect the Nigerian-American name bearer.
 	bkaarp, fuck	3582932	1. A shrill shriek emitted in times of extreme anguish and sexual arousion by MONTY WIRRIS. 2.Yet another way to say fuck off you pike
-	gimp, loser	7424542	A \"gimp\" is most commonly used as an insult in the United Kingdom. Practically a more offensive way of saying \"loser\".
-	o-he-o, ohio	4089729	The failure way to say Ohio.
-	yonkles, yes	325281	a word that is used for a colourful way to say \"yes\" or a word for any part of the body which grandparents would refer to as \"naughty\"
+1	gimp, loser	7424542	A \"gimp\" is most commonly used as an insult in the United Kingdom. Practically a more offensive way of saying \"loser\".
+1	o-he-o, ohio	4089729	The failure way to say Ohio.
+1	yonkles, yes	325281	a word that is used for a colourful way to say \"yes\" or a word for any part of the body which grandparents would refer to as \"naughty\"
 	deregulation, they	1248294	If you hear this word mentioned in a positive light, odds are someone rich is talking. Deregulation of various industries is a concept loudly heralded by Republicans and Conservatives in general as a means to \"promote competition\" and \"stimulate the economy\". These people can be trusted of course because, as we all know, their brilliant strategy of cutting taxes for the people most likely to send labor off American shores and setting the tax burden on the lower and middle classes is working like a charm. Anyone with half a brain can quickly figure out that they're more or less looking for a friendlier way of saying they'd like to make it easier to act outside the law, let unsafe and under-tested products roll off assembly lines on the cheap, and bring back the days before the Clayton Antitrust Act; a glorious time period in which the grand-daddies of the current crop of Republicans made their money and earned their clout.
-	dwawg, dog	5955992	A really black way to say dog, seen on Adventure Time.
-	charrr, farewell	2550761	A retarded way of saying farewell. Commonly used in the presence of retards.
-	nal, butt-sex	7898756	Another word for butt-sex
-	choad, choda	2453832	Choad, also spelt chode, is a variant of the word choda (penis) which comes from the Hindi word (chodna). Chodna simply means to fuck. The word choad however is what is known as a neologism. This is a word that is newly acknowledged but has not been in circulation long enough or widely enough for its social status to be determined. As it stands, the word choad has three major definitions. 1) A short, fat penis that is wider than it is longer 2) The area between the scrotum/vagina and the anus. 3) A derogatory term used to insult somebody.
-	mcspliffin, mvp	12349927	Too Good at something; another word for mvp
-	fubbernuck, fuck	12724216	Another way of saying \"fuck\". You can use this word when bitchy teachers are around, or simply whenever the fuck you feel like it!
-	ghers, awesome	2793521	Dutch way of saying awesome. Any positive adjective can be replaced by ghers and if the object of discussion sucks you may very well say it's aghers.
-	azy, nigger	12865549	when you can't say the word nigger :hehe:
+1	dwawg, dog	5955992	A really black way to say dog, seen on Adventure Time.
+1	charrr, farewell	2550761	A retarded way of saying farewell. Commonly used in the presence of retards.
+1	nal, butt-sex	7898756	Another word for butt-sex
+1	choad, choda	2453832	Choad, also spelt chode, is a variant of the word choda (penis) which comes from the Hindi word (chodna). Chodna simply means to fuck. The word choad however is what is known as a neologism. This is a word that is newly acknowledged but has not been in circulation long enough or widely enough for its social status to be determined. As it stands, the word choad has three major definitions. 1) A short, fat penis that is wider than it is longer 2) The area between the scrotum/vagina and the anus. 3) A derogatory term used to insult somebody.
+1	mcspliffin, mvp	12349927	Too Good at something; another word for mvp
+1	fubbernuck, fuck	12724216	Another way of saying \"fuck\". You can use this word when bitchy teachers are around, or simply whenever the fuck you feel like it!
+1	ghers, awesome	2793521	Dutch way of saying awesome. Any positive adjective can be replaced by ghers and if the object of discussion sucks you may very well say it's aghers.
+1	azy, nigger	12865549	when you can't say the word nigger :hehe:
 	kananakook, is	1661747	A medical term referring to the innermost part of the anus, and possibly the most important part of the anus. While the exact root of the word is unknown most believe it comes from the Greek 'kananakookus rutulis dennis'.
 	flammo, some	1440784	The act of inspiration or simply a clever way of saying some clever idea came just like that. Think of heureka, but with extra style.
-	mammilla, breasts	1451260	another word for breasts, can also be a word for someone's chest
-	kuel, cool	2671349	Used as a replacement for the word \"cool\" which also means the following; 1. awesome 2. popular; like in a social hierarchy 3. used when a conversation goes silent 4. nice 5. wicked (new england style, NOT evil= wicked) 6. good or great 7. not warm, but not cold 8. okay with each other, not mean to each other, but not necessarily nice, just not mean
-	bollox, bollocks	2031175	A variation of the word Bollocks. Sometimes this word can be pronouced BO-lox and is often used in texts, msn or to exhaggerate the word bollocks. It can be used in the same way as \"yeah right\" or as \"crap!\".
-	pappy, poo	7498774	Another word for poo and other words which mean the same. E.g. Shit, Crap, Feces.
-	halloa, hello	75755	the bestest way to say \"hello\" to someone.
-	yike, penis	3947938	Another word for penis
-	bayad, bad	1170794	What Scradam is for thinking he can get away with messing with the definitions for wonderfuls and luckies. He got it backwards, and that is BAYAD. Bayad is more or less a strongly distorted and slightly retarded pronunciation of the word \"bad\". Unlike the word \"bad\", bayad ALWAYS refers to something not good. Antonym: Grood
+1	mammilla, breasts	1451260	another word for breasts, can also be a word for someone's chest
+1	kuel, cool	2671349	Used as a replacement for the word \"cool\" which also means the following; 1. awesome 2. popular; like in a social hierarchy 3. used when a conversation goes silent 4. nice 5. wicked (new england style, NOT evil= wicked) 6. good or great 7. not warm, but not cold 8. okay with each other, not mean to each other, but not necessarily nice, just not mean
+1	bollox, bollocks	2031175	A variation of the word Bollocks. Sometimes this word can be pronouced BO-lox and is often used in texts, msn or to exhaggerate the word bollocks. It can be used in the same way as \"yeah right\" or as \"crap!\".
+1	pappy, poo	7498774	Another word for poo and other words which mean the same. E.g. Shit, Crap, Feces.
+1	halloa, hello	75755	the bestest way to say \"hello\" to someone.
+1	yike, penis	3947938	Another word for penis
+1	bayad, bad	1170794	What Scradam is for thinking he can get away with messing with the definitions for wonderfuls and luckies. He got it backwards, and that is BAYAD. Bayad is more or less a strongly distorted and slightly retarded pronunciation of the word \"bad\". Unlike the word \"bad\", bayad ALWAYS refers to something not good. Antonym: Grood
 	overswagulation, swag	6209232	The point at which you allow your swagger levels to overflow. This is caused by not turning your swag levels off every now and then. Overswagulation is characterized by the overuse of the word swag, trying too hard, a huge overflow of cockiness thinking you're \"the shit\" and an overall swag meltdown which can result in injury.
 	fishin, spitting	4529794	another word for spitting game. When Someone is hitting on another.
 	sonova, son	411435	short way to say son of a
 	khokhol, drastically	12648089	A term for a stereotypical Ukrainian, which is derived from a traditional hairstyle which is popular, generally with Ukrainian nationalists. The use of the word drastically increased within the Russian lexicon as a result of Euromaidan and the perceived rise of the Ukrainian pro-EU far right. Previously, it was used to mess with that one Ukrainian you knew inevitably knew if you were Russian, but ever since the EU drama it's become a much more charged and spiteful insult.
 	constant, best	4985061	A constant is a person in your life who you can always count on and trust... its basically another word for Best friend.
 	constant, best	8073006	A constant is a person in your life who you can always count on and trust... its basically another word for Best friend.An Extremely hot person who has the best personality & is a very unique individual. There have been plenty of people who have attempted to imitate the King and failed horribly. He has a body that is able to intake massive amounts of alcohol with ease. Also, he could possibly be one of the funniest person in life. ever. He is considered a God among men and magnificent man beast for the ladies. Also has an extremely huge cock.He is the hidden leader of mankind, basically.
-	shboogie, nigger	1439907	A shvartza, an ippish, another word for nigger.
-	migate, midget	3294660	A small yet proportional human being.;And or a small penis;Often used in replace of the word midget for a short kid; The Term was coined in Texas.
-	coin, money	4374401	another word for money
-	omccp, omg	4330466	Oh my coco puffs. Some other random way of saying OMG. They just use it because it kind of funny.
-	fable, fuckable	1465203	adjective 1. a shortened euphemism for the word \"fuckable\" 2. describes a person with whom you would most likely have sex, based on their physical appearance antonym: fugly
-	barshit, bullshit	5823113	Barshit can be a synonym for the word bullshit. If someone cuts you off while your driving, you say \"thats barshit\"Barshit also tends to be followed by the word unherman.You can pronounce unherman with a silent H for a more effictive saying. So it would sound like unerman.Barshit and Unherman both originate from the Armitage household, which has been adopted by the Hurdons, and other families.Both words sound better when used in a Country/Hick accent.
-	buftieful, beautiful	4288040	Noun:New Jersey's way of saying beautiful
-	shoite, shite	12670352	A more British, more countryside, better version of the word shite and feels great saying it.
+1	shboogie, nigger	1439907	A shvartza, an ippish, another word for nigger.
+1	migate, midget	3294660	A small yet proportional human being.;And or a small penis;Often used in replace of the word midget for a short kid; The Term was coined in Texas.
+1	coin, money	4374401	another word for money
+1	omccp, omg	4330466	Oh my coco puffs. Some other random way of saying OMG. They just use it because it kind of funny.
+1	fable, fuckable	1465203	adjective 1. a shortened euphemism for the word \"fuckable\" 2. describes a person with whom you would most likely have sex, based on their physical appearance antonym: fugly
+1	barshit, bullshit	5823113	Barshit can be a synonym for the word bullshit. If someone cuts you off while your driving, you say \"thats barshit\"Barshit also tends to be followed by the word unherman.You can pronounce unherman with a silent H for a more effictive saying. So it would sound like unerman.Barshit and Unherman both originate from the Armitage household, which has been adopted by the Hurdons, and other families.Both words sound better when used in a Country/Hick accent.
+1	buftieful, beautiful	4288040	Noun:New Jersey's way of saying beautiful
+1	shoite, shite	12670352	A more British, more countryside, better version of the word shite and feels great saying it.
 	configure-rig, nigger	422725	21st century politically correct way to say nigger rig. See also \"Southern engineering.\"
 	sup, what	8966328	A shorter way of saying 'what's up?'
-	amoshing, amazing	5780875	Another word for amazing, awesome, fantastic, etc.
-	regulars, lips	5305103	(noun) Another word for lips or a place that is customarily kissed. Unlike the nose or the spaces above or below the lips.
-	dwork, dork	1843793	Hilarious variation of the word dork. A rude, obnoxious, self-righteous and sexist female. Describes a pseudo-woman (often spelled w-o-m-y-n by the mentally challenged) who espouses the views of pseudo-feminist Andrea Dworkin, which essentially states that all heterosexual sex is rape, men are evil, all women are victims...ad nauseam. A dwork's primary message is: \"I hate ALL men and my hate is the prettiest hate on Earth.\" A dwork's mission goal is self-justification, the destruction of heterosexual relationships and lesbian recruitment through hatred, mistrust, jealousy and animosity. Their ultimate goal (Final Solution) is gendercide. Dworks are commonly referred to in the heterosexual community as \"the after-birth of the feminist movement.\" In reality, dworks do little more than damage the image and causes of REAL feminists and REAL lesbians. Which sucks because the real ones are pretty cool.
-	dwork, dork	1777806	Hilarious variation of the word dork. A rude, obnoxious, self-righteous and sexist female. Describes a pseudo-woman (often spelled w-o-m-y-n by the mentally challenged) who espouses the views of pseudo-feminist Andrea Dworkin, which essentially states that all heterosexual sex is rape, men are evil, all women are victims...ad nauseam. A dwork's primary message is: \"I hate ALL men and my hate is the prettiest hate on Earth.\" A dwork's mission goal is self-justification, the destruction of heterosexual relationships and lesbian recruitment through hatred, mistrust, jealousy and animosity. Their ultimate goal (Final Solution) is gendercide. Dworks are commonly referred to in the heterosexual community as \"the after-birth of the feminist movement.\" In reality, dworks do little more than damage the image and causes of REAL feminists and REAL lesbians. Which sucks because the real ones are pretty cool.
-	hurlo, hello	2339030	a greeting; another, cuter way of saying hello
-	dyude, dude	2132648	Another sveet word originating from pleasanton, california as a superior substitute for the word \"dude.\"
-	tama, exist	4435254	Short for Puta Madre. (In Spanish)Variations of the word exist and when its used.Ex. -Puta Ma -Tama -Ma
+1	amoshing, amazing	5780875	Another word for amazing, awesome, fantastic, etc.
+1	regulars, lips	5305103	(noun) Another word for lips or a place that is customarily kissed. Unlike the nose or the spaces above or below the lips.
+1	dwork, dork	1843793	Hilarious variation of the word dork. A rude, obnoxious, self-righteous and sexist female. Describes a pseudo-woman (often spelled w-o-m-y-n by the mentally challenged) who espouses the views of pseudo-feminist Andrea Dworkin, which essentially states that all heterosexual sex is rape, men are evil, all women are victims...ad nauseam. A dwork's primary message is: \"I hate ALL men and my hate is the prettiest hate on Earth.\" A dwork's mission goal is self-justification, the destruction of heterosexual relationships and lesbian recruitment through hatred, mistrust, jealousy and animosity. Their ultimate goal (Final Solution) is gendercide. Dworks are commonly referred to in the heterosexual community as \"the after-birth of the feminist movement.\" In reality, dworks do little more than damage the image and causes of REAL feminists and REAL lesbians. Which sucks because the real ones are pretty cool.
+1	dwork, dork	1777806	Hilarious variation of the word dork. A rude, obnoxious, self-righteous and sexist female. Describes a pseudo-woman (often spelled w-o-m-y-n by the mentally challenged) who espouses the views of pseudo-feminist Andrea Dworkin, which essentially states that all heterosexual sex is rape, men are evil, all women are victims...ad nauseam. A dwork's primary message is: \"I hate ALL men and my hate is the prettiest hate on Earth.\" A dwork's mission goal is self-justification, the destruction of heterosexual relationships and lesbian recruitment through hatred, mistrust, jealousy and animosity. Their ultimate goal (Final Solution) is gendercide. Dworks are commonly referred to in the heterosexual community as \"the after-birth of the feminist movement.\" In reality, dworks do little more than damage the image and causes of REAL feminists and REAL lesbians. Which sucks because the real ones are pretty cool.
+1	hurlo, hello	2339030	a greeting; another, cuter way of saying hello
+1	dyude, dude	2132648	Another sveet word originating from pleasanton, california as a superior substitute for the word \"dude.\"
+1	tama, exist	4435254	Short for Puta Madre. (In Spanish)Variations of the word exist and when its used.Ex. -Puta Ma -Tama -Ma
 	windows, was	5155320	1) A PC based operating system by Microsoft.2) An opening in a house, building, or other structure to provide view and ventilation.3) A slang term for crystal meth (methamphetamine). Derived from the term \"glass\" which is also a word used to describe crystal meth. Windows as in def. 2 are often made of glass. In some tweaker's meth addled mind \"glass\" equaled \"windows\" and a new meaning for the word was born. In addition the term seems appropriate as many tweakers either work in the computer field or enjoy computing in their spare time (as relating to def. 1).
-	yepperdedooda, yea	7931313	THE BEST AND ONLY WAY TO SAY YEA.
-	bup, boo	3747902	a quick way to say \"boo\" (opinionated criticism of a bad performance,joke,etc.) to someone who thinks they are funny but really isn't. This will make you laugh once you say it and the person who told the bad joke will believe your laughing at/with him. It's a win-win!!
-	toast, toats	3432934	A MUCH better way to say toats, or totally. But don't use it in front of hispanic men named Roger-they might get confused.
-	scrunch, scrumping	222609	Another word for scrumping, hunching, boinking, or sexing.
-	gilsruded, screwed	6317070	Another word for screwed...This is when your fantasy football team has a fantastic regular season then manages to fall apart right before or during the fantasy playoffs. Can be because of injuries, bad match ups or under-performing players.
+1	yepperdedooda, yea	7931313	THE BEST AND ONLY WAY TO SAY YEA.
+1	bup, boo	3747902	a quick way to say \"boo\" (opinionated criticism of a bad performance,joke,etc.) to someone who thinks they are funny but really isn't. This will make you laugh once you say it and the person who told the bad joke will believe your laughing at/with him. It's a win-win!!
+1	toast, toats	3432934	A MUCH better way to say toats, or totally. But don't use it in front of hispanic men named Roger-they might get confused.
+1	scrunch, scrumping	222609	Another word for scrumping, hunching, boinking, or sexing.
+1	gilsruded, screwed	6317070	Another word for screwed...This is when your fantasy football team has a fantastic regular season then manages to fall apart right before or during the fantasy playoffs. Can be because of injuries, bad match ups or under-performing players.
 	malmoot, oot	227910	derivation of the word \"oot\", meaning maliciously oot
-	barseman, bossman	2741355	Another Word For BossMan
-	faebook, facebook	7633609	Faebook is simply the ghetto way to say \"Facebook.\"
-	fuyne, fine	751730	other word for fine.
-	competish, competition	4123470	A truncated version of the word \"competition.\" Although the term can imply any form of fiercely brutal competitiveness among peers striving for a common goal, competish is most often used to describe the cut-throat process of attaining entrance into graduate schools of architecture.
+1	barseman, bossman	2741355	Another Word For BossMan
+1	faebook, facebook	7633609	Faebook is simply the ghetto way to say \"Facebook.\"
+1	fuyne, fine	751730	other word for fine.
+1	competish, competition	4123470	A truncated version of the word \"competition.\" Although the term can imply any form of fiercely brutal competitiveness among peers striving for a common goal, competish is most often used to describe the cut-throat process of attaining entrance into graduate schools of architecture.
 	nelly, the	4377282	Yet another word for the male parts. Funniest as a double meaning in cheesy jokes about being dared to do something naked.
 	horace, whore	6050714	Horace is a polite way of saying whore ass, because it sounds like horses.
 	vagange, a	736055	another word for a vagina
-	octocunt, cunt	12510832	A more expressive way of saying cunt. Used more on people who have ascended beyond the normal cunt level. When called a dodecadipshit u can reply with Octocunt.
+1	octocunt, cunt	12510832	A more expressive way of saying cunt. Used more on people who have ascended beyond the normal cunt level. When called a dodecadipshit u can reply with Octocunt.
 	stateotyping, a	4969094	Stateotyping is when someone assumes something once you acknowledge where you might be from. This common mistake is generally made with college students.It is better understood by looking at the two words that first melded into it.State - another word for a territory occupied by one of the constituent administrative districts of a nationStereotyping - A conventional or formulaic conception or image of something; \"regional stereotypes have been part of America since its founding
 	maynk, bro	5901852	1.A synonym for the word 'bro'. 2. Can be used at the end or begining of someone's last namefor example: Maynkowitz, Maynkkraut, Maynkberg, 3..In some places it means marijuana, these places consist of most jewish populated towns in the tri-state area. 4. One can also refer to a cool or fun town as maynkatown
 	belmont, calling	6291125	Another word for calling someone a bell end, idiot, fool, helmet etc. I've heard it used in a lot of different places in the UK. In our area we got the word from the old Vauxhall Belmont car that my friends dad used to drive. He was a massive Belmont as well.
 	nis, penis	458110	another word for penis
 	skadooze, skate	3623650	verb: The action of skateboarding, while, oozing with an abundance in style. Or another way to say skate Skadoozing
-	dsnacks, dip	5945587	Another word for dip or smokeless tobacco, used around adults or people who do not like you dipping.
-	durbunk, drunk	5980312	another word for drunk
+1	dsnacks, dip	5945587	Another word for dip or smokeless tobacco, used around adults or people who do not like you dipping.
+1	durbunk, drunk	5980312	another word for drunk
 	narc, narcoleptic	1843401	To suddenly and uncontrollably fall into deep sleep. Typically in the form of a full night's rest or extended nap. Derivative of the word \"narcoleptic.\"
 	narc, narcoleptic	1846267	To suddenly and uncontrollably fall into deep sleep. Typically in the form of a full night's rest or extended nap. Derivative of the word \"narcoleptic,\" but not actually associated with it.
-	thiccth, that	12197615	A dope ass way of saying that someones rear is thick
+1	thiccth, that	12197615	A dope ass way of saying that someones rear is thick
 	pinas, the	1535119	A easier way to say the Philippines.
-	confuzzled, confused	2429284	another form of the word \"confused\" saying this confuses people even more
-	confuzzled, confused	5728613	Another way to say confused, but much more awesome sounding. It can be said when you can't find any sense in something, or when you don't understand.
-	confuzzled, confused	830121	A slang term of the word 'confused'.
+1	confuzzled, confused	2429284	another form of the word \"confused\" saying this confuses people even more
+1	confuzzled, confused	5728613	Another way to say confused, but much more awesome sounding. It can be said when you can't find any sense in something, or when you don't understand.
+1	confuzzled, confused	830121	A slang term of the word 'confused'.
 	confuzzled, confused	12058540	A word in its essence bears the meaning of wanderlust. It is a bodacious fusion of the word confused and puzzled. It has one variation; confuzzling.
-	confuzzled, confused	2539821	1. A pimp's way of saying \"Confused\" 2. When you get confused because you woke up in your best friends kitchen naked with a sharp pain in your ass, and wearing a cock ring!
-	confuzzled, confused	7363894	A cute or funny way of saying confused. Usually used in texting or casual conversation.
-	confuzzled, confused	8314234	1 - A mix between confused and puzzled. Basically meaning you have no idea what's going on. 2 - A mix between confused and fuzz. Basically a more jokey way to say confused.
-	confuzzled, confused	2141	another word for confused, usually used by girls to sound cute
+1	confuzzled, confused	2539821	1. A pimp's way of saying \"Confused\" 2. When you get confused because you woke up in your best friends kitchen naked with a sharp pain in your ass, and wearing a cock ring!
+1	confuzzled, confused	7363894	A cute or funny way of saying confused. Usually used in texting or casual conversation.
+1	confuzzled, confused	8314234	1 - A mix between confused and puzzled. Basically meaning you have no idea what's going on. 2 - A mix between confused and fuzz. Basically a more jokey way to say confused.
+1	confuzzled, confused	2141	another word for confused, usually used by girls to sound cute
 	confuzzled, confused	8077854	It is a combonation of the word confused and beffudled.
-	cutiest, cutest	8517742	Unfortunately, this word doesn't actually exist. It is but a mere misspelling of the word 'cutest'.
+1	cutiest, cutest	8517742	Unfortunately, this word doesn't actually exist. It is but a mere misspelling of the word 'cutest'.
 	fnob, nob	2647934	another word for nob. i.e an idiot, dickead could also be interpreted as fucking nob, but i feel thats a bit extreme.
-	yupperdoodle, yes	2689282	an awesome way of saying yes
-	plaster, band-aid	620935	Plaster is just another word for Band-Aid. They are used to protect a small cuts and wounds from infection.
-	alex, meatball	2929072	Alex is another word for meatball
+1	yupperdoodle, yes	2689282	an awesome way of saying yes
+1	plaster, band-aid	620935	Plaster is just another word for Band-Aid. They are used to protect a small cuts and wounds from infection.
+1	alex, meatball	2929072	Alex is another word for meatball
 	lingity, language	3349845	a saucy twist on a way of speaking, another word for language or lingo
 	luyl, the	3401471	Another way to say the word 'lawl' or 'A word that would be used for LOL if LOL were a word'
-	fack, fuck	5426816	A word that occurs during the repitition of the word \"Fuck\", usually when the person is enraged or disgruntled.The term \"Fack\" may also be said after the word \"Fickin\", \"Frackin\" or any other random, non-existent word that occurs when proclaiming disagreement or when engaged in debate.
-	fack, fuck	6639714	A mis-spelling of the word \"frack\" - a euphemism for the word \"fuck\" coined by the creators of the original / classic \"Battlestar Galactica\" TV series to curse on-air and bypass the censors at the same time.
-	fack, fuck	4152115	A prolonged way of saying \"fuck\" when you are busted in an awkward/uncomfortable situation.
-	fack, fuck	1912468	Is simply used as a replacement for the word \"fuck\".
-	fack, fuck	378679	1. A deliberate mispronunciation of the word \"fuck\" with the hopes of the user being assumed as uniquely gifted and proactive in the language arts.
-	fack, fuck	5258652	another word for fuck but apropriate
-	fack, fuck	1995098	Used as a replacement for the word \"Fuck,\" most notably in the Eminem song \"Fack\".
-	fack, fuck	3841500	A word that can be substituted for the word \"fuck\".
-	fack, fuck	974172	A way of saying fuck in online games and chat rooms so that it won't get censored but everyone still knows what you mean.
-	fack, fuck	3090013	Used in Bermuda. Replacement for the word \"fuck\".
+1	fack, fuck	5426816	A word that occurs during the repitition of the word \"Fuck\", usually when the person is enraged or disgruntled.The term \"Fack\" may also be said after the word \"Fickin\", \"Frackin\" or any other random, non-existent word that occurs when proclaiming disagreement or when engaged in debate.
+1	fack, fuck	6639714	A mis-spelling of the word \"frack\" - a euphemism for the word \"fuck\" coined by the creators of the original / classic \"Battlestar Galactica\" TV series to curse on-air and bypass the censors at the same time.
+1	fack, fuck	4152115	A prolonged way of saying \"fuck\" when you are busted in an awkward/uncomfortable situation.
+1	fack, fuck	1912468	Is simply used as a replacement for the word \"fuck\".
+1	fack, fuck	378679	1. A deliberate mispronunciation of the word \"fuck\" with the hopes of the user being assumed as uniquely gifted and proactive in the language arts.
+1	fack, fuck	5258652	another word for fuck but apropriate
+1	fack, fuck	1995098	Used as a replacement for the word \"Fuck,\" most notably in the Eminem song \"Fack\".
+1	fack, fuck	3841500	A word that can be substituted for the word \"fuck\".
+1	fack, fuck	974172	A way of saying fuck in online games and chat rooms so that it won't get censored but everyone still knows what you mean.
+1	fack, fuck	3090013	Used in Bermuda. Replacement for the word \"fuck\".
 	saggums, a	862516	Another word for a fat kid, to be more specific, another term for Glub-Glub.
-	toshbia, toshiba	9784150	A common misspelling of the word \"Toshiba.\" Usually comes from 14 year old gingers.
-	fancrappintastic, fantastic	4369167	a fun way of saying fantastic
+1	toshbia, toshiba	9784150	A common misspelling of the word \"Toshiba.\" Usually comes from 14 year old gingers.
+1	fancrappintastic, fantastic	4369167	a fun way of saying fantastic
 	ekg, is	5164640	Nasty handwriting, chicken scratch. Usually first letter of the word is 3-4 times bigger than the rest. People who can decipher this kind of handwriting are extremely rare. Those who write this way are more common.
 	goodnightasurus, good	5658179	a hip new way to say good night. quite coolgood night you dinosaurdinosaur's are cool therefor worthy of such mad saying
 	fricktard, f***ing	892788	A better way of saying F***ing retard. Another variation of this word is Fricktarded. Which is a way of saying F***ing Retarded.
-	craigmazing, amazing	4441020	another word for amazing, named after escape the fate frontman craig mabbitt
+1	craigmazing, amazing	4441020	another word for amazing, named after escape the fate frontman craig mabbitt
 	likuacious, like	4185664	Characterized by the incessant use of the word 'like' in everyday dialogue. One who is likuacious has the uncanny ability to turn a 2 minute story into an unnerving discourse about nothingness...
 	downspegen, the	5244658	Another word for the combined disease: downs syndrome / asperger syndrome.
-	youge, usual	6361665	This is the abbreviated form of the word \"usual\", which no-one has ever been able to properly spell...including previous attempts on here! Rhyme it with the French word for red: \"rouge\".
+1	youge, usual	6361665	This is the abbreviated form of the word \"usual\", which no-one has ever been able to properly spell...including previous attempts on here! Rhyme it with the French word for red: \"rouge\".
 	inshredible, incredible	3253949	adaptation of the word incredible. (in-shred-ible) adjective to describe a musician/band that posses a high amount of musical ability, sufficient to melt the faces of an audience. could also be used to describe a performance of said musician/band. possible originator Dr Hugh, Head Dr of Lunges at Sheffield University of Lunging, UK. see also shred
-	b-scratch, bitch	4079304	Another word for bitch. Used when in the company of people who the word \"bitch\" is not appropriate. From B-itch to B-scratch.
+1	b-scratch, bitch	4079304	Another word for bitch. Used when in the company of people who the word \"bitch\" is not appropriate. From B-itch to B-scratch.

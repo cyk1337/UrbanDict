@@ -98,7 +98,7 @@ class Pattern(object):
                 aft = detokenize(tok_aft)
 
         try:
-            pat = re.compile(r"%s\s(?P<quote>['\"]?)(?P<Variant>[\w*-]+)[.,]?(?P=quote)%s" % (bef, aft))
+            pat = re.compile(r"%s\s(?P<quote>['\"]?)(?P<Variant>[\w*+-]+)[.,]?(?P=quote)%s" % (bef, aft))
         except:
             return
         m = pat.search(defn_sent.lower())
