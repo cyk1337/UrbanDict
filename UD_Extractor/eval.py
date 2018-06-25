@@ -86,15 +86,15 @@ def load_iter(iter_num , fname, exp_name=EXP_NAME):
     return list_obj
 
 
-def get_defns_from_defids(defid_list):
+def get_defns_from_defids(defid):
     pd.options.display.max_colwidth = 10000
     engine = sa.create_engine('mysql+pymysql://root:admin@localhost/UrbanDict?charset=utf8')
     conn = engine.connect()
     db_name = 'UrbanDict'
-    sql_loadUD = "SELECT defid, definition FROM %s WHERE defid in %s" % (db_name, defid_list)
+    sql_loadUD = "SELECT label, defid, definition FROM %s WHERE defid = %s" % (db_name, defid)
     df = pd.read_sql(sql=sql_loadUD, con=conn)
-    defns = df.to_string(header=False, index=False)
-    return defns
+    # defns = df.to_string(header=False, index=False)
+    return df
 
 
 def sample2Estimate_prec(_dir):
@@ -109,17 +109,65 @@ def sample2Estimate_prec(_dir):
         if not os.path.exists(sample_dir):
             os.mkdir(sample_dir)
         file = os.path.join(sample_dir, '%ssample100.txt' % iter_dir)
-        records = []
+        # records = []
+        df = pd.DataFrame()
         for tup in tup_sample:
             pair = '%s, %s' % (tup.word, tup.variant)
-            defids = '('+','.join([str(id) for id in set(tup.defid_list)])+')'
+            # defids = '('+','.join([str(id) for id in set(tup.defid_list)])+')'
+            for defid in set(tup.defid_list):
+                defn = get_defns_from_defids(defid)
+                defn.insert(loc=1, column='pair', value=pair)
+                df = df.append(defn)
 
-            defn = get_defns_from_defids(defids)
-            records.append((None,pair, defn))
-
-        df = pd.DataFrame.from_records(records)
-        df.to_csv(file, header=False, index=False, sep="\t", escapechar='\\',doublequote=False)
+        # df = pd.DataFrame.from_records(records)
+        df.to_csv(file, header=True, index=False, sep="\t", escapechar='\\',doublequote=False)
         print("Finish writing into %s" % file)
+
+def update_label_db(defid_list, label, sample_file):
+    engine = sa.create_engine('mysql+pymysql://root:admin@localhost/UrbanDict?charset=utf8')
+    conn = engine.connect()
+    sql_update = "UPDATE UrbanDict SET label = %s WHERE defid in %s" % (label, defid_list)
+    try:
+        conn.execute(sql_update)
+    except Exception as e:
+        print("Fail to update %s" % sample_file)
+    finally:
+        print("%s update successfully" % sample_file)
+
+
+def _count_and_write_db(sample_file):
+    df = pd.read_csv(sample_file, sep="\t")
+    # label 1: true defn and correct label
+    label_1 = df[df['label']==1]
+    # label 1: true defn but wrong label
+    label_2 = df[df['label']==2]
+    # negative defn
+    label_nan = df[df['label'].isna()]
+    # prec = label_1['pair'].count()/100
+    prec = label_1['pair'].nunique()/100
+    # TODO: write variant into db!
+    pos_list = tuple(label_1['defid'].tolist())
+    neg_list = tuple(label_nan['defid'].tolist())
+    if len(pos_list) >0:
+        update_label_db(pos_list, 1, sample_file)
+        update_label_db(neg_list, 0, sample_file)
+        if label_2['defid'].count() > 0:
+            label2 = tuple(label_2['defid'].tolist())
+            update_label_db(label2, 2, sample_file)
+    else:
+        print('Please manually label first! %s' % sample_file)
+
+    result_dir = os.path.dirname(os.path.dirname(sample_file))
+    log_file = os.path.join(result_dir, 'logs')
+    with open(log_file, 'a') as f:
+        log_iter = "Iteration %s: prec %s" % (sample_file[-14], prec)
+        f.write(log_iter)
+        print(log_iter)
+
+def update_sample_dir(_dir):
+    for sample_file in os.listdir(_dir):
+        if not sample_file.endswith('.txt'): continue
+        _count_and_write_db(sample_file)
 
 
 if __name__ == '__main__':
@@ -133,4 +181,6 @@ if __name__ == '__main__':
     # eval_recall(test)
 
     # sample2Estimate_prec('RlogF_distinct_t10_p10+')
-    sample2Estimate_prec('RlogF_improved_t10_p10')
+    # sample2Estimate_prec('RlogF_distinct_ctx3_t10_p10')
+    file = 'iter_result/RlogF_distinct_ctx3_t10_p10/RlogF_distinct_ctx3_t10_p10sample100/Iter0sample100.txt'
+    _count_and_write_db(file)
