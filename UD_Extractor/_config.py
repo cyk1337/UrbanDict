@@ -62,7 +62,7 @@ useBothContext=True
 #***use context on the left
 usePreviousContext= True
 
-CTX_PREV_SIZE = 3
+CTX_PREV_SIZE = 4
 
 #***use context on the right
 useNextContext = False
@@ -72,7 +72,7 @@ CTX_NEXT_SIZE = 1
 
 # select num for each iter
 N_pattern = 10
-N_tuple = 20
+N_tuple = 10
 
 # results saved path: ./iter_result/{EXP_NAME}
 # EXP_NAME = 'Snowball_simp_dup' # fixme: no result for snowball simple!!
