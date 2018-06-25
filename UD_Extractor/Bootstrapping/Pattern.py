@@ -26,8 +26,12 @@
 from _config import *
 from ie_utils import detokenize
 from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
 import re, math
 from collections import defaultdict
+
+from ie_utils import normalized_levenshtein
+
 
 class Pattern(object):
     def __init__(self, ctx_bef, ctx_aft, **kwargs):
@@ -112,6 +116,11 @@ class Pattern(object):
             #     m_ = pat_.search(defn_sent)
             #     if m_ is not None:
             #         var = m_.group('Variant').lower()
+
+            # fixme: add stopword constraint
+            if ADD_STOPWORD_CONSTRAINT and self.add_stopword_constraint(var, word) is False:
+                return
+
             pair = (word, var)
 
             # TODO: opt1.consider duplicated total count
@@ -142,6 +151,17 @@ class Pattern(object):
         #     print("Didn't match")
         #     print('-'*80)
 
+    def add_stopword_constraint(self, variant, word):
+        """
+        if the varaint is a stopword, compute the edit distance
+        :return:
+        """
+        if variant in stopwords.words('english'):
+            norm_levenshtein_distance = normalized_levenshtein(variant, word)
+            if norm_levenshtein_distance > STOPWORD_CONST_Threshold:
+                return False
+            else:
+                return True
 
     def _calc_pattern_RlogF_score(self):
         """

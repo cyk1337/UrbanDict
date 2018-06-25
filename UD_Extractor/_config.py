@@ -74,11 +74,6 @@ CTX_NEXT_SIZE = 1
 N_pattern = 10
 N_tuple = 10
 
-# results saved path: ./iter_result/{EXP_NAME}
-# EXP_NAME = 'Snowball_simp_dup' # fixme: no result for snowball simple!!
-EXP_NAME = 'RlogF_improved_ctx%s_t%s_p%s+' % (CTX_PREV_SIZE, N_tuple, N_pattern)
-# EXP_NAME = 'RlogF_distinct_t20_p10'
-EXP_DIR = os.path.join(iter_dir, EXP_NAME)
 
 # score method group1
 USE_RlogF = True # TODO: increase the num pattern each iter
@@ -94,7 +89,27 @@ USE_RlogF_IMPROVE = False
 # USE_SNOWBALL_SIMPLE = False
 # USE_RlogF_IMPROVE = True
 
+assert USE_RlogF or USE_RlogF_IMPROVE or USE_SNOWBALL_SIMPLE is True, "Assert at least set one score method!"
+EXP_NAME = ''
+if USE_RlogF is True:
+    EXP_NAME += 'RlogF'
+elif USE_RlogF_IMPROVE is True:
+    EXP_NAME += 'RlogF_impr'
+elif USE_SNOWBALL_SIMPLE is True:
+    EXP_NAME += 'Snowball_simp'
 
+EXP_NAME = '%sctx%s_tup%s_pat%s' % (EXP_NAME, CTX_PREV_SIZE, N_tuple, N_pattern)
+
+# fixme: match constraints
+ADD_STOPWORD_CONSTRAINT = True
+STOPWORD_CONST_Threshold = 0.5
+if ADD_STOPWORD_CONSTRAINT is True:
+    EXP_NAME += "Stopword%s" % STOPWORD_CONST_Threshold
+
+EXP_DIR = os.path.join(iter_dir, EXP_NAME)
+# results saved path: ./iter_result/{EXP_NAME}
+# EXP_NAME = 'Snowball_simp_dup' # fixme: no result for snowball simple!!
+# EXP_NAME = 'RlogF_distinct_t20_p10'
 
 
 #***the context should be at least this long
@@ -104,11 +119,11 @@ minWindow4Pattern = 2
 maxWindow4Pattern = 4
 
 #***use POS tag restriction for the target phrase
-usePOS4Pattern = False
+# usePOS4Pattern = False
 
 #***remove all adjectives from the text
-removeAdjPattern = False
+# removeAdjPattern = False
 
 # minimum number of patterns that generated a tuple so that tuple can be used in the clustering phase
-min_pattern_support=2
+# min_pattern_support=2
 
