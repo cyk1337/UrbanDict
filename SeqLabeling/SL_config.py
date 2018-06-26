@@ -22,3 +22,15 @@
 @desc：       
                
 '''              
+
+import os
+from nltk.corpus import stopwords
+# ------------------------
+# extraction config
+# ------------------------
+
+work_dir = os.path.dirname(os.path.abspath(__file__))
+
+data_dir = os.path.join(work_dir, 'data')
+POS_DATA = os.path.join(data_dir, 'pos.csv')
+NEG_DATA = os.path.join(data_dir, 'neg.csv')
