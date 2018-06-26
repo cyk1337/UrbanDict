@@ -113,7 +113,7 @@ def split_train_test_set():
     return (X_train, y_train), (X_test, y_test)
 
 
-def trainCRF(X_train, y_train):
+def trainPyCRF(X_train, y_train):
 
     trainer = pycrfsuite.Trainer(verbose=True)
 
@@ -181,7 +181,7 @@ def main():
     (X_train, y_train), (X_test, y_test) = split_train_test_set()
     # train CRF model
     if not os.path.exists(MODEL_FILE):
-        trainCRF(X_train, y_train)
+        trainPyCRF(X_train, y_train)
 
     eval_Test(X_test, y_test)
 
