@@ -71,23 +71,23 @@ CTX_NEXT_SIZE = 1
 
 
 # select num for each iter
-N_pattern = 20
-N_tuple = 20
+N_pattern = 10
+N_tuple = 10
 
 
 # score method group1
-USE_RlogF = True # TODO: increase the num pattern each iter
-USE_SNOWBALL_SIMPLE = False
-USE_RlogF_IMPROVE = False
+# USE_RlogF = True # TODO: increase the num pattern each iter
+# USE_SNOWBALL_SIMPLE = False
+# USE_RlogF_IMPROVE = False
 
 # score method group2
 # USE_RlogF = False
 # USE_SNOWBALL_SIMPLE = True
 # USE_RlogF_IMPROVE = False
 
-# USE_RlogF = False
-# USE_SNOWBALL_SIMPLE = False
-# USE_RlogF_IMPROVE = True
+USE_RlogF = False
+USE_SNOWBALL_SIMPLE = False
+USE_RlogF_IMPROVE = True
 
 assert USE_RlogF or USE_RlogF_IMPROVE or USE_SNOWBALL_SIMPLE is True, "Assert at least set one score method!"
 EXP_NAME = ''
@@ -101,7 +101,7 @@ elif USE_SNOWBALL_SIMPLE is True:
 EXP_NAME = '%sctx%s_tup%s_pat%s' % (EXP_NAME, CTX_PREV_SIZE, N_tuple, N_pattern)
 
 # fixme: match constraints
-ADD_STOPWORD_CONSTRAINT = True
+ADD_STOPWORD_CONSTRAINT = False
 STOPWORD_CONST_Threshold = 0.5
 if ADD_STOPWORD_CONSTRAINT is True:
     EXP_NAME += "Stopword%s" % STOPWORD_CONST_Threshold

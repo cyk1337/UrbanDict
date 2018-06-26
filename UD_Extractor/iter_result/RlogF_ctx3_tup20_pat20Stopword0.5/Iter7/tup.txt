@@ -1,0 +1,23 @@
+(jate, goodbye)
+(m8s, mates)
+(kik, lol)
+(qual, cool)
+(kewl, cool)
+(wiggedy-wiggedy-whacked, whacked)	2.321928094887362	 [406]
+(chunt, c**t)	2.321928094887362	 [951]
+(krod, dork)	2.321928094887362	 [1578]
+(feck, fuck)	2.321928094887362	 [1927, 8436721, 17955, 981522]
+(bizznotch, bitch)	2.321928094887362	 [4532]
+(qwned, pwn)	2.321928094887362	 [8931]
+(poosai, pussy)	2.321928094887362	 [9308]
+(blankie, blanket)	2.321928094887362	 [10343]
+(pronograyfee, pornography)	2.321928094887362	 [15517]
+(truck, girl)	2.321928094887362	 [18328]
+(jang, man)	2.321928094887362	 [19293]
+(queeriffic, terrific)	2.321928094887362	 [20166]
+(dangit, dammit)	2.321928094887362	 [24146]
+(aye, yes)	2.321928094887362	 [24624, 85510, 1592286, 11526196]
+(turriball, terrible)	2.321928094887362	 [25556]
+(bonke, punk)	2.321928094887362	 [25583]
+(boomstick, shotgun)	2.321928094887362	 [26822]
+(secks, sex)	2.321928094887362	 [27592, 1092054, 1953550, 4127649, 11938500]
