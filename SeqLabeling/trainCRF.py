@@ -23,7 +23,9 @@
 
 '''              
 from sklearn.model_selection import train_test_split
+from sklearn.metrics import classification_report
 import pycrfsuite
+import numpy as np
 
 from load_data import load_data
 from SL_config import *
@@ -84,11 +86,11 @@ def extract_features(doc):
 
 # A function fo generating the list of labels for each document
 def get_labels(doc):
-    return [doc for (token, postag, label) in doc]
+    return [label for _, _, label in doc]
 
-
+#
 def get_tokens(doc):
-    return [token for token, postag, label in doc]
+    return [token for token, _,_ in doc]
 
 def split_train_test_set():
     pos_data, neg_data = load_data()
@@ -98,19 +100,21 @@ def split_train_test_set():
     neg_y = [get_labels(neg_y) for neg_y in neg_data]
 
 
-    pos_X_train, pos_X_test, pos_y_train, pos_y_test = train_test_split(pos_X, pos_y, test_size=TEST_SET_FRAC, shuffle=True)
-    neg_X_train, neg_X_test, neg_y_train, neg_y_test = train_test_split(neg_X, neg_y, test_size=TEST_SET_FRAC, shuffle=True)
+    pos_X_train, pos_X_test, pos_y_train, pos_y_test = train_test_split(
+        pos_X, pos_y, test_size=TEST_SET_FRAC, random_state=SEED, shuffle=True)
+    neg_X_train, neg_X_test, neg_y_train, neg_y_test = train_test_split(
+        neg_X, neg_y, test_size=TEST_SET_FRAC, random_state=SEED, shuffle=True)
 
     X_train = pos_X_train + neg_X_train
-    X_test = pos_X_test + neg_X_test
     y_train = pos_y_train + neg_y_train
+    X_test = pos_X_test + neg_X_test
     y_test = pos_y_test + neg_y_test
 
     return (X_train, y_train), (X_test, y_test)
 
 
-def trainCRF():
-    (X_train, y_train), (X_test, y_test) = split_train_test_set()
+def trainCRF(X_train, y_train):
+
     trainer = pycrfsuite.Trainer(verbose=True)
 
     # Submit training data to the trainer
@@ -139,18 +143,48 @@ def trainCRF():
     # print(trainer.logparser.last_iteration)
 
 
-def mk_prediction():
-
-
+def eval_Test(X_test, y_test):
+    print("Loading model: %s ..." % CRF_MODEL)
     tagger = pycrfsuite.Tagger()
     tagger.open(MODEL_FILE)
+
+    y_pred = [tagger.tag(xseq) for xseq in X_test]
+
+    # Let's take a look at a random sample in the testing set
+    # i = 0
+    # for x, y in zip(y_pred[i], [x[1].split("=")[1] for x in X_test[i]]):
+    #     print("%s (%s)" % (y, x))
+
+    # Create a mapping of labels to indices
+    labels = {"I": 1, "O": 0}
+
+    # Convert the sequences of tags into a 1-dimensional array
+    predictions = np.array([labels[tag] for row in y_pred for tag in row])
+    truths = np.array([labels[tag] for row in y_test for tag in row])
+
+    # Print out the classification report
+    print(classification_report(
+        truths, predictions,
+        target_names=["I", "O"]))
+
+    # y_pred = [tagger.tag(xseq) for xseq in X_test]
+    #
+    # # Let's take a look at a random sample in the testing set
+    # i = 12
+    # for x, y in zip(y_pred[i], [x[1].split("=")[1] for x in X_test[i]]):
+    #     print("%s (%s)" % (y, x))
     #
     # print("Predicted:", ' '.join(tagger.tag(extract_features(example_sent))))
     # print("Correct:  ", ' '.join(get_labels(example_sent)))
 
 def main():
-    trainCRF()
-    # mk_prediction()
+    (X_train, y_train), (X_test, y_test) = split_train_test_set()
+    # train CRF model
+    if not os.path.exists(MODEL_FILE):
+        trainCRF(X_train, y_train)
+
+    eval_Test(X_test, y_test)
+
 
 
 if __name__ == '__main__':
