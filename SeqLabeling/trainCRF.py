@@ -123,6 +123,8 @@ def trainPyCRF(X_train, y_train):
 
     # Set the parameters of the model
     trainer.set_params({
+        # default
+        'algorithm': 'lbfgs', # {‘lbfgs’, ‘l2sgd’, ‘ap’, ‘pa’, ‘arow’}
         # coefficient for L1 penalty
         'c1': L1_penalty,
 
