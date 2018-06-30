@@ -21,4 +21,4 @@ vocab.txt
 
 unlabel.csv
 SeqLabeling/data/unlabel.csv
-*.csv
+# .csv
