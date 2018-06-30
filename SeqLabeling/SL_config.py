@@ -43,6 +43,8 @@ silver_dir = os.path.join(data_dir, 'silver')
 result_dir = os.path.join(work_dir, 'SL_result')
 eval_dir = os.path.join(result_dir, 'eval')
 
+ERR_LOG = os.path.join(result_dir, 'err.log')
+
 IN_SIGN = 'I'
 OUT_SIGN = 'O'
 

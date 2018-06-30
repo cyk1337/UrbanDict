@@ -149,6 +149,11 @@ def load_unlabel_data():
         unlabel_data = []
         for i, row in chunk.iterrows():
             definition = row['definition']
+            if type(definition) is not str:
+                with open(ERR_LOG, 'a') as f:
+                    f.write(str(row))
+                print("!"*80+ "\n" + str(row))
+                definition = str(definition)
             defn = definition.lower()
             doc = nlp(defn, disable=['ner', 'textcat'])
             line = [(w,) for w in doc]
