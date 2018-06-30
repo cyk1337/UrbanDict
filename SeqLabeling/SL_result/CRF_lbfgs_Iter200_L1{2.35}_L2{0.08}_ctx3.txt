@@ -9847,3 +9847,131 @@ dalluz	1083042	 ebonicized way of saying " dollars (I, 0.8868) " , plural of " d
 schvontz	1083045	 german word for penis (I, 0.9180) .
 kai	1084666	 hawaiian word for ocean (I, 0.8077) , sea
 nigka	1085110	 cambodian way of saying " nigga (I, 0.8364) " , without saying " nigga " ...
+vot	1085725	 1 . a fobish way of saying ' what (I, 0.8718) '
+eepsicles	1086404	 a word for suprise (I, 0.8531) and/or shock
+fetch	1086778	 another word for ' cool (I, 0.9111) ' or ' awesome '
+nortons	1086985	 1.another word for breasts (I, 0.8967) 2.boobs
+Esel	1087046	 german word for ass (I, 0.9541) . commonly used when you are n't allowed to cuss in english .
+okies	1087106	 a word that i made up one day and it somehow spread around the internet ... wow ... its another word for ok (I, 0.9304) ..
+pacalolo	1087456	 to load a bowl . an adopted white person interpretation of the hawaiian word for marijuana (I, 0.9453)
+G-Tar	1087875	 a shortened version of the word guitar (I, 0.9117) , meaning a musical instrument . particuly used by younger people .
+sheah	1088326	 1 . to agree with someone . 2 . a form of the word " yeah (I, 0.8036) . " 3 . answer to most questions asked .
+Achluo	1088621	 1 . darkness ; achluophobia is the fear of darkness , phobia being the root word for fear (I, 0.8177) . 2 . a very kick ass band in california .
+keiki	1088676	 hawaiin word for child (I, 0.9025) , or little kid . see also chocolate keiki
+Kiley	1088696	 the better way of spelling " kylie (I, 0.9829) "
+crono	1088824	 1 ) the one and only 2 ) badass spellsword from chrono trigger who never speaks 3 ) really bad spelling for chrono (I, 0.9048) , which means time 4 ) badass sim battler from many message boards who ca n't shut up
+maro	1089177	 a shorter way to say camaro (I, 0.8173) . one of the best cars made that will beat any mustang on any given day .
+ipitime	1089596	 1 ) a phonetic spelling of epitome (I, 0.9746) . 2 ) complete idiot 's spelling of epitome (I, 0.9746) .
+scran	1090025	 scally word for snack (I, 0.9180) .
+droski	1090039	 a variation of the word dro (I, 0.8736) , which is slang for hydroponically grown marijuana .
+Athiest	1090987	 1 . anther misspelling of atheist (I, 0.8607) . see atheist
+knulle	1091155	 the norwegian word for fuck (I, 0.8532)
+happish	1091606	 really happy ! being happy happier than happy ! happish ! a gansta word for happy (I, 0.8173) !
+JINSOKU	1091848	 japanese for the word " quick (I, 0.8475) "
+secks	1092054	 1 . the elite way of saying " sex (I, 0.9122) " 2 . the elite way of saying " sexy (I, 0.9122) " 3 . the alternative way of saying the word " f**k " in chatrooms where swearings are blocked .
+secks	1092054	 1 . the elite way of saying " sex (I, 0.9449) " 2 . the elite way of saying " sexy (I, 0.9449) " 3 . the alternative way of saying the word " f**k " in chatrooms where swearings are blocked .
+verte	1092351	 french word for green (I, 0.9444)
+fakku	1092519	 japanese word for fuck (I, 0.9391) . not used for sex .
+über	1092573	 " über " is the german word for " above (I, 0.8079) " or " over " . it does not literally translate as " super " in english , but this is how it is usually translated in compounds .
+whorendous	1093044	 misspelling of " horrendous (I, 0.9322) . " what are these people thinking about ?
+abhaya	1093086	 sanskrit for " fearlessness (I, 0.8038) "
+BALZE	1093430	 misspelling of " blaze (I, 0.9351) " , iron maidens ' best singer .
+flave	1093587	 flave is the rock form of cocane . its another word for crack (I, 0.9054) . it comes from the hood ... straight up .
+D00sh	1093610	 the 1337 spelling of " douche (I, 0.8882) " as applied to a person whose level of doucheness is such that ( s)he does not deserve to be called the correctly - spelled word .
+mafugga	1093893	 noun a variation of the word motherfucker (I, 0.9267)
+tots	1094039	 originally introduced in the movie : napoleon dynamite eg : gimme your tots the word has now used as a shortened version of the word " totally (I, 0.8330) "
+Shire	1094549	 the irish word for " shower (I, 0.9191) "
+pvned	1094664	 retarded version of word " pwned (I, 0.9480) " which comes from word " owned "
+jaxn	1094711	 another spelling for jackson (I, 0.9665) . particularly as an internet handle . possibly originated in new orleans where jax brewery is located on jackson square .
+bi	1094913	 short term for the word bitch (I, 0.8989)
+kewl	1094951	 a cute way of saying cool (I, 0.9914)
+hafa	1095429	 chamorro word for hello (I, 0.8745) , what s up ?
+hoit	1095640	 a retarded way of saying hot (I, 0.8982) , refering to the beauty of a woman .
+dunk	1096051	 adj . alteration of " drunk " , likely from common misspelling of " drunk (I, 0.8447) " when typist is drunk during an instant - messenger conversation drunk
+ninny	1096149	 another word for nipple (I, 0.9567)
+sailor	1096966	 another word for faggot (I, 0.8875) or fag . word commonly used by skaters . used as an insult , and not usually used to describe an actual gay person .
+potata	1097014	 the right way to say potato (I, 0.8092) , if you 're cool .
+pwang	1098364	 another word for " fart (I, 0.8782) " .
+Hayes	1098603	 a word of endearment (I, 0.8486) . first used by a fake basketball playing numnuts who could n't remember his damn lines at the black man 's assembly . instead of reciting his lines like he was supposed to , he instead used words on stage such as " oh snap " and " as ... as ... as . " due to his theatrical incapabilities , he made all of the brothas look like fools in front of the whole audience . and after the performance , he finally spat out a word that everyone could decipher " hayes " and reached for a nice comfy shoulder to cry on . therefore , the word hayes is a term for those who would rather cry after the performance than take care of business .
+sup	1099018	 1.the best band in the world . 2.another way of saying hello (I, 0.9492) .
+sike	1099173	 a misspelling of " psyche (I, 0.9897) . "
+eti	1099477	 ethnic chinese word for twat (I, 0.8532)
+bullshite	1099658	 polite way of saying bullshit (I, 0.8149) !
+chingasa	1099659	 the anglican(white ) way to say chingladara (I, 0.8009) , which means " little fucking thing " in spanish slang . sort of like wutchamacallit .
+Partouza	1100000	 greek word for " gangbang (I, 0.8692) "
+triole	1100018	 greek word for " threesome (I, 0.8692) "
+soufra	1100020	 another greek word for " asshole (I, 0.8312) " . especially a tight one
+Eloran	1100174	 similar to the word fag , but swg version of the word fag (I, 0.8416) .
+nuke	1100277	 another word for nuclear (I, 0.8476) or " to shoot a nuclear missle at them "
+ganj	1101100	 hindi word for market (I, 0.9180) .
+ja	1101266	 rastafarian word for god (I, 0.9567)
+bing	1101750	 another word for bong (I, 0.9180) .
+meemops	1101884	 another word for mother (I, 0.8976) , or mom . use it more often
+m00fin	1101940	 another word for muffin (I, 0.8805) . a baked cake that is in the shape of a mushroom and that will eventually rule the world along with sporks .
+yizzer	1102105	 snoop doggs word for yes (I, 0.9179)
+Tanaka	1102197	 a way of saying penis (I, 0.8341) ( in a gangsta way )
+russki	1102251	 the russian word for " russian (I, 0.8472) " .
+spif	1102331	 another way of saying spiffy (I, 0.9330) or nifty ... an expression of happiness ... originated from new england
+Dey	1103046	 just a different way of saying " they (I, 0.8653) " . means exactly the same thing as " they "
+lanja	1103087	 a cool way of saying hooker (I, 0.8969)
+pr0n	1103287	 l33t - version of the word porn (I, 0.8807) .
+salope	1103341	 female name which refers to girls in general . french word for bitch (I, 0.8554)
+dwaggy	1103580	 affectionate pronounciation / spelling of dragon (I, 0.8676) . see also : dwaggie draggy draggie dwagon
+dwaggie	1103584	 cute spelling of dwaggy (I, 0.9089) . see also : dwaggy draggy draggie dwagon
+draggie	1103595	 cute spelling of draggy (I, 0.8957) . see also : draggy dwaggy dwaggie dwagon
+dwagon	1103597	 affectionate pronounciation / spelling of dragon (I, 0.8839) . see also : draggy draggie dwaggy dwaggie
+gargon	1103649	 the klingon word for lonely (I, 0.9043)
+chea	1103654	 a better way to say duh (I, 0.9042) .
+yessah	1103728	 this is a different way of saying yes (I, 0.8453) sir .
+delish	1103750	 a shorter form of saying ' delicious (I, 0.9569) ' .
+cheeva	1103797	 another word for marijuana (I, 0.8833) . a slang term .
+preez	1104259	 engrish version of the word " please (I, 0.8324) " .
+skeem	1104662	 a new fad that originates in san francisco , means to trick or fool someone . the replacement of the word " play (I, 0.8059) " . does n't need to be said verbally .
+garbaje	1104845	 n. extreme form of the word garbage (I, 0.8247) . something that is uncool , irritating , wrong , evil , bad , etc .
+yizzur	1105695	 new way of saying " yeah (I, 0.9501) " or " yes " or " of course " . probably a combine of " yes sir " , with slightly altered pronounciation .
+cuz	1105792	 another word for bacause (I, 0.9567)
+secksy	1105822	 a 1337 way of saying sexy (I, 0.9844)
+sturby	1105931	 an abrigged version of the word masterbation (I, 0.8807) .
+Pwning	1105944	 present tense of " pwn " . posessing . marking as one 's belonging . especially when marked in the manner of a dog marking his belongings . script - kidding misspelling of " owning (I, 0.8394) " .
+coo	1106107	 another word for couchie (I, 0.9567)
+nooce	1106186	 elaines word for nice (I, 0.8882)
+coolsville	1106282	 basically an even cooler way to say " cool (I, 0.9483) . " can also refer to a place , be a conversation urger , or something to say when you have no idea what the other person is talking about . may have originated around the ' 50s , brought back by the movie ghost world .
+bizout	1106447	 to leave . another way of saying " outtie (I, 0.9336) " .
+Dah	1106745	 a lazy way to say dog (I, 0.8537) , when referring to one 's homies . dog
+jackin	1106892	 jackin is another word for stealing (I, 0.8619) .
+waatahhh	1106982	 the asian way of saying water (I, 0.9704)
+yer	1107086	 aussie slang for " yes (I, 0.8192) " . used by lower class australians . common amongst teenagers in the city of canberra .
+mulignan	1107266	 a racially offensive term for a black person . ( see also mooley ) deriving from the italian word for " eggplant (I, 0.8086) " . many believe the comes from slave masters in italy calling them eggplants , because when the black folk were working in the fields their heads would only be showing thru the crops .
+kandy	1107459	 another word for porn (I, 0.9567)
+vestibule	1107509	 1 . the bit on a train that leads to another carriage . 2 . a cavity leading into another cavity . 3 . another word for arse (I, 0.8924) , rectum etc .
+nukular	1107674	 george bush 's way of saying nuclear (I, 0.9845)
+heaumeau	1107884	 alternate spelling for " homo (I, 0.9886) " . a benign reference to homosexuality serving as a playful insult amongst friends . however , it can be used in serious argument .
+scooch	1107960	 money ; greens ; another word for money (I, 0.9427)
+hoshi	1108313	 japanese word for star (I, 0.9567)
+peacing	1108516	 to peace . a variation of the word peace (I, 0.8648) .
+LAUV	1108757	 a cool way of saying love (I, 0.8649) , blacks arnt aloud to say it or they will be hung to the death(maybe burned to a blacker crisp )
+peelof	1109337	 another word for pillow (I, 0.9567)
+gah	1109362	 jessica 's simpson 's way of saying god (I, 0.9736)
+schtapler	1109754	 another way of saying stapler (I, 0.8735) , but this is used 2 make fun of nick spaulding a.k.a . schpaulding
+monkies	1110616	 another fun word for penis (I, 0.8532)
+winna	1111135	 slang word for winter (I, 0.8215) , also has alot of slickness to it
+charmouta	1111401	 arabic word for whore (I, 0.9567)
+cuate	1111766	 spanish word for " hommie (I, 0.8090) . "
+Gangtress	1112750	 another word for gangsta (I, 0.8357) but for a female
+Baba	1112992	 baba is the ukranian word for grandma (I, 0.8102)
+Sauce	1113240	 another way of saying steroids (I, 0.8079) , aslo known as juice but , sauce is a more italian way of putting it , often used in the nyc / westchester area
+shizzapplez	1113311	 it a another word for wow (I, 0.9381) , it means happy , exciting ,
+flippin'	1113346	 a word for cool (I, 0.8687) o to express an amount
+lollogy	1113887	 americanized urdu word for greedy (I, 0.8330)
+missile	1114156	 another word for " errection (I, 0.8481) . "
+whoot	1114239	 another word for yay (I, 0.8877)
+recockulous	1114296	 another way to say ' ridiculous (I, 0.8357) ' .
+neegav	1114468	 the vagina ; a woman 's privates spelled backwards . ( vageen = neegav ) ; the cool way of saying vagina (I, 0.9450) .
+illinest	1114896	 another way to say illest (I, 0.8800)
+dodgem	1115778	 another word for dodgy (I, 0.9386) , creepy , suspicious
+boredo	1116251	 its another word for bored (I, 0.8033) just funnier to say
+poaned	1116469	 a phonetic spelling of " pwned (I, 0.9736) "
+paranoy	1116621	 the act of making someone or paranoid . the active verb form of the word paranoia (I, 0.8303) .
+gullet	1116726	 a funny way to say throat (I, 0.9535)
+yezur	1117282	 a short : quick : version of " yes (I, 0.8287) sir "
+bwai	1117394	 the jamaican way of saying " boy (I, 0.9523) "
