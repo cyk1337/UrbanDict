@@ -212,12 +212,12 @@ if __name__ == '__main__':
     # eval_recall(test)
 
     # sample
-    # sample2Estimate_prec('RlogF_ctx3_tup10_pat10Stopword0.3')
+    sample2Estimate_prec('RlogF_ctx3_tup20_pat20Stopword0.3')
     # sample2Estimate_prec('RlogF_ctx3_tup10_pat10Stopword0.3')
     # sample2Estimate_prec('RlogF_impr_ctx3_tup20_pat20Stopword0.5')
 
     # manual labeling
 
     # summary
-    file = 'iter_result/@RlogF_ctx3_tup10_pat10Stopword0.3/RlogF_ctx3_tup10_pat10Stopword0.3sample100/Iter0sample100.txt'
-    _count_and_write_db(file)
+    # file = 'iter_result/@RlogF_ctx3_tup10_pat10Stopword0.3/RlogF_ctx3_tup10_pat10Stopword0.3sample100/Iter0sample100.txt'
+    # _count_and_write_db(file)

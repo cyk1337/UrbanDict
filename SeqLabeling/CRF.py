@@ -242,7 +242,9 @@ class SelfTrainCRF(object):
 
     def mk_prediction(self, crf):
         count = 0
-        res_file = os.path.join(result_dir, '%s.txt' % CRF_MODEL)
+        res_dir = os.path.join(result_dir, CRF_MODEL)
+        os.system('mkdir -p {}'.format(result_dir))
+        res_file = os.path.join(res_dir, 'Iteration%s.txt' % self.ITER_NUM )
         print("Iteration %s\n" % self.ITER_NUM + "*"*80, file=open(res_file, 'a'))
 
         for unlabel_data, unlabel_defids, unlabel_word, unlabel_defn in load_unlabel_data():
@@ -275,16 +277,17 @@ class SelfTrainCRF(object):
                             records['variant'] = ''
                             # concatenate sentences
                             # variant_list = []
+                            out_sent = ""
                             for label_index, (word, label) in enumerate(zip(unlabel_sent, y_pred)):
                                 if label == IN_SIGN:
-
                                     records['label_index'] += "{} ".format(label_index)
                                     records['variant'] += "{} ".format(word[0])
                                     # variant_list.append(word[0])
-                                    out += " %s (%s, %.4f)" % (word[0], label, pos_prob)
+                                    out_sent += " %s (%s, %.4f)" % (word[0], label, pos_prob)
                                 else:
-                                    out += " {}".format(word[0])
+                                    out_sent += " {}".format(word[0])
                             # TODO: achive result w.r.t. iteration
+                            out = "{}\t{}\t{}".format(out, records['variant'], out_sent)
                             print(out, file=open(res_file, 'a'))
                             print("{}-\t{}".format(count,out))
                 if 'label_index' in records.keys():
