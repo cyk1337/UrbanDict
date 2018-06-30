@@ -44,6 +44,7 @@ result_dir = os.path.join(work_dir, 'SL_result')
 eval_dir = os.path.join(result_dir, 'eval')
 
 ERR_LOG = os.path.join(result_dir, 'err.log')
+LOG_FILE = os.path.join(result_dir, 'log.log')
 
 IN_SIGN = 'I'
 OUT_SIGN = 'O'

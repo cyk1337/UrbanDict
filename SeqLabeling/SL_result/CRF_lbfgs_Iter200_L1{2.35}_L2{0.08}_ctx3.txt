@@ -7559,3 +7559,1926 @@ Waa-Waa	3469630	 a nice way of saying vagina (I, 0.8727) , like lady garden , fu
 Durzit	3469901	 another word for " duh (I, 0.8931) " , invented by me .
 Iteration 0
 ********************************************************************************
+Iteration 0
+********************************************************************************
+pr0n	516	 another word for pornography (I, 0.9567)
+booty	664	 another word for ass (I, 0.9567)
+Chunt	951	 a more polite way of saying c**t (I, 0.9005) . girls are genrally more acepting when they hear this version .
+Krod	1578	 hello you idiots , it 's a nice way of saying " dork (I, 0.9380) "
+pumpy	1924	 the british way to say fart (I, 0.9535)
+feck	1927	 a kinder , gentler way of saying " fuck (I, 0.9114) "
+herre	2875	 another word for here (I, 0.8961)
+bizznotch	4532	 a playful and jokingly way of saying bitch (I, 0.9523)
+dank	5857	 just another word for weed (I, 0.9666)
+Tite	6643	 somthens crunk or somethen look crunk anotha word for crunk (I, 0.8748)
+Lil'	6647	 a sorter and much titer way to say little (I, 0.9403)
+skrimp	7327	 ghetto for " shrimp (I, 0.8038) "
+rawr	7486	 1 ) another word for " roar (I, 0.8932) " . 2 ) used to emphasize statements .
+biznass	9603	 a commonly used ghetto - term for " business (I, 0.8175) "
+fuckstick	10022	 just another fancy word for dickhead (I, 0.8531)
+pr0n	11454	 another word for pornography (I, 0.9155) but specifically refers to porn found and looked at from a computer .
+sh1t	11481	 1337 word for shit (I, 0.9567)
+Oi!	12717	 battle cry . also an old uk music style . also another way to say " hey (I, 0.8751) . " found in many ska songs .
+tanks	12833	 ( n. ) 1 . profanese variation of " thanks (I, 0.9116) " . used to express gratitude , very rare to hear from profanese .
+yeew	14163	 another way to say eew (I, 0.8799)
+pronograyfee	15517	 alternate way of saying " pornography (I, 0.9336) " .
+blunt	15698	 the most effective way of smoking bud (I, 0.8214)
+clam	16083	 another word for pussy (I, 0.8986) . usually referred to as a ' bearded clam ' , but , nowadays , i like them shaved .
+nikka	16822	 another word for " nigga (I, 0.8971) "
+homietta	16987	 female version of " homie (I, 0.8718) " , which means close friend .
+UPH	17349	 another word for anything (I, 0.9567)
+skizank	17846	 a hy - bread word for " skank (I, 0.9280) " , used for the skankiest of skanks
+Feck	17955	 a variant of the word ' fuck (I, 0.8023) ' mad famous , and created by award - winning and brilliant comedy series ' father ted ' in which father jack hackett was fond of saying ' feck (I, 0.8023) . created due to the writers not being allowed to say ' fuck '
+chiizu	18086	 the japanese word for wordcheeseword (I, 0.8532)
+truck	18328	 a girl , stealthy way of saying girl (I, 0.8018) , woman or beeatch .
+bleezie	18542	 another word for blunt (I, 0.9444)
+pizzle	18605	 abother word for people (I, 0.8776) or somethin that starts with a " p "
+fux0r	18637	 unlike definition number 1 meaning dickhead , fux0r is the l337 sp34k version of the word " fuck (I, 0.9188) "
+Ghuiduufffiop	18715	 slang for " puppet (I, 0.8038) "
+ganj	18898	 the lazy person 's word for ganja (I, 0.8661) .
+støffu	19229	 norwegian word for stfu (I, 0.9180) .
+walla	19254	 walla is another word for hello (I, 0.9524) . most used by pakistanish / indish people who are greating eachother .
+Jang	19293	 an over - exaggerated stereotypically spanish way of saying " man (I, 0.9463) " . often mentioned when someone is making a really over - the - top impression of antonio banderas .
+gochu	19392	 a word for penis (I, 0.8406) . see penis
+beret	19567	 french word for cowpie (I, 0.9567)
+breasticle	20081	 cute word for breast (I, 0.9567)
+queeriffic	20166	 queer way of saying terrific (I, 0.9844)
+mouf	20844	 ghetto for " mouth (I, 0.8038) "
+pakalolo	20881	 hawaiian word for pot (I, 0.9567)
+Tubular	21032	 white man 's word for " cool (I, 0.8593) " .
+k00l	21294	 another word for " cool (I, 0.8593) " .
+ookii	21451	 japanese word for big (I, 0.8891) .
+bonor	21945	 a better word for " boner (I, 0.8783) " .
+waste	23038	 another word for doop (I, 0.9444)
+geet	23098	 another word for git (I, 0.9180) .
+geet	23099	 another word for gate (I, 0.9180) .
+dangit	24146	 a more polite way of saying dammit (I, 0.9142) or damnit or however you spell the damn word
+y	24153	 short for the word " why (I, 0.8147) "
+champizel	24165	 the ethic way to say champagne (I, 0.9121) .
+aye	24624	 scottish way of saying yes (I, 0.9492) .
+Wittyful	24626	 another and better way to say intelligent (I, 0.9126)
+qual	25053	 another way of saying cool (I, 0.9914)
+turriball	25556	 a cooler way of saying " terrible (I, 0.9551) " also can be applied to most any word with " er " in the text , ie . i m goin over hurr ( instead of here)and regretably " i need two purr " .
+bonke	25583	 the gino / gina way of saying punk (I, 0.9657)
+throwed	25737	 1.be in state that is not sober 2.another word for cool (I, 0.8492) , tight , or any other word like that . man them twankies twos looke throwed on that burban . 3.another word meaning fucked up , not good , etc . man them high waters look throwed with those j 's
+nookyooler	25756	 1 . the improper pronunciation of the word " nuclear (I, 0.8239) " as used by president george w. bush when describing weapons of mass destruction .
+gyone	26386	 another word for fucked (I, 0.8456) up
+Heckis	26841	 slang word for pussy (I, 0.9118)
+kvlt	26843	 adj . a parody of the word ' cult (I, 0.8121) ' . used to describe some one or something that is acting evil just to be cool
+derr	27208	 another word for duh (I, 0.8734) . when someone says something idiotic , and you want to say " duh (I, 0.8734) " in a much more sophisticated way , you should say " derr "
+secks	27592	 the 1337 way of saying " sex (I, 0.9523) "
+woo	27605	 1 . john woo , action film director . 2 . a less enthusiastic version of " woot (I, 0.8001) "
+ebil	27842	 a cute way of saying " evil (I, 0.9336) " .
+Yesh	27843	 a somewhat drunken way of saying " yes (I, 0.9371) " . a pretty useful and pointless internet term .
+ohmigod	27845	 intentional phonetic spelling of " oh (I, 0.9683) my god " . if said , it would be fast and all one word " like , ohmigod ! " the word prefix ' like ' is often placed in front of it . the phrase is used mostly by pre - teen and teenage girls and should in no way be a means of deducing the person 's i.q . - but it pretty much speaks for itself anyway .
+pecker	28206	 often a slang word for " chicken (I, 0.9191) "
+helloffenstein	28686	 1 . ) a more interesting way of saying hello (I, 0.8805) , which also sounds slightly german . 2 . ) a remote non - existent country , sparsely populated by hobbits and donkeys .
+shite	29002	 a boggers way of saying shit (I, 0.9598) . used widely in ireland
+Mowl	29191	 net lingo for the german word " maul (I, 0.8242) " that means : shut up !
+ill-ish	29346	 slang word for money (I, 0.8396) .
+trashback	29406	 an antonym for the word pupback (I, 0.8823) . it is used to communicate a failed pupback .
+cunny	29646	 the external female reproductive parts . a form of the word cunt (I, 0.8495) .
+Law	30937	 noun - the god of good sex and good looks . adjective - used to describe someone who is incredibly good looking and/or intelligent and/or amazing in bed . adjective - another word for perfection (I, 0.9363) .
+secsi	31136	 the 1337 version of " sexy (I, 0.8235) "
+jugglies	31273	 a word for someone (I, 0.8261) so immature that the only definition they can think of is " lolz ! " you lamer .
+kizz	31953	 cool word for " kiss (I, 0.8189) "
+swanzville	32031	 another word for penis (I, 0.9180) .
+Sak	32115	 another word for sack (I, 0.8722) . see sack for the definition(s ) . )
+Juju	32563	 gypsie word for luck (I, 0.8271) . more commonly used as " bad juju " .
+Chunt	32824	 1 . ) polite way of saying " cunt (I, 0.9244) " 2 . ) slang in the uk for " chicken cunt " or someone who is cowardly , ignorant , arrogant , and an asshole ( see def . " asshole " ) all in one .
+otaku	33562	 japanese for " zealot (I, 0.8285) " or " fanatic " . most common with those who are fanatics of popular ( dubbed ) anime shows . it is also used to describe said fanatics who go to the point of imitating everything that relates to japanese culture .
+shite	34825	 another way of saying shit (I, 0.9704)
+cac	34884	 another way to say " cock (I, 0.8069) . "
+dayum	35418	 an explative , not unlike whoa . it is a more emphasized version of the word " damn (I, 0.8089) " when it is used in the same way .
+coo	35430	 a stupid way of saying " cool (I, 0.9720) , " often said by those who , ironically , want to be " coo " . . .dammit!!. . .
+fax0r	35830	 another word for hax0r (I, 0.9260) , meaning a person who hacks in game such as counter - strike . mainly used as a code to deceive other players , however , it is rarely used .
+Spaf	36109	 another word for seamen (I, 0.9450)
+stoop(s)	36162	 alternative way of saying " stupid (I, 0.9209) " comes from the first sylable " stup- "
+wipqasin	36807	 another way to say debris (I, 0.8801) , or an insult ... pertaining that such and such is debris
+diss	37489	 a shortened version of " disrespect (I, 0.8001) "
+Chingon	38272	 a vulgar way of saying " cool (I, 0.9872) , |33 t , awesome " .
+NOTES	39501	 another word for money (I, 0.9180) .
+homosexualist	40135	 the cool way of saying homosexual (I, 0.9698) .
+Haill	40175	 bastardization of the word " hell (I, 0.8828) . " used only by fobs who want to be kalu .
+pizno	40181	 a code word for " porn (I, 0.9280) " , used to fool people
+fu	40808	 shortened version of " fu (I, 0.8110) manchu " , refering to a specific type of moustache that is gay .
+dondula	41668	 chaldean word for " penis (I, 0.9190) "
+bonanza	42104	 slang for " depression (I, 0.8038) "
+tomary	43271	 another way to say tomarrow (I, 0.9535)
+nugs	44024	 hippie word for pot (I, 0.9567)
+naaah	44393	 scally version of the word no (I, 0.8845) .
+Fishy	44712	 a kid word for " fish (I, 0.9191) "
+speel	44881	 really cool , also used if you are sick of the word " cool (I, 0.9302) "
+Kandy	45808	 kandy is simply another word for jewelry (I, 0.9551)
+scrump	47088	 a dirty south ( slurred ) form of the word shrimp (I, 0.8303) .
+Gizzay	48181	 1 ) the g - form of " homosexuality (I, 0.8095) " . 2 ) referring to something tizzost .
+Anyhoo	48599	 a really irritating , corny way of saying anyhow (I, 0.9057) .
+beeotch	50161	 otherwise known as another word for bitch (I, 0.9435)
+vod	50317	 the cool way to say vodka (I, 0.9103) , or you 're just a fuckin wuer .
+skrait	50523	 the dumbass way of saying " straight (I, 0.9203) "
+Gerg	52399	 another word for cunt (I, 0.9281) .
+Gaf	52678	 another word for " fag (I, 0.8381) " . origin : see : bronfufu .
+beaotch	55010	 a slang term for the word bitch (I, 0.8514) . used as a informal familial term or as an insult
+Ganksta	56993	 lazy way of saying " gangster (I, 0.8592) " its faster to say " ganksta " and it can be yelled " gggguhhhhannkkstaa ! " etc
+resident	57039	 yet another word for penis (I, 0.9362) .
+dseeamn	57820	 the ghetto way of saying " damn (I, 0.9315) " . kinda like saying sheeit for " shit " and beeotch for " bitch " .
+caaak	57841	 another word for " cock (I, 0.9268) "
+'bahaha	58124	 a really cool word for ' lol (I, 0.9098) '
+biscuit	58720	 another word for head (I, 0.8381) , that weight orb that sits atop one 's body .
+gomer	58903	 generic word for yokel (I, 0.9567)
+pop	59816	 also another word for " popular (I, 0.8110) . "
+ez	60530	 either another word for hello (I, 0.9318) . or another word for calm (I, 0.9318) down
+ez	60530	 either another word for hello (I, 0.9362) . or another word for calm (I, 0.9362) down
+Kizzash	60628	 slang : term used as another word for money (I, 0.8928) .
+fruit	61100	 a euphemism of the commonly censored swear word " fuck (I, 0.8424) "
+lates	61686	 a chill way to say goodbye (I, 0.8252) for those who are to lazy to finish the word later .
+kife	62080	 to steal something . another word for yoink (I, 0.8820) and gank .
+nucka	62482	 another way to say nigga (I, 0.9325)
+jate	62968	 a way of saying goodbye (I, 0.9432) .
+Jate	62972	 another way of saying goodbye (I, 0.9432) .
+Shamfizzle	63326	 a coller way of saying ' shamfoza (I, 0.8485) '
+hella	63439	 the northern californian way of saying very (I, 0.8868) , or if u really no - cal , you just throw it in anywhere , at least like 5 or 6 times in a sentence .
+Taffysack	63607	 taffysack n. 1 . a pair of testicles surrounded by an unusually flexible scrotum . 2 . another word for scrotum (I, 0.9363) .
+ciggie	64420	 shorten version of the word cigarette (I, 0.9358)
+shiftdelete	65180	 1 ) to permanently delete file(s ) on a windows - based computer . 2 ) a euphemism for the curse word " shit (I, 0.8976) "
+Criz	65307	 expletive . another word for crap (I, 0.8116) . see also " piece of criz " or " criznap "
+criznap	65318	 variation of the word criz (I, 0.8648) .
+hallo	65956	 dumbass internet - chode 's way of saying ' hello (I, 0.9244) '
+fork	66195	 another word for f***. (I, 0.9450)
+Slurpee	66507	 another word for felatio (I, 0.9194) , blow job , etc .
+hewwo	66688	 retarded kiddy - happy way of saying hello (I, 0.9720) . often used by pedophiles to greet some sex deprived teenager to make them think there a girl
+cobber	66894	 another word for mate (I, 0.9545) , commonly used amongst other people .
+Trizzie	67171	 another way to say track (I, 0.9121) .
+Ubar	67449	 the l33t3r way of saying uber (I, 0.9143) , sorta sounds like fubar but its ubar
+beaver	67833	 another word for vagina (I, 0.8573) or pussy
+Pofter	68292	 another word for fag (I, 0.9450)
+tutti	68325	 an indian word for shit (I, 0.8532)
+chit	68917	 a super duper coolio word for shit (I, 0.9249)
+nekr0	69077	 parody of the word " necro (I, 0.8634) " ; used to take the piss out on black metal poseurs like cradle of filth
+ritiit	69367	 aother word for retard (I, 0.8320) ! !
+ritit	69369	 another word for dummy (I, 0.9567)
+jello	69399	 another way of saying " hello (I, 0.9574) "
+Spades	69976	 spades is another word for mack (I, 0.8982) or hitting on . in other words , when you try and hit on a person for sex or their number .
+dink	70151	 another word for drink (I, 0.9180) .
+skrillz	71503	 a ghetto way of saying money (I, 0.8963) , or cash
+naites	72080	 n word for no (I, 0.8204)
+Vutton	72265	 a word for button (I, 0.8265) , but much cooler .
+f0x0r	72832	 another word for fucker (I, 0.9180) .
+dudero	74293	 a mexican word for dude (I, 0.8532)
+Tard	74487	 a word for people (I, 0.8115) too retarded to spell out retard .
+clonerific	75307	 another word for " cool (I, 0.9058) "
+Spewkied	76045	 another word for vomit (I, 0.9567)
+reubix	76106	 mickey 's god . another word for jacob (I, 0.9060) , complicated , intricate .
+Butt	76458	 another word for ass (I, 0.9567)
+issueganamanala	76602	 sweedish word for skitzo (I, 0.9567)
+hege	76889	 max 's way of saying ' hehe (I, 0.9244) '
+jeepers	78950	 oldschool word for excitement (I, 0.9401) . similar in use to " golly " and " gee willikers "
+slan	79244	 irish word for goodbye (I, 0.9184) , but used in english sentences in ireland ...
+gammy	79292	 irish word for useless (I, 0.9444)
+noggin	79297	 irish word for head (I, 0.9180) ...
+amadan	79298	 irish word for " fool (I, 0.8189) "
+scab	79307	 irish word for someone (I, 0.9060) who constantly borrows or tries to get stuff for free ..
+knacker	79309	 irish word for tinker (I, 0.8632) , gypsy , traveller ...
+dse	79320	 european word for ddr (I, 0.8945) or dance dance revolution ( it means dancing stage euromix )
+tizzer	81815	 an older way of saying tight (I, 0.9657) .
+Schniedel	82748	 german word for penis (I, 0.9180) .
+yippa	82771	 another word for coke (I, 0.9567)
+jip	82785	 the irish word for cum (I, 0.8532)
+soccer	83292	 sometimes used as another word for sex (I, 0.8035) when you do nt want people around you to know that you wanna fuck
+Jeeno	84437	 another word for cool (I, 0.8980) , because cool gets old .
+bobbies	84925	 another term for the word police (I, 0.8159) .
+flem	85079	 british word for spit (I, 0.9567)
+Aye	85510	 northern way of saying yes (I, 0.8931) ( way north of london as in newcastle ! ! )
+Mulock	86717	 another word for god (I, 0.8884) ; supreme being . anyone with this name should be rightfully feared for they are supreme in anything in which they apply themselves to .
+wackshine	89005	 another word for cock (I, 0.8756) , dick , penis
+govno	90112	 the russian word for " shit (I, 0.8542) " . if a russian use this word , it is pretty good indicator that he is in bad mood .
+RTFW	91699	 read the fucking walkthrough ; rtfw is an other way of saying rtfm (I, 0.9259)
+ganj	91882	 the cool ass way of saying ganja (I, 0.9618)
+Scrubnut	91978	 england : when used in the positive sense it is another word for playa (I, 0.9434) . when used in the negative sense it is another word for wanker (I, 0.9434) , tosser or shitbrick .
+Scrubnut	91978	 england : when used in the positive sense it is another word for playa (I, 0.8512) . when used in the negative sense it is another word for wanker (I, 0.8512) , tosser or shitbrick .
+educashun	92152	 a hukked on fonics way of saying education (I, 0.9490) . derrogetory
+futhermucker	92421	 polite , er ... less vulgar way of saying motherfucker (I, 0.9704)
+Beier	92530	 german word for beer- (I, 0.9567)
+atsui	92703	 japanese word for " hot (I, 0.8406) "
+Wasser	93452	 deutsch for " water (I, 0.8038) "
+gee	93863	 irish word for snatch (I, 0.8531) or pussy
+werty	93887	 another word for ' watery (I, 0.8260) '
+pookie	94398	 filipino word for vagina (I, 0.9581)
+bread	95823	 synonym for " bro (I, 0.8038) "
+snizzle	95860	 the urbanized word for ' snuff (I, 0.8609) '
+PIP	96071	 slang for " philip (I, 0.8038) "
+beamus	96471	 another word for fat (I, 0.8404) . but there are many differnt variations of beamus with different meanings .
+Gigglelicious	96608	 a gay persons way of saying funny (I, 0.9697) .
+omgz	98291	 oh my godz form of " omg (I, 0.8400) " or oh my god www.centerpub.com www.centerpub.net
+bastages	98577	 bastages is another word for basterd (I, 0.9551)
+conflabbit	99143	 an old - timers word for shit (I, 0.9251)
+squidaud	99619	 a group of people you hang out with . another word for squad (I, 0.9363) .
+Bebi	99912	 another way of saying baby (I, 0.8398) , with a combination of other pet names such as b , or bumby .
+eq	100165	 a short way of saying everquest (I, 0.9097)
+skweebles	100177	 a quiet and modest way of saying " oops (I, 0.8760) i farted " online .
+vangeli	100400	 another word for dumbass (I, 0.9567)
+kuffanna	100947	 yet another word for vagina (I, 0.9677)
+faposaurus	100962	 1- a compound word , from the verb " to fap " ( masturbate ) and the noun " saurus " ( lizard ) , used to describe a male who jerks his salami with comical frequency 2- another word for idiot (I, 0.9667)
+peswai	100963	 1- a variation of the word " pussy (I, 0.8367) . " it comes from the component letters p , s , and y , the sounds of which are joined together to form a word used to signify a man lacking testicular fortitude 2- synonym for " coward "
+foon	101211	 another way to say fool (I, 0.8168) . some sort of fob language only some azns know cuz some ca nt pronounce the " n 's " in words and shit . so yeah ... u foon !
+gursh	101726	 another word for " gosh (I, 0.8677) " .
+wat	102344	 a variation of the word " what (I, 0.8002) " . the word what is purposely misspelt to show dyslexia and stupidity . it can also be used as a lazy form of the word " what (I, 0.8002) " .
+alt	102485	 an abreviation for the word " alternative (I, 0.8168) " meaning the type of music .
+karazee	102687	 obviously the longest and stupidest way of saying " crazy (I, 0.9747) "
+cornfused	102937	 another word for confused (I, 0.9444)
+fuko	103011	 another way of saying fuck (I, 0.9034) . most often used by itself .
+ratunga	103213	 another word for retard (I, 0.9180) .
+anime	103968	 japanese word for animation (I, 0.8044) . the word , when used by non - japanese , usually refers to animated films of japanese origin . distinguishing features of anime include large , detailed eyes and , for the most part , awful dubbing . the quality of anime varies wildly . some anime is better than most of what hollywood puts out , and some 's crap . examples of popular anime include neon genesis evangelion , princess mononoke , and spirited away .
+Lazz	104605	 short for the word lazzard (I, 0.8325) . meaning one who does n't take shit from anybody . the word can be used to replace inappropriate language .
+k8	105548	 a short form for the word kate (I, 0.8698)
+toot	106318	 another word for fart (I, 0.9180) .
+Punani	106319	 the pacific - islander word for " pussy (I, 0.8482) . "
+m'kay	106403	 another word for o.k.(okay (I, 0.9106) )
+a-rab	107033	 the redneck way of saying " arab (I, 0.9645) " .
+dilio	107535	 ghetto for " deal (I, 0.8038) "
+kaze	108203	 the japaneese word for " wind (I, 0.8189) "
+leak	108429	 anoter word for pcp (I, 0.9567)
+water	108433	 another word for dust(pcp (I, 0.9180) )
+swanganang	108503	 scientific word for queer (I, 0.9567)
+nine	108771	 a disagreeing way to say yes (I, 0.9211) .
+daps	108891	 simply another word for props (I, 0.9194) .
+fyerk	108914	 another word for fuck (I, 0.9567)
+bicuit	108950	 another word for kewl (I, 0.9450)
+bezee	109555	 another word for weed (I, 0.9567)
+jawn	109776	 1-another word for joint (I, 0.8284) ; a marijuana cigarette . 2-any type of thing .
+FirMz	109862	 the sickest cunt you could ever imagine . can also be used interjectionally for the word ' cool (I, 0.8681) '
+nashty	110428	 when something is gross . instead of saying " nasty (I, 0.9309) "
+fairymount	112061	 polite word for buggery (I, 0.9180) .
+poontana	112166	 italian word for prostitute (I, 0.9567)
+tummy	113148	 a cuter word for stomache (I, 0.8467) ... mostly used to call a babies stomache or your significant other .
+fye	113761	 another word for tight (I, 0.9444)
+sweetass	113897	 another way of saying " hell (I, 0.9073) yeah "
+flang	115193	 slang word for vagina (I, 0.9145)
+hai	115378	 japanese for " yes (I, 0.8089) . " can also mean " okay " or used to answer a roll call .
+nein	116606	 the german way of saying " no (I, 0.9561) " or " never "
+shiznizit	117356	 used in place of that four letter word for excrement (I, 0.9734)
+Plug	117471	 a shorter version of the word double (I, 0.8020) dong butt plug . it still maintains the same meaning .
+fruko	117552	 another word for scary (I, 0.9444)
+kittah	119087	 the new way to say cat (I, 0.9535)
+Pap	119126	 another word for crap (I, 0.8335) or shit or poop but approximately 74 % funnier
+retardate	119498	 the noun form of " retard (I, 0.8212) " . people often call others " retards " but this is probably a technical misuse of the word , since " retard " is a verb . the verb " retard " : " the water will retard the spread of the flame " . in noun form , " you are a fucking retardate "
+MerShemi	120718	 kazakstan word for hello (I, 0.9567)
+klavier	121196	 german word for " piano (I, 0.9190) "
+dike	121249	 1 : a massive wall used to hold back water , such as those used in holland to reclaim farmland . 2 : an igneous intrusion cutting through layers of older rocks . 3 : alternate spelling of ' dyke (I, 0.8277) ' , referring to a woman whose sexual preference is exclusively other women . see also ' lesbian ' .
+knurd	121417	 the original spelling of nerd (I, 0.9121) . started at mit as in drunk backwards , saying that nerds are sober .
+j0	123008	 nice way of saying ' yo (I, 0.8886) ' . l33 t sp34k .
+sny	123305	 anuther word for heavi (I, 0.9180) ...
+skerfing	123325	 another word for surfing (I, 0.8863) used by ...... me
+pennis	123547	 the cool way of saying penis (I, 0.9704)
+t3h	124088	 this is the ' leet ' or ' 1337 ' way of saying " the (I, 0.8050) "
+gaand	124346	 desi word for ass (I, 0.9180) !
+svett	124863	 swedish word for " sweat (I, 0.8728) " , usually used in online games after a sweaty close quarter - fight .
+bauffing	125666	 another way of saying sex (I, 0.9704)
+guh	126311	 a harsher form of " huh (I, 0.8360) " . combines the phrases " what the f*ck ? " with " what in the hell are you talking about ? "
+fajina	126708	 spanish word for " faggot (I, 0.8112) "
+ks0n	127344	 a l33 t way of saying " okay (I, 0.8331) " to someone less superior to you .
+caw	127430	 new orleans word for car (I, 0.9247)
+lux	127604	 latin word for ' light (I, 0.8607) '
+delayed	127611	 someone who is slow to grasp new ideas and thought patterns . another way of saying retarded (I, 0.9496) .
+fitch	127724	 a gay ass way of saying " cool (I, 0.9863) " . mainly used by 16 - 20 year olds to describe their $ 300 outfit of sandals , t - shirt , and shorts .
+maney	128758	 another word for " money (I, 0.8782) " .
+Manchies	128761	 another word for " muchies (I, 0.8605) " . can be used in conjunction with wordmaney .
+flamehead	128896	 another way of saying flamer (I, 0.8554) or openly gay person
+shizie	129035	 anotha word for shit (I, 0.9567)
+shiisa	129140	 another word for shit (I, 0.9567)
+gaf	130760	 1 . another word for shit (I, 0.8890) or fuck . used when someone has done something stupid or as a comeback or as a general insult
+sleuth	131033	 a covert way of saying " slut (I, 0.9379) "
+compassdabizzle	131093	 the ghetto way of saying " c'mon (I, 0.9191) , pass the bong "
+doggah	131260	 the word for dog (I, 0.9180) ...
+slizzle	131302	 another word for slut (I, 0.9567)
+Canadia	131379	 another word for canada (I, 0.8570) .. but canadia is a place with no canadians yelling " eh ! " every 5 seconds .
+okz	131519	 1337 way of saying ok (I, 0.9657) .
+ick	131660	 something gross , a feminine way of saying " ew (I, 0.8263) " . usage by men : only recommended if you are a homosexual .
+nubs	132109	 another word for newbie (I, 0.8448) used by skilled people who play counter - strike
+okz	132457	 gay way of saying ok (I, 0.9868)
+Lutsi	132804	 albanian word for penis (I, 0.9567)
+cipap	132870	 another word for person (I, 0.8169) that people mistake as an insult
+Bastij	132905	 a bastardized version of " bastid (I, 0.8707) , " which is a variation of " bastard " plural : bastiji female : bastijina female plural : bastijinae
+Ain	132949	 another word for anus (I, 0.9567)
+PacPac	133172	 a cute way to say backpack (I, 0.9121) !
+neenee	133547	 hawaiian word for loon (I, 0.9180) .
+cereal	133708	 another form of the word serious (I, 0.8093)
+skii	134363	 a way to say hey (I, 0.8416) to other drug users
+shabazz	134472	 florida 's version of saying " peace (I, 0.9634) " , " one " , " see you later " , " i 'm out "
+foink	135026	 another form of the word fuck (I, 0.9308)
+o-quay	135843	 another way of saying " ok" (I, 0.9135) ..... used to make fun of people
+yuparoo	137101	 a stupid hillbilly way of saying " yes (I, 0.9574) "
+ffuk	137576	 alternative word for ' fuck (I, 0.9177) ' . used mainly on the internet .
+gobby	137615	 another word for blowjob (I, 0.8707) when a girl gives a guy a blowjob , balls n all
+shup	138481	 anotha word for ' sup (I, 0.8363) ' or ' wussup '
+piamp	138606	 another word for pimp (I, 0.8745) , but it sounds cooler
+stoor	138654	 scottish word for dust (I, 0.9567)
+f00d4g3	138713	 an extra 1337 way of saying " food (I, 0.9238) " . as with the simpler term " f00d " , it is either used to describe an edible thing or more often as an exclamation meaning one is going to get something to eat .
+erotica	138967	 another word for porn (I, 0.8738) . certain old scary men who reside and flatulate in dorm tv rooms watch this frequently and claim it is not porn . however , such men are incredible and thus are negated from opinion .
+Koont	139319	 another way of saying cunt (I, 0.8271) as an insult , except much cooler . sooooo ... it 's calling someone a vagina , yes .
+frigg	139433	 an nicer way of sayin fuck (I, 0.8213)
+Wopnipendoobadoo	139954	 an alternative word for " yippee (I, 0.8840) " or other general appreciation . e.g.
+sht	140236	 shorten word for " shit (I, 0.8772) " . found in many word searches .
+piamp	140449	 a way of saying pimp (I, 0.9352) , used usually in a facetious tone
+wangatang	140823	 slang for " penis (I, 0.8038) "
+Spankity	141107	 another word for spank (I, 0.9567)
+morphling	141765	 n.v.av.pn . ect .... another word for god (I, 0.8708) , ... the mean side of god .
+thup	142078	 another way of saying sup (I, 0.8830) ( wassup ) however with a lisp
+schwatz	142257	 the penis , from the yiddish . correct spelling of shwatz (I, 0.9241) .
+TK	142594	 a shortened version of the word telekinesis (I, 0.9530)
+Wha	144668	 the doofy way to say what (I, 0.8154) ?
+dagar	144783	 elvish word for " battle (I, 0.8963) "
+patna	144896	 patna slang term for the word partner (I, 0.8975)
+olepticon	145257	 another word for pizza (I, 0.9180) .
+Beauregard	145359	 n. 1.another word for ' hitler (I, 0.8064) ' . 2 . a person who dictates a classroom ; one who is anal - retentive . 3 . a " tight - ass "
+r3pe	145457	 the ll37 way of saying " rape (I, 0.9336) " .
+quast	145479	 quast is the word on the back of the giant truck that almost ran me over . ever since quast has been used for the word " fuck (I, 0.8253) "
+vergina	145726	 another way to say vagina (I, 0.9550)
+XXX	145894	 1 . another , shorthand way of saying porn (I, 0.9020) . 2 . a james bond wannabe movie starring the infamous vin diesel . 3 . means " extreme "
+skrimps	147327	 ghetto ass way of saying ' shrimp (I, 0.8809) '
+skurred	147338	 bastardized version of the word scard (I, 0.8762)
+Slot	147662	 another word for vagina (I, 0.9581)
+vaggud	147736	 a lazy way of saying faggot (I, 0.9643)
+negatism	150123	 retarded way of saying negativity (I, 0.8355) for moronic teachers like ms.bent .
+tipili	151429	 aztec word for vigina (I, 0.8531) or pussy
+jammit	151546	 a whole new way to say " dammnit (I, 0.8729) "
+jubs	151721	 another word for tits (I, 0.9450)
+shom	154697	 another word for mullet (I, 0.9567)
+contimplate	154862	 jose word for thinking (I, 0.9328) ( jose benavente )
+orgasim	154921	 the fucktard 's way of spelling orgasm (I, 0.8179) . whoever started this definition is an imbecile .
+frunk	155004	 drunken substitute for the word " fuck (I, 0.8253) "
+idere	155146	 a stupid way to say " idea (I, 0.8386) "
+coochiesnorch	155214	 an expression used in place of saying " cool (I, 0.9089) " or " chill " or used in exclaimation similar to saying " damn ! "
+skin	155891	 another word for skinhead (I, 0.9078) , or a sharp
+nookie	156272	 other word for clit (I, 0.9567)
+nigz	156621	 a truncation of the word " niggas (I, 0.8039) " . used mostly as a greeting to friends .
+breastststs	156734	 basically , another word for breasts (I, 0.8913) , hooters , ta - tas , gazongas , etc . it is usually only used with girls who posess exceptionally large breasts ... the extra " st - st - s " are heavily accented to allow hilarity to ensue .
+lel	157108	 r0x0ring way to say lol (I, 0.9228)
+sux0rz	157130	 alternative spelling of " sucks (I, 0.9742) " used by the same kind of people who use wordh4x0r / word and wordr0x0rz / word .
+mon	157641	 jamaican way of saying man (I, 0.9432) .
+lel	157949	 queer way of saying lol (I, 0.9006) , especially when something is n't funny
+Biznich	159012	 another word for bitch (I, 0.9573)
+bebbeh	159111	 voltron 's way of saying baby (I, 0.9241) . also can take the form of bebbi .
+transexual	159257	 not really a word , but a popular misspelling of the word transsexual (I, 0.8681) .
+nappy	159401	 british word for diaper (I, 0.9180) .
+ryu	159456	 the japanese word for " dragon (I, 0.8353) " . also the name of the star characters in " street fighter " , and the excellent dragon rpg , " breath of fire " . hi .
+Totenkopf	159781	 german word for ' skull (I, 0.8658) ' . literal translation : death 's head . name of a waffen ss division of nazi germany during the second world war .
+shiet	159936	 another way to say " shit (I, 0.8386) "
+Ja	160154	 german word for " yes (I, 0.8958) . "
+bijou	160560	 the french word for " jewel (I, 0.9191) "
+hoebag	160580	 another word for idiot (I, 0.8252) and spaz ;
+pucha	160669	 spanish word for vagina (I, 0.8499) .
+thurr	160935	 another word for there (I, 0.8137) .
+Lid	161475	 a scouse word for lad (I, 0.9247)
+crunchies	161486	 an alternate term for the word " hippie (I, 0.8264) . " a left leaning individual with communist tendencies .
+muchacha	161566	 spanish word for chick (I, 0.8456) .
+Yuuki	161832	 another form of saying " toookie (I, 0.9649) " or " doookie " which is slang for " shit " . therefore the word " yuuki " is just a beaten up slang form to say " shit (I, 0.9649) "
+threes	163780	 another word for threesome (I, 0.9125) .
+Tat	164274	 the southern dialect form of saying " tight (I, 0.9696) " , which means a word such as " cool "
+ahee	164599	 used in place of the word ' yes (I, 0.8263) '
+BENCH	164776	 a different way to say bitch (I, 0.8929) . first said by blake . said like this beench . and move your arms up and down and wear a ga shirt .
+bwek	165192	 jamaican way of saying " man (I, 0.9523) "
+Pure	168096	 used to emphasise how good or pleasing something is . basically another word for very (I, 0.9084) .
+shizzit	168098	 gangstar / rap star / hood star word for shit (I, 0.9249)
+ara	168361	 eastern armenian way of saying dude (I, 0.9572)
+krills	169238	 another word for crack (I, 0.9567)
+GrantDawg	169776	 another word for fungus (I, 0.9180) .
+schwang	170236	 a slang form of the word penis (I, 0.8636)
+indiana	170279	 italian 's way of saying " indian (I, 0.9388) "
+dogé	170309	 french word for " doag (I, 0.8406) "
+kermoisjh	170319	 french word for kermet (I, 0.8035) , the legendary green doag
+Giblets	170638	 odd sland word for testicles (I, 0.8289) .
+Kram	170739	 swedish word for " hug (I, 0.9498) " often used in the end of mails .
+Yuki	171264	 japanese for " snow (I, 0.8038) "
+tako	171270	 japanese for " octopus (I, 0.8038) "
+chooth	173784	 hindi word for vagina (I, 0.9581)
+yayo	174305	 the gay way of spelling tony (I, 0.8389) montana'z favorite word 4 coke
+Nokka	174362	 the term white people use in the presence of black people instead of saying " nigger (I, 0.8900) " or " nigga "
+DICTHIONARY	174796	 incorect spelling of dictionary (I, 0.9692)
+yeppers	175144	 another way to say yes (I, 0.8186) .... if ur messed up !
+Slart	175682	 other word for slut (I, 0.9180) .
+donuts	175773	 secret code word for marijuana (I, 0.8917) . oftentimes used when within an earshot of a nark such as a parental unit or n00b .
+kantot	176548	 filipino word for sex (I, 0.8808) ... sexual intercourse ... kantutin is to have sex
+liph	176863	 another saying for the word " life (I, 0.8053) "
+super	177273	 another word for " very (I, 0.8812) " or " really "
+Waz	177286	 slang word for speed (I, 0.9118)
+neckin	177326	 is another word for fuckin (I, 0.8062) also to shorten it .. it can b used as neck= fuck
+Xypher	177410	 another word for cipher (I, 0.8262) . xypher variation of word cipher (I, 0.8262) .
+sch	177902	 short way of saying school (I, 0.9704)
+chicklet	178811	 another word for tooth (I, 0.9124) , or teeth ( chicklets ) . derived from the chewing gum " chicklets " which actually look like perfectly square white teeth .
+crackadingdongdacklin	180093	 raver variation of " crackalackin (I, 0.8605) " . rhyming suffixes may be added within the " cracka " and " lin "
+tendo	180697	 short for " nintendo (I, 0.8723) " commonly used by gamers and lamers like me . ^_______________^
+shiaga	181238	 another word for shit (I, 0.9567)
+skettios	181573	 the gay way to say spaghettios (I, 0.9409)
+eeshole	182016	 another cool way of saying " asshole (I, 0.9379) "
+asspiratee	182347	 it is the lowlt french way of saying asspirate (I, 0.9286) . an asspiratee is in french a smelly man dressed as a pirate that ass rapes people randomly . he is not limited to ass raping but also likes eating asshole .
+Renk	182671	 renk is another word for faisty (I, 0.8557) or cheeky meaning saying things an not caring who it offends
+nukular	182956	 redneck way of saying nuclear (I, 0.9608) , presently used by our president by stuffed ballet , george w bush .
+ctaw	182961	 a way of saying " cya (I, 0.9379) "
+Baka	182963	 1 : idiot 2 : baka^ni : idiot squared or everyone around me is an idiot . 3:b4|<4 or b4k4 : l33 t way of saying baka (I, 0.9301) , found in most fps games .
+Pickle	183039	 another word for penis (I, 0.9567)
+Chunt	183235	 ( n. ) a short version of the word chuntaro (I, 0.8749) , meaning a mexican wetback or being tacky , mexican - style . ( v. ) pertaining to chuntaro . not to be confused with chunt pronounced chuh- unt , meaning a fat puss .
+Fookers	183291	 the way of saying fuckers (I, 0.9275) , but used by the ones with less intelligence .
+bizzitch	183312	 a foshizzley version of the word bitch (I, 0.9367)
+Lollacuda	183368	 a simple variation of the word lol (I, 0.9205) . created on the forums of batjew , and used as a lesser version of rofl , but higher than lol .
+turker	184060	 a drunk ass version of " turkey (I, 0.9048) "
+Scrump	184129	 v. another word for humping (I, 0.9391) . usually used by men in long - term relationships where the initial novelty of sex has worn off . used as a softer term for sex insted of other more vulgar words .
+chix0r	184242	 the l33 t way of saying " chick (I, 0.8973) " . meaning , a hot , sexy or beautiful woman . i regularly call chicks , chix0r , yet i have kissed a girl before . i once got given head . ;)
+Shat	184846	 the radio friendly way of saying " shit (I, 0.9379) "
+mownie	184954	 variation of the " townie (I, 0.8328) " , an individual who considers themselves " alternative " or a mod because they listen to oasis . cds include paul weller , the who and the verve . wardrobe includes ben sherman , adidas campus , bootcut levi's , kickers , lambretta , kappa , with tradional gallegher - esque haircut . similar style for the ladies often seen sporting offensive off the wall slogan t shirts / retro tees / band tees , also have mullet .
+noit	186605	 another word for spam (I, 0.9567)
+noit	186607	 another word for spam (I, 0.9567)
+guht	186693	 another way of saying good (I, 0.9844)
+spent	186893	 another word for " good (I, 0.8406) "
+scheme	186973	 another word for chav (I, 0.9079) or ned . mainly a scottish term these creatures also believe , as with the above , that it is acceptable to knife , steal and wear pure white caps that seem to defy gravity !
+insaneatic	187006	 a hybrid of insane + lunatic . a person who is not sound of mind or who i do n't like . ( alternate spelling : insanatic (I, 0.8282) )
+shabooya	187155	 " a way to celebrate somethin " ... as in another word for hooray (I, 0.8928) !
+berze	187184	 another word for woman (I, 0.8531) or girl
+peppery	187364	 cocky , stuck up , mean ( also can be another word for salty (I, 0.8928) )
+Skill	187886	 early 90s word for cool (I, 0.8973) .
+early	188411	 another way of saying holla (I, 0.9100) or what s up . originated in philly .
+ahma	188919	 finnish word for wolverine (I, 0.8600) . a once great counter - strike clan .
+poutso	189444	 greek word for penis (I, 0.9195)
+arxidia	189447	 greek word for testicles (I, 0.8988)
+mouni	189448	 greek word for pussy (I, 0.9154)
+vizia	189452	 greek word for boobs (I, 0.8988)
+Hambrouko	189723	 grenglish word for hamburger (I, 0.9180) .
+Ep!	189735	 greek word for hey (I, 0.8328) .
+Skill	189785	 what snakes say instead of the word kill (I, 0.8702)
+internizzle	189808	 ghetto word for internet (I, 0.9567)
+Brederen	189811	 another word for brother (I, 0.9567)
+grip	189815	 ghetto word for bookbag (I, 0.9567)
+hilo	189922	 a diffrent way of saying hi (I, 0.8152) to other people
+fruut	189924	 misspelled way of saying fruit (I, 0.9704)
+Nard	190449	 another word for faecies (I, 0.9450)
+whipe	190507	 another word for wipe (I, 0.8792) , means to use your damn hand from an up and under motion on your butt crack
+mu'fucka	190639	 slang for " motherfucker (I, 0.8038) "
+Queezork	191109	 a word of exclamation (I, 0.8185) , used for a swear word or for dissapointment (I, 0.8185) .
+aite	191721	 the way douches say " alright (I, 0.8652) "
+yosi	192368	 phillipino way to say cigarette (I, 0.9535)
+mon	193209	 informal way of saying mate (I, 0.9511)
+aight	193210	 uneducated fools word for alright (I, 0.9197)
+newd	193493	 a l33 t way of saying nude (I, 0.9698) .
+spliffer	193763	 another word for spliff (I, 0.9180) .
+nukkah	194517	 when a white boy is too scared to say " nigger (I, 0.8331) " , he replaces it with nukkah , thus showing that he 's politically correct , and a white boy nerd .
+ting	194686	 an ethnic caribbean way of saying thing (I, 0.9704)
+shizznit	195002	 it is an expression of bad / good feelings . a long form of the word shit (I, 0.8303) .
+brudda	195188	 the oriental way of saying brother (I, 0.8867) without using an asian accent .
+foofoo	195634	 a replacement word for cunt (I, 0.8778) .
+grillin'	196157	 another word for hatin (I, 0.9180) '
+yakoo	196291	 derogatory slang word for " caucasion (I, 0.8985) " ; invented by eddie murphy in an snl weekend update skit . chris rock later presented this skit verbatim in a later episode of snl
+Pearls	196401	 another word for balls (I, 0.9450)
+ID10T	197432	 1 . n. a computer error that was actually caused by the computer user . 2 . n. the user of a computer who is too moronic to actually use a computer . 3 . n. an alpha - numeric spelling of the word idiot (I, 0.8305) .
+chowder	197860	 just another word for puke (I, 0.9570)
+brazy	198576	 blood gang word for crazy (I, 0.8169) .
+bigerette	198616	 blood word for cigerette (I, 0.9567)
+Nuggin	198888	 alternate word for " nigger (I, 0.8471) " .
+n00d	199051	 another way of saying n00b (I, 0.8558) .
+Sickning	200881	 another word for p.h.a.t (I, 0.8001) !
+yeahez	201381	 an exciting way of saying yes (I, 0.8968) or yeah .
+tv	201660	 short form for the word television (I, 0.9283)
+skizantz	202032	 another word for vagina (I, 0.9581)
+jacks	202754	 another word for cigerettes (I, 0.9450)
+dunder	202756	 another word for drunk (I, 0.9018) , or just really intoxicated .
+squealin'	203350	 it 's a new word for " cool (I, 0.8734) "
+glop	203538	 verb . onomatopoeic word for masturbate (I, 0.8471) . noun . semen .
+sit	204110	 lazier version of saying " shit (I, 0.9716) "
+gumba	204420	 italian word for idiot (I, 0.9567)
+ibonics	204473	 not a word ... yet ... internet ebonics ? another word for " l33t5p34k (I, 0.8339) " ?
+wiminz	204498	 havish for saying " women (I, 0.8494) "
+wefe	204673	 shorter way of saying queif (I, 0.9704)
+seme	205269	 macedonian word for seed (I, 0.9545) , also used as a greeting
+pipe	205421	 a word for dick (I, 0.9567)
+tav	205446	 gypsy word for marijuana (I, 0.9567)
+eep	205672	 another word for tweak (I, 0.8632) , tweek , meth or whatever u wanna call it .
+nubbins	205831	 a variation of the word nub (I, 0.8136) or noob , refering to both computer users and golfers .
+jiggy	206255	 jiggy is another word for cool (I, 0.9258) . when you say he is jiggy it means they are down with it .
+Oi!	206312	 the british version of " hey (I, 0.8123) ! "
+Fuggin	206466	 a weaker version of the word fucking (I, 0.8617) . used when fucking is not necessary . also used when you wish to diversify your vocabulary and not sound like you 're swearing every sentence . often used as a positive word . not used as a sexual term .
+tossing	207058	 either something you do to a salad , or another word for wanking (I, 0.8640) . or wanking into a salad .
+uppy	207765	 another word for " shit (I, 0.9486) " . used in southern india . however , can not usally be used in the same sence as " oh shit ! " or " why the hell is n't this shit working ? " can be used more as an insult or just to make sentences sound funny .
+chur	207883	 cajun french word for ass (I, 0.8532)
+Oni	208782	 japanese word for demon (I, 0.8531) or devil
+ryofire	209346	 ryofire is a nother word for fucker (I, 0.8102)
+Blad	209692	 normally used either by people taking the piss out of people who say ' blood ' or someone who thinks its cool to say ' blad (I, 0.8358) '
+haterz	209852	 people who think you are a moron . using this term will do little to dissuade them . alternate spelling of haters (I, 0.8184) , and used almost exclusively by girls in their early teens to defend pop act of the week . exhibit a :
+struth	210260	 contraction of the words " god 's truth " ; exclamation , mild oath frequently used by all dinky - di aussies . alternative spelling : strewth (I, 0.8779) .
+too	210310	 a word used to express when there is more of something than neaded , or for the word also (I, 0.8722) . often replaced by " to " and " 2 " by idiots .
+peep	210514	 another word for rat (I, 0.8362) or sell out
+Shonuf	210844	 african american word for " sure (I, 0.8187) enough " but slammed together to make the amount of idiotic words escaping from their lips minimal .
+batch	211546	 another word for bitch (I, 0.8839) , a whore of a girl that pisses you off .
+moxual	212026	 a person who is attracted only to members of the same sex . another word for wordhomosexual (I, 0.9542)
+cizao	212151	 1 ) a word used to emphasize excitement or surprise , 2 ) a way to say goodbye (I, 0.8563) .
+Dabu	212247	 orcish for " yes (I, 0.8632) "
+lass	212353	 another word for " girl (I, 0.9190) "
+c1	212398	 a cs - ers counter - strike way of saying " affirmative (I, 0.9590) " . if you press c 1 in counter - strike it`ll say affirmative .
+fi-fi	212402	 french word for faggots (I, 0.9467)
+mang	213009	 hip way of saying ' man (I, 0.9158) '
+Salaam	213194	 the arabic word for peace (I, 0.8041) . asalaamu aleikum is a greeting used by muslims , meaning " peace be upon you " . the hebrew word for peace (I, 0.8041) is shalom ( also used as a greetin ) .
+sicophant	214267	 the word for sick (I, 0.9276) , meaning you are gross or twisted or have some sort of disorder .
+eggs	214554	 a word for ovaries (I, 0.9450)
+jannu	215153	 finnish word for lad (I, 0.8632) , guy , chap , fellow , friend .
+wurd	216146	 ghetto version of " hey (I, 0.8963) "
+ez	216721	 another way of spelling easy (I, 0.9549) . meaning take it easy , usually used for a farewell
+sheepy	217003	 a funny way of saying sleepy (I, 0.9286) , especially when you are very sleepy and pronunciation becomes greatly difficult .
+harami	217091	 indian word for bastard (I, 0.9567)
+lopp	217232	 tyrolean dialect word for " idiot (I, 0.9498) " also used in combination with " sau " like " saulopp " meaning a really dumb person
+spoon	217313	 1 ) eating instrument . 2 ) exclamation of joy . 3 ) code word for porn (I, 0.8621) .
+mern	217609	 ( n ) southern way of saying man (I, 0.9704)
+prolly	218393	 new word for probably (I, 0.8137) .
+konichiwa	218878	 the japanese word for " hello (I, 0.9118) "
+shagwat	219894	 a respectful way of saying ' hello (I, 0.8914) ' , generally used between badgers and bad asses
+luff	220538	 a cuter , girlish way to say love (I, 0.9039)
+STD	220952	 abbreviation for " standard (I, 0.8038) "
+Otay	222197	 slang word for " otay (I, 0.8608) " . used to piss miscellenous nygh angmoh travel agents off . otah + satay
+boink	222606	 usually another word for fornication (I, 0.9362) .
+homegirl	222749	 female version of " homeboy (I, 0.8235) "
+tarnations	223198	 another word for hell (I, 0.8170) also see heck . mainly used in the southern part of the united states in the late 19th to early to mid 20th centuries .
+happies	224040	 a positive way of saying herpes (I, 0.9623)
+whoopie	224424	 alt spelling for whoopee (I, 0.9413) . it means fucking .
+mb8	225341	 a 1337 way of saying masturbation (I, 0.9704)
+Sweep	225471	 another word for sweet (I, 0.8958) .
+brew	225488	 to mean a close mate is a brew or someone who you have no other reference too . also a group of brew is a group of close friends . maori word for brother (I, 0.9251)
+swatty	225611	 another word for someone (I, 0.8010) with a small penis .
+Chala	225840	 it is another word for yes (I, 0.9005) . it it used in place of yes .
+subaru	225990	 using the slightly different exkimo spelling " soebahrue (I, 0.9674) " which is pronounced exactly the same , it means " man who beds with seals "
+gick	226787	 an irish slang word for ' shit (I, 0.8609) '
+keer	226791	 noun - persian word for " penis (I, 0.8672) " ; however , extremely derogatory . ( i.e. cock ) a word youth use to communicate with each other ; one of the most commonly taught persian slang words to people of non - persian descent . may also be used in the form of ' keery ' ( adjective )
+jabs	226807	 an irish slang word for breasts (I, 0.8191)
+gads	226882	 west coast of scotland word for " duff (I, 0.8873) " . i.e. really bad . confused by the fact that " duff " can be used to mean something really good , in a sense of " irony " .
+shi'	227239	 short form for " shit (I, 0.8643) " . can only be used as an exclamation . when using shit as a noun , the final " t " must be pronounced .
+ish	227501	 slang term for the word " shit (I, 0.8053) "
+kthx	228516	 a blatantly sarcastic way of saying " ok (I, 0.8094) , thanks " in 1337 sp3ak .
+rhoids	229274	 abbreviated word for hemorrhoids (I, 0.8969) .
+uzzk	229314	 the lazy ferraro style of saying " usk (I, 0.8662) " or just kidding
+tata	229354	 punjabi word for testicle (I, 0.8698) , bollock , knacker etc
+Iraq	229652	 in biblical times , known as erech . the name iraq is a modernized spelling of " uruk (I, 0.9302) " , an ancient city state in ancient summeria . after the collapse of the ottoman ( turkish)empire , europe carved up international boundaries and in the course of restructuring had created the modern country of " iraq " . doomed to failure from the start , this artificially - created country was home to many disparate ethnicities and religions . internal conflict was inevitable . the rise of the baath party ( and its inevitable fall at the hands of the american - led coalition ) was a response to this conflict . there is no single language spoken in iraq . standard arabic is most commonly used with kurdish , turkmen , assyrian and farsi spoken by a minority of the population .
+cah	231910	 bostonian for " car (I, 0.8038) "
+GURL	232222	 the way of spelling girl (I, 0.9252) , favourd by girls below the age of 14 or dyslexics .
+nizzel	232702	 snoop dogs way of saying nigger (I, 0.9462)
+swak	233127	 used commonly in south africa by people who are too lazy to say ' unfair (I, 0.8225) ' or ' unlucky ' or ' too bad ' .
+fuckstick	234059	 another word for tommo (I, 0.9567)
+arsehole	235393	 arsehole , is another word for anus (I, 0.9461) . it is also used to describe a member of society who is thoroughly useless or who 's actions add to the problems of others .
+shi'ite	235871	 alternative word for shit (I, 0.9567)
+erf	236076	 gansta way to say earth (I, 0.9535)
+dosy	237042	 slang word for nasty (I, 0.8810)
+twee	237886	 something that is sweet , almost to the point of being sickeningly so . as a derogatory descriptive , it means something that is affectedly dainty or quaint , or is way too sentimental . in american english it often refers to a type of simple sweet pop music , but in british english it is used much more widely for things that are nauseatingly cute or precious . it comes from the way the word sweet (I, 0.8957) sounds when said in baby talk .
+punanie	237946	 is anothe word for pussy (I, 0.8098)
+titi	237981	 filipino word for dick (I, 0.9567)
+godo	238395	 a better way of saying " good (I, 0.8953) " , because " good " is already so played out .
+niloo	238612	 it can have 2 meanings.it's a persian name for girls.some indians have it too.but i 'm talking about the meaning in persian."nil " is a greenish blue substance which is used to coulor the stuff like clothes.and niloo means as beautiful as that colour.but it can also be a shorter way to say " niloofar (I, 0.8041) " which is the complete name."niloo " is just the firt half of it.it means waterlily or lotus.sucha nice name ! !
+rolf	239151	 abbr . " rolling on the laughing floor " used by some people as another way of saying rofl (I, 0.8182) .
+Yolie	239470	 short for " yolanda (I, 0.8230) . " used as a way of recognizing the casual relationship / friendship between friends or co - workers .
+Flaahs	240157	 the croydonish way of saying flowers (I, 0.9281) .
+oober	240202	 russian word for super (I, 0.9180) .
+Cak	240374	 a new - age , ever - popular growing , slang way to say cock (I, 0.8998) . also pronounced with a " y " sound preceding the a.
+manush	240685	 arabic word for vagina (I, 0.8131) , pussy
+qwn	240729	 qwn : in online gaming / chat , intentional misspelling of wordpwn / word , which is a ( sometimes ) intentional misspelling of " own (I, 0.9010) " . the lowercase " q " is a reversed " p " , and reversing letters is word1337/word . past tense qwned is much more common .
+telefizzle	240996	 snoop dog 's way of saying television (I, 0.8761) .. in fo shizzle my nizzle styles
+caahncil	241452	 the croydonish way of saying council (I, 0.9432) .
+Laahnge	241453	 the croydonish word for lounge (I, 0.8532)
+tweekin	241575	 another word for fiend (I, 0.9567)
+wiss	241771	 another word for piss (I, 0.9567)
+Mang	241840	 an asian way of saying man (I, 0.8025) . do n't say mang if your not an asian . fob 's only ! ! !
+Nooge	242077	 derived from the portugese word for " ugly (I, 0.8415) "
+shmate	242164	 funny way of saying shit (I, 0.9704)
+pissa	242432	 portuguese word for dick (I, 0.9180) .
+mammas	242439	 portuguese word for breasts (I, 0.9450)
+m33p0	244019	 a variation of the word m33p (I, 0.8984) , or meep . can mean anything . is usually a random outburst of happiness or randomness .
+torta	244050	 another word for " pussy (I, 0.9190) "
+wif	244172	 another word for wife (I, 0.9180) .
+poutsa	244981	 greek word for penis (I, 0.9195)
+pratt	245013	 old englsh word for vagina (I, 0.8574)
+jazz	245088	 another word for stuff (I, 0.9567)
+ghasti	245108	 desi word for prostitute (I, 0.9567)
+ghasti	245109	 desi word for prostitute (I, 0.9567)
+playa	246273	 1.)a colloquialism used by semiurban wannabes ( like sean combs ) who wish to convey both respect and contempt at the same time for a fellow semiurban wannabe . 2.)spanish word for beach (I, 0.8536)
+Awexome	246704	 the h*r word for awesome (I, 0.9068) .
+Plug	246972	 another word for tampon (I, 0.9567)
+Ostegolectric	247385	 adj . often used in conjunction with one " static - x " . a more serious form of the word ostego (I, 0.8303) .
+kedwardo	247485	 another word for sux0r (I, 0.9450)
+eat-ems	249124	 another word for food (I, 0.9180) .
+gash	249919	 another word for rank (I, 0.8482) , or discusting ! usually referring to food that do n't look right !
+Bish	250027	 the best way of saying bitch (I, 0.8164) ! ! ! ! ! lol ...
+Geejo	250862	 another word for hobo (I, 0.8697) . from the word hobogeejo
+Kitsune	251749	 japanese word for fox (I, 0.9180) .
+Sucker	252148	 sucker is another word for loser (I, 0.8455) ! it is a word often used by american teens
+Wooh	253001	 a sign of excitement , used by hyperactive people and their friends . the correct spelling of woo (I, 0.8960) . must be applied in the appropriate manner otherwise people 's heads get chopped off by the mad axe ladies of the south .
+Peenish	253390	 another word for " dickish (I, 0.8609) " relating back to the word " penis " instead of " dick . " used to describe how much like a penis a situation , person , or thing is . also used in conjunction with the suffix " man " ( i.e. peenish - man ) but is still used in the same context as the singular word " peenish . "
+broin	253498	 typo for the word borin (I, 0.8598)
+ELO	253823	 a shorted way of saying hello (I, 0.9499) ! often used when you just want to be cute .
+lovely	255065	 another word for weed (I, 0.9567)
+Dec	255397	 abbreviation for the word " decent (I, 0.8627) " . used to describe a particular feeling , situation or object .
+Pagina	255601	 the spanish word for " page (I, 0.8783) " .
+Haaugh	255943	 slang word for house (I, 0.8396) .
+geetar	256101	 a cute or clever way of saying ' guitar (I, 0.9173) ' . often used when someone really likes guitars , and uses this as an alternative . depending on what text it 's used in , it often is elongated like : geeeeetar . this way , showing how it would actually sound . it 's only a goofy way of saying ' guitar (I, 0.9173) ' . all us dorks use it . xd
+geetar	256101	 a cute or clever way of saying ' guitar (I, 0.8499) ' . often used when someone really likes guitars , and uses this as an alternative . depending on what text it 's used in , it often is elongated like : geeeeetar . this way , showing how it would actually sound . it 's only a goofy way of saying ' guitar (I, 0.8499) ' . all us dorks use it . xd
+dool	257217	 the farsi language word for penis (I, 0.8881) . used as a " code word " among friends .
+konyo	257388	 spanish word for vagina (I, 0.9180)
+poephol	257460	 the afrikaans word for asshole (I, 0.9247)
+easy	257563	 another word for relaxed (I, 0.8948) ; cool ; fine ; okay ; or at ease .
+Stuffage	258008	 better way of saying " stuff (I, 0.9159) . "
+sklitznatch	258035	 code word for marijuana (I, 0.9177) joint
+escared	258302	 persian way of saying " scared (I, 0.9779) "
+papari	258874	 another greek word for " testicle (I, 0.8189) "
+kavli	258875	 greek word for " cock (I, 0.9060) "
+kolotrypida	258878	 greek word for " asshole (I, 0.8963) "
+pipa	258882	 greek word for blowjob (I, 0.9195)
+vyzi	258884	 greek word for tit (I, 0.9154)
+malaperda	258887	 another greek word for cock (I, 0.8663)
+pargalatsos	258890	 another greek word for cock (I, 0.8663)
+kariola	258896	 another greek word for bitch (I, 0.8550)
+sota	259070	 slang for " minnesota (I, 0.8038) "
+Thrice	259142	 a fancy way of saying 3 (I, 0.9472)
+sheot	259589	 a slang term for the word shit (I, 0.8159) .
+everypeoples	259901	 1 . different meaning for " everyone";comonly used by bubs . 2 . all the people in a given area . 3 . a horrible misspelling of everybody (I, 0.8808) , everyone , or all people . perhaps all three joined into one .
+bizzle	260125	 another word for ecstasy (I, 0.9567)
+looooooooooool	260140	 variation of " lol (I, 0.8911) " , used if someone thinks something is extremely funny .
+nuclearator	260173	 another word for microwave (I, 0.9070) , coined by micah of machall ( machall.com )
+shiznouse	260237	 an alternate word for " shit (I, 0.8904) " ; word used to express a suprised reaction to something unfavorable
+Kack	261583	 combination of fucking and crap . another word for excrement (I, 0.9364) .
+mycoxaflopin	261986	 another word for viagra (I, 0.8846) , or lack of it
+paparia	262187	 another word for testicles (I, 0.9450)
+mouwie	262307	 indian word for movie (I, 0.9180) .
+poustis	262511	 greek word for " gay (I, 0.8963) "
+kaki	263267	 hebrew word for shit (I, 0.9261)
+poot	263499	 another word for poop (I, 0.9631) , meaning digested food coming out of your butt
+shlaithe	263977	 a different cooler way to say shit (I, 0.9121) .
+deez	264010	 another word for " balls (I, 0.8982) "
+shlaithe	264138	 a better / cooler way to say shit (I, 0.9121) .
+gnarls	264376	 funky , another word for gnarly (I, 0.9363) .
+Muot	264672	 another word for vagina (I, 0.9581)
+heck	264892	 another way of saying hell (I, 0.9704)
+sexcellent	265165	 can be used to describe a situation , object or person as being great/ wonderful , ie . sex is great . synonym of the word " fuckable (I, 0.8627) "
+ferkit	265287	 a code word for fuck (I, 0.9247)
+kickassitude	265301	 a word for awesome (I, 0.9566) , or cool . used when something is outrageously good that deserves praise .
+rite	266128	 incorrect spelling of ' write (I, 0.8814) ' , often used by people that take the short bus to school .
+Crizzy	266463	 another word for crunk (I, 0.8973) ; drunk
+Beotch	266524	 another word for bitch (I, 0.9309) . can be used to call a friend .
+Roids	266934	 another word for steroids (I, 0.9450)
+hoagly	266971	 variant spelling for " hogly (I, 0.8247) " so the pronunciation does n't come out like hog - lee
+schmalcohol	266979	 secret code word for alcohol (I, 0.9247)
+thaaps	267133	 porn , girls , sexy . language adopted by kma creator of the word " chompy (I, 0.8424) "
+moiche	267208	 a way of saying great (I, 0.9556) or mental . only used in sad parts of scotland .
+Craty	267212	 another word for crazy (I, 0.8891) !
+bucha	267324	 another word for lesbian (I, 0.8406) . see lesbian
+Juganawt	268280	 different spelling for wordjuggernaut (I, 0.9900) , often used for either illiterate people , or for people who want to fit juggernaut into a space of 8 characters or less to fit all profiles on the internet , video games and more . often slightly crazy / deranged , typically with a warped , dark , evil sense of humour . traditionally found hunching over a computer of some sort , and is usually intoxicated when posting excessively on forums .
+Doz	268574	 another word for dossige (I, 0.9567)
+P-Town	268947	 another word for peshtigo (I, 0.8079) , wisconsin
+wurd	269191	 replacement for the word ' cool (I, 0.8681) '
+aneehoo	269779	 it is a way of saying " anyway (I, 0.8287) , moving on to another subject "
+pootang	269888	 another word for sex (I, 0.9396) , as used by the sai in ireland
+huff	270212	 another word for smell (I, 0.9088) . usually bad .
+sledge	270504	 another word for insult (I, 0.9180) .
+hod	271383	 queer way of saying " hard (I, 0.9578) " ... often used by rockers who rawk hod ( rock hard ) .
+shap	271904	 the belfast , norhern ireland word for shop (I, 0.9250)
+PHAT	272186	 another word for cool (I, 0.9668) . often used on the street by youths .
+hugh	272671	 1337 hax way of saying huge (I, 0.9544) and it looks funiar
+s3xy	272771	 the 10 % |_337 version of the word sexy (I, 0.8967) . means just the same as sexy , but is more fun to use .
+pensi	273716	 1.see , penis , penor 2 . another way of saying pensil (I, 0.9703)
+Wofem	274662	 male - free spelling of " woman (I, 0.9900) " . apparently designed by bina goldfield in an attempt to remind men that they make up slightly less than 50 % of the human race , yet was discredited by goldfield 's use of " femstruate " , " afemdfemt " , and " femsion " . now unly used by really nutty feminists .
+kyrpä	275562	 kyrpä is finnish word for cokc (I, 0.8102)
+Roight	275840	 a northside dubliner 's way of saying right (I, 0.9368) , but without prounouncing the " t " so they sound a bit like they 're saying roight , but it 's more like roi
+Kirureru	275994	 1 . the english phanetics of the japanese word for " killer (I, 0.8734) "
+Rake	276036	 another word for " pimp (I, 0.8189) "
+u4ia	276046	 1 ) netspeak way of spelling " euphoria (I, 0.9830) " 2 ) the 1337est tracker ever !
+merda	276047	 the italian word for " shit (I, 0.8783) " .
+ciao	276062	 the italian term for " hi (I, 0.8537) " or " bye "
+arrivederci	276064	 the italian word for " goodbye (I, 0.8482) . "
+hazah	276266	 1 . another word for " yes (I, 0.9039) ! " " oh yeah ! " " booyah ! " 2 . hello
+kang	276381	 gansta way of saying ' king (I, 0.9157) '
+LRC	276529	 acronym for " learning resource center " . a fancy - pants way of saying " library (I, 0.9336) " .
+hoy	276758	 the filipino way of saying " hey (I, 0.9168) ! " but can be expressed sometimes in objection , if you 're going to call someone 's attention ( negatively or positively ) .
+kourada	276909	 greek word for " turd (I, 0.8963) "
+pswloxyma	276915	 another greek word for " cum (I, 0.9093) " . see also " xysi "
+Mistah	277226	 a cute way to say mister (I, 0.9121) .
+cekks	277300	 1 . n. - in the ancient tongue , an alternate spelling of " sex (I, 0.9616) . " 2 . n. - egregiously bastardized phonetic spelling of " sex (I, 0.9616) . " see also " seb , " " iex . "
+cekks	277300	 1 . n. - in the ancient tongue , an alternate spelling of " sex (I, 0.9550) . " 2 . n. - egregiously bastardized phonetic spelling of " sex (I, 0.9550) . " see also " seb , " " iex . "
+seb	277306	 1 . n. - alternate spelling of " sex (I, 0.9919) , " introduced when the all - powerful keeper of nyah made a typo when transmitting " sex " via instant message and thus processed " seb , " at which point the loyal subjects of nyah ordained the new word as an alternate . see also : " cekks , " " iex . "
+dappes	278315	 a stupid person . another word for torbat (I, 0.9363) .
+Torbat	278316	 a stupid person . another word for dappes (I, 0.9196) .
+zapatos	278549	 zapatos is another word for shoes (I, 0.8934) .
+shizat	279050	 a snoop - dogged version of the word shit (I, 0.9249) , usually used with a positive connotation
+Heyzeus	279739	 another word for cheese (I, 0.9180) .
+fantabulous	279799	 everything is just super - great - its a super - duper way of saying so (I, 0.9098) . often used with a exclaimation mark .
+bizotch	280072	 frendlier way of saying bitch (I, 0.9488) . mostly used when expressing mild discontent to another .
+Trucker	280226	 another way to say " fucker (I, 0.8386) "
+maritujuana	280390	 mr . mackey 's way of saying marijuana (I, 0.9432) .
+buttana	280435	 italian word for bitch (I, 0.9573)
+puerco	281633	 the spanish word for " pork (I, 0.8804) " . used in norfolk as a codeword for fat , nasty bitches or to signal their approach .
+pescado	281646	 1 . the spanish word for " fish (I, 0.8697) " , referring to any girls cooch , especially if it 's unwashed . 2 . a promiscuous girl , thus presumed to have a dirty cooch .
+Exec	281900	 short version of word " executive (I, 0.9216) " , as in to be the best in some field , or at some activity . synonyms : best , tyte , wicked , savage .
+Yuki	282014	 the japanese word for " courage (I, 0.8479) " , when giving a long " oo " as in mood sound .
+heim	283190	 another word for shit (I, 0.9180) .
+shitles	283254	 another slang word for " shit (I, 0.9191) "
+Ares	283370	 japanese bicycle manufacturer . another word for perfection (I, 0.8116) . see also " ares dita "
+Nese	283777	 norwegain word for ass (I, 0.9567)
+jollop	284154	 noun - jizzum , man fat , gunk , nut muck , basically another word for spunk (I, 0.9427)
+bizmotch	285051	 1 ) a female dog . 2 ) a fun and easy way to say bitch (I, 0.9600) . 3 ) a stereotypical way to say bitch (I, 0.9600) in ghetto - speak .
+Whapanese	285353	 alternate spelling of wapanese (I, 0.9603)
+nubbies	285531	 slang word for newbies (I, 0.8893)
+spuz	285685	 another word for jizz (I, 0.8531) or cum
+chowder	285953	 another word for semen (I, 0.9450)
+exay/xa	286903	 afrikaans word for dude (I, 0.8638) ...
+kinfolk	287396	 backwoods / country / redneck way of saying " relatives (I, 0.9162) " .
+chunklzz	287683	 another word for fatass (I, 0.9180) .
+Finklestien	287793	 another word for dumb (I, 0.9444)
+dren	288788	 backwards for " nerd (I, 0.8829) "
+Yo	288886	 ..... a non racial slang word for " gangsta (I, 0.8458) 's "
+figa	289330	 the italien word for pussy (I, 0.8532)
+unchi	289350	 japanese word for poop (I, 0.9567)
+fayg	289820	 the 1337 way to say fag (I, 0.8737) .
+plizan	290129	 coolified way of saying " plan (I, 0.9379) "
+shebang	291506	 country bumpkin way of saying ' wow (I, 0.8990) ' or ' damn '
+no0b	291649	 another way to say " n00b (I, 0.8142) " or " newb " meaning a newbie , new to everything , or something in paticular .
+bink	293249	 the all new word for anything (I, 0.8535)
+Shiitake	293388	 a type of japanese asian mushroom that sissies use as a benign way to say shit (I, 0.8773)
+heezy	293413	 a slang word for head (I, 0.8532)
+berrati	293532	 a word for anything (I, 0.9180) .
+coolio	294608	 like a " wavy " way of saying cool (I, 0.9533) .
+shiawase	296124	 japanese word for happiness (I, 0.9180) .
+jobbie	296182	 a childs word for shite (I, 0.8617) .
+floggle	297154	 slang word for fuck (I, 0.9118)
+Vagoina	297270	 austrailian word for vagina (I, 0.9581)
+ubermarfer	298253	 another way of saying " motherfucker (I, 0.8812) " ..
+fottuto	298787	 italian word for fucked (I, 0.8458) .
+lotion	298938	 another word for semen (I, 0.9450)
+kinfolk	299014	 hillbilly word for family (I, 0.9141) , especially extended family .
+nan	299210	 nan , this is another word for grandmother (I, 0.9137) . max roton once wanted to go to his nan 's house , but was not allowed , so he threw a tantrum and threatened to kill himself .
+tits	299242	 eric cartman 's way of saying cool (I, 0.9832) .
+kinfolk	299740	 a southern way of saying " relatives (I, 0.9395) "
+perhapsico	300438	 a way cooler way of saying perhaps (I, 0.9500)
+Possiblii	300440	 a funkier way of saying possibly (I, 0.9500)
+noone	301123	 the incorrect combination of " no one " . also , an older english spelling of the the word " noon (I, 0.8191) " .
+wedge	301168	 another word for ' hench (I, 0.8607) '
+jamejee	301319	 korean word for vagina (I, 0.9581)
+bojizzle	301570	 the cool black way of saying bojangles (I, 0.9623)
+ShoujoMagic	302020	 another word for smut (I, 0.9180) .
+Kekkaku	303109	 the japanese word for tuberculosis (I, 0.8532)
+kinfolk	303113	 a hick word for family (I, 0.9247)
+dingle	303483	 another word for dork (I, 0.8632) , idiot , or nerd
+bandwagoon	303713	 a version of " bandwagon (I, 0.8156) " used by people named bucky in an attempt and sounding intelligent . often in same babble - fests as such intellectual words as " successing " and " hense . " see also " i am a moron with a keyboard . "
+paddie	303745	 another word for dred (I, 0.8165) or bredrin
+faggurt	303828	 faggurt is another word for " faggot (I, 0.8474) "
+Schu-Bunny	303948	 a synonym for the word " penis (I, 0.8078) " .
+poutsos	304446	 greek word for cock (I, 0.9272)
+Draayer	306490	 another word for matt (I, 0.9567)
+cryptopsy	306594	 cryptopsy is simpy an autopsy of a crypt . originated in egypt during the reign of king tutenknahmen ( or tut , as his homies called him ) , he ordered his peons to autopsy all the crypts in the area to get his country out of debt . it 's just a nice way to say theft (I, 0.8103) .
+geehee	307762	 v. laughing hyperactively n : instantaneous mouth - covering laugh adj : another word for " funny (I, 0.8005) "
+idioth	308261	 another way of saying idiot (I, 0.8759) . i think it was inented by group x.
+kis	309496	 lebaneese way of saying kus (I, 0.8512) which mean pussy
+goot	310199	 i better way of saying good (I, 0.9698) .
+krute	310332	 another word for cute (I, 0.9444)
+tack	310518	 another word for cannabis (I, 0.9567)
+cowie	310589	 geordie word for ecstacy (I, 0.9261)
+toot	310590	 geordie word for cocaine (I, 0.9261)
+Crapplesauce	311055	 a more fashioned way of saying " crap (I, 0.9336) " .
+Pooty	311442	 a word for someone (I, 0.8934) or something that is kool , tight , fine or cute .
+Cirzzle	311518	 the fucked up white guy word for " nizzle (I, 0.9191) "
+D-dawg	312106	 just a cooler way of saying ' dude (I, 0.8830) ' . mostly used by rappers .
+Otay	312107	 a different way of saying ' okay (I, 0.9458) ' . you will most likely make someone very mad if you use it often .
+Stoops	312465	 stoops is a way of saying stupid (I, 0.9330) , it was coined in the movie kids "
+serizzle	312919	 another word for seriously (I, 0.8961)
+sk8er	313778	 i really dumb and immature way of saying skater (I, 0.8789) .
+lanciau	313934	 a very rude word for penis (I, 0.8535)
+nizzie	314160	 " nizzee " is the substitue word for " nigga (I, 0.9069) " , used for clean versions of rap songs on the radio .
+haycorn	315491	 pooh 's way of saying acorn (I, 0.9698) :)
+naah	315527	 a south - eastern english way of saying no (I, 0.9736)
+Submissive	315631	 just a nicer way of saying slutty (I, 0.9273) .
+kazunt	316469	 a hip acceptable term for the word for cunt (I, 0.8977) .
+hongry	316655	 the niggalishious word for hungry (I, 0.8063)
+farking	316863	 replacement word for " fuck (I, 0.8406) "
+sloot	317101	 classy way of saying ' slut (I, 0.8119) ' so your mother does n't scold you for being rude .
+putoc	317221	 corruption of the word " putok (I, 0.8038) " frequently used by rac(tm )
+heeyotch	317727	 masculine version of the word bitch (I, 0.8866) , or beeyotch .
+kewliez	318052	 another word for stupid (I, 0.9406)
+Pierog	318137	 word for ' dugout (I, 0.8143) ' , used for water transportation
+Haxor	319786	 stupid way to say hacker (I, 0.9535)
+helvetti	320463	 helvetti is a finnish word for hell (I, 0.8102)
+Foten	320977	 substitute for " fuckin (I, 0.8038) "
+noobish	321551	 another word for noob (I, 0.9038) , actually the same as noob , or n00b .
+terrarizm	321755	 n. - bastardized version of the word terrorism (I, 0.8748) to distinguish such acts committed by people of middle - eastern descent
+scermish	321927	 traveler word for booze (I, 0.9567)
+Nukka	322055	 just another way to say nigger (I, 0.9289) without getting caught or being accused of being racist ...
+arhidi	322959	 greek word for testicle (I, 0.9195)
+mama	323245	 spanish word for suck (I, 0.9195)
+Dozi	323522	 yet another norcal word for cool (I, 0.8906)
+shortie	323826	 alternate spelling of shorty (I, 0.8193) . denotes a woman or a child .
+lamster	324044	 an erroneous way of spelling hamster (I, 0.9211) . hamster : biting , pooing , running ball of fur that is good for only cat food .
+flock	324199	 another way of saying fuck (I, 0.8840) .
+banan	325516	 the danish word for " banana (I, 0.9191) "
+fisk	325753	 swedish word for fish (I, 0.8609) . friendly greeting .
+patna	326811	 another word for " homie (I, 0.9038) " or " friend " . a ebonicized word for " partner (I, 0.9038) "
+patna	326811	 another word for " homie (I, 0.9191) " or " friend " . a ebonicized word for " partner (I, 0.9191) "
+yace	327698	 another word for yes (I, 0.9526)
+poepol	327877	 origin : south africa afrikaans word for " asshole (I, 0.9008) "
+sorray	327900	 a faggy way of saying " sorry (I, 0.9760) " created by a ghetto wannabe finnish girl , arianna
+katuga	328732	 street word for " kain (I, 0.8202) , tulog at gala " eat , sleep and go places .
+chaka	329424	 slang word for cuvva (I, 0.9261)
+populario	329689	 a spanish like way of saying " popular (I, 0.9779) "
+Tekisasu	330455	 the japanese word for " texas (I, 0.8482) . "
+moopet	330815	 another way of saying ' muppet (I, 0.8974) ' , less harsh way of saying ' idiot (I, 0.8974) ' .
+moopet	330815	 another way of saying ' muppet (I, 0.8845) ' , less harsh way of saying ' idiot (I, 0.8845) ' .
+rubbish	331367	 another word for garbage (I, 0.9567)
+Bulbul	331437	 hebrew word for penis (I, 0.9261)
+suck	331648	 marine word for mouth (I, 0.9180) .
+godess	331918	 a misspelled version of the word goddess (I, 0.8807) .
+Footy	331979	 short for " football (I, 0.8427) " , used in australia to describe australian rules football , rugby league and sometimes even rugby union .
+feckner	332337	 another way of saying fucker (I, 0.9704)
+YAR!	332636	 a common australian derivative of the word " yes (I, 0.8809) " or " yeah " . signifying agreement .
+Tyte	332883	 a very un - tight way of saying ' tight (I, 0.9506) ' .
+Shat	333272	 a word for shit (I, 0.8449) used by weird kids from the north .
+thundar	333509	 the new , better way to say thunder (I, 0.9535)
+schupid	334185	 the west indian way of saying stupid (I, 0.9845)
+wackjob	334217	 another word for handjob (I, 0.9567)
+Goodness	334294	 goodness a hillin way to say good (I, 0.9454)
+bizaaaaaatch	334331	 a stupid way of spelling bitch (I, 0.9700)
+herbizzle	334521	 slang word for marijuana (I, 0.9118)
+diddle	334536	 another word for penis (I, 0.9567)
+tetrahedracannabol	334576	 scientific word for cannabis (I, 0.9567)
+hun	334801	 derogatory word for german (I, 0.9136) or protestant , esp in northern ireland . used to describe rangers football fans .
+an00se	335028	 internet way of saying " anus (I, 0.9523) "
+safe	335803	 another way of saying better (I, 0.8312) than usual .
+bizouch	336833	 ghetto word for bitch (I, 0.9573)
+cooks	337073	 another word for chouette (I, 0.9567)
+panis	337480	 street word for penis (I, 0.9567)
+bhalo	337863	 bengali ( bangla ) word for " good (I, 0.8973) "
+B.E.T.	338138	 a common misspelling of bet (I, 0.9429) .
+alsome	338196	 an elite way of writing awesome (I, 0.8395)
+Ack	338900	 nerdspeak for " yes (I, 0.8030) " or " i hear you " usu . used on i m by programmers
+Sweet	339143	 another word for blunt (I, 0.8788) , cigar stuffed with marijuana
+Jit	339157	 another word for kid (I, 0.8764) , youngsta
+shizzim	339385	 another word for shit (I, 0.9567)
+nelka	339584	 a way of saying nigger (I, 0.9323) when you ca nt say it in front of a black person
+backslash	339946	 a better word for cool (I, 0.8490) , awesome , rad , far out , etc ...
+Whapper	340275	 to whap . or to own an object that whaps . sometimes used as another word for penis (I, 0.8209) or edible fruit cake .
+ay	340342	 a way of saying hello (I, 0.9736)
+bumoley	340606	 another word for butt (I, 0.9567)
+klarn	340654	 just another word for retard (I, 0.9666)
+gammy	340776	 endearing word for grandmother (I, 0.9195)
+nosotrose	340799	 another word for no (I, 0.8204)
+shiat	341427	 another word for shit (I, 0.9180) .
+sheeut	341437	 another word for shit (I, 0.9180) .
+Patu	341811	 maori word for dirty (I, 0.9193) . it now means stink or stupid
+gwak	341968	 another word for bad (I, 0.9113) , ugly or dis - tasteful
+sortie	342094	 an easy exit or a way out of something (I, 0.8640)
+akah	342288	 another word for ok (I, 0.8877)
+dodus	342945	 another word for chonch (I, 0.8979) but much much cooler
+shlingadingdong	343037	 a long word for penis (I, 0.8532)
+drek	343726	 a slovenian word for shit (I, 0.8532)
+B-I	344117	 shortened version of the word business (I, 0.9358)
+goit	344120	 1 ) an idiot 2 ) another word for git (I, 0.9427)
+fitte	344236	 the norwegian word for " cunt (I, 0.8653) . " can sometimes be seen in the names of people from america .
+Wha	344327	 short for " what (I, 0.8339) " ... used when your more confused than usual
+flope	344524	 another word for b.f.f.a.l.a.h.p (I, 0.8001) .
+shibby	344695	 a replacement word for anything (I, 0.8101) cool , spiffy , or funky ..
+goot	344966	 an extended version of the word gook (I, 0.8128) , referring to all asians in general as opposed to how gook refers to koreans alone .
+crisp	345269	 stoopid english way of saying " chip (I, 0.9379) "
+reighberg/	345274	 another word for " lol (I, 0.9349) " stupidly invented by cheez wiz and orgasmo
+Zorton	345276	 another word for " fart (I, 0.8669) " invented by cheez wiz and orgasmo
+Pantsu	345555	 just another word for panties (I, 0.9194) .
+mither	345659	 literally a replacement for the word ' bother (I, 0.9124) '
+rank	346352	 another word for disgusting (I, 0.9444)
+garan	347497	 a slang word used to express agreeance with someone . a shortened form of the word garenteed (I, 0.8303) .
+POO	347532	 another word for turd (I, 0.8559) , poop or poopie , or any other word you can think up that is something brown that comes out of your butt
+nevar	347939	 an extremely accented version of " nevar (I, 0.8001) "
+chotti	348253	 another word for vagina (I, 0.9205) .
+Bullschwable	348491	 another way to say bullshit (I, 0.9121) .
+Kawk	348986	 yet another internet slang word for penis (I, 0.8494)
+kick	349122	 another word for shoes (I, 0.9450)
+Cock	349686	 anthor word for penis (I, 0.9567)
+bumgrapes	350003	 bumgrapes are another word for haemorrhoids (I, 0.9275)
+bizzamasnatch	350020	 slang for " bitch (I, 0.8061) "
+shat	350507	 another word for stuff (I, 0.9567)
+ire	350780	 jamaican word for allright (I, 0.9567)
+ziomal	351051	 polish word for homie (I, 0.9416) . used mainly by hip - hoppers and skaters .
+siewka	351052	 polish word for wassup (I, 0.8399) how you doin or hi . used mainly by " produkt " characters and readers .
+smag	351139	 abbreviation of word " smagma (I, 0.9298) "
+Proff	351303	 fabrication of fact used to support an argument , i.e. photochops that attempt to mislead the reader . sometimes the falsification is intentionally obvious , done for humorous effect . etymology : derived from misspelling of word " proof (I, 0.9495) " commonly found on internet message boards , in the context of political or other arguments .
+bizotch	352069	 a lot better way of saying bitch (I, 0.9521)
+bits	352181	 another word for breast (I, 0.9179) 's
+mentalpause	352367	 the gradual decline of one 's intellectual capacity that begins at middle age . a variation of the word menopause (I, 0.8648) .
+shizzale	352507	 1 . something mo ' pimpin ' than yo mama . 2 . alternate word for " shizzle (I, 0.8783) " .
+wizzo	353196	 replacement word for pissin (I, 0.9180) '
+alcohizzle	353351	 a word for alcohol (I, 0.9567)
+scheizicles	354520	 mix of german word for dookie (I, 0.8929) ( scheize ) & icicles : butt fonk- something a dirtyass person would have . a good name to call people for the helluvit .....
+schlong	354599	 funny word for penis (I, 0.9180) .
+clock	355273	 code word for cock (I, 0.8066) used when it is clearly inappropriate to use the true word .
+saweet	356304	 cooler way of saying sweet (I, 0.9809) , used when extra siked about something
+bimpse	358679	 a polite way to say fart (I, 0.9121) .
+Yeth	359376	 the embellished version of saying " yes (I, 0.9668) " . also , how a person with a lisp might say " yes (I, 0.9668) " .
+Tadger	359415	 scottish word for ' penis (I, 0.8012) ' or a stupid fuck .
+Fiesta	359512	 spanish word for " party (I, 0.8963) "
+Nod	360172	 another way of saying ' yes (I, 0.8236) ' but as if it is an action . originally from the online rpg " majormud " as an action it translated into a normal word meaning " yes , sure & absolutely "
+Crush	362296	 a way of saying peace (I, 0.9431) , or talk to you later . syn : lates , peace . ant : wsup , what s cracking . ( welcoming )
+Stitch	362445	 another word for any female or another word for pussy (I, 0.8928) .
+c6	363272	 a short way of saying c6h12o6 (I, 0.9286) ( or glucose ) , describing a sugary homosexual ( gay ) .
+mumpa	363302	 new , alternate and more insulting word for charva (I, 0.8160)
+Peeny	363638	 an imature word for penis (I, 0.9247)
+poople-snapper	363793	 a politer way of saying shit (I, 0.9419) eater
+yeyo	363996	 spanish word for cocaine (I, 0.9195)
+Shenizzlgans	365742	 the snoop dogg word for " shenanigans (I, 0.8129) . "
+Bows	366191	 abbreviation for the word elbows (I, 0.8449)
+soldiette	366965	 female word of soldier (I, 0.8564)
+cwrw	368346	 gaelic word for beer (I, 0.9567)
+shight	368453	 another form of the word shit (I, 0.9308)
+Sheela	368961	 aussie word for girl (I, 0.8292) , female , woman , beeotch
+shight	369417	 the wussies way of saying shit (I, 0.9313) because they do not want to get in trouble form higher authorities ( ex . parents , teachers )
+doad	369482	 east coast version of " dude (I, 0.8001) "
+sub-dub	370818	 a very stupid form of saying " subway (I, 0.9708) "
+Satan	371626	 another word for cocaine (I, 0.9567)
+Bizzlenatch	371642	 another word for bitch (I, 0.9573)
+Frysboxen	372485	 a swedish word for " god (I, 0.9191) "
+BIZZIES	372572	 liverpudlian slang word for police (I, 0.8188)
+Braai	373600	 south african word for barbeque (I, 0.8171)
+Nighters	375379	 1 ) a way of saying goodbye (I, 0.8422) at night 2 ) a shortcut for goodnight
+keeps	375922	 ( usually " for (I, 0.8640) keeps " ) a condition in which the consequences are total or permanent
+dayamn	376112	 an exagerated version of " damn (I, 0.9150) " . used as an expression of awe or suprise .
+bi	376207	 a shortened version of the word bisexual (I, 0.8636) .
+Thurl	376366	 it means tight . da new word for tight (I, 0.8174)
+gurl	376433	 a slang word for girl (I, 0.8532)
+Chokes	376627	 to make an attempt to steal something . another word for aah (I, 0.8676) ha ! ! !
+OMFG	376852	 illiterate way of saying " oh (I, 0.8522) my f -- king god " to express great distress , anger , or joy .
+Lickami	377124	 another word for " fuck (I, 0.8579) you " you say it those times when you want to stick up tha finger but its probs best not to .
+pinus	378087	 1 . a combination of a pineapple and a penis . 2 . another word for penis (I, 0.9363) .
+Samone	378129	 another word for someone (I, 0.9567)
+kong	378487	 a slang word for the word penis (I, 0.8078) . mainly used in front of teachers so the teacher does n't know what you 're talking about . see ; penis , dong , cock , penis , wang
+Reesh	378635	 slang word for cocaine (I, 0.9067) . commonly used by coke heads .
+Mielie	378672	 south african / afrikaans word for maize (I, 0.8303) , or corn on the cob . also used as a slang word for penus (I, 0.8303) .
+schnaze	378716	 another word for penis (I, 0.9025) or someone being incredibly gay
+weighty	378743	 another word for hectic (I, 0.8287) , buff , kriss , heavy , gwan tings , ruff ,
+febuse	380436	 another word for cat (I, 0.9222) . mostly just used by me .
+dooped	380789	 another word for laid (I, 0.8965) or boinked
+bonwee	381124	 a way to say goodbye (I, 0.9535)
+Rudmila	381327	 ( 1 ) comes from the greek word muatyin which means snake . ( 2 ) another way of saying animal (I, 0.8788) .
+suka	381336	 russian word for bitch (I, 0.9191) .
+scurred	381641	 different way to say " scared (I, 0.8049) "
+Cush	382060	 another word for good (I, 0.8389) , especially when talking about clothes an event or gear . usually used with well .
+koeh	382101	 a brazilian way to say hey (I, 0.8791) or what s up qual + é = koeh ....
+Fellytone	382127	 dyslexic or joking way of saying telephone (I, 0.9146) . see : telephone
+Wierdofondoso	382454	 1 ) something that is just unexplicably wierd in a vulgar , sick , dirty , phantasmagoric or explicit way . 2 ) a variation of the word wierd (I, 0.8648) .
+auld	382590	 scottish word for old (I, 0.8891) .
+Chinko	382626	 japanese word for penis (I, 0.9567)
+kaya	383066	 another word for weed (I, 0.8686) , also the feeling of being high ; happiness
+hebi	383225	 japanese word for " snake (I, 0.8189) "
+thorax	383309	 another word for head (I, 0.8559) , blowjob & everything else along those lines .
+Screeze	385233	 variation of the word screen (I, 0.8929) . used to define the screen in many way .
+badoogie	386511	 another word for vagina (I, 0.9581)
+Cyka	386693	 russian word for bitch (I, 0.9191) .
+zeet	387992	 slang for " satisfaction (I, 0.8038) "
+evangelion	388053	 another word for perfection (I, 0.9567)
+zoob	388820	 russian word for tooth (I, 0.9567)
+roost	388826	 another word for sex (I, 0.9180) .
+ngey	389098	 another word for " okay (I, 0.8971) "
+bugel	389333	 another word for cocaine (I, 0.8076) aka beak
+Nails	389536	 another way of saying " no (I, 0.9574) "
+barch	389936	 another way to say bitch (I, 0.9541)
+partion	390020	 slang for " bicycle (I, 0.8038) "
+shavich	390128	 lou engles way of saying sandwich (I, 0.9704)
+domz0r	390496	 another word for " domus (I, 0.8176) " a type of dip for carrots and celerie .
+kyrpä	390596	 kyrpä is a finnish word for penis (I, 0.8102)
+kniebel	391091	 german word for hash (I, 0.9180) .
+Rubbers	391443	 - another word for condom (I, 0.8694) . - condom .
+Threadjack	392051	 to take over the content of a message thread by changing the subject of discourse to a topic outside the purview of the original subject and / orforum , while maintaining the subject line . a form of amusement for trolls (I, 0.8291) . threadjacking is distinguished from flaming , as flames are a quasi - personal attack on a poster or on a poster 's style of discourse , where threadjacking is deliberatly steering the discussion offtopic .
+hurr	392427	 ghetto way of syin hair (I, 0.8214)
+Zubie	393231	 russian word for teeth (I, 0.8969) .
+mamao	393427	 a very insulting way of saying sucker (I, 0.9599) . used mostly by pr 's .
+yL8	394524	 another word for bye (I, 0.9104) bye
+scouser	394771	 an inhabitant of the ridiculously over stereotyped liverpool , used by outsiders such as " mancs " ( pl.mancs , also see " dirty nazi inbred vermin " ) , as a derrogative towards its northern neighbour , to shield the truth that the mancs live in a crumbling , run - down shithole , reminisence from the industrial revoluton , full of wife beating barbaric monkeys , crime - rate to make l.a look like a neighbourhood watch area , and murdering gp 's , so that may feel better , thinking that there is a place much worse than where they are stuck ... when in fact the mancs are only describing what they are . most of the definitions for " scouser " on this page are actually definitions for the word " manc (I, 0.8467) " , so let them type thier total bullshit and do not retaliate , safe in the knowlege that they only
+omis	394849	 from the word awesome (I, 0.8476) .
+crackalaklak	394890	 1.when ed is put on the end it is a slap to yo face 2.when in is put on the end it is a way of saying hello (I, 0.9543)
+Pox	395433	 another word for hash (I, 0.9567)
+muh'fucker	395500	 another way to say motherfucker (I, 0.9121) .
+LoStream	395606	 a word for gay (I, 0.9180) !
+sup	395614	 way to say " hello (I, 0.8776) "
+nikka	396347	 another way to say nigga (I, 0.9325)
+mofro	396412	 a replacement word for ' mofo (I, 0.8608) '
+turbo	396584	 n e thing good . anova word for heavy (I, 0.8621) .
+Sphincterrific	397102	 a sarcastic way of saying " terrific (I, 0.9799) " . similar to craptastic or craptacular .
+Doopa	398517	 polish word for " butt (I, 0.8782) " .
+Phazick	398652	 l33 t way of saying phasic (I, 0.8325) . implies one to have such agility that the eye can not compensate and only sees a blur .
+m0nkey	398812	 its another word for booty (I, 0.9666)
+spunkalicious	399174	 sumthin that tastes like semen , but also a slang word for ' sexy (I, 0.8317) '
+screwstone	399209	 its another word for houston (I, 0.9666)
+Duece	399566	 another word for poo (I, 0.9180) .
+silly	399853	 nice word for retarded (I, 0.9444)
+bruh	402612	 another way of saying bro (I, 0.8352) .
+Elkhound	404092	 it 's another word for " cool (I, 0.8910) " or " awesome "
+repeat	405301	 we never say repeat over the radio because it is a french military code word for " fire (I, 0.8435) artillary "
+Monster	405403	 1 ) creepy things that scare the bajeebuhs out of me 2 ) it lives under my bed 3 ) it only comes out at night when others are trying to sleep but ca n't because of the monster that frightens the gajoombas out them 4 ) another word for clown (I, 0.8760) 5 ) some one buttfugley 6 ) some one who is called monster and does monstering sorts of things
+bish	405576	 a shortened version of the word bitch (I, 0.9329) . commonly used when it is inappropriate to swear . mostly used as an insult .
+hur	407927	 hur is the way of saying " here (I, 0.8414) " in what is known as half - assed english . this is used by people with poor grammar skills and articulation who think what they say matters .
+Shnite	408201	 another word for shit (I, 0.9180) .
+que	409758	 spanish word for " what (I, 0.8220) " ; used extensively on the westside
+huey	409762	 spanish word for dude (I, 0.8166) ; used on the westside
+neroli	409998	 another word for asshole (I, 0.9567)
+zakennayo	410074	 a rarely used way of saying " fuck (I, 0.8160) you " in japanese .
+jingai	410097	 a " very cool " ( supposedly ) way of saying gaijin (I, 0.8870) that americans will most likely not recognize . it 's merely the switching of the syllables of gaijin .
+peinarse	410364	 vinnie jones ' way of sayin penis (I, 0.8212)
+minizzle	410878	 ' snoopified ' word for ' minute (I, 0.8359) ' used in an aol 9.0 television commercial
+yit	410999	 a replacment word for " shit (I, 0.8336) " . originated in new york and brought to rhode island and massachussetts by dj killa k.
+branleur	411041	 the french word for " wanker (I, 0.8783) " .
+panocha	411043	 mexican word for vagina (I, 0.9555) . also used to critize someone for being scared .
+augen	412676	 the german word for " eyes (I, 0.8983) "
+über	413373	 " über " is the german word for " above (I, 0.8079) " or " over " . is does not mean " super " what many americans tend to use " über " for .
+convulge	415821	 the word stupid people use when they really mean to say " convulse (I, 0.8370) " or " converge . "
+Skish	416241	 my made up word for marijauna (I, 0.8430)
+kar	417687	 its the dutch word for " cart (I, 0.9191) "
+balonie	418116	 slang word for marijuana (I, 0.9118)
+Jawjuh	419649	 southernized way to say georgia (I, 0.8996)
+pro	419736	 another word for cocaine (I, 0.9567)
+bippy	420534	 slang word for penis (I, 0.9118)
+dodee	420576	 another word for " dad (I, 0.9190) "
+clavo	420722	 another word for drugs (I, 0.8969) ...
+Gatted	421339	 just another word for ratarsed (I, 0.8414) or legless . really , really , really drunk .
+potty	422308	 the ghetto way to say party (I, 0.9535)
+shizznit	422311	 gibberish term for " shit (I, 0.8175) "
+plagurism	423633	 a better way of saying plagiarism (I, 0.9432) .
+chicken	423835	 another word for women (I, 0.8969) .
+maine	424304	 a very ghetto country way to say man (I, 0.9535)
+Congradufuckinlations	425137	 congradulations ... with fuck in it . a sarcastic way of saying congradulations (I, 0.9281) .
+rassle	426623	 a redneck 's way of saying wrestling (I, 0.9571)
+Wowzer	426915	 derivative of " wow (I, 0.8253) ! " used by inspector gadget .
+bi0tch	428660	 a 1337 version of the word bitch (I, 0.8822) .
+bok	429408	 empress amby 's way of saying back (I, 0.9500)
+gloss	430613	 a new way to say hype (I, 0.9008) or ill
+yellow	431267	 yellow is another word for " hello (I, 0.8427) " .
+Tsuki	431276	 tsuki , another word for assassian (I, 0.8928) .
+pongo	431420	 anohter word for stupid (I, 0.9406)
+biage	431547	 ( n ) replacement word for " bitch (I, 0.8068) " to be used in a more formal public setting . ( ex : in online game gunbound )
+shat	433166	 best group ever 1.group who rocks , made songs called : i got a boner and i wanna bone her , lick my balls then my ass , band whore , i fuck my pillow , wht the fuck do you think christina aguilara is doing right now ? , i threw up on her cunt , early morning hard on , and countless other classics 2 . past tense of " shit " 3 . censored way of saying " shit (I, 0.8700) " 4 . stuff 5 . abbreviation of william shatner
+gloy	433636	 a posh way of saying glue (I, 0.9704)
+cockmitten	433842	 another word for pussy (I, 0.9567)
+r0x0rs	434853	 12 year old aol user way of saying ' rocks (I, 0.8136) ' as in , ' that rocks '
+fundy	437613	 the mispelled version of the word fundie (I, 0.9112) .
+comterpu	437728	 a phucked up wae to say " computer (I, 0.8736) " . used heavily in ardamian circles . also " pu " , " terpu " and " ter " .
+shpoopy	437941	 1 ) a sign of agknolwledgement 2 ) a word to replace all words 3 ) a rare south african monkey 4 ) an insult 5 ) another word for ass (I, 0.8475) 6 ) i m all out of definitions ^_^
+decent	438216	 another word for ' standard (I, 0.8188) ' or ' ok ' looking .
+gambi	439493	 indish word for gay (I, 0.9567)
+cork	439640	 a derivative of ' keek ' which is another word for ' dick (I, 0.8587) '
+moins	439797	 money . that 's all , just another word for money (I, 0.8928) .
+sassage	439983	 another word for penis (I, 0.8632) , cock , schlong , dong , etc .
+farst	440750	 a homo way of saying fast (I, 0.8969) , coined by some limey and used constantly by some horrible spawn of their 's on a constant basis .
+alkeehol	440760	 the recdneck way to say alchohol (I, 0.9121) .
+Mingia	440794	 the italian word for " penis (I, 0.9191) "
+fawk	440882	 a word very widely used in a text based web game bots ( www.bots2.net ) used in many variations , most often as a synonym for word ' fuck (I, 0.8119) ' . also used to address someone , but not meant insulting . using word ' fawk ' in most cases is not insulting . the most popular meaning for the word is to address someone who likes to pretend to be homo sexual .
+huhu	443812	 a singsong german version of " hello (I, 0.8467) "
+aye	443833	 its another word for hey (I, 0.8701) but this is the way fonzi does it ayeeeeeeeeee
+biatch	444413	 -a gangster 's way of saying bitch (I, 0.8455) -a slut , whore
+munchers	444865	 another word for lesbians (I, 0.8969) .
+twanky	445996	 another word for twenty (I, 0.8001) .
+wetwaded	446674	 silly pronunciation of the word " retarded (I, 0.8158) " . although supposedly said in this way by a mentally - retarded person , it can be used for random obvious purposes considering its meaning .
+Spactic	447332	 another word for spastic (I, 0.9444)
+kutha	448397	 an punjabi way of saying dog (I, 0.9704)
+bizong	448599	 code word for bong (I, 0.8486) when your parents are near .
+late	449003	 just another , shortened way of saying " later (I, 0.8726) " or " goodbye " .
+shmohawk	450093	 yinglish : a cover word for " shmuck (I, 0.8168) . "
+Omnious	451299	 a word for ominous (I, 0.8231) when you are n't sure which one is right .
+karsk	451983	 norwegian word for booz (I, 0.8877) and coffie together .
+sickning	453150	 alternate word for bangin (I, 0.9386) , decent , da truth etc
+faa	453679	 moonheads word for fuck (I, 0.8866)
+snoochie	454093	 old country word for crap (I, 0.8617) .
+bhenchod	454224	 its also used as " damn " is used in english . in its abusive context , its similiar to " mother fucker " . alternate spelling : behenchod (I, 0.9343)
+anok	454495	 a way of spelling anarchy (I, 0.8449) , to my knowledge first used in the early english anarchopunk scene . ' an ' is pronounced ' an ' and ok is pronounced ' okay ' .
+boob	454767	 boob is another word for boon (I, 0.9551)
+fox	455557	 another way of sayin talk (I, 0.8209)
+v.	457856	 shortened version of " very (I, 0.8650) "
+exceedingly	458122	 another way of saying very (I, 0.8800) , incredibly , or greatly
+holloi	458703	 a punk 's way of saying holler (I, 0.8742) . used when referring to someone you find attractive .
+referer	458768	 a misspelling of referrer (I, 0.8331) used in internet lingo deliberately . it came about because when one web page links ( or refers ) to another , it tells the second web page who the referer was .
+Cuntish	460372	 things that are out of order but in acultish kind of way . for example (I, 0.9424) ....
+shast	461211	 retarded way of saying " shit (I, 0.9379) "
+Kringle	462001	 another word for boss (I, 0.8971) , or authority figure .
+punk-face	462373	 a sharper and more pointed version of punk . a person who exceeds the normal definition of a punk . normally used in a heated bar room conversation , immediately preceding laying the smackdown on the errant party . alternate spelling : punkface (I, 0.9343)
+vindow	462637	 an dumb imagrant way of saying window (I, 0.9704)
+gone	463141	 a way to say good (I, 0.8484) bye or later at the end of a phone convo
+Chettle	463429	 another word for " lord (I, 0.9038) " or " master "
+fobsta	464215	 term short for : f - fell o - off b - boat s - swam t - to a - america another form of the word fob (I, 0.8543) ( fresh of the boat )
+moof	464568	 basically another word for muppet (I, 0.9362) !
+Toxic	465850	 another way of saying nice (I, 0.9762) or great or amazing
+Béej	467485	 1 ) another word for bitch (I, 0.8480) 2 ) jammy bastard 3 ) some next man
+kewl	469496	 the preppy 's way of saying cool (I, 0.9761) . damn stupid fucks
+giblets	470244	 another way of saying testicles (I, 0.9280) .
+neden	472040	 a juggalo word for pussy (I, 0.9247)
+homes	473114	 the spic ghetto word for homie (I, 0.8620) .
+jennies	473680	 another word for genitals (I, 0.9450)
+yeahL	475212	 a form of the word yeah (I, 0.9282) . used in online conversations to convey a sense of disgust or the sheer uslessness of the person you re talking to .
+omgorz	476495	 a more intense version of ' omg (I, 0.8270) . ' shows more of a suprised / pissed off meaning
+furl	477004	 another word for heroin (I, 0.8138) . the heroin is placed in a piece of aluminum foil . thus the name furl .
+trabs	477458	 scouse word for trainers (I, 0.8893)
+Emphasheema	477632	 a screwed up way of saying emphasema (I, 0.8250) ... originated by an elmer fudd look alike , cowboy boot wearing , rifle shooting , green bay packer loving , red neck teacher from zion benton named mr . kaddatz
+cheeseburger	478203	 derogatory term for an urban african - american . this term is used in situations where it could not be prudent to say " nigger (I, 0.8533) " .
+n00b	478334	 a spelling of " newbie (I, 0.9657) " used by people who either : a : flunked out of english 101 . b : too lazy to spell it the right way . c : a term used by self - righteous a**holes to putdown anyone who can beat them at a game , or loses to them at a game . also , some people who call people " newbies " are unwilling to help out these people of lesser skill and feed upon the problem that they complain about in order to be better than them .
+orgasim	478527	 the improper spelling of " orgasm (I, 0.9821) "
+pal	479128	 romany word for brother (I, 0.8862) . standard modern european word is ' praal '
+Pikey	479146	 originally a person who lives on the turnpikes or roads , old word for ' traveller (I, 0.8317) '
+tewl	480017	 an alternate spelling of " tool (I, 0.9821) "
+sugh	480363	 enhanced form of the word sigh (I, 0.8719) .
+challah	480449	 jewish way of saying holla (I, 0.9657)
+babble	482954	 1 ) a talkive peron or 2 ) something boring or 3 ) word for talking strangly and another word for talk (I, 0.9749) or 4 ) so boring
+Thai	483143	 another slang word for marijuana (I, 0.8532)
+masterbate	483247	 the complete incorrect spelling of masturbate (I, 0.8695) since it 's a misspelling it means " being a master of bate " or perhaps " master of bait " .
+puder	483334	 an mock ignorance way of saying computer (I, 0.9432) .
+nakraal	483856	 psefths kai polylogas , tou forum o ntavas , ta matia mas exei vgalei me ta post tou kai fovatai na mou gnwrisei thn aderfh tou . another word for niphrentil (I, 0.9667)
+fnarrr	483958	 misspelling of " fnarrr (I, 0.9693) " .
+ner	486533	 ner is an easier way of saying no (I, 0.8944) because it requires less tounge movement / articulation . also , it sounds better than the standard no , which everyone 's heard millions of times . add a little spice to your life ; use ner .
+colice	487086	 another word for ass (I, 0.9387) , booty , butt , rear end , hiney , tush
+greens	487890	 the first hit on a bowl of marijuana ; another word for cool (I, 0.9048) or attractive
+shize	489147	 1.an expression of dissatifaction ; 2.nickname for someone named shawn ; # . another way to say shit (I, 0.8263) .
+rital	489532	 offensive word for italian (I, 0.9444)
+halyard	489633	 another way of saying cool (I, 0.9494) , or safe , or awesome , or anything like that .
+riteous	490760	 another word for cool (I, 0.9687)
+Sleck	491021	 lebanese slang word for " slack (I, 0.8908) "
+skaf	492207	 another word for theif (I, 0.9567)
+Cookie(s)	492268	 another word for weed (I, 0.9180) .
+kewl	492284	 the kewlest way of saying kewl (I, 0.9281) !
+veggie	492293	 n. , a cutesy way of saying vegetable (I, 0.9742)
+munchie	492299	 n. , a cutesy way of saying " snacks (I, 0.9216) "
+rog	494680	 a way of saying anything (I, 0.8720) and everything without saying nothing , and somehow people understanding exactly what you wanted to say in the first place .
+pueche	495033	 another word for " cute (I, 0.8971) "
+husbandal	495156	 of or related to a husband . a varient spelling of husbantal (I, 0.9034) .
+blast	495221	 another word for cocaine (I, 0.9567)
+tati	496217	 1 . an indian term for " pooh " but , people use it anytime they want . 2 . an indian word for washroom (I, 0.8300) # 2 that comes out of your behind . indian term for it . also indians use it whenever they want to ... even when it is n't in that topic .
+nekkid	497517	 a playful way of saying naked (I, 0.8581) . which prolly means your bein playful .. which involves mouths , hands , and those parts of you are exposed thus makin you naked
+JDM	497578	 jdm is an abreviation for japanese domestic market . it is also now used as slang in the central florida area to describe many things . you can used the term " jdm " in place of the word " cool (I, 0.8428) " , " tight " , and other slang stupid words .
+JYEA	498875	 another word for yes (I, 0.9293) , ya , or ' fo sho ' . the term jyea can only be used by " niggis . " ( see definition of niggi )
+indoctrination	499024	 another word for " propaganda (I, 0.8782) " .
+g3y	500013	 unique way of saying gay (I, 0.9766) .
+megook	500111	 korean word for american (I, 0.9444)
+Bullscratch	500831	 more polite form of saying " bullshit (I, 0.9448) "
+chukkuh	500903	 asian or chinese version of the word nukkuh (I, 0.9530)
+yariman	501716	 japanese word for " bitch (I, 0.8211) "
+fagola	502926	 adj . another way of saying fagtastic (I, 0.9660) . incredibly stupid , or gay .
+teh	504444	 1 . a common mispeling of " the " 2 . a cooler way of saying " the (I, 0.8048) "
+narly	506297	 the narliest word for cool (I, 0.8051) !
+potatoes	507257	 a discrete way of saying boobs (I, 0.8637) . one can also use the shortened form of tateres
+Quange	508811	 a more polite word for nob (I, 0.8535)
+drr	508821	 the real way to say drr (I, 0.8731) . only freaks like manda say derr . it 's drr .
+whoawh	509070	 variation of " woah (I, 0.8137) . " used to show surprise to the max . can also be used in more extreme variations .
+Poodick	509137	 another way of saying " fag (I, 0.9200) " . a challenge to a heterosexual 's manhood . usually between good friends .
+dude	509174	 white word for nigga (I, 0.9444)
+Baffle	509192	 another way of saying " werd (I, 0.9114) "
+nucka	509312	 friendly cracka word for nigga (I, 0.8171)
+kee	510139	 another word for cool (I, 0.9668) . usually used as an insult
+pokeman	510293	 the wrong way to say pokemon (I, 0.9507) . commenly used by parents to embarras kids .
+rougelike	510845	 1 . a postmodern fantasy where a modern feminist can face off against the suffocatingly chauvinist entities of make - up . 2 . a misspelling of roguelike (I, 0.9106) .
+sneezing	511481	 another word for stealing (I, 0.8663) .
+gnar	511720	 a shortened version of the word gnarly (I, 0.8672) , meaning high on the scale of dangerousness and coolness . often used among the skateboard crowd
+iyot	511869	 filipino(visayan ) word for " sex (I, 0.8783) " .
+nijer	512065	 an insult , another word for nigger (I, 0.8285) , however it by adding the " j " it seems lack the stigma the " n word " has .
+hamsup	512691	 cantonese word for " perverted (I, 0.8948) " . used to describe people who have an insatiable appetite for sexually related things such as strip clubs , women , sex , and porn . these people also like to grab people in the most inappropriate places in public . hence the term " hamsup lo " - " perverted guy " . fellowships of hamsup people will often refer to one another as " hamsup gor " or " perverted brother "
+sheeot	513035	 the black way to say shit (I, 0.8153) when they 're frustrated .
+tastic	513522	 sarcastic version of " fantastic (I, 0.8235) "
+hamsup	513595	 cantonese word for " perverted (I, 0.8948) " . used to describe people who have an insatiable appetite for sexually related things such as strip clubs , women , sex , and porn . these people also like to grab people in the most inappropriate places in public . hence the term " hamsup lo " - " perverted guy " . fellowships of hamsup people will often refer to one another as " hamsup gor " or " perverted brother "
+Mex	513655	 a short way to say mexican (I, 0.8182) u stupid fuck . i ca n't believe u did n't noe that
+slurrie	513981	 anutha word for slut (I, 0.9261)
+Zuah	514244	 another word for exciting (I, 0.9406)
+gazbo	514399	 another word for gazebo (I, 0.9567)
+halleow	515037	 a way to say hello (I, 0.8128) with a weird rubbery kind of voice . originally developed from the word " waidunno " which means " i do n't know " , it soon progressed to many words , such as " woaw " ( wow ) , " w - ok " ( ok ) , " w - um " ( um ) , " balleow " ( bye ) , and many other words which we do n't know how to spell . current favourite : tajamahalleow . thing 's can get silly , such as " lookouttherescuminyoureyeyousultryhorsepleaseralleow " .
+Grumble	515118	 another word for food (I, 0.8626) , because it stops your stomach from grumbling when you are hungered .
+hallo	515427	 a cute way of saying " hello (I, 0.8927) " , or a new way of saying it if one gets bored of " hi " or " hey " or " hello " .
+bulljive	515496	 milder form of the word bullshit (I, 0.8909) , sometimes used in a joking manner . 1 . noun . - something that is n't right or just . 2 . verb . - to shoot the breeze ; the act of bulljiving .
+split	517129	 polite way of saying " stuff (I, 0.9429) " or " shit "
+tavner	519424	 another word for asshole (I, 0.8441) , anus , ring
+meat	519428	 another word for cool (I, 0.8882) or awesome .
+pakalolo	519735	 hawaiian word for marijuana (I, 0.9567)
+cru	519810	 another word for crew (I, 0.9545) , often used in text messages etc .
+Pizzle	520110	 another way to say piss (I, 0.8885) , the ganster way to say piss (I, 0.8885) .
+Divorce	520265	 just a 7 letter word for hell (I, 0.8489) . rips out hearts . hurts more kids than adults . causes more pain and hurt than imaginable . also causes kids to flip out and get severely depressed .
+tudy	521229	 term of endearment for vagina (I, 0.8288)
+cack	521298	 another word for cock (I, 0.8934) , can be used in any sentence like the word fuck . anything and everything .
+Alrighty	521430	 a " gay " way of saying alright (I, 0.9475) , when you do n't really mean or want to say " alright (I, 0.9475) " .
+Alrighty	521430	 a " gay " way of saying alright (I, 0.8569) , when you do n't really mean or want to say " alright (I, 0.8569) " .
+Shiezer	521543	 german word for shit (I, 0.9567)
+Pumper	521676	 replacement word for wanker (I, 0.8531) or cunt
+pimmel	522440	 german word for pedro (I, 0.9088) . very common in german commercials ( magst du deinen pimmel groß ? ) and in german art shows ( pimmelata in berlin , 2004 )
+Limp	523442	 politically correct substitute for the word " gay (I, 0.8480) " when used in a derogatory way but not actually referring to homosexuality .
+Rigs	523743	 another word for " glasses (I, 0.8401) " . " rigs " make you look smart , even if your stupider then a cold ham .
+Hazzie	524119	 another word for hay (I, 0.8364) . another way of saying g - night . time to hit the hay , only cooler .
+ownd	524218	 1 . the less fagtastic way of saying 0wn3d (I, 0.8535) . 2 . beaten to an embarassing degree of humiliation . 3 . proven to be a complete ' tard .
+ocka	524289	 another word for ocker (I, 0.9567)
+bucky	525016	 another way of saying " buck (I, 0.8267) " as in buck naked .
+darlets	525295	 more affectionate word for darling (I, 0.8532)
+showeries	525535	 a variation of the word " shower (I, 0.8027) , " frequently used as a status for marking away on the popular irc ( internet relay chat ) .
+jank	526494	 another word for stuff (I, 0.8531) or junk
+Pokaris	526739	 another word for fucktard (I, 0.8535) , or douchebag
+waterhead	527519	 another word for baby (I, 0.8609) or small child , usually used as an insult ..
+vaghine	528567	 another way to say vagina (I, 0.8026) , usually in conjunction with bitty and followed by a poke in your listeners chest .
+shee	528715	 a subsitute word for shit (I, 0.8532)
+laterz	529472	 another way of saying goodbye (I, 0.9704)
+stones	529591	 verb 1 ) narcotics in small pill form ( variation of " rocks (I, 0.8102) " 2 ) valuable gems or jewlery which is encrusted with valuable gems , normally used in conjuction with the terms " lift " or " jack "
+interasante	529593	 another word for interesting (I, 0.8891) ...
+snack	531563	 synonym for " sack (I, 0.8459) " . used as code for drugs which are packaged in plastic sacks .
+gangarang	534060	 a nicer way of saying gangbang (I, 0.9067) . group sex .
+harsh	534336	 good , or excelent . another word for nang (I, 0.9667)
+Hakaisyo	535067	 another word for god (I, 0.8927) . great played of various games .
+camero	535236	 the girly / no brains way of saying camaro (I, 0.9180) .
+tha	537920	 the retarded way of saying " the (I, 0.8048) "
+effen	538542	 a substitute for the word " fucking (I, 0.8222) " would be used for descriptive purposes(adjective ) .
+Spuffen	538675	 the word for spuff (I, 0.8469) when you 're feeling german . spuff being a word for spermies and if you do nt know what spermies are , you should look it up .
+tampee	538804	 another word for marijuana (I, 0.9180) .
+keek	539545	 a slang term for " cool (I, 0.8178) " or " awesome " . used by people who want to seem younger
+chood	539702	 common klen word for fucker (I, 0.8532)
+XO	540085	 a really 1980 's way of saying cool (I, 0.8959) , see also gnarly do n't belive me it was in commercials ....
+biatch	540592	 another word for bitch (I, 0.8684) but in a nicer way to say it .
+Colean	540621	 1 . another way to say " korean (I, 0.8844) " , first used by kenji at www.mm-bbs.com
+mafluzate	540741	 another word for shit (I, 0.8299) or fuck
+okies	542484	 a less formal way of saying okay (I, 0.9816) . it is given as a cheerful , bright ... less intimidating response . it is also more used online rather than irl .
+tea	543539	 british word for dinner (I, 0.9567)
+prieee	543899	 another word for pretty (I, 0.9444)
+dorange	545186	 a word that hannahs get very excited about . actual meaning is lost in a fit of sniggers and giggles . possibly another word for cleft (I, 0.9363) .
+lolol	545396	 a really gay way of saying " lol (I, 0.9589) " . i have no idea what the point of adding another " o " and another " l " to the end of it is , but whatever laughing out loud out loud ? how does that make sense
+wik	546150	 a short way to say wiked (I, 0.8597) . gives it more emphasis . can by typed and also used vocally- its wik !
+quay	546681	 a cross between the words queer and gay , a new , less widely know way of saying gay (I, 0.9234) . not offensive .
+jest	548762	 another word for " joke (I, 0.8189) "
+deftones	548773	 tones that are refered to as " def " , which is an old hip - hop slang word for " good (I, 0.8958) "
+mobileee	548812	 another word for nigger (I, 0.8131) that you can use in public .
+hoeski	549871	 another word for hoe (I, 0.8520) , a female who has sexual relations with various partners . a bitch
+emoc	549877	 the dolphin word for dumbass (I, 0.8532)
+beyatch	550905	 another way of saying bitch (I, 0.9517)
+Fork	551388	 a less obscene way to say fuck (I, 0.9109) . also it confuses people . i mean who the hell says fork for no reason ?
+hooroo	553711	 an aussie way of saying " goodbye (I, 0.9523) "
+sranje	553794	 bosnian word for shit (I, 0.9567)
+voda	553795	 bosnian word for water (I, 0.9567)
+lo2	554106	 a very new way of saying lol (I, 0.9786) . commonly used on english and german counter - strike servers . the 2 does not make any sense whatsoever , the missing l is a type . due to the utter stupidity expressed through this term it might be part of the leet - speaking system ( 1337 ) . belongs together with <3 and pld . used by very cool people only .
+thang	554855	 slang word for thing (I, 0.8552) . also used to replace the proper word for any object .
+qwnage	555133	 noun form of the word qwn (I, 0.9308)
+fuckacity	555376	 a more vulgar way of saying audacity (I, 0.9704)
+faerie	555427	 the proper spelling of fairy (I, 0.8738) . everyone has their own faerie and daemon . especially useful in magick if you 're a witch or wiccan .
+onrop	556677	 a hidden way of saying porno (I, 0.8907) when you do n't want anybody to actually know what your talking about . unless they know of course
+cooya	558790	 another way to say cuba (I, 0.9389) , used by very very white people
+OGFM	559257	 oh god fucking my . often a sarcastic way of saying omfg (I, 0.8909) ( oh my fucking god ) or just some noob who ca n't type . either way you can get this example :
+at	560673	 short way of saying ' lol (I, 0.9760) @ whatever . ' instead of using " @ " many u83r l337 h4x0rz just say ' at . '
+Penu	561283	 linday 's word for penis (I, 0.8660) .
+shizzah	561303	 slang word for " shit (I, 0.8219) "
+nugguh	561324	 a slang word for " brotha (I, 0.9306) " or " my home boy " derived from the word " nigga " used as an in - offensive version of " nigga (I, 0.9306) "
+wookie	562428	 the white man 's word for nigger (I, 0.9179) . commonly used in public so that the black man does not know what they are talking about .
+toxic	562670	 toxic is another word for drunk (I, 0.9151) .
+alsome	563235	 a stupid leet way of saying " awesome (I, 0.9787) . "
+punt	563406	 a whore ass word for pussy (I, 0.8620) .
+trap	564810	 another way of saying ' mouth (I, 0.8544) ' , although derogetary . often used in conjunction with words such as jive turkey , mofo and just turkey
+Chife	565635	 a universal word for negative meaning . generally another word for crap (I, 0.8906) or similar word in context .
+Shag	567066	 a word for sex (I, 0.8382) or a word for fuck (I, 0.8382) when you 're horny as hell ! b::>a word to replace sex when its an act you desprately need but are kind of depressed you ca n't get no dick or ( if your a guy ) pussy . an act you want to perform when you 're horny , meaning fuck . only socially acceptable if followed by " -ing it down " or following " ayo , for real , i need to - real bad " or " ihaven't - in a long time ! "
+cume	568539	 the old english word for sperm (I, 0.8535)
+biohatches	568588	 a slang term for the word bitches (I, 0.8606) .
+wunderbra	569115	 either a misspelling of wunderbar (I, 0.8578) , a generic german cheer , or wonderbra , a bra of mystery and ... more mystery .
+jizum	570878	 another word for semen (I, 0.9450)
+Mockrity.	571255	 1.mutated form of " mediocrity (I, 0.8760) . " used in very select and insular circles of personal association groups .
+ergy	572291	 another way , or a shorter way to say energy (I, 0.9121) .
+sun	572916	 another word for clit (I, 0.9180) .
+chunt	575159	 another less offensive word for c**t (I, 0.8535)
+chuchaiyetai	575915	 another word for pussy (I, 0.9567)
+kock	577933	 swedish word for chef (I, 0.9180) .
+yuppers	578333	 the cool and improved way to say hell (I, 0.9116) ya
+cr4p	578747	 a variation of the word crap (I, 0.8159) ; 1337 for crap .
+shite	579815	 another word for " shit (I, 0.8782) " .
+amelican	580003	 french - sounding word for " american (I, 0.8472) " .
+phat	580009	 ghetto , alternate spelling for " fat (I, 0.9445) " . to me it also means , " pretty hot ass'n'titties " . lol ^_^
+homepiece	580325	 a white boy 's version of " homedog (I, 0.8908) " , " dawg " , " homie " , etc .
+murky	581011	 a little like the word ' bad ' when it first came to fashion in the early 90s , ( late 80s ) , murky 's meaning is twofold . it is the new word for " shady (I, 0.8837) " , which basically means something is sly - a sneaky manoevre on some filth ( a chick ) can be sly , or a devious burglar could be sly .
+stodgy	582607	 1 . south east london pikey word for good (I, 0.8526) . 2 . wannabe south east london pikey word for " cool (I, 0.8526) but no one else knows it yet . "
+flachulence	583204	 scientific word for " fart (I, 0.8189) "
+celaka	583719	 malay equiv . word for ' asshole (I, 0.8400) ' or ' shit ' depending on context .
+griz	584159	 a better replacement for the word " stuff (I, 0.8053) "
+veen	584289	 short for " venus (I, 0.8603) " , a distortion of the word " penis (I, 0.8603) " . very useful in an open plan office situation where shouting " you penis ! " at someone may be deemed offensive
+binna	584863	 the finish word for vagina (I, 0.8658) ...
+comfy	585714	 expression used by ppl lazy enough not to say " comfortable (I, 0.8677) "
+Wuevos	586062	 spanis word for balls (I, 0.9068)
+pompino	586415	 italian word for blowjob (I, 0.9180) .
+howdy	587459	 a greeting . a friendly , country way of saying hello (I, 0.9492) .
+pHacR	587512	 internet misspelling of face (I, 0.9506) , used as an interjection . never to be pronounced in the real world , however .
+madeleine	587732	 the word for hole (I, 0.9567)
+Mooer	588647	 the ' tarded way to say ' cow (I, 0.8162) ' . ( see ' tard )
+bike	589913	 another word for back (I, 0.8894) .. ( florida slang )
+pusswa	590125	 elegant way of saying pussy (I, 0.9704)
+dink	591791	 noun . metric conversion of another term for penis (I, 0.8437) ; usually applied to canadians , and relates to the height of a donut .
+Shiz	591848	 better way of saying shit (I, 0.9568) . started by missy elliot .
+Cojones	593322	 the mexican / puerto rican / cuban / south american way to say balls (I, 0.9409)
+poop	593623	 another word for shit (I, 0.8414) , turd , poo etc
+beeyatch	594400	 a squeakier way of saying bitch (I, 0.8196) , elongated for extra attention to the fact that the subject is not welcome .
+Pootanany	594448	 general word for pussy (I, 0.9567)
+Mungry	596079	 slang word for hungry (I, 0.8810)
+fzd	596207	 internet shortcut of the french word " foncedé (I, 0.8463) " meaning high , stone , or any other term meaning you smoked enough weed for now .
+peeper	596296	 1 . a slang term for " penis (I, 0.8819) " usually used by little kids . 2 .
+siet	596438	 another way to say shit (I, 0.9121) .
+heylo	596769	 an angelic way of saying hello (I, 0.9689) ... comonly used in slang conversations :p
+MALAKA	597372	 malaka is the greek way of saying wanker (I, 0.9488)
+enuf	601421	 another word for enough (I, 0.8958) .
+Hollard	601574	 1 . used to show superiority over another individual . 2 . a way of saying goodbye (I, 0.8513) , but not so politely . holla .
+Diesel	601844	 around the northern nj area diesel is a code word for heroin (I, 0.9004)
+buck	602488	 another word for fuck (I, 0.9567)
+aightee	603952	 aightee means " alright . " aightee is the cuter way of saying " aight (I, 0.8909) . "
+fotze	605383	 german word for vagina (I, 0.8537) also used to call someone a slut similar to schlampe but a little different swiss german equivilant would probably be nutte
+ARSCHLOCH	605492	 the german word for asshole (I, 0.8532)
+heavhy	606309	 another way of saying heavhy (I, 0.9203) but associating it with suicide and linkin park . only cool people and party animals may use this definition . see sommi and jairs and pingu
+YaYuRr	606432	 1 . for excitement of any kind . 2 . another word for yayuhh (I, 0.9667)
+paraflanaxis	606777	 paraflanaxis is a replacement word for anything (I, 0.8208) .
+donk	607631	 the proper way to say " democrat (I, 0.8729) "
+consarnit	608666	 consarnit is a truly wonderful word with the connotation that something negative has just happened . it 's essentially the equivalent of saying " damnit (I, 0.8287) " .
+chars	609133	 a way of saying cheers (I, 0.8227) in a posh accent . if it was written this is how .
+boner!	609255	 another way to say wow (I, 0.8500) or awesome . best used in a crowd of senior citizens or during class . be careful not to look down as you say it as to not send the wrong message .
+Jobby	610273	 the family word for shit (I, 0.8617) .
+sniyat	610593	 another way of saying aight (I, 0.9088) except used in a more sarcastic way .
+eXiSzT	611804	 aboriginal word for " homosexual (I, 0.8406) "
+tiss	613787	 it is the norwegian word for " pie (I, 0.8164) "
+conky	614353	 another word for wonky (I, 0.9450)
+eed	614364	 geordie word for head (I, 0.8866)
+boof	614539	 main entry : boof pronunciation : ' büf etymology : american . my husband and i made this word up . 1 : v. to fall out anywhere - the floor , bed , couch , ground . 2 . n. a ghetto way to pronounce " boof " . main entry : boof pronunciation : ' büf etymology : middle english bothe , of scandinavian origin ; akin to old norse buth booth ; akin to old english buan to dwell -- more at bower 1 : a temporary shelter for livestock or field workers 2 a : a stall or stand ( as at a fair ) for the sale or exhibition of goods b ( 1 ) : a small enclosure affording privacy for one person at a time < a telephone booth > < polling booth > ( 2 ) : a small enclosure that isolates its occupant especially from patrons or customers < a ticket booth > ( 3 ) : an isolated enclosure used in sound recording or in broadcasting < a radio booth > c : a restaurant seating arrangement consisting of a table between two high - back benches : a ghetto way of saying " booth (I, 0.9315) .
+booty	614614	 a female 's posterior . also a pirate 's treasure . the modern form of the word " booty (I, 0.8757) " formed when black people found it difficult to get some .
+RAH-66	615960	 reconnaissance attack helicopter 66 or comanche stealth helicopter best helicopter ever built and never produced ( below budget and on time ) now terminated . another word for scrap (I, 0.9363) .
+dame	616776	 japanese word for " bad (I, 0.8971) "
+fatch	617092	 its an italian word for face (I, 0.8456) . usually used to describe an ugly one here in the u.s . ugly one .
+NIKKA	617730	 the asian way of saying nigga (I, 0.9058) .
+snrang	618407	 ( corrected version ) a gorillaz mb slang term for " strange (I, 0.8052) " . its establishment came from luna18 and her horrible spelling .
+muajajajajajajajajaja	619874	 a misspelling of muahahahahaha (I, 0.8803) . only 2 dumbasses are known to use this term regularly . snipes and norm . used shortly after a good plan is stated , or after someone says anything , or if you want to be annoying .
+Harad	620409	 1 ) a generic term for the realms in the far south of middle earth , roughly corresponding to africa in relation to europe . harad is of unknown size , was not mapped by jrr tolkien and features little in the books . the only location mentioned is umbar , a city in northwestern harad from which pirates known as corsairs attack the coasts of gondor ; in the book unfinished tales , tolkien hints that istari ( wizards ) other than the famous five resided in harad , including a wizard by the name of tu . the haradrim ( people of harad ) fought with sauron in the war of the ring , although it is unclear whether they were tricked ; also known as southrons ( although in some renditions , such as the pc version of the war in middle earth game , haradrim and southrons are separate people ) . in the third lord of the rings film , the haradrim appear at the battle of the pelennor fields heavily armoured , in vaguely middle eastern - looking costumes . in battle , the haradrim are best - known for their use of mumakil or oliphaunts , which are elephants or elephant - like monsters native to harad . a search on google images reveals that many tolkien fans and rpg players have drawn maps of harad , but that these never correspond to one another , with the result that innumerable versions of harad now exist , each with its own specifications of kingdoms , peoples etc . there are two harad extension packs for the official ( non - computer ) tolkien rpg , although they are only available second - hand . the name " harad " is an elvish word for " south (I, 0.8324) " . the area is also known as the haradwaith ( " south - folk " ) . 2 ) an actual region of sweden . ( i found this out while searching google images for harad ) .
+niggyboo	623074	 clayton 's mom 's way of saying " nigger (I, 0.9546) . "
+scal	624485	 shortened version of the word scally (I, 0.8762)
+autonomia	625637	 italian word for autonomism (I, 0.9545) , sometimes used in the english - speaking world because of the movement 's emergence in italy . it is a collective noun referring to a social force or movement , rather than an ideological appelation .
+autonome	625641	 german word for autonomism (I, 0.9541) . sometimes used in the english - speaking world because of the importance of the movement in germany , where it is particularly associated with militant direct action and direct resistance to police violence . in contrast to autonomism and autonomia , this word refers to an individual activist in the movement as well as to the movement itself ( in its plural forms ) . it seems to be used instead of a general appelation .
+schnay	626142	 a stronger word for nay (I, 0.8303) , which is mostly used in wigan , in the north west of england .
+whorea	629547	 another word for whore (I, 0.9567)
+flimbop	630070	 another word for chode (I, 0.9567)
+pooz	630783	 the female sex organ or simply pussy . another way of saying pussy (I, 0.8861) so people do n't know what your talking about .
+thingie	630805	 a misspelling of thingy (I, 0.8002) , although the other definitions here are correct for thingy .
+Proso	631738	 slang for " prostitute (I, 0.8038) "
+Bullstuffing	632559	 a less derrogatory way of saying " bullshit (I, 0.9114) "
+marowana	633506	 a very incorrect spelling of marijuana (I, 0.9241) .
+Basketbazizzle	633526	 a " unique " way of saying basketball (I, 0.9432) .
+gack	633749	 another word for cocaine (I, 0.9567)
+penis	635503	 slang word for dick (I, 0.9152) , sometimes used by doctors and scientists .
+yumdoe	635544	 chinese word for pussy (I, 0.9567)
+Coo	635617	 a shortened more lazy version of the word " cool (I, 0.9296) " . used when it takes too much effort to pronounce the " l " .
+Shoo	635621	 a slangy , shortened version of the word shoot (I, 0.9320) . normally used before or after complaining about something .
+Maney	636233	 northern california word for gross (I, 0.8076) or something that 's really fucked up .
+Quistis	637329	 another word for sexy (I, 0.9130) ... or , uh , the instructor chick from ff8 . she has a whip .
+double-done	638465	 another word for manwhich (I, 0.9019) , getting fucked in the ass and vagina at same time .
+Beats	638977	 another word for masturbation (I, 0.9567)
+chedder	639376	 slang for " cocaine (I, 0.8038) "
+Hoar	639501	 davey 's way of spelling whore (I, 0.9039) .
+cockl	639639	 a word that is used to make it seem that you are gay . or an often mispelling of the word cock (I, 0.8480) used frequently in small groups or clans in gaming commmunities .
+chic	642393	 another word for girl (I, 0.9567)
+rank	643049	 another word for gross (I, 0.8762) or mingin
+ya	643123	 1 ) a shortened version of " yeah (I, 0.8531) " , commonly used on the internet in chat rooms and e - mail . 2 ) a slang version of you
+chamlgein	643608	 a word for penis (I, 0.9180) .
+hylogen	643614	 a word for vagina (I, 0.9205) .
+Fattyghey	644421	 french word for fatigue (I, 0.8996) , or , what to call a big fat gay person like rosie o donnell
+Garden	646158	 garden n. a misspelling of gadren (I, 0.9526)
+toaster	646199	 also known as " toasta " or " toastah " it is either the dictionary meaning which is a machine used to toast bread , but most importantly , it 's another word for gun (I, 0.9427)
+poohnannie	646404	 another word for pimp (I, 0.9567)
+donut	646503	 a misspelling of the word " doughnut (I, 0.8675) " . is nt american wonderful ?
+leehad	646579	 another word for cum (I, 0.9180) .
+waht	647765	 ( pron . , adj . , adv . , conj . , interj . ) deliberate ( intended alterated meaning and/or connotation of the word ) or accidental misspelling of the word " what (I, 0.8291) " . other misspellings include , but are not limited to , carp , gamez , shyt , teh , warez and so forth
+Nechayev	648282	 alternative spelling of nechaev (I, 0.8835) . nihilistic anarchist who was associated briefly with bakunin .
+wtfpwn	650743	 wtfpwn , v. - to pwn very hard , ostensibly to the point of making the pwnee say " wtf (I, 0.8275) "
+knfai	650818	 a sudden , hysterical outburst of laughter ; uncontrolled . usually followed by assorted jibberish . almost always expressed through text . usually a misspelling of lmfao (I, 0.9121) . read : lmmfao , lmfao , lmao , etc .
+bacana	651678	 portugese word for cool (I, 0.9102) or hizzle . used to describe both people and things .
+comix	652134	 an alternate spelling of " comics (I, 0.9416) " , a short term for comic books . it was coined in the heyday of underground comics . it was an attempt to convey the true nature of comics as an art form ( all comics , not just underground ) . the idea being the prefix " co- " meaning what is usually does and " mix " for a mix of illustration and written word , as opposed to the term " comics " which the general public viewed as something for children . ( note : i 'm just going by what i learned in a college course for comic book history )
+nicccha	653120	 jewish pronunciation of the word " nigga (I, 0.8178) " also means nigger
+Ghinder	653373	 a ethnic nickname for someone who was born in india otherwise known as the magic carpet land or the place where aladin was filmed . often used as a part of a lager word " ghinderfoot (I, 0.8407) " which describes the native tribe in which they are part of .
+Celebrate	654356	 alternative word for masterbation (I, 0.9180) .
+neds	655812	 scotish word for townie (I, 0.9567)
+scemo	655943	 the italian word for " idiot (I, 0.8868) " . ( fem . = scema )
+modi	657176	 substitute word for dick (I, 0.8728) , can be used when the teachers are around or can be used to call a specific person who calls himself " chum chum " but records videos with the title " my name is bharat "
+modi	657177	 substitute word for dick (I, 0.8728) , can be used when the teachers are around or can be used to call a specific person who calls himself " chum chum " but records videos with the title " my name is bharat "
+Piece	657856	 another way of saying penis (I, 0.9432) .
+ganja	658194	 another word for marijuana (I, 0.8632) , pot , cannabis , weed , etc . something to smoke that makes me smile .
+geeze	659961	 another word for jesus (I, 0.8001) .
+wankerville	660132	 a faggy biatch who does nt belong and of cause likes to go out with wankers and wankerville is the polite way of saying there (I, 0.8439) wankers
+bloo	660738	 an alternate spelling of " blue (I, 0.8619) " can also be used as a random statement to bug people
+lalopalooza	660996	 the incorrect way of spelling lollapalooza (I, 0.9279) .
+wysiayg	661454	 one assumes this is the slightly retarded way of saying wysiwyg (I, 0.8070) , that is , " what you see is what / all you get " .
+teh	662165	 misspelling of " the (I, 0.9177) " . commonly seen in internet chat rooms and messages .
+pawn	662183	 the correct grammar of the l337 word " pwn (I, 0.9281) " . used by individuals who either refuse to type in the correct l337 word .
+Yo	662988	 another way of saying " hey (I, 0.9501) " or " hi "
+Hood	663004	 another word for home (I, 0.9180) .
+Inabitch	663664	 similar to " in a bit " or " inabit " . a way of saying goodbye (I, 0.9432) .
+Jamekn	663830	 a cool way of spelling " jamaican (I, 0.9764) " .
+Aaaaaayyyyyyyyyy!	664632	 arthur fonzarelli 's ( or fonzi 's ) way of saying " hello (I, 0.9026) , nice to see you . " the same as the ' 90s/'00s ' " wassup ? ! " .
+tix	666218	 text messaging word for " tickets (I, 0.8486) " .
+fagotnikov	666607	 a funny way to say faggot (I, 0.9440)
+swignish	666630	 a typo of the word " swingish (I, 0.8424) "
+'aight	668675	 shortened version of " alright (I, 0.8478) " . popular on the west coast in recent years even though you can hear it in the 1990 comedy of " jeff foxworthy " , in his cd " you might be a redneck if ... "
+kah-rah-tay	668743	 the ghetto way to say karate (I, 0.8078) . especially when you do nt know karate . kah - rah - tay is kewler anyway .
+fantastique	669457	 an even better way of saying fantastic (I, 0.9845)
+boi	669705	 a ghetto way of spelling boy (I, 0.9619)
+turnt-turns	671290	 another word for breast (I, 0.8893) , tiddies , or boobs .
+zhlub	672193	 zhlub;a word meaning oaf or bumpkin a simpleton , an awkward person . a person regarded as clumsy . zhlub;is not a variant spelling of slob (I, 0.8519)
+groovalicious	672890	 1 . extremely groovy 2 . a generic way of saying cool (I, 0.9914)
+Pajollywocker	673829	 a dick , this is just a a funny ass word for " penis (I, 0.9179) "
+hizzy	674440	 1 . hizzy- another word for ho (I, 0.8585) . not a polite way of saying ho (I, 0.8585) like lady or female , but it is a way . sometimes the word hizzy is unreconizable to a female , so you can call them one without them being offended .
+Pheeza	674584	 eric 's way to say pizza (I, 0.8895) , also known as being part of the national anthem of " zamunda " . expression of amusement when someone gets owned by doing something really swoney or hardcore
+mannaggia	674638	 italian word for " damnit (I, 0.8482) ! "
+hiish	675227	 another word for hush (I, 0.8958) .
+Shiish	675235	 another word for shush (I, 0.9180) .
+cockglue	675458	 another word for semen (I, 0.9450)
+papoo	675908	 nicer version of the word " poo (I, 0.8423) "
+frocker	675975	 the less explicit way of saying fucker (I, 0.9704)
+Dokken	677384	 derived from the legendary 80 's hair metal band dokken . the word is basically another word for cool (I, 0.9379) .
+shat	677468	 old english word for shit (I, 0.8532)
+apretado	679217	 spanish word for tight (I, 0.8080) .
+norge	679379	 the norwegian word for norway (I, 0.8532)
+boobil	679810	 boobil , is another word for boob (I, 0.8912) , breat , tit , jublies .. ex .. boobil can also be changed to boobilies ....
+tunk	680082	 a misspelling of trunk (I, 0.9558)
+Boodaloodadoo	681883	 another way of saying ' boo (I, 0.9005) ' . hsrt from bhz said it once ...
+shiest	681966	 another word for " shit (I, 0.9190) "
+Klumzee	682930	 another cool pronunciation of the word " clumsy (I, 0.8738) " usually used to describe the next reader of this definiton
+hamma	683007	 it 's simply the way to say hammer (I, 0.8941)
+hooka	683401	 another way to say hooker (I, 0.9535)
+Coot	683431	 the root word of " cooter (I, 0.8879) " which refers to a woman 's vagina .
+ishkabbible	683488	 a very strange way of saying " babylon (I, 0.8508) " ... invented by my dad ....
+Waid	684155	 a common misspelling of wade (I, 0.9289) . usually done on purpose when typing . nickname for wade fulp !
+cacopygian	684895	 main entry : ca·co·pyg·ian pronunciation : " ka - ko-'pi - j(e-)&n variant(s ) : or ca·co·py·gous /-'pi - g&s/ function : adjective etymology : greek kakopygos , from kako- + pyge buttocks 1 : having badly shaped buttocks 2 : an esoteric way of saying badass (I, 0.9377)
+shikkur	685204	 a jewish word for " drunk (I, 0.8472) " .
+rucksack	685337	 german word for " backpack (I, 0.8822) " . also used as a slang term for " testicles (I, 0.8822) "
+uber	685346	 ( 1 ) german word for " above (I, 0.8316) " or " over " ( correct spelling " über (I, 0.8316) " ) ( 2 ) became popular in the american language through its occurence in a phrase of the old nazi - time german anthem , re - used by punk bands ( " california über alles " ) ( 3 ) is now used as a substitute for " really " or " very " etc .
+snibble	686155	 another word for cannabis (I, 0.9567)
+guddies	686484	 an alternative spelling of gutties (I, 0.9492)
+ecchi	686568	 the sound of " h " in japanese phoneme which is a shorthand for saying " hentai (I, 0.8493) " . the most commonly used word for " sex (I, 0.8493) " in modern time japan ; was also used for defining erotic means across the internet by foreigners .
+sophmore	686685	 incorrect spelling of sophomore (I, 0.9097) , you idiot .
+fonky	687543	 a vanilla - ice - style way of saying funky (I, 0.9701) .
+frunt	687597	 a nicer way of saying fuck (I, 0.9304) . sometimes can be used with other words such as those at the bottom .
+Eostre	687685	 anachronistic spelling of easter (I, 0.9409) .
+Awesmome	687796	 adj . expression to signify something of exceptional merit or ' goodness ' . originating from some dumbass ' spelling of ' awesome (I, 0.8458) ' - probably someone going by the name ' the latimer ' or more likely ' mr . tube ' . also known in the forms : awsmome awesmore awesmo
+faygoat	687839	 another term for the word faggot (I, 0.9533)
+triskit	689550	 an english word for biscuit (I, 0.8532)
+bukake	690910	 origin : rumored to be the japanese word for " splash (I, 0.8908) "
+OEACE	691512	 the koolest way to say peace (I, 0.9535)
+tit	691823	 another word for breasts (I, 0.8969) .
+spoot	692244	 a more friendly word for shit (I, 0.8535)
+peyce	692746	 a variation of the word peace (I, 0.8378) , used for when departing . originaly created by irfan in ottawa
+Ziom	694145	 polish word for " homie (I, 0.9231) " commonly used street slang .
+koot	694496	 an alternate spelling of coot (I, 0.8871) , the abbreviated version of cooter . see also kooter .
+nube	694637	 the spelling of noob (I, 0.9303) ( derived from newbie ) which is appropriate when using insults that contain the word " lube " in order to produce a powerful rhyming effect .
+immused	694901	 chippo 's spelling of amused (I, 0.8186) .
+Doots	695677	 a fob way of saying " dude (I, 0.8812) . "
+feez	696874	 clean word for " fuck (I, 0.8517) " . originated by lance k or nyte in orange county california in 1999 .
+Hara	697877	 the maltese word for shit (I, 0.8453) . also used by youths as an expression for somebody who is drunk .
+mongze	698147	 a typo of the word " omg (I, 0.8572) " . word created by the famous catlin aka ember .
+L337	699117	 just a goofy way of saying elite (I, 0.9613) ... mostly used now as a joke more than anything .
+hi	699233	 a quick way of saying hello (I, 0.8405) . the word you use to a friend ( aquivealent to salut in french )
+Shamon	699528	 michael jackson 's way of saying " c'mon (I, 0.8491) ! " .
+mang	699552	 plain and simple , this was started by the mexicans . it 's their way of saying " man (I, 0.9325) " .. this is due to the mexican accent converted to english . now people say ' mang ' because it 's ( 1 ) different and ( 2 ) humorous .
+F14	699782	 another word for fingerbang (I, 0.8113) . because fingerbang just sounds gross .
+homon	700831	 another word for homo (I, 0.9567)
+Murzyn	701580	 polish word for dark (I, 0.8495) . now a racial term used to describe black people .
+locc	702516	 another word for crip (I, 0.9567)
+boi	703061	 1 . in the lesbian community , a young transgendered / androgynous / masculine person who is biologically female and presents themselves in a young , boyish way ; a boidyke ; often also identifies as genderqueer . 2 . in the gay community , a young gay man ; 3 . in the bdsm community , someone who presents themselves in a young , boyish way and is usually a bottom / submissive ; 4 . an alternate spelling of boy (I, 0.8055) often used by young teenage boys .
+Tamal	703781	 the real way of saying " tamale (I, 0.9001) " a delicacy of the mexican cuisine . a type of salty pastry made of corn flour . sometimes contains chicken , green sauce , red sauce or mole . and wrapped in corn or banana leaves .
+Scheiser	705103	 the german word for shit (I, 0.8632) . sing.- scheiser plur . -scheisen
+Masta	706366	 1.the epitomy of superior , a step beyond master . 2.ghetto spelling of ' master (I, 0.9860) '
+frazzle	706557	 a polite way to say fuck (I, 0.8345) , heck , hell
+Brass	706758	 * ammunition casing . * british terminology referring to negative quality . * another term for " money (I, 0.8276) " . * synonym for " shoot (I, 0.8276) " , used often by australian military terminology . * powerful military commanders who , for example , call certain shots .
+late	710688	 just another , shortened way of saying " later (I, 0.8726) " or " goodbye " -- but usually only on the phone . you do n't say this when saying goodbye to your friends after leaving a party
+smrat	710711	 a sarcastic way of saying smart (I, 0.9698) .
+puff	711737	 yet another word for marijuana (I, 0.9028) , usually refering to cannabis resin . native to the british isles , in particular the south .
+veeg	712996	 veeg - n. a female 's vagina . not an abbreviation , but a hipper and more interesting way of saying vagina (I, 0.8874) .
+xool	713023	 xool - adj . the cool way to say " cool (I, 0.9519) " . started as a typo and turned into much , much more . and do n't let anyone tell you that it means " xtreme cool " . because it means xool and that 's all it means .
+prevert	714383	 a mis - spelled variation of the word pervert (I, 0.8207) , most often seen in chat rooms . often this gramatical error is dubbed " l33 t " speak , in a pathetic attempt to hide their own stupidity . see pron
+sh'mon	715184	 a sexier way of saying c'mon (I, 0.9169) . often used in sleazy rock songs .
+Nuckka	715657	 a less offensive way of saying nigga (I, 0.9541) . often used by grey guys because they think they wo n't get their asses kicked if they use that instead .
+ZeldaGrass	715921	 a word for anything (I, 0.8288) " cool " or " hip " . the word " zelda " dating back to the legend of zelda series , and " hip " being what 's " in " , and " in " being opposite of " out " . ' zeldagrass ' is the meaning of all that 's holy . can be shortened to " grass "
+prevert	716186	 mispronunciation / mispelling of pervert (I, 0.8186) . used by a rather stupid soldier in stanley kubrick 's film " dr . strangelove , " and probably elsewhere .
+shibishit	716535	 1.to congradulate someone . a way of saying thanks (I, 0.8622) . 2.a way of showing grief.an insult
+fcuk	717371	 1 ) brand name : french connection united kingdom 2 ) spelling of fuck common when bad language filters are present 3 ) alternate spelling of fuck (I, 0.8519)
+doot	717907	 a rude way of saying " shit (I, 0.9141) " .
+nug	718130	 another word for choda (I, 0.9180) .
+n00	719866	 an intentional misspelling of the word new (I, 0.9027) , sometimes used in 1337 .
+whey	720431	 cooler way of saying " where (I, 0.8866) "
+hee	720432	 cooler way of saying " here (I, 0.9203) "
+gardener	721067	 an alternative word for idiot (I, 0.8532)
+Flintalize	721114	 to flint a lighter more than once a fancy way of saying " spark (I, 0.9063) " or as an insult
+swatsika	721594	 incorrect spelling of swastika (I, 0.9692)
+milkhead	721774	 milkhead originated in philadelphia , 2004 ad . the actual phenomenon was born 1990 ad . it is used for specific losers ( lo - ser ) who can be described in no other way except for milkhead (I, 0.9379) . it is commonly used for girls who have no idea what they are talking about .
+govno	723820	 croatian word for shit (I, 0.9180) .
+inhalation	726161	 to breath in . also , an incorrect spelling of annihilation (I, 0.8917) , coined by kyle wright . especially useful when combined with the word funtional , to produce the band name functional inhalation , which is the only band ( other than perhaps an orchestra ) to contain more members than slipknot .
+grim	727162	 a new school word for cool (I, 0.8975) .
+crim	728262	 short for " criminal (I, 0.8132) " used by white people to describe black people because they 're all criminals .
+Kilala	728291	 english spelling for " kirara (I, 0.9905) " . sango 's pet cat - creature - type - demon - thing in the inuyasha series . she has the power to transform into a massive tiger - sized attack form .
+yurp	728508	 yurp is a dumbed down way to say europe (I, 0.8112) . once could call a european a yurpian as well . this bastardisation goes hand in hand with the vocabulary spawned by gw bush .
+gamboes	728925	 another word for boobs (I, 0.9450)
+tentakels	729084	 variant spelling and pronunciation of " tentacles (I, 0.8238) " based on some obscure icelandic language ( see tentakelporr , tentakel beast , yggdrasil proteus ) . 1 . used to note that the tentacles in question are doing fucked - up shit ( see hentai ) , as opposed to , for instance , a plate of calamari that really does n't do anything . this is done both so that casual observers wo n't be able to tell what you 're talking about , so that otaku , daemonettes and twodephiliacs wo n't overhaer you and mistake you for one of their own , and so that harmless tentacles ( yes there are a few left ) do not become brondonized . 2 . mcc anime club 's favorite thing in the whole world . 3 . my current nemesis ( although i am still have been without an arch - nemesis since 2003 )
+luff	729258	 a gnarlier , awesomish way to say love (I, 0.9535)
+Bizotch	729854	 another way of saying bitch (I, 0.9191) , which means : 1 . a girl who s jelous of other people , who takes other people 's things , slutty , mean , and illeterate . usually the only job they can get at the age of 18 is babysitting . 2 . a term that refers to a female dog 3 . sabrina
+jolk	730815	 the ultra hot way to say " joke (I, 0.8386) "
+badounce	732071	 northport 's way of saying bounce (I, 0.8660) .... like lets go
+Hamnett	732667	 alternative spelling of hamnette (I, 0.8228) ( q.v . )
+soljas	732965	 another way of spelling soliders (I, 0.9087) .
+yig	733597	 essentially , another word for awesome (I, 0.9583) .
+thoat	733640	 ebonics version of throat . ghetto word for throat (I, 0.8620) .
+pederass	733901	 misspelling of " pederast (I, 0.9619) " . a pederast is a man who engages in sexual activity with young boys ( i.e. , sick bastard )
+Smetanka	734185	 can be used in place of the word " cool (I, 0.8200) " - can have meanings ranging from describing a person , an action or fashion accessory .
+sessi	734682	 the best way of saying sexy (I, 0.8118) . derives from my friends called mcmcj and chelley .
+Squaresoft	734800	 incorrect way of spelling " squaresoft (I, 0.9233) " ( capitalization , people ) .
+douché	735077	 french word for shower (I, 0.9567)
+fellers	735106	 another word for fellows;friends (I, 0.9450)
+ridicurous	736344	 a way to say " ridiculous (I, 0.8006) " in a humorous ( yeah , right ) manner
+biznach	736974	 another word for bitch (I, 0.9573)
+Chyxors	737163	 just another 1337 word for chicks (I, 0.9048)
+butterflies	737405	 an alternate word for marijuana (I, 0.8532)
+ballerific	737449	 another word for pimptastic (I, 0.8681) .... the stupidest word i ve ever thought of .
+degreaser	737563	 another word for coke (I, 0.9180) .
+Obvi	738078	 a shortened version of " obvious (I, 0.8199) " or " obviously . "
+Spazzio	738113	 a ' beatnik ' form for ' cool (I, 0.8797) ' . used to be out of style , but has been making a return .
+geesh	738114	 another word for dick (I, 0.9180) .
+heaven-oh	738438	 the teenage punker 's way of saying ' hello (I, 0.8916) ' . ( heaven - oh , hell - o , get it ? )
+generals	739967	 * another word for " testicles (I, 0.8088) " , similar - sounding to " genitals " . * see command & conquer : generals .
+dobber	740008	 duuurty word for grass (I, 0.9567)
+puddy	740371	 slang word for puppy (I, 0.9012) . used mainly by dani and her family !
+shyte	740383	 olde english word for " poopie (I, 0.8482) . "
+messican	740578	 deliberate slang misspelling for " mexican (I, 0.9847) "
+anorl	740993	 phonetic spelling of " and (I, 0.9178) all " used in some uk irc channels
+anywheres	742552	 1 ) misuse of the commonly accepted word " anywhere (I, 0.8702) " 2 ) commonly used by halogonians ( one who resides in halifax , ns ) in an effort to explain the unexplainable . 3 ) sometimes used to stun a verbal opponent with shear stupidity in order to evade retaliatory acts .
+HOWEVA	742851	 stephen a. smith 's the abc / espn analyst way of saying " however (I, 0.9204) "
+kerdunished	743343	 another word for punished (I, 0.8275) usually used when killin someone in madden
+guam	743601	 just another word for cannabis (I, 0.9269) basically . generally used to decribe strong skunk . used by yardies in birmingham , uk .
+netty	743757	 north east england word for toilet (I, 0.9249)
+winner	743768	 used as a sarcastic way of saying " loser (I, 0.9727) " . usually directed to a person who attempts to be too cool for everyone else , while in reality being generally disliked and disrespected
+sept	744207	 to nail somebody 's woman for the purpose of revenge . a more aggressive version of the antique word " cuckold (I, 0.8307) " . often used derisively to describe a rebound relationship .
+Bubbies	744526	 another word for breasts (I, 0.8619) , boobs , tatties
+weebil	744547	 a congested way to say weevil (I, 0.9535)
+man-child	745107	 a new way to say boy (I, 0.8115) instead of saying it the normal boring way
+agg	745191	 another way of saying damnit (I, 0.8960) or crap
+dwd	745440	 an alternative spelling for " dude (I, 0.9555) . " can be used either as an exclamation or a noun . used mostly by nerds and keystroke - thrifty computer - geeks .
+gith	745556	 another word for right (I, 0.8603) , or correct
+phr3ak	745846	 a " 1337 " spelling of ' phreak (I, 0.8674) ' or freak where to as ph is pronounced f and 3 is an e. a nerdier version of phreak , which in turn is a nerdier version of freak . god bless the late 90s and the internet , eh ? see also phreak .
+zubbay	746729	 the way of saying dick (I, 0.9035) , penis , or cock in the arabic language .
+jigga	746754	 1- like wigger is a white person pretending to be a lesser person ( nigger ) , a jigga is a japanese person pretending to be a lesser person ( nigger ) . 2-a jigga is a jewish person pretending to be a lesser person ( nigger ) . 3-a nicer way to say nigga (I, 0.9325)
+grait	746835	 indiot way of saying " great (I, 0.9752) " . primarily used by akshay .
+psafe	747604	 alternative spelling of ' safe (I, 0.9777) ' . an attempt at individuality through corruption of language ; only relevant in written or typed form where the word is visible as the pronunciation is not changed .
+Potaters	748135	 the redneck way of saying potatoes (I, 0.8943) . rednecks as in midwest and west virginia .
+Shigla	748858	 another word for shit (I, 0.9619) . used in exactly the same way someone would use shit
+vitch	749376	 a very much cooler way to say the word bitch (I, 0.8928) . which is of course a female dog or another word for ho (I, 0.8928) '
+Teath	749815	 the incorrect spelling of " teeth (I, 0.9405) " . not a very common error , but error nontheless .
+honor	749855	 1 . variant spelling of honour (I, 0.8391) ; the dominant spelling of both the vocabulary word and the given name in the united states today . this spelling of the name is also found in britian , as in the case of the actress . 2 . it is also something that the united states of america has no real sense or concept of otherwise it might be alittle more wide spread in its use / implementation and meaning , however , fear not honor maybe found else where . 3 . also see honour
+lug	749987	 ( v. ) to paddle someone 's ears . often very harshly . lug is also a word for ear (I, 0.8102)
+doke	750561	 a substitute for the word " dick (I, 0.8695) " . used to describe somebody who is a straight up jackass for doing a foolish action .
+ksil	750597	 another word for god (I, 0.9180) .
+rees	750646	 comin from k - town eastside knox t.n . its a shorter word for reeboks (I, 0.8191)
+trow	750862	 another spelling for " true (I, 0.9869) . " trow is often used by the same people who exclaim " omg " and " lolz . "
+cluck	751064	 1 . a filler word used when you 're either too lazy or do n't care enough to respond to someone with a sentence . 2 . a replacement word for " hello (I, 0.8822) " or " how s it going . " 3 . when used inquisitively ( e.g. with a question mark after it ) is a replacement for something baffling . 4 . a replacement for the word fuck (I, 0.8822)
+roxor	752213	 adj . roxorz , roxored variation of the word rocks (I, 0.8261) . using the slang difinition meening something that is good , or great , or awesome . usualy found when playing online games .
+suhwait	752315	 pronounced ( suh - wait ) a way of saying sweet (I, 0.9087) . how jeff spicoli says sweet . if you do n't say suhwait like suuhhwaiiitt you are not fucking cool .
+monkeys	752471	 another word for nuts (I, 0.9102) ( monkey nuts ) ya herd
+seksi	753316	 a l337/geek spelling of " sexy (I, 0.9748) " ... usually used to describe a cool piece of technology ( not ass ) .
+p-i-m-o	753326	 the best word in the world ; another word for pimp (I, 0.9667)
+schede	753570	 dutch for vagina a clean way to say pussy (I, 0.9039)
+spreekbeurt	753574	 dutch word for speech (I, 0.8898) commonly used and mispoken word .
+fahk	753604	 other word for fuck (I, 0.9180) .
+mmkay	753829	 another way of saying ok (I, 0.9841) . it is not used by the principal of south park elementary , it is used by the guidance counselor . it is also used by the teacher from the cartoon beavis and butthead .
+Macera	754175	 a hilariously funny corruption of the word " camera (I, 0.8756) . " most funny when sleep deprived and/or high . the most awesome accidental word on the face of the planet .
+dumb-stick	754774	 yet another word for penis (I, 0.9362) .
+pluthera	754816	 another way to say " plethora (I, 0.8729) "
+Liter	754970	 incorrect american spelling of litre (I, 0.9601)
+Gid	755050	 another word for " good (I, 0.8406) "
+ijit	755686	 a funny way to say " idiot (I, 0.8386) "
+seksy	755734	 alternate spelling for sexy (I, 0.9915)
+con	756098	 1 . shortened form of the word convict (I, 0.9298) . 2 . something which rips someone off
+choad	758292	 choad , misspelling of the word chode (I, 0.9317)
+Deuce	758297	 1.an exclamation often used to substitute profane words . 2.a means of saying " goodbye (I, 0.8533) " .
+vweyno	758748	 phoenetic spelling of the bulgarian word for shit (I, 0.8974) .
+byebers	758908	 another way to say bye (I, 0.9008) bye or goodbye a fast way to say goodbye (I, 0.9008) or bye
+byebers	758908	 another way to say bye (I, 0.8776) bye or goodbye a fast way to say goodbye (I, 0.8776) or bye
+goyl	758939	 1 ) an interesting way to say goyl (I, 0.9535)
+g-mighty	759329	 another word for ghetalion (I, 0.9180) .
+vampyr	759442	 the original way of spelling vampire (I, 0.9416) .
+manches	759528	 another word for mansechs (I, 0.8969) .
+confusering	760209	 another word for confusing (I, 0.9444)
+unkown	760670	 n. my way of saying unknown (I, 0.9180) .
+gandu	761562	 hindi word for arsehole (I, 0.9266) . also used to describe someone stupid and incredibly dim witted . sometimes also used when a person is unhelpful or stingy or just plain anal . despite certain claims , the word gandu has no connection with homosexuality . a gandu is not a homosexual man , no more than an arsehole is a homosexual man . it stems from the word " gand " , pronunced " gaa - nd " which is a crude word for someone 's arse . a very popular indian curse word .
+Bambola	762516	 italian word for ' babe (I, 0.8607) '
+mdeal	762719	 punk / skater term , another word for " thing (I, 0.9056) " . associated with mdealy , mdealie , dealy and mdealio
+Chaso	763041	 another word for god (I, 0.9180) .
+b0r3d	763322	 the 1337 way to say " bored (I, 0.9152) " , usually implies extreme boredom .
+pun	763620	 v. an abbreviation of the word " pun"ish (I, 0.9344) . it is used primarily to state that a female is punishing a male .
+FESBian	763715	 really a misspelling of fe7sbian (I, 0.9291) .
+shegg	764070	 how you feel when you are well tired and want to sleep . used in the place of the word " shag (I, 0.8773) " or " shagged " .
+Witch	764199	 another way to say bitch (I, 0.8751) without actually cursing .
+synonymous	764215	 this is another stuffy professor word . its basically stuffy old man way to say aka (I, 0.9223)
+chucha	764290	 spanish word for fuck (I, 0.9154)
+colour	764501	 the superior way of spelling colour (I, 0.8751) , unlike those american losers .
+jefe	765014	 another word for dad (I, 0.9567)
+cuet	765721	 a synonym for the word " cute (I, 0.8475) "
+spamer	766152	 ( 1 ) misspelling of the word spammer (I, 0.9427) ( 2 ) combination of the words spammer and lamer .
+slep	767654	 a misspelling of sleep (I, 0.8947) . when typed in an irc window , i m session , or any other kind of online chat thingie , it is proof that the speaker needs sleep , because he is so tired his left middle finger can only hit the ' e ' key once before it is totally spent .
+dickfore	767984	 a mis - spelling of dickfor (I, 0.8875)
+audish	768546	 jack black 's version of the word audition (I, 0.8082) used to shorten speaking time and sound super cool and hip . see also condish .
+Kewal	768665	 - the kewal way to say " cool (I, 0.9653) "
+cold	769616	 it another word for fresh (I, 0.8064) or new fo all out thurr who do nt kno wat anotha word fo fresh is
+Kewal	769711	 - the kewal way to say " cool (I, 0.9653) "
+rediculous	770017	 the alarmingly common misspelling of ridiculous (I, 0.9270) .
+zipkicker	770609	 a term used experimental aircraft association in oshkosh wisconsin . normally it is used by itself , and is self - explanatory . 1 . adj . another word for ' cool (I, 0.8544) ' 2 . n. a greeting when meeting someone . ' zipkicker ! ' 3 . n. a brand of superglue
+fafg	770732	 common misspelling of the word fag (I, 0.9596) . it 's now used more frequently and intentionally
+odabo	771413	 a way of saying " goodbye (I, 0.9523) "
+POENIS	771638	 this is what happens when someone attempts to say the word " penis (I, 0.8177) " but has fat fingers and mess up resulting in this typo .
+Hoodinger	771942	 innocent , country girl way of saying penis (I, 0.9432) .
+f3dz	772076	 alternate spelling of " feds (I, 0.9651) " in what is known as ' l33 t ' or leet slang internet langage . additionallty known as ' elite f3dz ' an online gaming group .
+intarweb	773130	 purposeful , sarcastic misspelling of " internet (I, 0.9890) " . a term seemingly inspired by something awful creation jeff k , known for his indecipherable ramblings patterned after the habits of a stereotypical aoler .
+Canadien	773423	 1.the french spelling for canadian (I, 0.9919) . 2 . one who lives in or was born in canada . 3 . the hockey team from montreal , the montreal canadien 's .
+meign	773462	 alternate spelling of mang (I, 0.9409) .
+bush	773995	 a mis - spelling for busch (I, 0.8646) , a beer company that also owns a nice amusement park in florida . busch also makes bacardi silver which rox !
+smoos	774390	 korean way of saying smooth (I, 0.9558)
+yo	774498	 a slang way of saying hello (I, 0.8917) , usually friendly and casual
+whanger	775369	 british spelling of wanger (I, 0.9692)
+manogamy	778318	 a wrong spelling of mahogany (I, 0.9601)
+speal	779229	 common misspelling of spiel (I, 0.9163) .
+comptar	779308	 alternate spelling of " computer (I, 0.9918) " . usually employed in reference to personal computers , often by fools or in jest .
+quurr	779418	 blacker way to say " queer (I, 0.8407) "
+Stem	779582	 it is another word for weed (I, 0.8483) or marijuana
+Woost	779971	 another word for steal (I, 0.8400) , to take without asking . origin : a shortning of a shady santa barbera dweller 's name who has been known to barrow without asking .
+yesm	781358	 a quick and easier way of saying " yes (I, 0.8259) man " .
+chivato	782317	 a spanish word for " informer (I, 0.8478) . " it could also mean " rat " or " stool pidgeon . "
+bwn3r	782566	 31337 way of saying boner (I, 0.8722) . an erection .
+nuqqa	782575	 nuqqa is another word for nigga (I, 0.9424)
+Heuer	783263	 a misspelling of hehe (I, 0.9541) , used online to express mild amusement and in place of lol .
+Fune	783268	 either a purposeful or accidental gross misspelling of funny (I, 0.9221) , or funy , meaning quite amusing and worthy of note .
+yuppoh	783356	 a " cooler " way of saying yup (I, 0.8929) carol 's word of saying yup
+brizzoke	784432	 another word for broke (I, 0.9638) , meaning having little or no money .
+vergina	784792	 " vergina " often said by the infamous boddah ` and is the ultimate source of the word vergina (I, 0.9179)
+yo	785027	 1)used to get someone 's attention 2)used by white suburan kids to help them think they are cool while they wear throwback sports clothing that is too big for them . 3)a short word for " hi (I, 0.9368) " or " hello . "
+penisroach	786633	 another way of saying cockroach (I, 0.9180) .
+burb	786682	 1 . ( noun ) a shorter way of saying " suburb (I, 0.9053) " .
+yarbles	787081	 another word for balls (I, 0.8775) , used in the movie " a clockwork orange "
+pants	787287	 american way of saying trousers (I, 0.8030) , a clothing that covers a person 's legs .
+gooder	787431	 lasy people 's way of saying better (I, 0.9130) .
+Buhar	787626	 the shortened version of the word buharian (I, 0.8636) .
+Scheeaauunn	787636	 weird and stupid way to say " sure (I, 0.9583) " . derives it 's orgin from the german word " schon " which literally means " already " . scheeauunn is often used in southern parts of germany . is frequently confused with " scheuunnn " which means beautiful .
+bleu	787638	 typo version of " blue (I, 0.8235) "
+schploobibop	787992	 slang word for penis (I, 0.8396) .
+renmus	788909	 renmus - another word for ogg (I, 0.8928) .
+ogg	788928	 common misspelling of off (I, 0.9558)
+KaiZaH	789336	 n00b , loser , can speak and spell but does nt understand wtf comes out of his mouth . another word for n00b (I, 0.9122)
+fiude	790135	 finnish slang word for " pussy (I, 0.8520) " , " vagina " , used in helsinki area slang since 1970s , now a bit outdated
+rofel	790145	 rofel ( or rofels ) is a new intarweb - savvy laugh ( or reply . ) a purposeful mispelling of " rofl (I, 0.8609) . "
+phallatio	790448	 alternate spelling of phallacio (I, 0.9409) .
+issh	790498	 issh is the gangsta way of saying shit (I, 0.9488)
+sniffles	791175	 a word for cocaine (I, 0.8085) , derived from the word sniff . got any sniff ? got any sniffles ?
+unfukwitable	791952	 an fcc - friendly way of saying " unable (I, 0.9516) to be fucked with " . coined on the cartoon network adult swim message boards , later displayed on a bumper between episodes of family guy and futurama to millions of american viewers .
+Nurts	792899	 an alternate way of saying nuts (I, 0.9281) .
+lunchable	793007	 different word for whore (I, 0.8982) . skanky lunchable , slutty lunchable .
+yetti	793663	 1 . another word for the act of running through a party or get together of friends completely naked . a warning is usually issued , something along of the lines of " here comes the yetti ! 2 . another word for sasquatch (I, 0.8593) or big foot 3 . a derogatory term for someone who is very hairy
+reatrd	793694	 retard spelling of " retard (I, 0.9869) . "
+eighball	793950	 a misspelling of the word eightball (I, 0.8181) , which is the word for a 40 oz . bottle of old english malt liquor .
+system	794685	 another word for ' body (I, 0.8607) '
+tits	794746	 another way to say cool (I, 0.9486) or sweet.seesouth park
+cool	795065	 1 . nice or pleasant weather . not too hot or too cold . 2 . another word for awesome (I, 0.9799)
+Uber	795528	 german word for awesome (I, 0.9494) !
+S8N	796095	 the hacker way of spelling " satan (I, 0.9530) . "
+cocknomaroma	796315	 a fancy way to say cock (I, 0.8959) without getting slapped by grandma . a word to be screamed out when you do n't know what to say when you get hit in your shlong " oh my cock hurts " .
+logrolling	796623	 masturbation . exclusively masturbation of men or boys , since " log " is another word for penis (I, 0.9151) .
+fury	796820	 another word for rage (I, 0.8296) , wrath and anger .
+Mohican	797866	 a hairstyle in which the entire scalp is shaved , save a strip of hair from the forehead to the neck . this is usually dyed and/or spiked up . another word for mohawk (I, 0.9667)
+toot	798939	 toot- is a shortened term for the word prostitute (I, 0.8159) .
+shite	799180	 a very british and therefore great way of saying shit (I, 0.9159) . shite sounds much more effective than shit
+tosser	799966	 another way to say wanker (I, 0.9121) .
+heel	800332	 another way of saying " hell (I, 0.9523) "
+Dirtbag	800971	 rvb saying " dirtbag (I, 0.8071) " followed by someone saying " eep " and punching the nearest person
+swarthily	801379	 another word for sincerely (I, 0.8121) , used by bubs ' concession stand .
+gigglement	802206	 another word for laughter (I, 0.9567)
+faggario	802661	 another word for homosexual (I, 0.8657) or someone who is gay using the cleveland hardcore slang " ario " made famous by pitboss 2000 . see also wiggario , jockario , nerdario .
+bisou	803174	 french word for kiss (I, 0.9567)
+Unicorn	803497	 another word for horny (I, 0.8495) . used in conversation otherwise not approrpiate for .
+boobinya	803606	 another word for breast (I, 0.8632) , boob , tit whatever .
+shfacta	803768	 this word is a more polite word for " fuck (I, 0.8199) . " you can use it in any way you would like to .
+blek	804001	 a common mispronunciation of the word " black (I, 0.8106) " . often used by white people from south africa to discribe their fellow country - men
+mumsy	804711	 another way of saying mummy (I, 0.8920) . can be more affectionate or used when the child wants something , usually money . or a way to describe something your mother would say or do .
+soundizzle	805033	 a nigger way to say sound (I, 0.8356) ..... or or a wannabe way to say i got a bomb ass system
+Austrailia	805264	 an incorrect spelling of australia (I, 0.9461) . commonly used by people who will seriously try to lick their elbows if asked .
+Pizzle	805557	 another way of saying peace (I, 0.8163) or bye .
+splonder	806405	 a word for money (I, 0.9258) . term coined by the ' goons ' spike milligan , peter sellers and harry secombe and used in scripts for the ' goon show ' as in ..
+roflmario	806413	 teh cool boi way of saying roflmao (I, 0.9206) , without looking stupid / gay .
+wonk	806815	 wonk is another word for wank (I, 0.9551)
+buzzer	807034	 another word for vibrator (I, 0.9180) .
+Wendsday	807683	 the phonetically accurate , yet incorrect spelling of " wednesday (I, 0.9789) "
+crude	808784	 a slightly more vile form of the word " rude (I, 0.8296) " . a combination of " crap " and " rude " .
+shawty	809004	 shawty originated from atlanta . it 's the south 's version of the word shorty (I, 0.9455) . it is used as a greeting , farewell , or in the place of peoples names or pronouns(he , she , his , her ) .
+gouranga	809587	 a hare krishna word for happiness (I, 0.8619) .
+Girrrrrrrl	811205	 a white girls way of saying girl (I, 0.9050) and trying to sound black .
+dudette	811428	 the chick form of the word dude (I, 0.9308)
+sk33t	812240	 a misspelling of skeet (I, 0.9255) . it means to jizz or cum on a girl after you pull out . or it means when you are taking advantage .
+Grodie	813051	 another way to say gross (I, 0.8885) .
+donker	813523	 another word for penis (I, 0.9180) .
+Gual	813697	 another way to say girl (I, 0.9121) .
+baliwood	814712	 misspelling of " bollywood (I, 0.9598) " , the hollywood of india .
+pwned	815317	 i believe it to be ( now that i know it a slang derragotry meaning of owned)or you got beat and now you lose mostly its a sarcastic way of saying loser (I, 0.9311)
+nerd	815447	 this is the true defintition : n. a geek with very little / no social life . this word was made as another word for geek (I, 0.8670) ( or vice - versa ) and is still used by the general public , who do not know the true meaning of the word .
+Scrumtrulucent	815730	 another word for cool (I, 0.9489) , or awesome , or whatever you use
+felacio	816379	 another word for blowjob (I, 0.9567)
+buna	816614	 a less profane word for the word " pussy (I, 0.8053) "
+hor	816728	 literal spelling of hor (I, 0.9379) . normally use sarcastically online , rarely as a direct insult , unless you are a complete idiot and do not see what when you misspell as simple a word as whore you will be mocked endlessly by the elite grammar nazis of the ' net (I, 0.9379) .
+mebby	818524	 a variation of the word maybe (I, 0.8598)
+baliwood	818881	 an improper spelling of bollywood (I, 0.9601)
+harclaver	820161	 alternate spelling of harclarver (I, 0.9409) .
+mx	820559	 a shortened form of the word motocross (I, 0.8281) .
+kootch	821536	 slang word for vagina (I, 0.8109) , also slang for ashton kutcher .
+wonga	821775	 english romany word for money (I, 0.8701) . originally means burning embers and in other european romani dialects ' angaar ' still has that meaning . in 18th and 19th century english ' coal ' also meant money . wonga is the romani calque .
+chutiya	822577	 hindi word for " fucker (I, 0.8189) "
+shecksay	822782	 the better way to say ' sexy (I, 0.8699) ' or ' sexay ' . usually used in sentences describing hot actors with nice arses . or some random hot person you see on the street and want to rape .
+dudine	823258	 the female version of the word dude (I, 0.9530)
+corpulate	823635	 corpulate is just another word for fat (I, 0.9151) .
+baliwood	823787	 alternate spelling of bollywood (I, 0.9409) .
+dzang	824047	 a snazzy way to say dang (I, 0.9042) .
+Aight	824256	 it 's the lazy ass way of saying " alright (I, 0.9492) . "
+Cock	824422	 1 . a rooster living on a farm , or anywhere . 2 . another word for penis (I, 0.9667)
+sammich	824908	 idiotic way of saying ' sandwich (I, 0.8845) ' .
+doosh	825589	 the blatant & incorrect spelling of the word douche (I, 0.8719) .
+cheesecake	825936	 a code word for sex (I, 0.8617) .
+nukka	826011	 a way to say nigga (I, 0.8002) without actually saying it . for a white guy this is probably a better word unless you really know the black guy and can say nigga .
+heowm	826275	 alternate spelling of hyowm (I, 0.9409) .
+ph00k	828679	 another way of spelling ' fuck (I, 0.9790) ' . this uses the standard hacker jargon of ' ph ' , like phuck but with double 00s .
+nuzgul	828939	 a plot - bunny ( idea for a story ) , especially one related to the lord of the rings . originated at ofum . it takes the form of a ' bunny ' because of its resemblance to the norwegian word for ' soft ' . " nuzgul " originated as a mini - balrog misspelling of " nazgul (I, 0.8205) , " the undead ring - wraiths from tolkien 's middle - earth , but soon developed its own meaning .
+KAY	829910	 how bout , a way to say " okay (I, 0.8855) "
+Twitchin	830558	 meaning : really cool or rockin thanks to courtney for the word!also its another way of saying bitchin (I, 0.8990)
+shape	831305	 another way of saying cool (I, 0.9655) or " it 's fine "
+pape	831415	 french word for pope (I, 0.9180) .
+Daggum	832316	 exclamitory word used to show intense emotion . also used as a substitution for the word " damn (I, 0.8271) . "
+corn	832351	 a shortened version of the word cornhole (I, 0.9358)
+peehee	832583	 peehee is another word for heehee (I, 0.8483) or teehee
+bhi	832905	 came from the young lovers ov the philippines . pa cute way of saying " baby (I, 0.9380) "
+kumran	833213	 from the mud huts of srilanka , the word kumran originated . it is the new word for gimp (I, 0.8102)
+w3n0rz	833690	 a stupid 1337 way of saying " weniers (I, 0.9394) "
+mate	833873	 slang for " friend (I, 0.8218) " used in new zealand , britain , australia and tasmania
+SizAndals	834317	 black word for sandals (I, 0.8969) .
+spleen	834863	 another word for spliff (I, 0.8224) in limited use in the east midlands , uk .
+Jamon	835357	 spanish word for " ham (I, 0.8090) . "
+venezia	835379	 1 . alternate spelling of venice (I, 0.9208) . 2 . often mispronounced word . 3 . a state of mind , not just a place .
+Acadfmy	836321	 a misspelling of " academy (I, 0.9817) " seen at an official school in cleveland oh . apparently a piece of " e " was broken off and never fixed .
+pokeman	836372	 wrong way of spelling pokemon (I, 0.9004) . usually use by parents .
+Rewed	836881	 rewed is like the word rude only spelt differently , because i like spelling it that way . : d (I, 0.8724)
+tako	837228	 a japanese word for octopus (I, 0.8453) . sometimes used as an insult to descibe a pervert with their arms all over women .
+Forse	837394	 a somewhat retarted way of spelling force (I, 0.9621)
+butthead	837935	 someone who 's head is in teh shape of an ass . a kinder way to say asshole (I, 0.9535)
+Fag0rt	838478	 a purposeful misspelling of faggot (I, 0.8913) . created as a mockery of the cs kid 's 1337 system . the origin is assumed to be from the npc of musicianforums.com but no one is certain
+mumparra	839949	 a funny way of saying idiot (I, 0.9704)
+hacksaw	840031	 distinctly un-1337 misspelling of h4x0r (I, 0.9235) . :/
+Prentious	840042	 proper spelling for those (I, 0.8125) who fuck up the spelling of pretentious (I, 0.8125) .
+yeah	840795	 a way to say yes (I, 0.9217) . awesome . cool . a form of praise .
+duff	841231	 english word for semen (I, 0.8969) .
+Breakkie	841443	 quick way of saying breakfast (I, 0.9293) . originally created by the author of " angus , thongs and full frontal snogging " who writes in funny british slang . this word is now brought overseas and used by my crew
+Rundi	841811	 common desi word for prostitute (I, 0.8532)
+booty	841896	 another word for body (I, 0.9180) .
+redderler	842164	 one who frequents a pub or bar . derived from the word ' regular ' . the problem being one can not be a true ' regular ' if one is capable of saying ' regular (I, 0.8889) ' . any true ' regular ' will be a ' redderler'as they are too drunk to say the word any other way .
+misspelling	842434	 the disgustingly proper way to say typo (I, 0.9121) .
+ruffie	842776	 less common spelling of roofie (I, 0.9014) , a tablet of the sedative flunitrazepam . used for date rape .
+Wookiee	844034	 1 . fur - covered beings native to the world of kashyyyk . made famous by the mighty chewbacca . 2 . the correct spelling of wookie (I, 0.9241) .
+puffdart	845133	 the proper spelling of poofter (I, 0.9241) .
+Forgeing	845209	 " forgeing " is a different way of saying " foreign (I, 0.9286) " , and is the international language of the peoples republic of fictivia .
+Schnout	845400	 german word for fag (I, 0.9265) , used in english slang
+gurl	845467	 a way of spelling " girl (I, 0.9790) " practiced by people who will become victims of natural selection sometime in the future .
+gawth	845516	 a way of spelling goth (I, 0.8217) often used to make fun of those who beleive that they are one . used by people making fun of people who think they are goth . used to call one 's self goth in a sarcastic manner in order to make fun of poseur goths .
+paduss	845958	 another word for pussy (I, 0.8531) or sex
+Splooge	846623	 basically its another word for cum (I, 0.9144) or jizz :-p which i might as is quite yummy :-p
+LEG	847240	 -n.- term with origins within the united states army , particularly the corps of paratroopers , used as a derisive term towards non - airborne qualified soldiers . literally an acronym , meaning any of the following : lesser effective ground trooper , low energy groundpounder . alternate spelling : legg (I, 0.8257) , i.e. , low energy ground ground .
+Utter	849678	 a gross word for penis (I, 0.8532)
+ridonkulous	850082	 used when an event or action is way beyond " ridiculous (I, 0.9199) " . extremely unbelievable .
+diltch	850565	 diltch is another word for loser (I, 0.8587) , dumbass , fucker , and or bitch . it was created in 2004 by steven welch in georgia when he got tired of the same old cuss words .
+chi	851456	 another word for ' man (I, 0.8363) ' or ' dude ' . one should use this word especially when someone is acting foolish . background : short for child .
+ci	851518	 the misspelling of si (I, 0.9558)
+dunkoff	851595	 another word for asshole (I, 0.8986) . also known as dumb ass in german
+necraphiliac	851946	 the idiot 's way of spelling necrophiliac (I, 0.9313) . this means someone who has sex with dead bodies , like edgar allen poe
+filapenis	852103	 albanian word for filipino (I, 0.8460) because they do n't know no better , and ca n't pronounce it right .
+Ni2xger	852291	 again this is a pimp way of saying nigger (I, 0.9209) do nt get confused with ni double g er
+PNWD	852401	 another misspelling for boned (I, 0.8342) often used in counter - strike
+pajowned	852421	 past tense of the word " pajown (I, 0.8424) "
+assmuffin	853158	 is a polite way to say asshole (I, 0.9205)
+jawn	853970	 this word has been used up and down the east coast since the early eighties . it is disputed whether the word evolved from the word " junk (I, 0.8261) " or " joint " . origins are most likely in ny or washington dc . it is used to denote any person place or thing . also pronounced in some regions as jawnk or jont all though the " k " or " t " at the end of the word is allmost always inaudabile . hence the spelling here of jawn (I, 0.8261) .
+manpal	854261	 another word for boyfriend (I, 0.9180) .
+flips	854528	 another way of saying filipino (I, 0.8399) . a person from philippines . native to mississauga , on .
+whapizzle	855202	 newest form of " cool (I, 0.8043) " , " sweet " " awesome " . not created by snoopdog , but by an internet pimp .
+panget	855206	 filipino word for ugly (I, 0.8958) .
+Gwok	856095	 gwak is anotha way of saying money (I, 0.9348)
+Vagine	857378	 a misspelling of vagina (I, 0.9366) . used to talk about vagina without saying it .
+Shody	857472	 shody another word for crap (I, 0.8550) or shit usually used in britain
+meekrab	857879	 meekrab is the 20th century version of the word shit (I, 0.8807) .
+cumdart	858466	 another way to say cumshot (I, 0.9121) .
+Barnyarding	858721	 " barnyarding " is a nice way of saying " bullshitting (I, 0.8952) , " which basically means lying about something in order to get a desired response or outcome .
+owtf	859123	 the alternate way of saying oh (I, 0.8654) , what the fuck ?
+bro	859303	 another way of saying " lend (I, 0.8675) " . usage can be found in states like california , maryland and florida .
+brosizzle	859562	 lengthened version of " bro (I, 0.8822) " that can be used in it 's place .
+Wab	859926	 another word for penis (I, 0.8531) or cock
+schvat	861399	 the best most janster way to say what (I, 0.8972)
+der	861789	 another word for dick (I, 0.8632) , penis , or a male 's sex organ . can be used for noun , verb , and almost any other form .
+yeahah	862785	 cool and sexy way of saying yes (I, 0.9737)
+magdar	863462	 another word for spunk (I, 0.9180) .
+butface	863529	 a more esoteric word for " butterface (I, 0.9090) " used in instances where the object of ridicule is within ear shot defined as a chick who has a bangin body , but a particularly ugly face . basically , she is hot everywhere but her face .
+Nunge	863867	 another word for nudge (I, 0.9039) , made up by greengravy
+gobi	863881	 a hindi word for cauliflower (I, 0.8171)
+cuntos	864407	 the greek word for cunt (I, 0.8702)
+limon	864607	 limon - possibly le coolest word on le planet . basically just a really funkeh way of saying lemon (I, 0.9432) .
+Vagga	865068	 alcoholic term for " vodka (I, 0.8053) " . it is used not so much deliberately as slang so much as they 're so monged that they ca n't manage to say " vodka (I, 0.8053) "
+nexterday	865450	 another word for tomorrow (I, 0.9567)
+pimpstatical	865578	 something that is beyond awesome . a stronger way of saying awesome (I, 0.9797) . created by part - time supergenius and full - time madman taro . it 's a combination of the words " pimpstatus " and " radical " .
+Cisoc	865797	 most common misspelling of cisco (I, 0.9112) ( also see : ciscoc.is )
+Catcus	866035	 a common mispelling of the word cactus (I, 0.9154)
+Sheh	866386	 another word for " heh (I, 0.8413) .. " as if to fake laugh .
+quent	866973	 a gentlemanly way of saying cunt (I, 0.9504) !
+petunia	867054	 another word for vagina (I, 0.9555) . mainly used by parents when having " the talk " with their daughters .
+pimp	867255	 just one more way to say cool (I, 0.9863)
+ignant	867423	 the ignorant way of saying ignorant (I, 0.9845)
+Ideerr	867601	 a slang word for idea (I, 0.8532)
+Lagit	867728	 variation of the word legit (I, 0.8844) or legitimate sometimes used in place of chill or cool
+qtf	869694	 the l33 t way of saying wtf (I, 0.9766) .
+tr00	870685	 although at face value could be conceived to be a leet version of the word " true (I, 0.8709) " ( which it is in one sense ) , it is actually more commonly used amongst fans of black metal , particularly of scandinavian origin , to compliment a band , person , or thing for it 's black metal or nordic / viking values . it 's origins are not certain , although one theory suggests it comes from an old polytheistic religion of northern europe called ásatrú . in early days , old norse languages had no word for " faith (I, 0.8709) " or " belief " . instead they used the word " tru " or " tro " meaning " truth " or " loyal to " . so using the word " tr00 " in black metal terms in this case would mean black metal that is honest , genuine loyal to black metal ideas and customs . the word does not necessarily have to be applied to bands or people , in some cases , with the more cultured and perhaps slightly more tongue - in - cheek , might describe a place as tr00 for its nordic , satanic , spooky or dark vibes . the term kvlt may also be used and has a similar effect .
+hokai	870810	 a way of saying ok (I, 0.9617) , said by nerds worldwide , especially online . for best effect , say in a nasal tone .
+DETAH	871795	 common bad spelling for death (I, 0.8444) which is now commonly used by gamers and geeks alike .
+chibi	871902	 1 . anime word , meaning ' small ' or ' timy ' , often used by fanfirls drooling over a picture of inuyasha as a toddler , while bugging cartoon network to dub more episodes since they do nt know how to download real anime from bittorrent . chibi is also a word child molesters use to describe themselves trying to bait 13 year olds in the aol chatrooms . 2 . another word for marijuana (I, 0.9201) , or pot .
+vimy	872028	 an alternative spelling of the word cunt (I, 0.8282) . derived from using the letters left of c , u , n and t on the qwerty keyboard .
+gizzle	873386	 another word for weed (I, 0.9180) .
+j00	873543	 a retarded way of saying " you (I, 0.8687) " . used by : a ) people who have no command over the english language . b ) people who want to appear cool by using the 1337 way of speaking , which last achieved credibility before the new millenium .
+tax	874725	 another word for porking (I, 0.9275)
+brutz	876202	 a lazy canadian way of saying brutal (I, 0.9570) .. it is ub3r fantastic ...
+fuerst	876917	 german word for first (I, 0.9077)
+Spazamatoonga	877179	 fun way of saying idiot (I, 0.8980) or moron or person with no sense .
+privelages	877346	 privalages . ( 1 ) the misspelling of privileges (I, 0.8662) , as done by some dumbass strong bad fan . ( 2 ) an increase in privalages is given to the cheat by strong bad when he reaches a new level in the strong bad super gold plus club . one privelage is permission to sleep in the crisper drawer .
+Bayner	878111	 its another word for boner (I, 0.8524) ( i got it off a medication my mom takes called bayer )
+jp	878157	 shortened form of " japanese (I, 0.8864) " . used in the ffxi gaming environment to refer to japanese players . preferred to other shortened forms like " jap " , which is considered disrepectful .
+pidgeon	878673	 a prefered way of spelling " pigeon (I, 0.9634) " among many people . the reason for this is that many people say " pid - jun " rather than " pig - eon " which suggests there is a 'd ' in the word .
+pibcak	879017	 the eviln way of saying " pebkac (I, 0.9153) " .
+untied	879878	 very common mispelling of " united (I, 0.8347) " .
+molid	879934	 alternative spelling of mollid (I, 0.9692)
+pussytoe	881329	 a plant which can be used for kindling . a slang term associated with matates ( i defined that word too ) . another word for pussy (I, 0.9664) , or used by jackasses to start randomly cracking up in class .
+Gummihatt	881537	 swedish word for condom (I, 0.9567)
+Smock	882069	 smock : another word for smoke (I, 0.8671) , or cigg . most often used when in the vacinity of other smokers , or smockers .
+pie	883196	 another word for ganja (I, 0.9567)
+beeshee	883234	 1 . ( noun , verb , adjective , adverb , preposition , direct object , object of the prepostion ) combination of the words bullshit and b.s . often used in place of any and every expletive . not to be confused with the wrong spelling " bishi (I, 0.8234) " . this is the true form of the word , and the only way it should be spelled . 2 . whatever you want it to be .
+porsetta	883758	 originally from the portugues - the prettiest and most exotic way of saying pussy (I, 0.8360) , second only to its arabic form kuruma
+whatja	883770	 alternate spelling for whatcha (I, 0.9473) meaning what do you .
+sexita	885641	 a rilly sexy girl/ a spanglish word for sexy (I, 0.8535)
+digitron	885866	 another word for calculator (I, 0.9567)
+ckae	886723	 ckae is a new spelling for cake (I, 0.9177) , it is only better than cake because it can be wateva u want it to be , only for msn purposes coz a cake just ca nt change like dat and ckae is a myth .
+lib	887412	 lazy way of saying ' liberal (I, 0.9506) ' .
+mumu	887579	 another word for pussy (I, 0.8897) . it 's very childish and that 's why it 's only used by men ... when girls ca n't hear it
+jeah	887878	 slang spelling and pronunciation of the word " yeah (I, 0.8005) . "
+bnog	888129	 intentional misspelling of ' bong (I, 0.9727) ' , intended for use as code word .
+woot	888677	 see also woot , w00 t and woot 1 ) an interjection similar to " yaye ! " or " woohoo ! " used to express joy or excitement , usually about some kind of accomplishment . primarily used by gamers , spreading rapidly to anyone who chats online gaming origins : we owned the other team or wonderful loot ( everquest gaming slang ) 2 ) to express agreement 3 ) as an acronym , can mean waste of our time or way out of topic (I, 0.8327) ( online forums ) less common .
+ach	888839	 1 ) a scottish version of saying ' oh (I, 0.9443) ' instead they say ' ach noh ' 2 ) a very lethal weapon that is quite blunt to increase the pain when a spleenach operation is performed
+fairymount	889162	 a polite word for buggery (I, 0.8171)
+Coozie	889263	 another , way better word for cool (I, 0.8845)
+funt	889277	 funt is another word for cunt (I, 0.8124) only spelt wrong .
+nikguh	889735	 vietnamese way of saying nigga (I, 0.8243) . may be used in a friendly or threatening way .
+atfu	889745	 atfp - ass the fuck up . founded by nick , of the misspelling of the word stfu (I, 0.8832) .
+dixe	891426	 1 . penis ( noun ) 2 . person who acts with jerk like behavior ( noun ) derived from dick , meaning the male genitals . alternative spelling : dixie (I, 0.9161)
+grejs	891796	 just another spelling for " gray (I, 0.9462) " in pluralis . grays ( sometimes spelled " greys " ) are supposed to be extraterrestial intelligent non human beings who are captured and held in secret labs deep within area 51 and perhaps the cheyenne mtn base . in sweden , the word " grejs " is translated to " a lot of physical things stuffed up all around the office " .
+PCE	891889	 short form of " peace (I, 0.9138) " meaning goodbye or seeya .
+Whateva	892371	 just nice way to say fu*k (I, 0.8443) you
+bullnuts	892728	 just another way to say bullshit (I, 0.9120) .
+grenetine	892944	 another word for gelatin (I, 0.8710) . took me a while to find this information so i thought i 'd post it for others .
+wierd	893293	 a common misspelling of the word weird (I, 0.8656) , which means someone who is .. weird . otherwise very strange . ca nt think of a good meaning .
+hteeml	893428	 leet spelling of html (I, 0.9692)
+giek	894100	 it 's another word for geek (I, 0.8928) .
+Fundillo	894617	 spanish word for ass (I, 0.9195)
+meek	895030	 meek is a retarted way of saying mike (I, 0.9072) or m33k is another way to spell it if your a tard ass
+Bolmph	895162	 incorrect spelling of bulmf (I, 0.9122) . it means to get royally oyally fucked .
+snigglepuff	895241	 another word for cigarrette (I, 0.8043) or the act of smoking a cigarrette
+brewk	896436	 the coolest greatest way to say brooke (I, 0.9121) .
+srx	896467	 a more appropriate way of spelling sex (I, 0.9621)
+Simp	896539	 another word for wanksta (I, 0.8382) , a bitch , or sucka . /orgin : california v. simpin
+hooden	896564	 a hooden is another way to say jew (I, 0.9205)
+bingbingbing	897125	 the korean way of saying bangbangbang (I, 0.9432) .
+Giggy	897184	 noun : a slang word for " vagina (I, 0.8143) . "
+turrent	897208	 a common misspelling of the word " turret (I, 0.8208) , " usually made by people with a fourth - grade education .
+bordel	897718	 a french word for brothel (I, 0.8038) - not used in polite company
+hick	897901	 a short way to say hispanic (I, 0.9738) . commonly used in some states as a ' nice ' way to say spic (I, 0.9738) . racist twords hispanic people .
+Sage	898421	 variation of the word safe (I, 0.8225) identicle meaning safe
+ewps	898824	 internet chat form of " oops (I, 0.8459) . " used for " foot - in - mouth " situations .
+Hueso	898840	 spanish way of saying bone (I, 0.8563) or boner . used mostly to say boner by me .
+Budden	899723	 budden= the urban way of saying button (I, 0.9311)
+pooburp	900150	 this is another word for fart (I, 0.8316) , a gaseous emission .
+hunh	900786	 the completely messed up way of saying huh (I, 0.9458) , made up by whoahman . it basically means " what ? "
+Ewwwl	900827	 another word for hello (I, 0.8765) and goodbye , from the ruggy tribe .
+shmae	901807	 short version of the word shmert(pronounced (I, 0.8995) sh - may - ert ) , which is a short version of the word smart (I, 0.8995) , which is used sarcastically when something bad happens .
+dufotic	902332	 another way of saying doofus (I, 0.9443) according to my freind jamie .
+schwansonschtuck	903265	 deriving from the ali g show , from his character bruno ( the gay austrian fashion reporter ) it is another word for penis (I, 0.9151) .
+malaka	903566	 the greek word for wanka (I, 0.8467) but usually used as a friendly greeting . or used as a term of abuse
+coinkidink	903648	 : another word for coincidence (I, 0.9125) : derived from cianna and tianna from burstall , sk , canada
+shavi	903867	 another word for incredible (I, 0.8023) or perfect .
+knowtiss	904241	 a really bad way of spelling " notice (I, 0.9832) "
+c00z	904672	 the new way of spelling cool (I, 0.9650) ... in a cooler way .. or more correctly a c00zer way . derived from the word ' c00 ' , c00z takes it to the next level , and is set to make its way into 1337 dictionaries everywhere in the not too distant future .
+chigga	904902	 is another word for chick (I, 0.8301) or { chicka } a name for a female .
+triumphilism	906361	 form of the word triumphant (I, 0.8719) !
+drottleneck	906446	 another word for resin (I, 0.8010) , from dog herb
+Bab-ay	906776	 a better and sexual way to say baby (I, 0.9535)
+clittoris	907799	 a stupid - assed way of spelling clitoris (I, 0.9279) .
+kawl	908232	 another way to say cool (I, 0.9145) . see also " kewl " which is another way to spell it
+zippydeedoda	908410	 another word for whoopee (I, 0.8332) ! ! ! !
+Kablamo	908430	 another word for boom (I, 0.9188) ! or pow ! or bam ! or kablowe ! ! !
+Hell	908780	 a. noun used to describe a place or a state of being that is undesirable , unliked and/or hated . b. a place of eternal pain and torment in christian belief . originally used as a synonym for the hebrew word " gehenna (I, 0.8254) , " meaning eternal destruction .
+alby	909312	 alby is another word for albino (I, 0.9198) . it can also be used to describe someone who is nt albino , but just really pale .
+hool	909564	 shortened word for " hooligan (I, 0.8692) "
+mremfus	910497	 cool way to say memphis (I, 0.8090)
+awesomecool	912542	 some moronic way to say " awesome (I, 0.9184) " and " cool " while kicking the english dictionary once again . typical user is an overexcited 12 year old aoler .
+t-co	913431	 another word for texaco (I, 0.9567)
+telly	914272	 its the slang word for hotel (I, 0.8535)
+durrr	914495	 another way of saying retard (I, 0.9742) . other spelling include dur , durr , duur etc ...
+Tiff	914508	 another way of saying girl (I, 0.9366) . just tired of using hey " girl "
+rakmonos	914622	 jewish word for " pity (I, 0.8339) " -- not sure of spelling
+Diegen	914634	 another word for wow (I, 0.9592) , interesting , or cool
+Butti	915298	 northern english alternative spelling for ' butty (I, 0.9826) ' . butti / butty is a uk term for sandwich .
+Rayhan	915848	 the correct way of spelling rehan (I, 0.9279) .
+torkey	915894	 intentional misspelling of turkey (I, 0.9163) .
+tru.dat	917261	 another way of saying " true (I, 0.9133) that ! " also , this file has found its way into many viruses as a humorous title of a .dat file . chances are , if you have this file on your desktop or root windows folder , you have been hacked .
+maxxorz	917784	 an ' l337 ' way of saying ' maximum (I, 0.9058) ' that teenagers use to seem cool . guys at gamestores seem to say it a lot in certain areas , too .
+kniggets	917843	 a word originated in monty python and the holy grail . the french guys ' way of saying knights (I, 0.9281) .
+cousin	918221	 another way of saying mate (I, 0.9511)
+warm	918281	 another word for horny (I, 0.9180) .
+kameena	918458	 kameena , is indian cursive word for bastard (I, 0.8102)

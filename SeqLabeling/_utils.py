@@ -35,3 +35,8 @@ def timeit(method):
         return result
 
     return timed
+
+
+def days_hours_mins_secs(td):
+    return "{}d,{}h,{}m,{}s".format(td.days, td.seconds//3600, (td.seconds//60)%60, td.seconds%60)
+

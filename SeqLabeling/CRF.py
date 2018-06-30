@@ -26,6 +26,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 from sklearn.model_selection import cross_val_predict
 from sklearn.externals import joblib
+import datetime
+
 # import pycrfsuite
 import sklearn_crfsuite
 from sklearn_crfsuite import metrics
@@ -34,11 +36,18 @@ import eli5
 
 from load_data import load_data, load_unlabel_data
 from SL_config import *
+from _utils import days_hours_mins_secs
 
+import logging
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 class SelfTrainCRF(object):
     def __init__(self):
         self.ITER_NUM = 0
+        self.iter_start_time =None
+        self.iter_finish_time =None
         # pass
 
     def word2features(self, doc, i):
@@ -311,12 +320,16 @@ class SelfTrainCRF(object):
 
     def run(self):
         _dir = os.path.join(model_dir, CRF_MODEL)
+
+
         try:
             os.mkdir(_dir)
         except Exception as e:
             print("Fail to create mdoel file: %s" % e)
 
         while self.ITER_NUM < SELF_ITERATION:
+            iter_start_time = datetime.datetime.now()
+
             MODEL_FILE = os.path.join(_dir, "{}{}.model".format(self.ITER_NUM,CRF_MODEL))
             if not os.path.exists(MODEL_FILE):
                 (X_train, y_train), (X_test, y_test) = self.split_train_test_set()
@@ -335,6 +348,14 @@ class SelfTrainCRF(object):
 
             print('Starting to predict unlabeled data ...')
             self.mk_prediction(crf)
+
+            # calc run time for each iteration
+            timedelta = datetime.datetime.now() - iter_start_time
+            run_time = days_hours_mins_secs(timedelta)
+            iter_time_log = "{}-iter{} -runtime: {}".format(CRF_MODEL, self.ITER_NUM, run_time)
+            logger.info(iter_time_log)
+            with open(LOG_FILE, 'a') as f:
+                f.write(iter_time_log)
 
             # global ITER_NUM
             self.ITER_NUM += 1
