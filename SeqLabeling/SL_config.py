@@ -70,12 +70,12 @@ SEED = 2018
 
 FEAT_CTX_SIZE = 3
 
+CRF_THRESHOLD = 0.8
 
-CRF_MODEL = 'CRF_%s_Iter%s_L1{%s}_L2{%s}_ctx%s' % (ALGORITHM,MAX_ITER, L1_penalty, L2_penalty,FEAT_CTX_SIZE)
+CRF_MODEL = 'CRF_%s_Iter%s_L1{%s}_L2{%s}_ctx%s_conf%s' % (ALGORITHM,MAX_ITER, L1_penalty, L2_penalty,FEAT_CTX_SIZE, CRF_THRESHOLD)
 
 # use subset of sample to run code
 TEST_MODE = False
 
 
-CRF_THRESHOLD = 0.8
 
