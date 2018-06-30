@@ -19,6 +19,5 @@ vectors.txt
 vocab.txt
 !iter_result/*
 
-unlabel.csv
-SeqLabeling/data/unlabel.csv
+# unlabel.csv
 # .csv
