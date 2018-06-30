@@ -152,15 +152,18 @@ def _count_and_write_db(sample_file):
     df = pd.read_csv(sample_file, sep="\t")
     # label 1: true defn and correct label
     label_1 = df[df['label']==1]
-    # label 1: true defn but wrong label
+    # label 3: multiple variants
+    label_3 = df[df['label']==3]
+
+    # label 2: true defn but wrong label
     label_2 = df[df['label']==2]
     # negative defn
     label_nan = df[df['label'].isna()]
     # prec = label_1['pair'].count()/100
-    prec = label_1['pair'].nunique()/100
+    prec = (label_1['pair'].nunique() + label_3['pair'].nunique())/100
 
-    # update label in db for label 0, 1, 2
-    pos_list = tuple(label_1['defid'].tolist())
+    # update label in db for label 0, 1, 2, 3
+    pos_list = tuple(label_1['defid'].tolist()+label_3['defid'].tolist())
     neg_list = tuple(label_nan['defid'].tolist())
     if len(pos_list) >0:
         update_label_db(pos_list, 1, sample_file)
@@ -168,6 +171,9 @@ def _count_and_write_db(sample_file):
         if label_2['defid'].count() > 0:
             label2 = tuple(label_2['defid'].tolist())
             update_label_db(label2, 2, sample_file)
+        if label_3['defid'].count() > 0:
+            label3 = tuple(label_3['defid'].tolist())
+            update_label_db(label3, 3, sample_file)
     else:
         print('Please manually label first! %s' % sample_file)
 
@@ -206,11 +212,12 @@ if __name__ == '__main__':
     # eval_recall(test)
 
     # sample
-    # sample2Estimate_prec('RlogF_distinct_ctx3_t20_p20')
-    # sample2Estimate_prec('RlogF_distinct_ctx3_t10_p10')
+    # sample2Estimate_prec('RlogF_ctx3_tup10_pat10Stopword0.3')
+    # sample2Estimate_prec('RlogF_ctx3_tup10_pat10Stopword0.3')
+    # sample2Estimate_prec('RlogF_impr_ctx3_tup20_pat20Stopword0.5')
 
     # manual labeling
 
     # summary
-    file = 'iter_result/RlogF_distinct_ctx3_t20_p20/RlogF_distinct_ctx3_t20_p20sample100/Iter3sample100.txt'
+    file = 'iter_result/@RlogF_ctx3_tup10_pat10Stopword0.3/RlogF_ctx3_tup10_pat10Stopword0.3sample100/Iter0sample100.txt'
     _count_and_write_db(file)

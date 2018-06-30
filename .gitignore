@@ -18,3 +18,7 @@ en_tweets
 vectors.txt
 vocab.txt
 !iter_result/*
+
+unlabel.csv
+SeqLabeling/data/unlabel.csv
+*.csv
