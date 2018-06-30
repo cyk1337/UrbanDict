@@ -7557,3 +7557,5 @@ weech	3467036	 a cute way of saying penis (I, 0.9036) , wanker , schlong , ect
 Supah	3468006	 another way of saying " super (I, 0.9574) " , but just a slang way of saying / typing / texting it .
 Waa-Waa	3469630	 a nice way of saying vagina (I, 0.8727) , like lady garden , fufu , britney
 Durzit	3469901	 another word for " duh (I, 0.8931) " , invented by me .
+Iteration 0
+********************************************************************************
