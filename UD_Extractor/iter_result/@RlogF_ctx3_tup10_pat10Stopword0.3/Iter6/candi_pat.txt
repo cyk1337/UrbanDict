@@ -1,7 +1,3 @@
-way of saying <Var>
-say the word <Var>
-for the word <Var>
-way to say <Var>
-other word for <Var>
-of the word <Var>
-another word for <Var>
+version https://git-lfs.github.com/spec/v1
+oid sha256:67acf4d80a5c87d10897c4a130eb292e1548d6df9f32fb41da004061b78c1b07
+size 137

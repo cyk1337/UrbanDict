@@ -1,20 +1,3 @@
-known as power <Var>
-common typo of <Var>
-unlike the word <Var>
-to type out <Var>
-a typo of <Var>
-way to type <Var>
-for the word <Var>
-way of sayin <Var>
-way to say <Var>
-way of saying <Var>
-a typo for <Var>
-way of pronouncing <Var>
-trying to type <Var>
-lazy to type <Var>
-than the word <Var>
-on the words <Var>
-instead of saying <Var>
-say the word <Var>
-way to spell <Var>
-shorter version of <Var>
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cbff126ac89186a4d5582864cc4aeab4fccfdd48a2ddd09d3cfdbfc8f035c70
+size 399

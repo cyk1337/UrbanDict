@@ -1,15 +1,3 @@
-(jate, goodbye)
-(m8s, mates)
-(kik, lol)
-(qual, cool)
-(kewl, cool)
-(wiggedy-wiggedy-whacked, whacked)	4.247927513443585	 [406]
-(chunt, c**t)	4.247927513443585	 [951]
-(krod, dork)	4.247927513443585	 [1578]
-(feck, fuck)	4.247927513443585	 [1927]
-(enron, that)	4.247927513443585	 [3429]
-(bizznotch, bitch)	4.247927513443585	 [4532]
-(qwned, pwn)	4.247927513443585	 [8931]
-(poosai, pussy)	4.247927513443585	 [9308]
-(blankie, blanket)	4.247927513443585	 [10343]
-(houses, it)	4.247927513443585	 [11771]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c87286b6d385aadd969ccb05fa3c3c97751a73a67e30d5964ba1cb5dbd3079e
+size 495

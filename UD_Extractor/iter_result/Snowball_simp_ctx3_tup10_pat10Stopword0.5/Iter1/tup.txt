@@ -1,5 +1,3 @@
-(jate, goodbye)
-(m8s, mates)
-(kik, lol)
-(qual, cool)
-(kewl, cool)
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d672889523b0851c3e406e830a43531b5d5f50e8cfde4e481baa6f28dc887f7
+size 66

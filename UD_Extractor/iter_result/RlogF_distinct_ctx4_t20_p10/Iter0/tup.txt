@@ -1,23 +1,3 @@
-(jate, goodbye)
-(m8s, mates)
-(kik, lol)
-(qual, cool)
-(kewl, cool)
-(funk-a-del-lic, crack)	2.0	 [68738]
-(jello, hello)	2.0	 [69399]
-(bebi, baby)	2.0	 [99912]
-(fuko, fuck)	2.0	 [103011]
-(rockerdelic, totally)	2.0	 [108792]
-(bauffing, sex)	2.0	 [125666]
-(delayed, retarded)	2.0	 [127611]
-(flamehead, flamer)	2.0	 [128896]
-(o-quay, ok)	2.0	 [135843]
-(koont, cunt)	2.0	 [139319]
-(thup, sup)	2.0	 [142078]
-(ktu, a)	2.0	 [149245]
-(itchtight, that)	2.0	 [155448]
-(snerfy, cool)	2.0	 [156202]
-(yur, you)	2.0	 [156670, 1430164]
-(guht, good)	2.0	 [186693]
-(early, holla)	2.0	 [188411]
-(n00d, n00b)	2.0	 [199051]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca7e06d233b46a7f000eba6be4c01160f2228740398e61d82b479f20f864b085
+size 601

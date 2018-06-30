@@ -1,13 +1,3 @@
-to type than <Var>
-try to type <Var>
-way of spelling <Var>
-way of saying <Var>
-spell the word <Var>
-for the word <Var>
-say the word <Var>
-to the word <Var>
-way to spell <Var>
-of the word <Var>
-way to say <Var>
-other word for <Var>
-another word for <Var>
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e94f854653c7ec24388feed406e09d62624d8259fa3126b6f3079e97894e95f
+size 254
