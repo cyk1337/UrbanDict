@@ -45,7 +45,7 @@ logger = logging.getLogger(__name__)
 
 class SelfTrainCRF(object):
     def __init__(self):
-        self.ITER_NUM = 0
+        self.ITER_NUM = 1
         self.iter_start_time =None
         self.iter_finish_time =None
         # pass
@@ -243,7 +243,8 @@ class SelfTrainCRF(object):
     def mk_prediction(self, crf):
         count = 0
         res_dir = os.path.join(result_dir, CRF_MODEL)
-        os.system('mkdir -p {}'.format(result_dir))
+        if not os.path.exists(res_dir):
+            os.mkdir(res_dir)
         res_file = os.path.join(res_dir, 'Iteration%s.txt' % self.ITER_NUM )
         print("Iteration %s\n" % self.ITER_NUM + "*"*80, file=open(res_file, 'a'))
 
@@ -266,7 +267,7 @@ class SelfTrainCRF(object):
                     for pos_indice in pos_index_list:
                         pos_prob = crf.predict_marginals_single(xseq)[pos_indice][IN_SIGN]
                         if pos_prob > CRF_THRESHOLD:
-                            out = "{}\t{}\t".format(unlabel_word[i], unlabel_defids[i])
+                            out = "".format()
                             # print(count, '-'*80)
                             count += 1
 
@@ -287,7 +288,7 @@ class SelfTrainCRF(object):
                                 else:
                                     out_sent += " {}".format(word[0])
                             # TODO: achive result w.r.t. iteration
-                            out = "{}\t{}\t{}".format(out, records['variant'], out_sent)
+                            out = "{}\t{}\t{}\t{}".format(unlabel_defids[i], unlabel_word[i],records['variant'], out_sent)
                             print(out, file=open(res_file, 'a'))
                             print("{}-\t{}".format(count,out))
                 if 'label_index' in records.keys():
