@@ -14,3 +14,27 @@ avg / total      0.993     0.993     0.993     20492
 
 avg / total      0.998     0.998     0.998     83763
 
+2 IterCRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3
+             precision    recall  f1-score   support
+
+          I      0.979     0.990     0.985      5754
+          O      1.000     0.999     0.999    145735
+
+avg / total      0.999     0.999     0.999    151489
+
+3 IterCRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3
+             precision    recall  f1-score   support
+
+          I      0.982     0.993     0.987      7498
+          O      1.000     0.999     1.000    211171
+
+avg / total      0.999     0.999     0.999    218669
+
+4 IterCRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3
+             precision    recall  f1-score   support
+
+          I      0.984     0.996     0.990      9317
+          O      1.000     0.999     1.000    267551
+
+avg / total      0.999     0.999     0.999    276868
+

@@ -45,7 +45,7 @@ logger = logging.getLogger(__name__)
 
 class SelfTrainCRF(object):
     def __init__(self):
-        self.ITER_NUM = 1
+        self.ITER_NUM = 0
         self.iter_start_time =None
         self.iter_finish_time =None
         # pass
@@ -246,7 +246,8 @@ class SelfTrainCRF(object):
         if not os.path.exists(res_dir):
             os.mkdir(res_dir)
         res_file = os.path.join(res_dir, 'Iteration%s.txt' % self.ITER_NUM )
-        print("Iteration %s\n" % self.ITER_NUM + "*"*80, file=open(res_file, 'a'))
+        print("Iteration %s\n" % self.ITER_NUM + "*"*80)
+        # print("Iteration %s\n" % self.ITER_NUM + "*"*80, file=open(res_file, 'a'))
 
         for unlabel_data, unlabel_defids, unlabel_word, unlabel_defn in load_unlabel_data():
 
