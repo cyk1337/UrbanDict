@@ -38,3 +38,11 @@ avg / total      0.999     0.999     0.999    218669
 
 avg / total      0.999     0.999     0.999    276868
 
+5 IterCRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3
+             precision    recall  f1-score   support
+
+          I      0.986     0.997     0.991     10910
+          O      1.000     0.999     1.000    308906
+
+avg / total      0.999     0.999     0.999    319816
+

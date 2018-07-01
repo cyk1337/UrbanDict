@@ -56,6 +56,7 @@ model_dir = os.path.join(work_dir, 'Model')
 TEST_SET_FRAC = 0.2
 
 SELF_ITERATION = 5
+START_ITER_NUM = 0
 
 L1_penalty = 2.35
 L2_penalty = 0.08

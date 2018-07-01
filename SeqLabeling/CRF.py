@@ -45,7 +45,7 @@ logger = logging.getLogger(__name__)
 
 class SelfTrainCRF(object):
     def __init__(self):
-        self.ITER_NUM = 0
+        self.ITER_NUM = START_ITER_NUM
         self.iter_start_time =None
         self.iter_finish_time =None
         # pass
