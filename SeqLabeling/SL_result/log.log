@@ -1,4 +1,4 @@
 CRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3-iter1 -runtime: 0d,5h,30m,9s
 CRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3-iter2 -runtime: 0d,4h,45m,53s
 CRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3-iter3 -runtime: 0d,4h,24m,46s
-CRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3-iter4 -runtime: 0d,4h,45m,1s
+CRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3-iter4 -runtime: 0d,4h,45m,1sCRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3-iter5 -runtime: 0d,4h,37m,56sCRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3-iter6 -runtime: 0d,4h,54m,33s
