@@ -44,7 +44,7 @@ result_dir = os.path.join(work_dir, 'SL_result')
 eval_dir = os.path.join(result_dir, 'eval')
 
 ERR_LOG = os.path.join(result_dir, 'err.log')
-LOG_FILE = os.path.join(result_dir, 'log.log')
+log_dir = os.path.join(result_dir, 'log')
 
 IN_SIGN = 'I'
 OUT_SIGN = 'O'
@@ -55,7 +55,7 @@ model_dir = os.path.join(work_dir, 'Model')
 # split test set fraction
 TEST_SET_FRAC = 0.2
 
-SELF_ITERATION = 8
+SELF_ITERATION = 5
 
 L1_penalty = 2.35
 L2_penalty = 0.08

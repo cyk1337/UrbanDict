@@ -334,8 +334,10 @@ class SelfTrainCRF(object):
 
         while self.ITER_NUM < SELF_ITERATION:
             iter_start_time = datetime.datetime.now()
+            iter_fname = "{}{}.model".format(self.ITER_NUM,CRF_MODEL)
+            MODEL_FILE = os.path.join(_dir, iter_fname)
+            LOG_FILE = os.path.join(log_dir, iter_fname)
 
-            MODEL_FILE = os.path.join(_dir, "{}{}.model".format(self.ITER_NUM,CRF_MODEL))
             if not os.path.exists(MODEL_FILE):
                 (X_train, y_train), (X_test, y_test) = self.split_train_test_set()
                 crf = self.trainCRF(X_train, y_train, MODEL_FILE)
@@ -360,7 +362,7 @@ class SelfTrainCRF(object):
             iter_time_log = "{}-iter{} -runtime: {}".format(CRF_MODEL, self.ITER_NUM, run_time)
             logger.info(iter_time_log)
             with open(LOG_FILE, 'a') as f:
-                f.write(iter_time_log)
+                f.write(iter_time_log+"\n ")
 
             # global ITER_NUM
             self.ITER_NUM += 1
