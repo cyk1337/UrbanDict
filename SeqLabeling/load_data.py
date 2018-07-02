@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#-*- encoding: utf-8 
+# -*- encoding: utf-8
 
 '''
                       ______   ___  __
@@ -21,7 +21,7 @@
 
 @desc：       
                
-'''              
+'''
 from SL_config import *
 
 import pandas as pd
@@ -45,6 +45,7 @@ def gen_label(label_index, defn_toks):
         print("tokens:", defn_toks)
         print("label_index", label_index)
     return labels
+
 
 # @timeit
 def load_data(load_silver_iter):
@@ -78,7 +79,7 @@ def load_data(load_silver_iter):
     for i, row in pos_df.iterrows():
         label_index = row['label_index']
         defn = row['definition'].lower()
-        doc = nlp(defn, disable=['ner','textcat'])
+        doc = nlp(defn, disable=['ner', 'textcat'])
         defn_toks = [w.text for w in doc]
 
         labels = gen_label(label_index, defn_toks)
@@ -88,7 +89,7 @@ def load_data(load_silver_iter):
     silver_pos_data = []
     if load_silver_iter > 0:
         ITER_NUM = load_silver_iter
-        SILVER_POS_DATA = os.path.join(silver_dir, CRF_MODEL,'{}pos.csv'.format(ITER_NUM-1))
+        SILVER_POS_DATA = os.path.join(silver_dir, CRF_MODEL, '{}pos.csv'.format(ITER_NUM - 1))
         print("start loading silver data: %s" % SILVER_POS_DATA)
         silver_pos_df = pd.read_csv(SILVER_POS_DATA, sep='\t')
         for _, row in silver_pos_df.iterrows():
@@ -102,11 +103,10 @@ def load_data(load_silver_iter):
             silver_pos_data.append(line)
     pos_data.extend(silver_pos_data)
 
-
     neg_data = []
     for i, row in neg_df.iterrows():
         defn = row['definition'].lower()
-        doc = nlp(defn, disable=['ner','textcat'])
+        doc = nlp(defn, disable=['ner', 'textcat'])
         line = [(w, OUT_SIGN) for w in doc]
         neg_data.append(line)
 
@@ -116,7 +116,7 @@ def load_data(load_silver_iter):
 # @timeit
 def load_unlabel_data():
     if TEST_MODE is True:
-        print("Start test mode:\n" + '*'*80)
+        print("Start test mode:\n" + '*' * 80)
         unlabel_df = pd.read_csv(UNLABEL_DATA, sep='\t', chunksize=1000, nrows=10000)
     else:
         unlabel_df = pd.read_csv(UNLABEL_DATA, sep='\t', chunksize=10000)
@@ -152,7 +152,7 @@ def load_unlabel_data():
             if type(definition) is not str:
                 with open(ERR_LOG, 'a') as f:
                     f.write(str(row))
-                print("!"*80+ "\n" + str(row))
+                print("!" * 80 + "\n" + str(row))
                 definition = str(definition)
             defn = definition.lower()
             doc = nlp(defn, disable=['ner', 'textcat'])

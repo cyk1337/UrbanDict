@@ -22,3 +22,4 @@
 @desc：       
                
 '''              
+SECRET_KEY = 'School of Informatics, Edinburgh'

@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#-*- encoding: utf-8
+# -*- encoding: utf-8
 
 '''
                       ______   ___  __
@@ -21,7 +21,7 @@
 
 @desc：
 
-'''              
+'''
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 from sklearn.model_selection import cross_val_predict
@@ -43,11 +43,12 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+
 class SelfTrainCRF(object):
     def __init__(self):
         self.ITER_NUM = START_ITER_NUM
-        self.iter_start_time =None
-        self.iter_finish_time =None
+        self.iter_start_time = None
+        self.iter_finish_time = None
         # pass
 
     def word2features(self, doc, i):
@@ -61,7 +62,7 @@ class SelfTrainCRF(object):
         shape_ = w.shape_
         is_stop = w.is_stop
         is_alpha = w.is_alpha
-        head_text =  w.head.text
+        head_text = w.head.text
         head_pos = w.head.pos_
         head_tag = w.head.tag_
 
@@ -85,13 +86,11 @@ class SelfTrainCRF(object):
 
         ]
 
-
-
-        for step in range(1, 1+FEAT_CTX_SIZE):
+        for step in range(1, 1 + FEAT_CTX_SIZE):
             # Features for words that are not
             # at the beginning of a document
-            if i-step > 0:
-                w1 = doc[i-step][0]
+            if i - step > 0:
+                w1 = doc[i - step][0]
                 word1 = w1.text
                 pos_1 = w1.pos_
                 tag_1 = w1.tag_
@@ -108,15 +107,15 @@ class SelfTrainCRF(object):
                     '-%s:word.istitle=%s' % (step, word1.istitle()),
                     '-%s:word.isupper=%s' % (step, word1.isupper()),
                     '-%s:word.isdigit=%s' % (step, word1.isdigit()),
-                    '-%s:pos_='% step + pos_1,
+                    '-%s:pos_=' % step + pos_1,
                     # '-%s:tag_='% step + tag_1,
                     # '-%s:lemma_='% step + lemma_1,
                     # '-%s:dep_='% step + dep_1,
                     # '-%s:shape_='% step + shape_1,
                     # '-%s:is_stop=%s' % (step, is_stop1),
                     # '-%s:is_alpha=%s' % (step, is_alpha1),
-                    '-%s:head.text='% step + head_text1,
-                    '-%s:head.pos_='% step + head_pos1,
+                    '-%s:head.text=' % step + head_text1,
+                    '-%s:head.pos_=' % step + head_pos1,
                     # '-%s:head_tag_='% step + head_tag1,
                 ])
             else:
@@ -125,8 +124,8 @@ class SelfTrainCRF(object):
 
             # Features for words that are not
             # at the end of a document
-            if i+step < len(doc)-1:
-                w1 = doc[i+step+1][0]
+            if i + step < len(doc) - 1:
+                w1 = doc[i + step + 1][0]
                 word1 = w1.text
                 pos_1 = w1.pos_
                 tag_1 = w1.tag_
@@ -140,10 +139,10 @@ class SelfTrainCRF(object):
                 head_tag1 = w1.head.tag_
                 features.extend([
                     '+%s:word.lower=' % step + word1.lower(),
-                    '+%s:word.istitle=%s' % (step ,word1.istitle()),
+                    '+%s:word.istitle=%s' % (step, word1.istitle()),
                     '+%s:word.isupper=%s' % (step, word1.isupper()),
                     '+%s:word.isdigit=%s' % (step, word1.isdigit()),
-                     '+%s:pos_=%s' % (step, pos_1),
+                    '+%s:pos_=%s' % (step, pos_1),
                     '+%s:tag_=%s' % (step, tag_1),
                     '+%s:lemma_=%s' % (step, lemma_1),
                     '+%s:dep_=%s' % (step, dep_1),
@@ -160,7 +159,6 @@ class SelfTrainCRF(object):
                 features.append('EOS')
 
         return features
-
 
     # A function for extracting features in documents
     def extract_features(self, doc):
@@ -182,7 +180,6 @@ class SelfTrainCRF(object):
         neg_X = [self.extract_features(neg_sent) for neg_sent in neg_data]
         neg_y = [self.get_labels(neg_y) for neg_y in neg_data]
 
-
         pos_X_train, pos_X_test, pos_y_train, pos_y_test = train_test_split(
             pos_X, pos_y, test_size=TEST_SET_FRAC, random_state=SEED, shuffle=True)
         neg_X_train, neg_X_test, neg_y_train, neg_y_test = train_test_split(
@@ -198,7 +195,6 @@ class SelfTrainCRF(object):
         y_test = pos_y_test + neg_y_test
 
         return (X_train, y_train), (X_test, y_test)
-
 
     def trainCRF(self, X_train, y_train, dump_file):
         print("Starting training %s" % CRF_MODEL)
@@ -217,7 +213,6 @@ class SelfTrainCRF(object):
         joblib.dump(crf, dump_file)
         return crf
 
-
     def eval_Test(self, X_test, y_test, crf, file):
         print("Loading model: %s ..." % CRF_MODEL)
         labels = list(crf.classes_)
@@ -230,7 +225,7 @@ class SelfTrainCRF(object):
             key=lambda name: (name[1:], name[0])
         )
 
-        print("{} Iter{}".format(self.ITER_NUM,CRF_MODEL), file=open(file, 'a'))
+        print("{} Iter{}".format(self.ITER_NUM, CRF_MODEL), file=open(file, 'a'))
         print(metrics.flat_classification_report(
             y_test, y_pred, labels=sorted_labels, digits=3
         ), file=open(file, 'a'))
@@ -239,14 +234,13 @@ class SelfTrainCRF(object):
             y_test, y_pred, labels=sorted_labels, digits=3
         ))
 
-
     def mk_prediction(self, crf):
         count = 0
         res_dir = os.path.join(result_dir, CRF_MODEL)
         if not os.path.exists(res_dir):
             os.mkdir(res_dir)
-        res_file = os.path.join(res_dir, 'Iteration%s.txt' % self.ITER_NUM )
-        print("Iteration %s\n" % self.ITER_NUM + "*"*80)
+        res_file = os.path.join(res_dir, 'Iteration%s.txt' % self.ITER_NUM)
+        print("Iteration %s\n" % self.ITER_NUM + "*" * 80)
         # print("Iteration %s\n" % self.ITER_NUM + "*"*80, file=open(res_file, 'a'))
 
         for unlabel_data, unlabel_defids, unlabel_word, unlabel_defn in load_unlabel_data():
@@ -289,16 +283,14 @@ class SelfTrainCRF(object):
                                 else:
                                     out_sent += " {}".format(word[0])
                             # TODO: achive result w.r.t. iteration
-                            out = "{}\t{}\t{}\t{}".format(unlabel_defids[i], unlabel_word[i],records['variant'], out_sent)
+                            out = "{}\t{}\t{}\t{}".format(unlabel_defids[i], unlabel_word[i], records['variant'],
+                                                          out_sent)
                             print(out, file=open(res_file, 'a'))
-                            print("{}-\t{}".format(count,out))
+                            print("{}-\t{}".format(count, out))
                 if 'label_index' in records.keys():
                     rows_.append(records)
 
             self.gen_silver_data(rows_)
-
-
-
 
         # print("Predicted:", ' '.join(tagger.tag(extract_features(unlabel_sent))))
         # print("Correct:  ", ' '.join(get_labels(unlabel_sent)))
@@ -319,13 +311,10 @@ class SelfTrainCRF(object):
         else:
             header = True
 
-        chunk_df.to_csv(SILVER_POS_DATA, sep = '\t', index = False, mode = 'a', header=header)
-
-
+        chunk_df.to_csv(SILVER_POS_DATA, sep='\t', index=False, mode='a', header=header)
 
     def run(self):
         _dir = os.path.join(model_dir, CRF_MODEL)
-
 
         try:
             os.mkdir(_dir)
@@ -334,7 +323,7 @@ class SelfTrainCRF(object):
 
         while self.ITER_NUM < SELF_ITERATION:
             iter_start_time = datetime.datetime.now()
-            iter_fname = "{}{}.model".format(self.ITER_NUM,CRF_MODEL)
+            iter_fname = "{}{}.model".format(self.ITER_NUM, CRF_MODEL)
             MODEL_FILE = os.path.join(_dir, iter_fname)
             LOG_FILE = os.path.join(log_dir, iter_fname)
 
@@ -362,10 +351,11 @@ class SelfTrainCRF(object):
             iter_time_log = "{}-iter{} -runtime: {}".format(CRF_MODEL, self.ITER_NUM, run_time)
             logger.info(iter_time_log)
             with open(LOG_FILE, 'a') as f:
-                f.write(iter_time_log+"\n ")
+                f.write(iter_time_log + "\n ")
 
             # global ITER_NUM
             self.ITER_NUM += 1
+
 
 if __name__ == '__main__':
     crf_ = SelfTrainCRF()

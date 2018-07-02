@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#-*- encoding: utf-8 
+# -*- encoding: utf-8
 
 '''
                       ______   ___  __
@@ -27,6 +27,7 @@ from _config import *
 
 import pickle, os, string
 
+
 def dump_pkl(obj, filename):
     if not os.path.exists(pkl_dir):
         os.mkdir(pkl_dir)
@@ -45,7 +46,7 @@ def load_pkl(filename):
 
 
 def days_hours_mins_secs(td):
-    return "{}d,{}h,{}m,{}s".format(td.days, td.seconds//3600, (td.seconds//60)%60, td.seconds%60)
+    return "{}d,{}h,{}m,{}s".format(td.days, td.seconds // 3600, (td.seconds // 60) % 60, td.seconds % 60)
 
 
 def detokenize(tokens):
@@ -90,5 +91,6 @@ def iterative_levenshtein(s, t):
 
     return dist[row][col]
 
+
 def normalized_levenshtein(s, t):
-    return iterative_levenshtein(s, t)/(len(s)+len(t))
+    return iterative_levenshtein(s, t) / (len(s) + len(t))

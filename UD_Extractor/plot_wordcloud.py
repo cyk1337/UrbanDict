@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#-*- encoding: utf-8 
+# -*- encoding: utf-8
 
 '''
                       ______   ___  __
@@ -21,7 +21,7 @@
 
 @desc：       
                
-'''              
+'''
 from os import path
 import os
 from wordcloud import WordCloud
@@ -43,6 +43,8 @@ def fetch_data():
     chunksize = None
     df = pd.read_sql(sql=sql_loadUD, con=conn, chunksize=chunksize)
     return ' '.join(df['definition'])
+
+
 # Generate a word cloud image
 # wordcloud = WordCloud().generate(text)
 
@@ -66,6 +68,7 @@ def basic_plot(text):
     # The pil way (if you don't have matplotlib)
     # image = wordcloud.to_image()
     # image.show()
+
 
 def mask(text):
     import numpy as np
@@ -116,6 +119,7 @@ def mask(text):
     plot_path = os.path.join(wordcloud_dir, 'masked.pdf')
     plt.savefig(plot_path)
     plt.show()
+
 
 if __name__ == '__main__':
     text = fetch_data()

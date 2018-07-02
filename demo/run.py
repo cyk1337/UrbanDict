@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#-*- encoding: utf-8 
+# -*- encoding: utf-8
 
 '''
                       ______   ___  __
@@ -21,25 +21,34 @@
 
 @desc：       
                
-'''              
-from flask import Flask, render_template, request
+'''
+from flask import Flask
 from flask_bootstrap import Bootstrap
 from flask_script import Manager
+from flask import render_template, request
+
+from forms import QueryForm
+from _view_func import search_UrbanDict
+
+
+
 app = Flask(__name__)
-# app.config.from_pyfile('config.py')
+app.config.from_pyfile('config.py')
 manager = Manager(app)
 bootstrap = Bootstrap(app)
 
 
-@app.route('/', methods=['GET','POST'])
+@app.route('/', methods=['GET', 'POST'])
 def demo_page():
-    if request.method == 'GET':
-        return render_template('index.html')
-    elif request.method == 'POST':
-        pass
+    form = QueryForm()
+    if form.validate_on_submit():
+        word = form.word.data
+        model = form.model.data
+        results = search_UrbanDict(word)
+        return render_template('index.html', data=results, form=form)
 
-
+    return render_template('index.html', form=form)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=5000)
     # manager.run()

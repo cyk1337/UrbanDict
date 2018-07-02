@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#-*- encoding: utf-8 
+# -*- encoding: utf-8
 
 '''
                       ______   ___  __
@@ -40,6 +40,7 @@ from Bootstrapping.Pattern import Pattern
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+
 class Bootstrap(Basic):
     def __init__(self, chunksize=10000):
         self.start_time = datetime.datetime.now()
@@ -55,9 +56,8 @@ class Bootstrap(Basic):
 
         self.iter_num = 0
         self.seeds_num = list()
-        self.rec=[]
-        self.prec=[]
-
+        self.rec = []
+        self.prec = []
 
         self.N_pattern = N_pattern
         self.N_tuple = N_tuple
@@ -88,14 +88,13 @@ class Bootstrap(Basic):
             print("Iteratin num: {}, seed_num:{}".format(self.iter_num, self.seeds_num[self.iter_num]))
             # print("Pattern list: {}".format(self.patterns))
             print("Seed list: {}".format(self.seeds))
-            print('-'*80)
+            print('-' * 80)
             logger.info("Iteration {} starting...".format(self.iter_num))
 
             self.generate_pattern_from_seeds()
             # score metric
             self.score_candidate_pattern()
             self.get_seed_from_pattern()
-
 
             # if self.iter_num>1 and self.seeds_num[self.iter_num] == self.seeds_num[self.iter_num - 1]:
             #     print('Overall 0-{} iteration'.format(self.iter_num))
@@ -150,11 +149,11 @@ class Bootstrap(Basic):
         logger.info("Iteration %s: \n %s candidate patterns: %s"
                     %
                     (self.iter_num, len(self.candidate_patterns), self.candidate_patterns)
-        )
+                    )
 
     def _find_variant_for_word(self, word):
         for seed in self.seeds:
-        # for seed in self.processed_tuples:
+            # for seed in self.processed_tuples:
             if word == seed.word:
                 return seed.variant
 
@@ -167,7 +166,7 @@ class Bootstrap(Basic):
             _ctx_bef = pat.ctx_bef
             # use mysql engine to search
             try:
-                sql = "SELECT defid, word, definition FROM UrbanDict WHERE definition like '%%"+_ctx_bef+"%%'"
+                sql = "SELECT defid, word, definition FROM UrbanDict WHERE definition like '%%" + _ctx_bef + "%%'"
                 pat_data = pd.read_sql(sql=sql, con=self.conn, chunksize=self.chunksize)
             except Exception as e:
                 logger.warning("Ctx:%s \n Except: %s" % (_ctx_bef, e))
@@ -219,11 +218,11 @@ class Bootstrap(Basic):
             self.patterns = self.candidate_patterns[:N_pattern]
 
         for pat in self.patterns:
-            print('#'*80)
+            print('#' * 80)
             print("overall score of patterns:")
             print("pattern: %s" % pat)
             print("overallscore: %s" % pat.overallscore)
-            print('-'*20)
+            print('-' * 20)
             print("RlogF_score: %s" % pat.RlogF_score)
             print("match_seed_count: %s" % pat.match_seed_count)
             print("match_tot_count: %s" % pat.match_tot_count)
@@ -234,8 +233,8 @@ class Bootstrap(Basic):
 
         # logger.info("%s candidate seeds: %s" % (len(self.candidate_tuples), self.candidate_tuples))
 
-
         # filter out top tuples
+
     def get_seed_from_pattern(self):
         if self.iter_num > 0:
             self.reset_candidate_tuples()
@@ -299,10 +298,10 @@ class Bootstrap(Basic):
             self.seeds += [tup for tup in self.candidate_tuples[:N_tuple] if tup not in self.seeds]
 
         for t in self.seeds:
-            print('='*80)
+            print('=' * 80)
             print("score of tuples:")
             print("overall score of tuples: %s" % t.overallscore)
-            print('-'*20)
+            print('-' * 20)
             print("tuple: %s" % t)
             print("Numerator:", t.numerator)
             print("denom:", t.pattern_list)
@@ -312,10 +311,8 @@ class Bootstrap(Basic):
         save_iter(self.iter_num, self.seeds, 'tup')
         save_iter(self.iter_num, self.candidate_tuples, 'candi_tup')
 
-
     # def close_bootstrap(self):
     #     self.get_runtime()
-
 
     def iter_log(self):
         finish_time = datetime.datetime.now()
@@ -325,9 +322,9 @@ class Bootstrap(Basic):
         logpath = os.path.join(EXP_DIR, 'logs')
         with open(logpath, 'a') as f:
             f.write("Iteration {}, runtime:{}, rec:{:.4f}, prec:{},seed_num: {}, pattern num: {}\n".
-                format(self.iter_num, run_time, self.rec[self.iter_num], 'None',len(self.seeds), len(self.patterns))
-            )
-
+                    format(self.iter_num, run_time, self.rec[self.iter_num], 'None', len(self.seeds),
+                           len(self.patterns))
+                    )
 
 
 def main():
@@ -342,10 +339,11 @@ def main():
     # test ===================================
     # start bootstrap
     bootstrap_.init_bootstrap()
-    print('-'*100)
+    print('-' * 100)
     # print("Candidate pattern list:", bootstrap_.patterns)
     # print("Candidate seed list:", bootstrap_.seeds)
     # bootstrap_ie.get_seed_from_pattern()
+
 
 if __name__ == "__main__":
     main()

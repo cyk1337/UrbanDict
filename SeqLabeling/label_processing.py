@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#-*- encoding: utf-8 
+# -*- encoding: utf-8
 
 '''
                       ______   ___  __
@@ -21,7 +21,7 @@
 
 @desc：       
                
-'''              
+'''
 import pandas as pd
 import sqlalchemy as sa
 # from nltk.tokenize import word_tokenize
@@ -29,10 +29,12 @@ import spacy
 
 from SL_config import *
 
+
 def conn_db():
     engine = sa.create_engine('mysql+pymysql://root:admin@localhost/UrbanDict?charset=utf8')
     conn = engine.connect()
     return conn
+
 
 conn = conn_db()
 sql = "SELECT defid, word, variant, definition from UrbanDict WHERE label >=1"

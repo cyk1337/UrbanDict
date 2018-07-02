@@ -39,7 +39,6 @@ UNLABEL_DATA = os.path.join(data_dir, 'unlabel.csv')
 
 silver_dir = os.path.join(data_dir, 'silver')
 
-
 result_dir = os.path.join(work_dir, 'SL_result')
 eval_dir = os.path.join(result_dir, 'eval')
 

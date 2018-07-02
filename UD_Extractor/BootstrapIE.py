@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#-*- encoding: utf-8 
+# -*- encoding: utf-8
 
 '''
                       ______   ___  __
@@ -34,6 +34,7 @@ from ie_utils import days_hours_mins_secs
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+
 class BootstrapIE(Basic):
     def __init__(self, chunksize=10000):
         self.start_time = datetime.datetime.now()
@@ -45,7 +46,6 @@ class BootstrapIE(Basic):
         self.candidate_seeds = list()
         self.iter_num = 0
         self.seeds_num = list()
-
 
     @property
     def load_sql(self):
@@ -71,10 +71,10 @@ class BootstrapIE(Basic):
         while True:
             self.seeds_num.append(len(self.seeds))
             print("Iteratin num: {}, seed_num:{}".format(self.iter_num, self.seeds_num[self.iter_num]))
-            print("*"*80)
+            print("*" * 80)
             print("Pattern list: {}".format(self.patterns))
             print("Seed list: {}".format(self.seeds))
-            print('-'*80)
+            print('-' * 80)
             logger.info("Iteration {} starting...".format(self.iter_num))
 
             self.generate_pattern_from_seeds()
@@ -85,13 +85,12 @@ class BootstrapIE(Basic):
             # TODO: evaluate seeds
             self.score_candidate_seed()
 
-            if self.iter_num>1 and self.seeds_num[self.iter_num] == self.seeds_num[self.iter_num - 1]:
+            if self.iter_num > 1 and self.seeds_num[self.iter_num] == self.seeds_num[self.iter_num - 1]:
                 print('Overall 0-{} iteration'.format(self.iter_num))
                 break
             self.iter_num = self.iter_num + 1
 
         self.close_bootstrap()
-
 
     def read_init_seeds_from_file(self, seed_file=SEED_FILE):
         logger.info('Start reading initial seeds ...')
@@ -131,19 +130,19 @@ class BootstrapIE(Basic):
                 defn_tokenized = self.definition_tokenize(row['definition'])
                 print(defn_tokenized)
                 word = row.at['word'].lower()
-                variant_index_dict= self.get_index_of_varaint(defn_tokenized, seeds_dict[word])
+                variant_index_dict = self.get_index_of_varaint(defn_tokenized, seeds_dict[word])
                 for sent_num, index_set in variant_index_dict.items():
                     defn_sent = defn_tokenized[sent_num]
                     for index in index_set:
                         variant = defn_sent[index]
                         lexico_context_before = defn_sent[:index]
-                        lexico_context_after = defn_sent[index+1:]
+                        lexico_context_after = defn_sent[index + 1:]
 
-                        lexico_pattern=[]
+                        lexico_pattern = []
                         if useBothContext:
                             lexico_pattern = lexico_context_before
                         elif usePreviousContext:
-                            if len(lexico_context_before) >=CTX_SIZE:
+                            if len(lexico_context_before) >= CTX_SIZE:
                                 lexico_pattern = lexico_context_before[-CTX_SIZE:]
                             else:
                                 lexico_pattern = lexico_context_before
@@ -151,7 +150,6 @@ class BootstrapIE(Basic):
                             logger.info("Candidate pattern: %s" % lexico_pattern)
                             self.candidate_patterns.append(lexico_pattern)
             # self.pattern_duplicate_removal()
-
 
     def get_index_of_varaint(self, defn_tokenized, variant_set):
         # k -> v:
@@ -161,17 +159,17 @@ class BootstrapIE(Basic):
             variant_index_dict[sent_index] = []
             # collect all the variant occurrence
             for variant in variant_set:
-                candidate_index_list = [i for i, tok in enumerate(defn_sent) if tok==variant]
+                candidate_index_list = [i for i, tok in enumerate(defn_sent) if tok == variant]
                 # if the variant occur once
                 if len(candidate_index_list) == 1:
                     variant_index_dict[sent_index].append(candidate_index_list[0])
                 # variant appear multiple times, choose by the context quote symbol
                 elif len(candidate_index_list) > 1:
                     for index in candidate_index_list:
-                        if defn_sent[index-1] in ('"', "'", "``") and len(defn_sent)>= index+1 and defn_sent[index+1] in ('"', "'", "``"):
+                        if defn_sent[index - 1] in ('"', "'", "``") and len(defn_sent) >= index + 1 and defn_sent[
+                            index + 1] in ('"', "'", "``"):
                             variant_index_dict[sent_index].append(candidate_index_list[0])
-        return {k: v for k, v in variant_index_dict.items() if len(v)>0}
-
+        return {k: v for k, v in variant_index_dict.items() if len(v) > 0}
 
     def definition_tokenize(self, definition):
         """
@@ -191,7 +189,7 @@ class BootstrapIE(Basic):
         for pat in self.candidate_patterns:
             if self.pattern_filter(pat) is False:
                 self.candidate_patterns.remove(pat)
-        self.patterns = self.patterns+self.candidate_patterns
+        self.patterns = self.patterns + self.candidate_patterns
         self.pattern_duplicate_removal()
 
     # TODO
@@ -213,12 +211,11 @@ class BootstrapIE(Basic):
                     for sent_pattern in self.candidate_patterns:
                         var = self.surface_match_pattern(sent_pattern, sent)
                         if var is not None:
-                            candidate_pair = (row['word'].lower(),var.lower())
+                            candidate_pair = (row['word'].lower(), var.lower())
                             self.candidate_seeds.append(candidate_pair)
                             print("matching pattern: {}".format(sent_pattern))
                             logger.info("Candidate pair: {}".format(candidate_pair))
         # self.seed_duplicate_removal()
-
 
     def surface_match_pattern(self, seed_pattern, definition):
         """
@@ -229,9 +226,9 @@ class BootstrapIE(Basic):
         """
         len_pat = len(seed_pattern)
         len_defn = len(definition)
-        for i in range(len_defn-len_pat+1):
-            if definition[i:i+len_pat] == seed_pattern and len_defn > i+len_pat:
-                var = definition[i+len_pat]
+        for i in range(len_defn - len_pat + 1):
+            if definition[i:i + len_pat] == seed_pattern and len_defn > i + len_pat:
+                var = definition[i + len_pat]
                 if self.variant_filter(var):
                     return var
 
@@ -243,16 +240,16 @@ class BootstrapIE(Basic):
             return True
 
     def pattern_filter(self, candidate_pattern):
-         # TODO: discard contexts that contains only 2 or fewer stopwords,
-         # allowing at most 2 stopwords in context
+        # TODO: discard contexts that contains only 2 or fewer stopwords,
+        # allowing at most 2 stopwords in context
         # TODO: ﻿create flexible patterns by ignoring the words {‘a’, ‘an’, ‘the’, ‘,’, ‘.’}
         #  TODO: with and without POS tag restrictionnof ﻿target(e.g. contains Nouns)
-        non_pat_list = ['synonym',]
+        non_pat_list = ['synonym', ]
         for non_pat in non_pat_list:
             if non_pat in candidate_pattern:
                 print("Remove pattern: {}".format(candidate_pattern))
                 return False
-            elif len(candidate_pattern)==1 and 'meaning' not in candidate_pattern:
+            elif len(candidate_pattern) == 1 and 'meaning' not in candidate_pattern:
                 return False
             else:
                 for tok in candidate_pattern:
@@ -268,7 +265,6 @@ class BootstrapIE(Basic):
         self.seeds = self.seeds + self.candidate_seeds
         self.seed_duplicate_removal()
 
-
     def pattern_duplicate_removal(self):
         self.candidate_patterns = list(list(i) for i in set([tuple(t) for t in self.candidate_patterns]))
         self.patterns = list(list(i) for i in set([tuple(t) for t in self.patterns]))
@@ -279,7 +275,6 @@ class BootstrapIE(Basic):
 
     def close_bootstrap(self):
         self.get_runtime()
-
 
     def get_runtime(self):
         finish_time = datetime.datetime.now()
@@ -293,7 +288,7 @@ def main():
     seeds = bootstrap_ie.seeds
     # start bootstrap
     bootstrap_ie.init_bootstrap()
-    print('-'*100)
+    print('-' * 100)
     print("Candidate pattern list:", bootstrap_ie.patterns)
     print("Candidate seed list:", bootstrap_ie.seeds)
     # bootstrap_ie.get_seed_from_pattern()
