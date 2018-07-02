@@ -34,7 +34,9 @@
         </div>
         {% endif %}
 
-        {% if data is none %}
+        {% if data is not defined %}
+
+        {% elif data is none %}
 
         <div class="alert alert-danger mt-5" role="alert"> No entry matched for word <b>{{form.word.data}}</b> in Urban
             Dictionary :(
@@ -42,6 +44,16 @@
 
         <!--result-->
         {% else %}
+
+        <hr class="my-3">
+        <div class="row ml-2 mt-3">
+            {{ var_list|length }} varaints found:
+
+            {% for var in var_list %}
+            <span class="mx-1 badge {{ loop.cycle('badge-success','badge-dark','badge-primary','badge-secondary','badge-warning') }}">{{ var }}</span>
+            {% endfor %}
+        </div>
+
 
         <div class="alert alert-success mt-5" role="alert">
             {{ data|length }} definitions matched <b>{{form.word.data}}</b> from Urban Dictionary
@@ -57,9 +69,9 @@
                         {% for tok in term.toks%}
                         {% if loop.index0 not in term.label_index %}
                         <!--{{ term.defn }}-->
-                            {{ tok }}
+                        {{ tok }}
                         {% else %}
-                             <span class="badge badge-info">{{ tok }}</span>
+                        <span class="badge badge-info">{{ tok }}</span>
                         {% endif %}
                         {% endfor %}
                     </p>
