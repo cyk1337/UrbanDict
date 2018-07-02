@@ -44,8 +44,9 @@ def demo_page():
     if form.validate_on_submit():
         word = form.word.data
         model = form.model.data
-        results = search_UrbanDict(word)
-        return render_template('index.html', data=results, form=form)
+
+        results, variant_list = search_UrbanDict(word, model)
+        return render_template('index.html', data=results, var_list = variant_list, form=form)
 
     return render_template('index.html', form=form)
 

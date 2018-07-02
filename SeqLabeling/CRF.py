@@ -262,7 +262,6 @@ class SelfTrainCRF(object):
                     for pos_indice in pos_index_list:
                         pos_prob = crf.predict_marginals_single(xseq)[pos_indice][IN_SIGN]
                         if pos_prob > CRF_THRESHOLD:
-                            out = "".format()
                             # print(count, '-'*80)
                             count += 1
 

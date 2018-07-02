@@ -34,9 +34,11 @@
         </div>
         {% endif %}
 
-       {% if data is none %}
+        {% if data is none %}
 
-        <div class="alert alert-danger mt-5" role="alert"> No entry matched for word <b>{{form.word.data}}</b> in Urban Dictionary :(</div>
+        <div class="alert alert-danger mt-5" role="alert"> No entry matched for word <b>{{form.word.data}}</b> in Urban
+            Dictionary :(
+        </div>
 
         <!--result-->
         {% else %}
@@ -48,8 +50,19 @@
             {% for term in data %}
             <div class="card">
                 <div class="card-body" id="{{ term.defid }}">
-                    <h5 class="card-subtitle">{{ term.word }}</h5>
-                    <p class="card-text">{{ term.defn }}</p>
+                    <h5 class="card-subtitle">
+                        <span class="badge badge-pill badge-light">{{ term.word }}</span>
+                    </h5>
+                    <p class="card-text">
+                        {% for tok in term.toks%}
+                        {% if loop.index0 not in term.label_index %}
+                        <!--{{ term.defn }}-->
+                            {{ tok }}
+                        {% else %}
+                             <span class="badge badge-info">{{ tok }}</span>
+                        {% endif %}
+                        {% endfor %}
+                    </p>
                 </div>
             </div>
             {% endfor %}
