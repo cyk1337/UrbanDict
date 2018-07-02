@@ -25,9 +25,12 @@
 from bs4 import BeautifulSoup
 import requests
 from urllib.parse import urljoin
-
 import spacy
+from sklearn.externals import joblib
 
+import sys
+sys.path.append('../')
+from SeqLabeling.CRF import SelfTrainCRF
 
 def find_all_entries(seg_url, ud):
     base_url = "https://www.urbandictionary.com"
@@ -64,8 +67,6 @@ def find_all_entries(seg_url, ud):
         return ud
 
 
-from SeqLabeling.CRF import SelfTrainCRF
-from sklearn.externals import joblib
 def extract_variant_spelling(results, model):
     nlp = spacy.load('en')
     label_results = []
@@ -101,8 +102,11 @@ def search_UrbanDict(word, model):
     seg_url = "/define.php?term=%s" % word
     ud = []
     results = find_all_entries(seg_url, ud)
-    label_results, variant_list = extract_variant_spelling(results, model)
-    return label_results, variant_list
+    if results is not None:
+        label_results, variant_list = extract_variant_spelling(results, model)
+        return label_results, variant_list
+    else:
+        return None, None
 
 
 if __name__ == '__main__':
