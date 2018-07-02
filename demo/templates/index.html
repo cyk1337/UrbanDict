@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+
+{% block content %}
+<div class="container">
+
+
+    <div class="jumbotron">
+  <h1 class="display-4">Identify spelling variants</h1>
+  <p class="lead">Input the word to find the spelling variant in the socia media.</p>
+  <hr class="my-4">
+  <!--<p>It uses utility classes for typography and spacing to space content out within the larger container.</p>-->
+  <!--<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>-->
+
+          <div class="row justify-content-center mt-lg-5">
+
+ <form class="form-inline">
+<div class="form-row">
+
+    </div>
+  <div class="form-group mx-sm-3 mb-2 col-lg-8">
+    <label for="inputWord" class="sr-only">Word</label>
+    <input type="text" class="form-control" id="inputWord" placeholder="Input word here"  aria-describedby="inputHelpBlock">
+      <!--<small id="inputHelpBlock" class="form-text text-muted">-->
+  <!--Input words must contain letters or numbers, and must not contain spaces, special characters, or emoji.-->
+<!--</small>-->
+  </div>
+  <button type="submit" class="btn btn-primary btn-large mb-2">submit</button>
+</form>
+
+    </div>
+</div>
+</div>
+
+
+
+
+
+
+
+{% endblock %}
+
+    <!--{% for message in get_flashed_messages() %}-->
+      <!--<div class="alert alert-warning">-->
+          <!--<button type="button" data-dismiss="alert" class="close">&times;</button>-->
+          <!--{{ message }}-->
+      <!--</div>-->
+    <!--{% endfor %}-->
+    <!--<div class="row">-->
+        <!--<div class="col-md-3 col-md-offset-4">-->
+            <!--{{ wtf.quick_form(form) }}-->
+        <!--</div>-->
+
+    <!--</div>-->

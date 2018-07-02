@@ -1,0 +1,42 @@
+{% extends "bootstrap/base.html" %}
+
+{% block title %}Variant Detection{% endblock %}
+
+{% block navbar %}
+
+<div class="pos-f-t">
+
+  <div class="collapse navbar-collapse" id="navbarToggleExternalContent">
+    <div class="bg-dark p-4">
+      <h5 class="text-white h4">Finding spelling variants</h5>
+      <span class="text-muted"> Discover spelling variants from Urban Dictionary</span>
+    </div>
+  </div>
+
+  <nav class="navbar navbar-dark bg-primary">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+      <!--<span class="navbar-text">Informal Word Variant Detection</span>-->
+       <a class="navbar-brand" href="#">  Informal Word Variant Detection</a>
+
+  </nav>
+</div>
+{% endblock %}
+
+<!--base-->
+{% block content %} {% endblock %}
+
+
+
+{% block styles %}
+{{super()}}
+<!--<link rel="stylesheet"-->
+      <!--href="{{url_for('.static', filename='mystyle.css')}}">-->
+{% endblock %}
+
+{% block scripts %}
+{{super()}}
+
+<!--<script src="{{url_for('.static', filename='myscripts.js')}}"></script>-->
+{% endblock %}
