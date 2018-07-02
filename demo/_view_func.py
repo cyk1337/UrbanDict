@@ -94,7 +94,6 @@ def extract_variant_spelling(results, model):
                         print("Pair: (%s, %s)" % (term['word'],variant))
 
             label_results.append(term)
-    variant_list = list(set(variant_list))
     return label_results, variant_list
 
 

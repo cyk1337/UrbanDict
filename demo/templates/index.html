@@ -47,9 +47,9 @@
 
         <hr class="my-3">
         <div class="row ml-2 mt-3">
-            {{ var_list|length }} varaints found:
+            {{ var_list| unique | list| length }} unique variants found, {{ var_list| length }} occurence:
 
-            {% for var in var_list %}
+            {% for var in var_list|unique %}
             <span class="mx-1 badge {{ loop.cycle('badge-success','badge-dark','badge-primary','badge-secondary','badge-warning') }}">{{ var }}</span>
             {% endfor %}
         </div>
