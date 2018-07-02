@@ -30,8 +30,6 @@ from flask import render_template, request
 from forms import QueryForm
 from _view_func import search_UrbanDict
 
-
-
 app = Flask(__name__)
 app.config.from_pyfile('config.py')
 manager = Manager(app)
@@ -46,11 +44,11 @@ def demo_page():
         model = form.model.data
 
         results, variant_list = search_UrbanDict(word, model)
-        return render_template('index.html', data=results, var_list = variant_list, form=form)
+        return render_template('index.html', data=results, var_list=variant_list, form=form)
 
     return render_template('index.html', form=form)
 
-if __name__ == '__main__':
 
+if __name__ == '__main__':
     app.run(debug=True, port=5000)
     # manager.run()

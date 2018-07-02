@@ -30,5 +30,8 @@ from wtforms.validators import DataRequired
 class QueryForm(FlaskForm):
     word = StringField(u'Please enter the word：', validators=[DataRequired()])
     model = SelectField(u'Model choice',
-                        choices=[('bt1', u'Bootstrapping'), ('crf0', u'self-trained CRF iter0'), ('crf1', u'self-trained CRF iter1'),('crf2', u'self-trained CRF iter2'),('crf3', u'self-trained CRF iter3'),('crf4', u'self-trained CRF iter4'), ('other', u'others')], default='crf1')
+                        choices=[('bt1', u'Bootstrapping'), ('crf0', u'self-trained CRF iter0'),
+                                 ('crf1', u'self-trained CRF iter1'), ('crf2', u'self-trained CRF iter2'),
+                                 ('crf3', u'self-trained CRF iter3'), ('crf4', u'self-trained CRF iter4'),
+                                 ('other', u'others')], default='crf1')
     submit = SubmitField(u'Submit')

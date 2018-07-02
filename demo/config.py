@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#-*- encoding: utf-8 
+# -*- encoding: utf-8
 
 '''
                       ______   ___  __
@@ -21,5 +21,5 @@
 
 @desc：       
                
-'''              
+'''
 SECRET_KEY = 'School of Informatics, Edinburgh'
