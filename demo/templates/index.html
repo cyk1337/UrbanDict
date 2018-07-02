@@ -47,13 +47,11 @@
 
         <hr class="my-3">
         <div class="row ml-2 mt-3">
-            {{ var_list| unique | list| length }} unique variants found, {{ var_list| length }} occurence:
-
-            {% for var in var_list|unique %}
-            <span class="mx-1 badge {{ loop.cycle('badge-success','badge-dark','badge-primary','badge-secondary','badge-warning') }}">{{ var }}</span>
+            {{ var_count| length }} unique variants found:
+            {% for var, count in var_count.items() %}
+            <span class="mx-1 badge {{ loop.cycle('badge-success','badge-dark','badge-primary','badge-secondary','badge-warning') }}">{{ var }} {{ count }}</span>
             {% endfor %}
         </div>
-
 
         <div class="alert alert-success mt-4" role="alert">
             {{ data|length }} definitions matched <b>{{form.word.data}}</b> from Urban Dictionary

@@ -43,8 +43,8 @@ def demo_page():
         word = form.word.data
         model = form.model.data
 
-        results, variant_list = search_UrbanDict(word, model)
-        return render_template('index.html', data=results, var_list=variant_list, form=form)
+        results, var_count = search_UrbanDict(word, model)
+        return render_template('index.html', data=results, var_count=var_count, form=form)
 
     return render_template('index.html', form=form)
 

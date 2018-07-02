@@ -103,7 +103,10 @@ def search_UrbanDict(word, model):
     results = find_all_entries(seg_url, ud)
     if results is not None:
         label_results, variant_list = extract_variant_spelling(results, model)
-        return label_results, variant_list
+        var_count = dict()
+        for var in variant_list:
+            var_count[var] = variant_list.count(var)
+        return label_results, var_count
     else:
         return None, None
 
