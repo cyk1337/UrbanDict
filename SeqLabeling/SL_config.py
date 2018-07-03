@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#-*- encoding: utf-8 
+# -*- encoding: utf-8
 
 '''
                       ______   ___  __
@@ -21,10 +21,10 @@
 
 @desc：       
                
-'''              
+'''
 
 import os
-from nltk.corpus import stopwords
+
 # ------------------------
 # extraction config
 # ------------------------
@@ -48,7 +48,6 @@ log_dir = os.path.join(result_dir, 'log')
 IN_SIGN = 'I'
 OUT_SIGN = 'O'
 
-
 model_dir = os.path.join(work_dir, 'Model')
 
 # split test set fraction
@@ -60,22 +59,16 @@ START_ITER_NUM = 0
 L1_penalty = 2.35
 L2_penalty = 0.08
 MAX_ITER = 200
-ALGORITHM = 'lbfgs' # {‘lbfgs’, ‘l2sgd’, ‘ap’, ‘pa’, ‘arow’}
-
-
-from _utils import timeit
+ALGORITHM = 'lbfgs'  # {‘lbfgs’, ‘l2sgd’, ‘ap’, ‘pa’, ‘arow’}
 
 SEED = 2018
-
 
 FEAT_CTX_SIZE = 3
 
 CRF_THRESHOLD = 0.8
 
-CRF_MODEL = 'CRF_%s_Iter%s_L1{%s}_L2{%s}_ctx%s_conf%s' % (ALGORITHM,MAX_ITER, L1_penalty, L2_penalty,FEAT_CTX_SIZE, CRF_THRESHOLD)
+CRF_MODEL = 'CRF_%s_Iter%s_L1{%s}_L2{%s}_ctx%s_conf%s' % (
+ALGORITHM, MAX_ITER, L1_penalty, L2_penalty, FEAT_CTX_SIZE, CRF_THRESHOLD)
 
 # use subset of sample to run code
 TEST_MODE = False
-
-
-

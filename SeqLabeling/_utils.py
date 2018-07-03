@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#-*- encoding: utf-8 
+# -*- encoding: utf-8
 
 '''
                       ______   ___  __
@@ -21,22 +21,21 @@
 
 @desc：       
                
-'''              
+'''
 import time
 
-def timeit(method):
 
+def timeit(method):
     def timed(*args, **kw):
         ts = time.time()
         result = method(*args, **kw)
         te = time.time()
 
-        print('%r (%r, %r) %2.2f sec' % (method.__name__, args, kw, te-ts))
+        print('%r (%r, %r) %2.2f sec' % (method.__name__, args, kw, te - ts))
         return result
 
     return timed
 
 
 def days_hours_mins_secs(td):
-    return "{}d,{}h,{}m,{}s".format(td.days, td.seconds//3600, (td.seconds//60)%60, td.seconds%60)
-
+    return "{}d,{}h,{}m,{}s".format(td.days, td.seconds // 3600, (td.seconds // 60) % 60, td.seconds % 60)

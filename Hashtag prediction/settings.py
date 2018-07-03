@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#-*- encoding: utf-8 
+# -*- encoding: utf-8
 
 '''
                       ______   ___  __
@@ -28,8 +28,8 @@ work_dir = os.path.dirname(os.path.abspath(__file__))
 # csv raw docs
 data_file = os.path.join(work_dir, 'csv')
 train_csv = os.path.join(data_file, 'train.csv')
-val_csv = os.path.join(data_file,'val.csv')
-test_csv = os.path.join(data_file,'test.csv')
+val_csv = os.path.join(data_file, 'val.csv')
+test_csv = os.path.join(data_file, 'test.csv')
 
 # embedding
 embedding_dir = os.path.join(work_dir, 'embedding')
@@ -41,9 +41,6 @@ plot_dir = os.path.join(result_dir, 'plot')
 log_dir = os.path.join(result_dir, 'logs')
 model_dir = os.path.join(result_dir, 'model')
 history_dir = os.path.join(result_dir, 'history')
-
-
-
 
 EMBEDDING_DIM = 50
 

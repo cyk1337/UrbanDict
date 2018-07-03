@@ -1,0 +1,29 @@
+----------------------
+CRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx4_conf0.8
+iter0: prec:0.95, line_num: 15540
+iter1: prec:0.87, line_num: 28373
+iter2: prec:0.83, line_num: 37320
+iter3: prec:0.74, line_num: 47051
+iter4: prec:0.68, line_num: 59364
+----------------------
+CRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx4_conf0.9
+iter0: prec:0.99, line_num: 7739
+iter1: prec:0.97, line_num: 15809
+iter2: prec:0.94, line_num: 21560
+iter3: prec:0.93, line_num: 25940
+iter4: prec:0.82, line_num: 29820
+----------------------
+CRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3_conf0.9
+iter0: prec:0.98, line_num: 6917
+iter1: prec:0.96, line_num: 14135
+iter2: prec:0.93, line_num: 19466
+iter3: prec:0.96, line_num: 23518
+iter4: prec:0.97, line_num: 26698
+----------------------
+CRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3_conf0.8
+iter0: prec:0.94, line_num: 14541
+iter1: prec:0.96, line_num: 26120
+iter2: prec:0.90, line_num: 34461
+iter3: prec:0.82, line_num: 43462
+iter4: prec:0.72, line_num: 51013
+iter5: prec:0.58, line_num: 62403

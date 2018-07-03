@@ -22,13 +22,10 @@
 @desc：       
                
 '''
-from SL_config import *
-
 import pandas as pd
-import sqlalchemy as sa
-from nltk.tokenize import word_tokenize
-import nltk
 import spacy
+
+from SL_config import *
 
 
 def gen_label(label_index, defn_toks):
