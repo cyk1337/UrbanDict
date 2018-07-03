@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6598593b515c50ac57acc14f7234ac3cb78deeb4a259987c04fd80f12eeacb8
-size 194
+to type than <Var>
+try to type <Var>
+way of spelling <Var>
+spell the word <Var>
+way of saying <Var>
+way to spell <Var>
+of the word <Var>
+for the word <Var>
+way to say <Var>
+other word for <Var>

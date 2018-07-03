@@ -1,3 +1,102 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aef736d0af2e9349bda4d3f2922789f2108de0b6fd2053f25fd9a5f35c0b8f76
-size 20274
+label	pair	defid	definition
+	cormat, common	5738028	Cormat: to convert to a more common file format. Used to tell someone that they are unable to open the file as they have it in an uncommon format such as .abw (AbiWord) or .7z (7-Zip Archive). It is a portmanteau of the word common and format.
+	drairith, in	3630157	A word meaning awesome dragon/fairy/thing. Or just plainly awesomeley awesome. It depends on the use of the word in the sentence.
+	agnostic, put	3565935	1. An intellectually sound position on a given idea (or thing, or subject, etc.) for which evidence for it's existence is insufficient. 2. The intellectually sound qualifier that most people who understand the meaning of the word put at the beginning of their given religious classification. 3. An atheist who doesn't like the word \"atheist\". 4. An atheist who thinks the definition of \"atheist\" is one who claims to know there are no gods. 5. An atheist who doesn't know that the definition of \"atheist\" is one who does not believe in any gods. 6. A word fought over by all manner of agnostics, atheists and Theists; meaningless minutia.
+	fuzzies, that	11562147	The plural form of the word that Yassi uses to express cute creatures (mostly cute animals and babies)
+	cretch, creeper	3970405	the combination of the word creeper and cretch. commonly refers to a person who demonstrates position 24.
+1	stook, stuck	5971567	Another word for \"stuck\"
+1	sammitz, sandwich	981737	1. (n) Sammitz is a mispronunciation of the word \"sandwich\" by way of the more common mispronunciation, \"sammich,\" and likewise has connotations of special goodness or quality. 2. (n) Used as part of the phrase \"go make me a sammitz,\" which can mean many things, including \"go do something else,\" \"go do something for me that I don't want to do myself,\" or the obvious, \"go make me a sandwich.\"
+	balonium, bulls**t	12679542	A word Coined in futurama that is another word for bulls**t information. The only difference between it and others like it is that this bull may be hazardous (possibly true) to your health
+1	badware, wordspyware	487018	Another word for wordspyware/word or wordadware/ware.
+1	akay, okay	12829800	Another word for okay; how you respond after someone insults you
+1	keys, car	4210169	another way to say 'car'
+	notx, northern	3016143	A ghetto way to say northern texas
+1	douchabaga, douchbag	5952945	another word for \"douchbag\" ...just funnier to say XD
+	flick, when	250500	A less offensive word to replace a widely used swear word starting with the same letter. Used because of it's similarity to the word when written in block capitals.
+	tiredy, sleepy	11070362	Tiredy is the word you use when you get bored with saying \"Im tired.\" Its also a mix of the word sleepy.
+1	bomp, bomb	2621919	another word for bomb:
+	saltin', that	5473402	to lay around and do nothing.sleep init's another way to say that you're chillingroaming around on facebook for hours
+1	hwott, what	4021651	stands for Holy White Otter Tape Trashers; a more intense way of saying what; a term used for shocking or suprising moments, or to describe a moment or person.
+1	papolla, vagina	8407858	Another word for vagina
+1	fohonk, m*fkr	11685951	A fool. Another way of saying m*fkr
+	wea, wea	6320408	It is a word used in Chile that replaces the word \"thing\", so it can be used replacing every single noun that exists. It doesn't mean anything wrong but is not a nice way to talk. It is mostly used with people that have the same status or relation. The actual meaning of the word wea depends of the context of the situation.
+	dellwifit, dill	8503867	it is a weird and a cooler way of saying dill with it
+1	hood, hoodlum	1674907	a shortened form of the word hoodlum, meaning criminal
+1	carz, porn	5699129	Another word for porn.
+	bros, bro	5716814	1. Male friends who are close enough to talk about their feelings, without feeling gay.2. Men who act like there are no women around, even when there are. They often wear polo shirts and curse loudly, along with excessive use of the word \"bro\". These types of guys originated the term, \"bro\".
+1	ralph, vomiting	9397733	Another word for vomiting .
+1	sim, best	1751480	A way to say \"Best\"
+	succ, makes	12004224	a slang word used. Often meaning a female sucking on a males penis (blowjob). Although in some instances the mis spelling of the word makes it comedic enough to put into a message or text and seem random.
+1	tsfu, stfu	2565516	Yoda's way of saying STFU.
+1	chyvin, fuck	8125770	Could literally mean anything you want it to, but it's usually just a more appropriate way to say the word fuck.
+1	ur, your	107368	illiterate individuals way of saying your, or you're.
+1	drak, dark	104654	Misspelling of the word dark.
+	pauwfaw, a	3175483	Another word for a girls genitailia a smelly, fucky, rotten, pussy a scared person
+1	scooter!, psyche	5922738	(verb) Leading a person to believe that you agree and/or approve of their words and/or actions.This is very common amongst school age children and adults who refuse to accept that they are no longer children. The act is as follows: Agree with the victim and then make a gesture as if you will \"high-five\" them. Next, avoid their hand and make a gesture as if you're riding a scooter (motorcycle or bicycle). Lastly, yell out very loudly \"SCOOTER\" and embarrass your friends until they threaten to stop talking to you. Be very careful, they may begin to SCOOTER you! Pass it on. It's FUN!A variation of the word PSYCHE!
+	brobocop, bro	3578194	Brobocop is a combination of the word 'bro' and 'robocop'. It is used to refer to a 'bro' that is always checking up on you and making sure you follow the rules.
+1	chigro, chigger	5152801	Politically correct way of saying \"chigger.\"
+1	thrashed, drunk	6670930	Another word for drunk.
+1	monutes, minutes	6479467	A stupid persons way of saying \"minutes\" or it's also known as a popular way of saying it in the ghetto \"a hood minute\".
+1	swooft, swift	425864	A sarcastic way of saying swift, as in small and intellegent.
+1	lwypyp, lol	1481895	lwypyp means \"laugh while you pee your pants\" it is another way of saying lol or \"laugh out loud\"
+	boobys, boobs	4096250	Another word for boobs of breasts of a woman
+1	phlarg, fuck	2682428	Phlarg: Another word for \"Fuck\", but slightly more acceptable.
+1	knob, newb	369153	Similar to the word newb, or newbie. Used in online chats, specifically gaming chat rooms.
+	obsactly, exactly	11703396	A combination of the word exactly and obviously. Increasingly coming to use starting in 2015. When an answer is obvious (obviously) and correct (exactly), this word can be used.
+	yock, um	4164455	Another word for um hairy boy
+1	hensicle, darn	2552855	1. A frozen hen with rainbow feathers and a crooked beak 2. another word for darn, cool, or crapsticks.
+1	sped, speed	551973	Txt version of the word \"speed\", as used by Tom Cruise in the follow up to Top Gun (\"Tp Gn 2\")
+	meijer, he	1409947	a male's descreet way of saying he needs to go jerk off (a female's is \"wal-mart\")
+	pibling, niblings	5134189	a gender neutral term for aunt or uncle, based on the phrase \"parent's sibling.\" generally used collectively, as a term for aunts and uncles together, similar to the word niblings for nieces and nephews together.My brothers and sisters are my siblings. My aunts and uncles are my piblings.
+	dugan, people	4796325	Another word for people with no necks
+1	trash, crap	7682179	A better way to say crap.
+	zub, nub	2661977	Derivation of the word 'nub', which itself is a derivation of the word 'noob'. Someone who is a complete and utter example of what NOT to be. This could be someone who exhibits horrid, distastefully bad skills, or a lack thereof, at something OR someone who has a very dorky loser-like appearance.
+1	dedlee, deadly	300404	Adjective describing something of an impressive nature. Originally a corruption of the word deadly, the word dedlee now stands alone as a positive descriptor, used to emphasize nouns in an emotive manner. Commonly used to describe very entertaining matches in Starcraft, a game of rugby involving the Cronulla Sharks, or a dragon, eg Trogdor.
+1	indoid, indeed	250824	Accented form of the word \"indeed\". Used in a humourous or hilarious context in conjunction with other words such as \"suckers\" and \"ass\". A superlative form \"indoidly\" also exists.
+	fuckspeak, as	5072356	American English dialect in which the word fuck is employed frequently, forcefully and creatively. Practitioners of this style pride themselves on being able to use variations of \"fuck\" as a noun (either proper and common), a verb, an adjective, or an adverb. The gold standard of Fuckspeak is to be able to use variations of the word as the subject, predicate and object in the same sentence.The origins of Fuckspeak are uncertain. Anthropologists contend that the frequency with which Fuckspeak is used in conjunction with a Northern New Jersey accent indicates that Fuckspeak originated in or around the Newark, NJ metropolitan area with a native tribe called the Fuckowies. Linguists contend that the frequent use of Fuckspeak as an instrument of verbal aggression strongly suggests that it originated in the Bronx among New York Yankees Fans, as a way of denigrating other baseball teams, particularly the Mets, Dodgers, and especially the Red Sox.Fuckspeak is often heard in movies and television shows set in the Northern New Jersey and Greater New York City metropolitan areas. Screen writers and directors employ Fuckspeak to give their productions a air of realism and local color. Productions notable for their use of Fuckspeak include almost every movie made by Martin Scorcese, the HBO series The Sopranos, and almost any movie starring Joe Pesci or Danny DeVito.
+1	yaka-taca, pussy	6218614	is another word for pussy
+1	deox, cool	3786704	another word for \"cool\" or \"awesome\". typically more socially acceptable while under the effects of marijuana.
+1	splifta, splif	149082	another word for splif
+	flam, a	3300660	another word for a chickenhead chick.
+1	bull, bro	3815011	another word for bro, dude, friend or comrade.
+	slangtang, is	2513094	First known usage at Earlham College, Richmond, IN in the middle 1990's; slang tang refers to the state of being so incredibly crunk, as to have reached, \"the other level.\" The word is derived from Wayne Smith's \"Under Mi Sleng Teng\" which can be found, among other places on the Big Blunts - 12 Smokin' Reggae Hits compilation album. Variants include chang clannged; doobklanged, shitklanged, etc... In conversation, the length of the word is directly correlated with just how slangtanged you or someone else is or was.
+1	whatchuthank?!, duh	4078693	another word for \"duh\" or \"thought chu knew!\". Basically a word made up by some leadership students at Capuchino High School. Became really known around campus through posters and also became part of a cheer for Varsity Volleyball players.
+1	chickfy, milfy	946235	1. Borderline hot and cute 2. Defintely hot with beer googles 3. Another word for milfy but for younger chicks
+	chill-lax, relax	4856039	Similar to the word relax, but it means mainly to chill out. It is used even when someone really is chill-laxingAlso is used as a nicer way to get someone to shut up
+	flossed, flaw	6152268	The past tense of the word \"flaw\", which is an adjective used to describe a person who just bailed, or frequently bails, on commitments. This especially applies to flaking out on social plans, such as going to clubs, theme parks, the movies, concerts, and going on dates.If someone was flaw to you, they flossed you.
+1	bullshitastic, bullshit	6700576	A sarcastic way of saying bullshit, as in saying \"bullshit, fantastic!\" Usually used alone as an exclamation after the occurrence of a negative or disagreeable event.
+1	pisskers, cock	130123	A Childish way of saying Cock
+	yurben, it	352037	Root: Yur. Basically means yes, but TEN TIMES COOLER WAY OF SAYING IT! Also, only used for cool situations.
+	scrub, scrub	8138642	The meaning of the word \"scrub\" is a guy who is really tall with blonde hair and blue eyes. His name either starts with M or ends with L. Seems to be very flirtatious and has a very good personality. Also does participate in extracurricular activities. Some may consider him as a wimp or a chump.
+	nb, nigger	3673242	Abbreviation for Nigger Blood. Way of saying Nigger Blood without drawing ire, or ramifications of Political Correctness. Reference to Black people who are free loaders, non hard working, blames others for their problems, abusive to women, driven by anger and stereotypical of negative attributes of Black people.
+1	nucky, buddy	6214552	Another way to say buddy, pal, homie etc.Invented by Don Scadeech (aka. Scadeech or Scadeechy) from Philly.
+	pav, a	1944145	simply, another word for a woman's vagina.
+	futch, fuck	202126	A word used only to describe the amazing shittyness of the dregs of our society today. Also a mixture of the word Fuck and Bitch, so you can have one word to use if you change your mind in the middle of the word fuck.
+	ayya, sir	8332655	Once used by Tamils to address their fathers Ayya. But they've somehow stopped doing so in modern times. Now, it's liken to the word sir. Only to address elder and/or powerful. Sometimes spelt aiya or ayyaa depending on emphasis on pronunciation.
+1	chiven, chicken	1677476	another word for chicken. originated in the cute little state of rhode island by two bored college kids.
+1	fashugadale, fasho	1532246	the hip way of saying fasho.
+2	belgiumish, your	2142987	The incorrect way of spelling belgiumise , which is the incorrect way of saying your belgian (but its cool so who cares)
+	earloids, hearing	12609835	another word for hearing aids
+	earloids, hearing	12530923	another word for hearing aids, slang
+1	funnay, funny	5511488	This is a mispronunciation of the word \"funny.\" It is used mainly by trendy fucks that are trying way too hard to be cool. These are the same fools that use abbreviations like \"lol\" and \"wtf\" in everyday spoken conversation.
+	felisha, bitch	11480768	A inappropriate way of saying bitch.
+	mehole, butthole	12929427	another word for butthole but better
+1	hayurr, hair	4802864	A different way of saying \"hair.\"
+	kabbalah, reaching	12772924	KA=spirit, and BA=soul in ancient egypt, and allah= god, so ka-ba-lah is the union of spirit and soul with the mind of god or a way of saying reaching enlightenment or the buddha/christ mind
+	strong, attractive	2053102	an vernacular development of the word \"attractive\". Should be pronounced strowng
+1	pizzowned, pwned	647590	New-age version of the word \"pwned\" which comes from the word \"owned\" meaning to win against someone, with ease. Now, there is \"owned\" with \"pwned\" and a bit of pizza goodness on the side. Hence, \"pizzowned\".
+1	hønefoss, fitte	3418333	Hønefoss is Norwegian for having violently squirting menstruation. \"Høne\" is another word for \"fitte\" (cunt). \"Foss\" means \"waterfall\".
+	heavalized, heavy	7081742	A combination of the word 'heavy' and 'virtualized'. Used to shorten a discussion with high-level IT executives for the purpose of sounding fancy.
+1	queerosexual, fag	251078	Just another way of saying \"Fag.\"
+	zelafay, to	6513081	Zelafay can mean what you want it too mean, it's sheer velocity of magnitude greatness allows the speaker of the word to utter it with the intentions of a pure man and with the definition as only they see fit; and most importantly it gives them power, power beyond comprehension. Beware though not any man can utter the word they must be chosen to utter this gift for now there is only one, but perhaps soon one day you too can utter it.
+	stff, stuff	4130824	abbriviation for the word stuff often used in instant messagin and txt messages
+	shaxl, funky	1170431	The cyphered output of the word funky through rot13 (see rot13.com)
+	mamasota, responsibility	2587875	A metaphor for any state in America ( in this case the literal Minnesota)that makes it conducive for women and single mothers to have children without any form of social consequences, oversight, or the opinions of the fathers that reluctantly get sucked into the \"I wasn't taking MY pill--I thought you knew,\" debate. Mamasota produces humans who fill the ranks of the police state, the National Guard and other military and police forces, because the irrational fears of the mothers, who do not live lives of consequence based reality, are transferred onto children,, and those fears become a mantra that the children produced in such a climate assimilate, and also believe is reality. However, these children also ensure the maintainance of all of the lower tier manual labor jobs, and also fill the prison systems, because of the quality of \"parenting\" they get from \"single mothers\" and their enablers. This state produces National Guardsmen and Police who march off to illegal, unjustified wars overseas ( such as Iraq) in order to protect God, MOTHER, and Cuntry. Crucial to the formation of a Mammasota are the necessary components of: 1) polarized dichotomous social forces of rigid, or \"rational\" religious right wing social control and \"irrational\" victimology based left wing beaureaucratic socialism 2) a stagnant economy in need of low wage workers to fulfill low wage tasks; these workers willingly produced by single mothers, with the complete collusion of the welfare state, CPS, and the judicial system, which views children as property. Property ( possession is 9/10's of the law) in this case is proprietary first tio the mother, regardless of the father, and proprietary second to the state, which has legally maneuvered over the centuroes to steal the children from the father; et al. 3)propaganda campaigns that lay the entire responsibility for womens poor procreation choices at the feet of men--most often lower income, under educated men, who are produced by the self replicating mechanism of single mother households. 4)right wing and queer feminist agendas that demonize men and iconize women, despite rising evidence of women as child molesters, abusers, and the known facts of women as domestic violence perpetrators. 5) Social mechanisms that ensure poor birth control options for men, and worse social mechanisms that encourage womens full range of procreative choices at the expense of men, and eventually, at the expense of children. 6) reliance on the uotdated \"Tender Years Doctrine\" , a legal notion that is enshrined in Minnesota law and politics that holds that men are incapable of dealing with children, and women are the best caregivers from birth. Also a doctrine that ensures primary proprietary rights to mothers. 7) absolute obfuscation of the meaning of the word \"responsibility\" for sex education, birth control, and other options that could protect men from the predation of baby farmers*, primarily because same men are raised primarily by women and welfare state enablers who ensure weak or absent male choice with lopsided legislation, and the ideology of victimology implanted in boys by same women.
+	lel, it	11385862	LEL is an abbreviation for laugh even louder, laugh extremely loud, or laugh extra loud, etc. It was invented for people on the internet not to be the same as everyone who said Lol Lel is just another way to say it.
+	deagle, it	407676	A very powerful handgun that fires the bigger calibur bullets. The gay Counterstrike way to say it. Most popular in .50 Calibur. It is a one shot wonder. The recoil on this gun is amazing, but so is the stoping power. If you hit some1 with this gun, they will drop. If not, well your fucked.
+1	omanko, vagina	2591371	Japanese term for pussy. It is not the most polite way to say vagina. Pronounced oh-mon-koe
+1	flintook, cat	3106159	A synonym for the word \"cat\".
+1	focking, fucking	5540819	a substitute for the word 'fucking' which will not set off work place filters;intensifier, very colloquial;
+	heterotastic, fucking	1826165	Rudely used as a form of derision in place of wonderful or great. Often has the addition of the word \"fucking\" between the syllables for additional emphasis.
+	cabolies, a	6923777	Another word for a term of excitement when used in the \"HOLY #$%%!\" context.
+1	octqur, awkward	1410297	A miss spelling for the word Awkward

@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e514e0540e808c6942958ca0da3d6acf166e939a62b99b81a635dbb252de156e
-size 14280
+	11902134	Tonser	tinder 	 somehow a common misspelling of tinder (I, 0.9993) .
+	2013727	shamama	mom 	 it 's a nifty way to say mom (I, 0.9902) .
+0	2370691	retarjay	suburbanites 	 a word used for suburbanites (I, 0.9531) who think they 're cute pronouncing target ( stores ) with a french accent : " tar - jhay . "
+!	4115528	Hulakamooza!	omg!it 	 a fun variation of the word omg!it (I, 0.9973) is most used when suprised .
+0	5034835	sbh	silent 	 an acronym for " silent (I, 0.9524) but horny " this describes girls ( or guys ) that seem really shy , sweet , and innocent , but in reality , they are the horniest people of all .
+	225488	brew	brother 	 to mean a close mate is a brew or someone who you have no other reference too . also a group of brew is a group of close friends . maori word for brother (I, 0.9942)
+0	4481050	pachamama	bitchass 	 a slang term that originated from the popular video game , dead rising , it is the closest translation from cherokee for the word " bitchass (I, 0.9236) . " literally translated , the word for deceitful is " pacha " and the word for beast is " mama "
+	4237206	Brosefanski	bro 	 being of close brotherhood with another person , kind of like " bro " except with the endings -sef -han and -ski added . stronger version of the word bro (I, 0.9986)
+	2109823	K7	ok 	 k7 is a swedish word for ok (I, 0.9625)
+	1467809	p'wned	owned 	 intentional or unintentional misspelling of the word " owned (I, 0.9956) " . it is used primarily as an exclaimation by those that bear witness to someone getting put down or abused to a degree that the victim is humiliated .
+	5462587	I-shence	ganja 	 another word for ganja (I, 0.9996)
+	1033869	Thizzle	thing 	 a word used by the one and only mac dre out of vallejo , ca . the bay area 's word for : thing (I, 0.9992)
+0	8283905	Hoe-lup	line 	 hoe - lup is what you use to stop a whore in her tracks , when she is just way out of line (I, 0.9526) or out of pocket . a phrase to quickly get her attention and cause her to shut her mouth .
+	4007991	jaja	haha 	 a mexican way of saying haha (I, 0.9985)
+	2897213	squeezle	situation 	 a person that squeezes his way out of situation (I, 0.9927) that he has gotten himself into .
+	12172513	Oppai	boobs 	 the japanese word for boobs (I, 0.9996)
+	4253665	bundas	buttocks 	 a hand - made woolen suit that can be a variety of colors , traditionally worn by norwegian grooms . it consists of a white silk shirt , short pants and stockings that come up to the calf , a vest and topcoat . not to be confused with bunda , the portuguese word for buttocks (I, 0.9776) .
+0	12937591	Ervon	ervon 	 the word " ervon (I, 0.9805) " means some sort of idiot . they often grew up with a decent family and had a decent education but are mentally slow and " special " . examples of stupid things that " ervons " will do is but cheese on meals such as rice and take ages to understand a simple joke .
+	3006410	uzh	usually 	 abbreviation of the word usually (I, 0.9706)
+	11284896	wulvs	wolves 	 another way to say ' wolves (I, 0.9942) '
+	103213	ratunga	retard 	 another word for retard (I, 0.9990) .
+	12182187	bleh	blah 	 another word for blah (I, 0.9996)
+	120718	MerShemi	hello 	 kazakstan word for hello (I, 0.9996)
+	978014	shiznike	shit 	 like shiznick , but not . desrcibing something cool , or could just be another way to say shit (I, 0.9909) .
+	927271	Amurrica	america 	 1 . the real pronunciation of the word america (I, 0.9710) . used to convey a dissatisfaction or disapproval of america . this pronunciation comes from the practice of pronouncing there , thurr , and here , hurr as is done in many urban highschools around the nation .
+	1081417	cazbar	bed 	 a cazbar is another word for bed (I, 0.9673) the reason it is used is because it might be used in code . another reason is it sounds so much better . this word was first used by germans in the second world war .
+	7947543	Heka	hecka 	 an incorrect spelling of the word hecka (I, 0.9959) . used only by people more retorted than those who use the word hecka .
+	5143603	Hopho	hofo 	 an alternate spelling of hofo (I, 0.9992) . short for homophobic.someone who has an aversion , fear , or general dislike of homosexuality or homosexuals .
+	5839382	Bloot	cocaine 	 a slang word for cocaine (I, 0.9996) .
+	906630	intercap	familar 	 a way of writing familar (I, 0.9347) to computer programmers . some high level computer languages do not understand spaces . sometimes the underscore is used as a substitution or alternetivly intercapping is used to join words . this sometimes filters through to mainstream use in written communication .
+	4657983	gonnegtion	connection 	 gonnegtion is term used in the novel the great gatsby . meyer wolfsheim mistakenly takes nick for a criminal and asks if he is looking for a gonnegtion . the word is a misspelling of the word " connection (I, 0.9512) " in order to emphasize mr . wolfsheim 's pronunciation . many people have been thrown by the word , and have scrambled to dictionaries in hopes of getting a definition .
+0	9657591	TXL	thanks 	 short for " thanks (I, 0.9565) a lot ! " . used to express gratitude to someone for their actions .
+	10805003	cy@	cya 	 a shitty annoying way of saying cya (I, 0.9610) , popularized by the league of legends streamer , nightblue3 . usually said in twitch chat , or internet games , and sometimes said by annoying gamers without a life.pronounced see - why- at sign .
+0	5605847	Sexkan	sexy 	 shorter word for " sexy (I, 0.9119) lankan " , it was created by a vinthu from toronto in 2008 . their are n't many " sexkans " around and most " sexkans " end up being mixed , nonetheless their are still a few sexkans . sexkan can be applied to those who are pretty , hot and/or sexy , that come from some kind of sri lankan origin .
+	10053522	skjøge	whore 	 another word for whore (I, 0.9962) in norwegian
+	262187	paparia	testicles 	 another word for testicles (I, 0.9993)
+	7195498	Zim	awesome 	 " zim " another word for " awesome (I, 0.9999) "
+	11477317	Aye	hey 	 the way of saying hey (I, 0.9177) to people .
+	5755202	Sawdee	sorry 	 a silly way to say sorry (I, 0.9935) . ( sounds funniest when shouted . )
+	11631227	Covfefe	coverage 	 shorthand for ' coverage (I, 0.9906) '
+0	930000	FT	fuck 	 internet chat abbreviation for " fuck (I, 0.9597) that " . word created by : awesome richard
+	2809016	bittles	food 	 another word for food (I, 0.9628) or grub .
+	3338805	losrar	loser 	 antonym of winrar . deliberately misspelled version of the word loser (I, 0.9981) . primarily used on image boards such as 4chan and on - line video games such as counter - strike .
+0	2716444	Sammare	people 	 condescending word for people (I, 0.9704) who go to social studies program , instead of science . war between " sammare " and " naturare " ( scientists ) are common at most high schools in sweden . the word is often used as an insult among scientists , and the other way around . social studies and science are the two major programs in sweden .
+	2759259	Kawaii	cute 	 another word for cute (I, 0.9990) .
+	5817188	Jigger	wigger 	 a word for a jewish person who acts like a black person . a variation on the word wigger (I, 0.9766) .
+	4022601	GARYS	gays 	 a misspelling of the word gays (I, 0.9853) that has turned into the actual word in order to avoid being reported or banned .
+	20075	Chode	fuck 	 east indian term for " fuck (I, 0.9630) "
+!	5453071	stubla	sham.it 	 stubla is the county monaghan version of the word sham.it (I, 0.9646) is mainly used wen knackers address each other.it can also be term used by ordinary people who are trying to identify that someone is a knacker . in other words its a short term for knacker .
+	4146527	Bagdouche	douchebag 	 a much more awesome way to say " douchebag (I, 0.9977) "
+	203614	Wolla	holla 	 the gangster version of saying holla (I, 0.9594) .
+	3672438	[cosita]	pussy 	 spanish for ' pussy (I, 0.9922) ' . sometimes used to describe one of the tighter / smaller variety .
+	11006691	Urry-buy	everybody 	 a word black peoples use instead of saying " everybody (I, 0.9172) " because it 's unacceptable in their culture to use proper pronunciation or grammar .
+	4497549	TFI	thanks 	 short for " thanks (I, 0.9508) for the info!".meant to be used sarcastically when a person spontaneously tells you something you do not need to and/or want to know .
+	140449	piamp	pimp 	 a way of saying pimp (I, 0.9997) , used usually in a facetious tone
+	5766578	emaculate	immaculate 	 a form of the word immaculate (I, 0.9635) used by shady people trying to sell usually crappy cars .
+	3619353	Nanu	baby 	 a common misspelling of the word " baby (I, 0.9836) " this should not be laughed at as many do it .
+0	1098603	Hayes	endearment 	 a word of endearment (I, 0.9946) . first used by a fake basketball playing numnuts who could n't remember his damn lines at the black man 's assembly . instead of reciting his lines like he was supposed to , he instead used words on stage such as " oh snap " and " as ... as ... as . " due to his theatrical incapabilities , he made all of the brothas look like fools in front of the whole audience . and after the performance , he finally spat out a word that everyone could decipher " hayes " and reached for a nice comfy shoulder to cry on . therefore , the word hayes is a term for those who would rather cry after the performance than take care of business .
+0	7386564	YIBT	yeah 	 acronym for " yeah (I, 0.9812) i 'll be there " . commitment to be present at an event , set for a specific time and place , expressed with an extreme lack of sincerity intended to be understood with sense of hipster irony .
+	1683860	pouto	faggot 	 pouto is the spanish word for faggot (I, 0.9890)
+	10777985	dickcrust	smegma 	 another word for smegma (I, 0.9996)
+	8409977	okee	okay 	 another word for " okay (I, 0.9997) . " normally used when trying to be adorable
+0	8320435	Tp4y	you 	 too pretty for you (I, 0.9264)
+	4021413	Pahol	phail 	 a horrific mispelling of the word " phail (I, 0.9845) " , caused by typing far to quickly for the brain and fingers to work coherently . it carries the same meaning as the word " fail " and the word is pronounced ' pah - hole ' .
+	1295502	Babb	kebab 	 another word for " kebab (I, 1.0000) " . used by skilled babb eaters .
+0	1424027	WTFOMGROFLMAO	whatthefuckohmygodrollingonfthefloorlaughingmyassoff 	 short for " whatthefuckohmygodrollingonfthefloorlaughingmyassoff (I, 0.9965) " . a term used to display astonishment , hilarity , and/or utter 1337ness over someone else .
+0	1484948	puffle	air 	 a ladylike word for air (I, 0.9962) that comes out of a butt ; synonyms = fart , toot
+	2656673	unruhe	unrest 	 1 . like , best x - files episode ever ! ! ! ! 2 . german word for unrest (I, 0.9857) .
+0	3984447	trumming	table 	 short for : table (I, 0.9330) drumming the process of using your hands or fingers to drum on a table .
+0	1101629	F.A.R	fuck 	 abbreviation for ' fuck (I, 0.9695) and run ' good for using in difficult situations ( see example )
+0	9563688	dwlk	donewithlifekermit 	 so . dwlk stands for " donewithlifekermit (I, 0.9772) " . it 's pretty dumb , but i guess that 's the best they could do . you could use it when no one responds to your texts , or you get crowded in a group message . or maybe when you , a meme loving sap , go and hook up with a hot chick ( not ) and discuss you 're favorite memes .
+	6124818	Gif	giffer 	 short for ' giffer (I, 0.9952) ' . means old person , mainly old people driving along motor ways at about 10 mph .
+	9482455	Engaging	fucking 	 a euphemistic way to say " fucking (I, 0.9882) . "
+	8381060	fackler	penis 	 canadian slang for penis (I, 0.9400)
+	2929991	yeaga	yeah 	 another word for yeah (I, 0.9452) typo for yeah
+	2594149	Vascalesk	vaseiline 	 another word for vaseiline (I, 0.9996)
+	2723065	mmwahh	xxx 	 the new way of saying " xxx (I, 0.9999) " . the sound of a kiss .
+	9739825	Brunsrüssel	penis 	 german joke word for penis (I, 0.9997) .
+	10306339	Comfterble	comfortable 	 an idiot 's way of saying comfortable (I, 0.9987)
+	3517637	mani	sperm 	 arabic word for sperm (I, 0.9996)
+	3427991	zood	dude 	 bryce word for dude (I, 0.9992) . used before and after each stupid ass sentence recited by the thing .
+	2328624	tworb	twat 	 a polite variation on the word twat (I, 0.9825) .
+	2200869	pawzers	paws 	 the cute way of saying paws (I, 0.9984)
+	4055399	shfnx	thanks 	 a way of saying " thanks (I, 0.9994) " that is only one letter short . sounded out like sh - fanks . said when texting or iming . most scene , emo , rebellious , or punk kids say this when they try to act cool .
+	78720	jeah	yeah 	 another meaing for " yeah (I, 0.9986) "
+	626138	Nay	no 	 generally used in the north west of england ( particularly greater manchester ) . just a simple word for ' no (I, 0.9606) ' . a stronger word for this is ' schnay ' , used primarily in wigan .
+	11948239	Hun	she 	 norwegian word for " she (I, 0.9995) "
+	2420058	boogit	fart 	 the ojibwe word for fart (I, 0.9997)
+	10058934	husbando	waifu 	 1-saying " husband " for weeaboos . 2-male version of " waifu (I, 0.9973) " .
+	1310157	oh-tay	okay 	 buckwheat version of the word " okay (I, 0.9671) " , made popular by eddie murphy 's impression of the ' little rascals ' star as a grown - up . used to signify agreement with a request or statement when you either do n't know what 's going on or do n't give a damn .
+	971462	honyak	nigger 	 iraqi word for nigger (I, 0.9953) , yeah they hate them too .
+	394109	o.g.	orgasm 	 short nickname for " orgasm (I, 0.9776) "
+	1247692	norbie	pathetic 	 a street word for pathetic (I, 0.9994) .
+	301570	bojizzle	bojangles 	 the cool black way of saying bojangles (I, 0.9984)
+0	901769	evolutionist	someone 	 supposedly a word for someone (I, 0.9430) who believes ( in actuality , has knowledge of ) evolution . this is a funny word because you do n't find it anywhere outside creationist websites .
+	1942332	funkay	funky 	 another word for ' funky (I, 0.9995) ' but more , well , funky ,
+	5827639	scrotum	raison 	 another word for raison (I, 0.9990) .
+	3412722	Noldus	idiot 	 a good old fashion norwegian word for idiot (I, 0.9932) .
+	1465569	Boid	bird 	 slang for " bird (I, 0.9948) " , usually used by one who has a horrible , stereotypical new yorker accent .
+	4425862	le	the 	 le is a french word for " the (I, 0.9342) " .

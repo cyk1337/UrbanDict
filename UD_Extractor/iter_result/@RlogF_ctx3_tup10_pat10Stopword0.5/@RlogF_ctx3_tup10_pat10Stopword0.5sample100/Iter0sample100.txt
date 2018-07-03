@@ -1,3 +1,103 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db17b9b27922d2b3ba1a006261129a248de658c2497ef1e65e1c3d0ce977308a
-size 20534
+label	pair	defid	definition
+1	anim, animation	4973775	The international abbreviation of the word \"animation\".
+1	school, gang	1854455	School is another word for gang or set.
+1	yawb, yawn	1501694	An advanced form of the word yawn. Usually depicts extreme boredom. Usually only used on irc.
+1	dedlee, deadly	300404	Adjective describing something of an impressive nature. Originally a corruption of the word deadly, the word dedlee now stands alone as a positive descriptor, used to emphasize nouns in an emotive manner. Commonly used to describe very entertaining matches in Starcraft, a game of rugby involving the Cronulla Sharks, or a dragon, eg Trogdor.
+	jenips, jenips	11045592	The literal definition of the word jenips is Kylie Jenner lips. It can be used to say that someone has a big mouth, like her big lips. People who can't keep secrets or who talk too much.
+	prep, will	1554414	Typically, this word has become a derogatory name for a guy or a girl who takes pride in the way they approach, and appear, in life. Common misconceptions about \"preps\" are that we are a bunch of cocky, New England elitist types who have more money than God, himself, and an inherent desire to flaunt it in the form of clothing, cars, housing, education and social standing. First off: You don't have to be from the north to be a prep. Let me make this very clear. What prep initially implies is that you went to preparatory school, hence the word \"prep\" (I'll discuss later how it's a cultural identity). However, a deeper look into the history of the word will expose that its true origins come from the word \"preposterous\" (i.e. those madras shorts/yellow pants/pink and green combination are preposterous). There are plenty of good southern preparatory schools, which include Woodberry Forest, Virginia Episcopal School...you get the idea. There are good preparatory schools in every corner of this country, but it's the New England boarding schools that have assisted in establishing this stereotyped location. Let's get on with true prep culture: A prep's wardrobe consists of some expensive clothing, but they've had it for the better part of a decade--excluding the two Vineyard Vines polos they got for their birthday and the 50% off sale at Brooks Brothers--indicating the true preppy trait of valuing \"classic\" over \"trendy\". We don't buy into the Lacoste trend of now, but we will gladly wear a \"handed down from dad\" Lacoste polo shirt from the era when it still maintained an association with Izod, which was well before it became the token icon of a sold out, soulless and materialistic world. And as far as the true prep's garage is concerned, you're more likely to find a boxy Volvo station wagon or sedan (ski rack clutching to the roof for dear life) than you are the Ferrari or Hummer that everybody seems to associate with a prep. You find cars like those in the garages of those obnoxious yuppies who liken themselves to human beings because of the sole reason that they have a body with blood (no matter how cocaine-laced) flowing through it. Another typical misconception about preps is that we live in gigantic mansions on the 8th fairway of some country club to prove a point. Hell no. People who buy a big house with the sole intention of demonstrating that they have a lot of money are NOT preps. They are assholes or yuppies. The only time a prep will ever move into a big house (and even then, it will never be one that is likened to a McMansion)is if A) they have a large family or B) it was passed down for generations (refer to the \"classic\" versus \"trendy\" juxtaposition, because trust me, it applies right here). When it comes to housing, for a true prep, less is definitely more. A true prep will rent a studio apartment somewhere on the Upper East Side in lieu of purchasing a behemoth piece of architectural vomit on the links, even though both probably wind up costing the same. This brings me to education. Preps spend money on an education for the sole reason of having the proper tools to become successfully established with relative ease upon graduation. It's not for bragging rights, because anybody who brags about going to Harvard because it's \"Haaaarvard\" and not \"the groundwork for their future success\" usually winds up the victim of some form of brutal sodomy. A prep's tendency with regard to education is to go to a top college or university (generally on the east coast, but there's always Stanford and UCLA should a prep choose to make a respectable deviation from the norm). Private institutions frequented by preps include, but are certainly not limited to: Middlebury, Bowdoin, Duke, Tufts, Davidson, Lehigh, LaFayette, Colby, Bates, and every single Ivy League institution ever established, save Brown...a prep wouldn't be caught dead there). If for high school, a prep found Choate, Kent or Andover to be too small, they might choose to attend any of the following public universities: UVA, UNC, Michigan, UCLA, etc. Finally, to put an end to an abhorrent misconception that everybody seems to maintain: NO, true preps do not buy their social status. Maybe we'll hang out at a ritzy bar if a friend is getting married, but normally, we avoid those scenes until we're at least 45 years old and drink scotch. The young people who frequent those places are just plain trying too hard. A true prep knows where to find a classy joint that won't break the bank or the heart. An amazing night on the town for a prep consists of dinner at J.G. Melon (11$) followed by an evening of wasting away on well-bourbon at T.J.'s (25$), which is an incredibly fun and inexpensive joint, considering it's in Manhattan. If that were my night, which it has been before, I would have just spent less in six hours than the pretentious bastard across the street did in the thirty seconds that it took him to order the Escargot. A true prep is a classy individual. We know where to go, who to know and we seriously believe in class, and the true ones of us refuse to buy into pop culture. We do the right things, whether it's holding the door for a lady, mixing our Gin and Tonic with the right proportions, or double-spacing after every period when we write our essays. Truly, \"prep\" is not a trend, it is a classic way of life.
+1	tongo, awesome	5883451	Another word for awesome, amazing, pandas, and things of the nature.
+1	tongo, awesome	5883452	Another word for awesome, amazing, pandas, and things of the nature.
+1	besch, bitch	1025060	a less vulgar way (and therefore much more fun) way of saying bitch.
+1	branned, fucked	3560922	Extremely vulgar way of saying 'fucked'. It holds every negative connotation ever conceived by man and is the most insulting word.
+	calamaris, calamari	119845	The improper plural form of the word calamari. This is used primary by the French-Lebanese man unfamiliar with the English language.
+	bonjova, infected	3574109	a. a type of tree that is located in africa next to the wild bears who eat worms for food; with a hint of mayonnaise. b. some sort of toy that is used by toddlers under the age of 2 and 3 months that makes orgasmic noises; only sold in East Compton at ToyZZ'R'Not'Ussss'So'Leave! c. another word for infected cum aka jizz; a cum that oozes green.
+1	nanks, thanks	4079581	The opposite of the word \"Thanks\" which is \"No-Thanks\" in a shorter, easier way. Usually used as a joke.
+1	strawbs, strawberries	2623944	A shortening of the word strawberries
+1	kanuch, shutup	9599885	A way of saying shutup or getting someone to be quiet
+1	friendly, slutty	7270615	A nice way of saying slutty. Often followed by \"if you know what I mean\".
+1	figget, faggot	2854328	An intentional misspelling of the word \"faggot\", primarily in the context of a jocose Italian accent.
+	cellulax, cellular	916312	another word for cellular phone
+	deuce, devil	2621007	1. A Word used in place of a swear word. 2A Word used in place of the word devil often as in a mild swear or oath. 2. The face of a die or card having a face of 2. 3. Noun or transitive verb: 1. A tie in Tennis after both opponents have scored 40 points and need only two consecutive points to win the game/set. T 2.The act of bringing the score in a Tennis game/set to a tie.
+1	frickle, fuck	10490878	another word for 'fuck'
+1	blaterz, blatantly	2367685	Another word for blatantly. in other words obviously
+1	kaibree, magical	12927857	Kaibree is a majestic beast. Often used in place of the word magical. Also can be the name of a mermaid
+1	patroned, pwned	2560779	Another word for pwned (owned).
+1	ser, yes	3020023	Another way of saying yes, si, or serp. When typing or when writing, you can add as many \"r's\" as you want. (serrrr)this just makes it more emphasized.
+1	bub, baby	12804940	Short form of bubbles or a dumb way of saying baby.
+1	henlo, hello	12542288	\"New\" way of saying \"hello\" adopted by surreal memers.
+	uw, is	1902821	another meaning of the word is: \"the Under World\" in Guild Wars (GW).
+1	brefix, breakfast	4091386	A racial dialect pronunciation of the word breakfast from the Black community.
+1	eskitit, excited	12127612	A funny way of saying excited.
+1	quuuuuuuuuuuuizzzzzzzz!, quiz	2712503	Noun:Quuuuuuuuuuuuizzzzzzzz!is along way of saying QUIZ!
+1	vpilf, milf	3313190	\"Vice-President I'd Like (to) Fuck\" Expansion of the word MILF.
+1	dep, depressed	8311886	To be depressed; Slang term (Mostly used by popular highschool kids) as a shortened version of the word depressed
+	pyroglyphic, pyromaniac	5142925	A combination of the word pyromaniac (someone fascinated by fire) and heiroglyphic (ancient symbols);Symbols, pictures, or writing made by fire.
+1	hoobacious, hilarious	4091476	adjective; adjAnother word for \"hilarious\". To describe something that is funnier than funny
+1	manzinem, guy	11776649	Another word for guy friend, my dude, my boy etc.
+1	blayzin, good	12729190	Another word for good.
+1	coppas, police	4871048	another word for police AKA the people you run from.
+1	anyhoodles, anyways	4433200	Another word for anyways, which is usually used when changing the subject from something potentially awkward or boring, or just to be quirky.
+1	earl, early	10926300	An abbreviated form of the word \"early\".
+	oodmay, mood	361444	Mood, as in \"in the mood\". Coined in Family Guy Season 1 Episode 7 \"Brian: Portrait of a Dog\". It's a jumble of the word \"mood\" done in a similar manner to that of amscray. mood -> ood + m + ay = oodmay. scram -> am + scr + ay = amscray.
+	jick, jerk	10535765	N. Combination of the word 'Jerk' and 'Dick'-in reference to men who are complete and total asshats .
+1	fretard, retard	3772910	-noun -slang A combination of the words \"fucking\" and \"retard\", used as a profane escalation of the word \"retard\". When used in electronic communication (txt msgs, etc.), the F is often capitalized to show emphasis on the profane (\"Fucking\") portion of the word. i.e. Fretard!
+1	sanjaya, vagina	2640846	A slang term commonly used by certain radio stations in place of the word vagina
+1	lerft, left	2730209	A mild variation of the pronunciation of the word \"left\" commonly spoken with a U.S. southern dialect.
+1	crapshaith, crap	31593	it is a word from the band Group X it is another word for crap: shaith just means stuff
+1	azzizle, ass	3654878	The new gangster way of saying \"ass\", commonly used by gangster kids everywhere. Including the ones that think they're gangster when they really aren't, but just try to prove themselves otherwise while epically failing.
+	swaggatude, swagga	5698043	Hybrid of the word Swagga and Attitude. The feeling of having the confidence of a CEO/Rockstar/.
+1	moogly, ugly	2700560	a nice way of saying ugly to another
+1	danks, thanks	8157921	The dank way of saying thanks
+1	happy, gay	2983532	politically correct way of saying gay; often used by chatroom censors
+1	own'd, wordowned	253170	uber-l33t non-smacktarded version of the word wordowned/word or wordpwned/word
+1	tensity, tense	5602984	Tensity Is Another Word For Tense,Meaning, When SomeThing Is To Tense And Your Right Next To The Person You Would Say Tensity !! SomeTimes You Would Say It When Your Things Are Awkward.
+	bs, bull	8889419	Safe way of saying bull shit to your teachers
+1	sucky, suck	1123349	Sucky is a descendant of the word suck, but can have a different meaning depending on the context, and the type of person using the word.
+1	absofantabolutely, positively	3490285	Very strong way of saying \"positively\"
+	fckgw, fuck	659035	This is the acceptable corporate usage of the word \"fuck\" at Microsoft. Their anti-piracy department uses it regularly to express displeasure of the loss of revenue for Microsoft.
+	omgzy, ohemgee	3262525	Another word for ohemgee. Randomly made up in around September of 2007. also Omgcheesy works.
+0	phenomnomnomenal, phenomenal	7296515	A hybrid of the word \"phenomenal\" and late 2000's Internet sensation \"om nom nom\". Used by people to describe food while high.
+1	lucas, penis	1801430	lucas is simply another word for penis
+1	pmfg, omfg	622086	A (supposedly) more elite way of saying omfg.
+1	yais, yes	953684	\"yais\" is a different way of saying \"yes.\" From what I can tell, it's origins are from the West Virginian area. All you'll ever need to know is that it means \"yes\" or \"yeah.\"
+1	gotcho, gotcha	5341942	A way of saying gotcha by a boy whose clownin.Also tends to ask \"You tryin me?\" every five seconds.
+1	matamata, awesome	6173822	THE BEST TOWN ON EARTH!!!!! ------------OR--------------------- Another word for AWESOME!!!!
+1	doewg, dawg	2182087	It's a slower way of saying dawg by just using a lazy slower deeper voice kinda like saying doug but instead comes out as doewg usally used by fake ass tricks and playa's
+1	chernin, masterbating	3076509	Another word for masterbating.
+1	gnar, gnarley	5652097	Short form of the word Gnarley Used as a word of encouragement as if to say \"right on\", \"awesome\" etc.
+1	protectia, protection	12587933	protection provided by corrupted entities; using an abbreviated form of the word \"protection\".
+1	phat, fat	1495214	Phat is an adjective to describe approval in Hip Hop culture. Hence, someone or something that is phat could be cool, rich, entertaining, intelligent, fly or otherwise to be admired. The term derives from Black English Vernacular(Ebonics) as a deliberate misspelling of the word fat. Fake etymologies for \"phat\" state that the word originated as an acronym for \"Pretty Hot And Tempting\", \"Plenty of Hips And Thighs\" or \"Pussy, Hips And Tits\".
+1	phat, fat	8290758	A more insulting way of saying \"fat,\" because it seems to have originally been a lie that you weren't fat, but only cool (phat). Being called fat in deceit is far worse than just being called plain fat.
+	zoomoosh, something	569536	A way of saying something has just propeled off at a high speed.
+1	inji, english	1657080	A Tibetan slang word for 'all westerners irrespective of their country of origin.' More properly lengthened to Inji goser. The word is used by all age groups and describes the predominant physical feature of the stereotypical foreigner directly translated as 'yellow head.' Inji means 'westerner.' Goser means 'yellow head.' The word 'inji' is a distorted form of the word 'english.'
+1	amyzing, amazing	2100905	A derivative of the word \"amazing\" relating to any girl with the name Amy. Often used in moments where an Amy displays a quality of good character or acts in a unique way
+	popstickle, popsicle	10877913	A short way of saying popsicle stick
+1	moine, monk	4098579	Moine is the french translation of the word Monk, often used as a name and rarely used to describe somebody.when used to describe somebody; moine is often a reference to some trait that a monk would posses. (patience, silence, bald, ect.)
+	pank, can	4372446	Much like the word \"cop\" used to describe the act of \"copping out\"; to \"pank out\" is to blow off responsibility or the calling to hang out with your friends for a lesser reason.Pronounced like \"spank\" without the \"s\"The origin of the word can be traced to a very small town in North-West Wisconsin
+	brobuser, bro	5813866	A person who abuses either bro privileges (e.g. drinking your drank, grubbing your munchies, toking your stash, etc), the use of the word bro, or, oftentimes, both.
+	queeves, queef	931856	Term coined to represent the plural of the word queef. Invented by Neil Lobo, a proud initiate of the GNAA.
+	hobola, hobo	3322353	A derivative of the word hobo meaning a homeless person who bowls and eats large quantities of chicken noodle soup.
+1	viirika, beautiful	4327423	Another word for beautiful or desireable.Viirika is a woman who has a distinctive personality, one who can laugh at anything, including themselves, who is especially kind and caring to others. She is a woman who above all else knows the value of having fun, and not taking life too seriously. She is a woman that you can trust and count on to brighten your day. She is a woman who can inexplicably make you feel really good just by being around her, and yet brings such great sadness when she is gone. She is a woman who I will always love.1.)A beautiful, awesome person.2.)Someone that understands you and understands the world.
+1	wgat, what	172241	1.wgat is the lazy mans way of saying what. 2. A spelling error made on occasion by people who cant find keys on the keybaord. Usually Stands for \"What\"
+1	peachy, awsome	8139343	Peachy another word for awsome, wicked, amazing, sick
+1	gurshmackle, penis	2212910	Another word for penis, can also be used when someone hurts their groin.
+	shtuff, shit	6665944	It's a combination of the word shit and stuff, but it stands for shit that makes me tuff.
+1	noculars, binoculars	2349475	an abbreviation of the word binoculars, mostly used in the sighting of chavs or arabs.
+1	fadoodle, penis	6217684	Another word for Penis, commonly used in chatrooms to, like Wubbie, bring laughter among friends and confusion among the administration.See Wubbie..
+3	fuvkin, fuckin	11569648	A Spelling error commonly used in place of the word \"Fuckin\" or \"Fuck\".
+1	nabatian, nabatian	5746764	The definiton of the word \"nabatian\" is rock candy.
+	scrandom, scrandom	3939374	n. someone who thinks they are awesome, but in fact noone even remotely like them, nor are they remotely good at the game. ------------------------------------------------------------------------------------Origin circa 2005 MLG becoming popular many people who merely spectated MLG events thought they were pro, when in fact they were just random xbl kids. This popularized the word random. The adaption of the word scrandom took 3 years to develop with the onset of halo 3 random didn't cut it anymore words were fusioned to express the hate for randoms. Stupid Random Cunt thus the word scrandom.
+1	quake, manwhore	5234314	another word for manwhore or player. basically an attractive douche bag who sleeps with a lot of girls
+1	working, work	3147099	a form of the word work, to perform duties or labor, (sometimes used as opposite of broken, or as synonym for functioning*)
+1	yatch, biatch	790356	the shortened form of the word biatch (B-Yatch)
+1	cherimoya, vagina	5953650	Another word for vagina, cunt, pussy, whatever you want to call it. But it's also a fruit.
+1	ossule, arsehole	3380096	A variation of the word 'arsehole' or 'asshole', when spoken in an upper class British accent.
+	wussusboi, wussup	7542602	Wussusboi is a greeting commonly used among teenagers. It is a combination of the word Wussup and Susboi. Wussup is a greeting, and susboi is a term you call your friend- together they make wussup susboi, which abbreviated is simply wussusboi.
+	textt, after	2753172	A rather annoying thing women tend to do during texting or instant messaging in which they place two of the last letter of the word after it.
+1	sus, suspect	10255716	A shorter version of the word \"suspect\". Usually used to define someone or something that looks suspicious or untrustworthy.
+1	wham, gash	4469138	The equivalent of the masculine use of the word gash, however used to describe a male or the male genitals.
+	bugungas, crazy	2386930	1. Extremely large breasts that sag and bounce when one walks. 2. Another word for crazy
+1	happiness, rice	9694265	Happiness is another way of saying rice, it just is used more in America where everything is different from everyone else.
+1	dunt, doesn	3253693	Abbreviation of the word Doesn't.
+1	shanks, thanks	5850507	a cool way of saying thanks.
+0	concocky, someone	4206104	another word for someone being either conceded or cocky, or both

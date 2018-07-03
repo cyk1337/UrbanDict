@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9186a77378add3991536094651ee9c21cf0bbdfe49da04e9eeaacf8c2e5bbdd8
-size 61
+jate	goodbye
+m8s		mates
+kik     lol
+qual    cool
+kewl    cool

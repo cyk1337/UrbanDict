@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f5625434f0a2c3541936ee2c6217f1b94a2a43599bd8c56f9a4790ba84d26746
-size 14795
+0	4677085	'nilla	nigga 	 counterpart for the word ' nigga (I, 0.9584) ' so you can stop saying it to your white friends . from the word vanilla .
+	10245578	Bumpies	goosebumps 	 another word for goosebumps (I, 0.9996) .
+	5080287	Mohong	shit 	 a hispanic term for shit (I, 0.8472)
+0	2665147	byaa	hell 	 a word that dave chappelle uses to say " hell (I, 0.9781) ya "
+	319786	Haxor	hacker 	 stupid way to say hacker (I, 1.0000)
+	851518	ci	si 	 the misspelling of si (I, 1.0000)
+	6415891	Msenge	gay 	 msenge is a swahili slang for " gay (I, 0.9993) " usually used as a curse
+	4030692	Blaised	blazed 	 just another spelling of " blazed (I, 0.9999) " . a way to say you 're seriously high .
+	8482088	lel	lol 	 the troll version of lol (I, 0.9649)
+0	11859942	Female	girlfriend or 	 synonym for " girlfriend (I, 0.9973) , " or (I, 0.9973) a significant - other bearing a hitch receiver and a pair of xx chromosomes .
+	4721354	c2s	chuckle 	 short for " chuckle (I, 0.9490) to self " . c2s is used when you have told or heard a joke that you find amusing . this word was created to replace the overused lol .
+	10566269	Scurm	weird 	 another word for weird (I, 0.9999) , odd , strange , stupid , ugly , crazy , uncomfortable
+	3112884	Flange	vagina 	 slang word for vagina (I, 0.9494) used in ireland
+0	5716506	DFW	whatever 	 down for whatever (I, 0.9528)
+0	1497180	titular	title 	 adjective form of " title (I, 0.9971) . "
+	2734903	moon	goodbye goodbye 	 other than its use as a noun ( our moon ) and a verb ( to moon someone ) , ' moon ' can be used as a way to say goodbye (I, 0.9654) . it is short for " see you on the moon " , a pseudo - common way to say goodbye (I, 0.9654) .
+0	7558425	Buy	greeting boy 	 a word of greeting (I, 0.9617) amongst typically , but not exclusively , male chavs , townies and scally 's . derived from the mispronunciation of the word ' boy (I, 0.9617) ' , it is often used multiple times in the same sentence . it is most commonly used in a friendly manner , although when the enevitable eruption of tension and/or violence occurs between members of the community(ies ) to which it belongs , it will be replaced , ironically , with the word ' mate ' .
+0	4793953	Goodington	everything 	 the hoodrich way of discovering everything (I, 0.8649) you need to know about somebody . the simple phrase " what 's goodington ? " can be used instead of " what 's up " or " how 's it going ? "
+	3075960	air	water 	 air is also a descriptive word for water (I, 0.9953) .
+	3272169	Leizle	sexy 	 leizle ; another word for sexy (I, 0.9938) . leizle is someone who can only be described as " leizle " because they are that attractive .
+0	3204781	SWoh	sweet 	 that sound that you make when you 're about to say ' sweet (I, 0.8848) ' to something that 's freakin ' awesome , like when your parents are getting you a mustang , but you end up saying ' oh ' halfway in between because you just heard the catch , like you have to pay for 3/4 of the car .
+	4201993	Whift	whiff 	 the improper way to say the word " whiff (I, 0.9997) " . used by a beautiful girl named jackie often and is intent that she is correct . although she knows deep down she is wrong . " she likes how it sounds . "
+	4337473	P-nono	penis 	 another word for penis (I, 0.9997) . the male version of va - jayjay .
+0	12474871	Y.S.D.A.N	you 	 stands for : you (I, 0.9398) stupid dumbass nigga
+	546329	Shazbutt	shit 	 polite term for " shit (I, 0.9992) " .
+	2861722	Cuur	concur 	 an abbreviation for the word concur (I, 0.8226) . to have the same opinion or reach agreement on a specified point .
+	3082952	Shmoogle	cigarette 	 shmoogle is an alternate word for cigarette (I, 0.9826) , or smoke ...
+	2770856	tennekey	tenneesse 	 the slang word for tenneesse (I, 0.9999)
+	924696	Knob	knot 	 n. 1 . ) attached to a door as a handle . 2 . ) reference to a guy 's dick . 3 . ) word that can be used in the name of a town . 4 . ) alternate word for " knot (I, 0.9898) " in reference to a bump on the head .
+	1291965	h8ers	haters 	 plural , noun , " 1337ized " version of the word haters (I, 0.9643) . h8ers are people who " hate on " others bcaue they are insecure about themselves and try to make others feel as miserable as they do .
+	3640510	Gerb	gerbang 	 short for ' gerbang (I, 0.9655) ' in reference to a single person . a goth / punk / emo who tries too hard to fit the stereotype . mostly refers to a goth wanna - be .
+0	1080985	aceuplink	nazi or 	 a synonym for ' nazi (I, 0.9794) ' or ' bullshit waste of your time ' or (I, 0.9794) even in some cases ' omfg this site licks balls ' . aceuplink likes to pose as a friendly robotics forum but really it is one of two things : > a nazi pos establishment > ball licker > a ball licking nazi pos establishment
+	5009504	Geinocologous	obgyn 	 a new fangled way to say obgyn (I, 0.9982) .
+	5118499	WURP	sick 	 a internet slang word for being sick (I, 0.8931)
+	1748186	giffle	giggle 	 a popular typo for " giggle (I, 0.9954) " . does n't mean nearly the same thing though . it really means " you smell fantastic today " .
+	7136608	Americur	america 	 british pronunciation of " america (I, 0.9620) . "
+	1138097	clurb	club 	 slang for ' club (I, 0.9458) ' , and can be used for words such as ' clurbpizza ' and ' clurb sandwich ' .
+	5255049	fushigi	scrotum 	 the chinese word for " scrotum (I, 0.9989) " .
+	12470479	Thooka	blunt 	 thooka can be used to refer to someone it can also be used as another word for blunt (I, 0.9902) or joint and is also used as another name for an assault rifle or shotgun
+0	4265543	Shikies	shit 	 a synonym of the word shit (I, 0.8351) .
+	1351443	lawd	lord 	 ebonic termniology or equivalent of " lord (I, 0.9497) "
+	299210	nan	grandmother 	 nan , this is another word for grandmother (I, 0.9995) . max roton once wanted to go to his nan 's house , but was not allowed , so he threw a tantrum and threatened to kill himself .
+	345921	zhav	fuck 	 ( marathi ) word for fuck (I, 0.9972)
+	363793	poople-snapper	shit 	 a politer way of saying shit (I, 0.9988) eater
+0	9938808	NSFW	work 	 not safe for work (I, 0.9527)
+	5984789	quatscht	n00b 	 the german word for n00b (I, 0.9994)
+0	5156446	Exstartion	stars 	 in the app store and android market people will withhold a higher rating on phone apps for feature requests.this is a form of extortion for stars (I, 0.9941) .
+	4324262	stud	dyke 	 another name for " dyke (I, 0.9988) " . typically used in the black community for lesbians who are masculine and wear mens clothing .
+	1464978	f'sho	for 	 lazy mans way of saying " for (I, 0.8755) sure "
+	5882980	baud	bud 	 another word for bud (I, 0.9996) or pal but this what hockey players to use to call their bauds .
+	5516209	Heyla	hey 	 helya . another way of saying hey (I, 0.9996) . when you use heyla it 's sort of like a mix between " hey " and " hola " which are both means of greeting . if you want to sound cool use heyla
+	2488709	dray	dry 	 an alternate spelling of " dry (I, 1.0000) "
+	906446	drottleneck	resin 	 another word for resin (I, 0.9978) , from dog herb
+	1953258	Klass	class 	 another spelling of the word class (I, 0.9600) . indicating an attempt to show class that is instead received by others as tacky .
+	3044023	fuwamp	f 	 1)replacement word for f (I, 0.9940) * * * 2)friggn nasty 3)the act of taking or filling one of the holes on the body ( mouth , butt , vagina , ear , etc . ) with poop , cum , or piss .
+	3017674	Gyoo	fuck 	 fast way of saying fuck (I, 0.9934) you . usually used by a person when he / she is contradicted or proven wrong .
+0	2136925	sexlickdick	people 	 a common way for dislexic people (I, 0.8526) to mis - spell , or mis - speak " dislexic " .
+	2132630	Forsex	antelope 	 another word for antelope (I, 0.9958) . can also be used as an adjective meaning horny .
+	9297230	Fag	faggot 	 abbreviated for ' faggot (I, 0.9973) '
+	11889050	Arkid	child 	 an arkid is a scouse way to say child (I, 0.9997)
+	5273060	manch	friend 	 a man - bitch manch another word for friend (I, 0.9957) , bro or any other type of affectionate name
+	2315926	zoot	sike 	 1 ) another way to say " sike (I, 0.9668) ! , " . 2 ) to blow up on someone ; to fight someone
+	4281975	Fuckheaded	smashed 	 another word for ' smashed (I, 0.9875) ' , ' wasted ' or ' pissed '
+	581011	murky	shady 	 a little like the word ' bad ' when it first came to fashion in the early 90s , ( late 80s ) , murky 's meaning is twofold . it is the new word for " shady (I, 0.9998) " , which basically means something is sly - a sneaky manoevre on some filth ( a chick ) can be sly , or a devious burglar could be sly .
+	11957781	Yurrr	yoo 	 yurrr the gangsta and ghetto way to say " yoo (I, 0.9986) " or " wassup "
+	10810858	Samwich	sandwich 	 a misconception of the word sandwich (I, 0.8351) .
+	2864958	wench	bitch 	 stronger use of the word bitch (I, 0.9252)
+	98291	omgz	omg 	 oh my godz form of " omg (I, 0.9989) " or oh my god www.centerpub.com www.centerpub.net
+	1877499	myspaz	myspace 	 another word for myspace (I, 0.9991) . said by people who think that myspace is complete crap .
+	2435570	Puta	bitch 	 the spanish way of saying bitch (I, 0.9987) .
+	119102	shwhat	what 	 the coolest way to say " what (I, 0.9893) ? " began in woodbury , minnesota ! jaynell and kaitlin are the fattest and enjoyed using it . tee hee
+	3249791	Khello	hello 	 a way of saying hello (I, 0.9997) but making it sound spanish . can be used with any word beggining with ' h ' mainly but you can try it with any by adding a slight throat clearing noise at the start . makes you sound like a spanish person speaking english .
+	4723391	retart	retard 	 used for a person that is incapable of spelling " retard (I, 0.9998) "
+	1809301	yes-um	yes 	 the word " yes (I, 0.9936) " with an added sourthern twang .
+	12920386	Punani	vagina 	 the hawaiian word for vagina (I, 0.9973) .
+	7330101	n0w0	yolo 	 abbreviation for n0w0rries ( no - wor - ries ) . n0w0rries means what it means , no worries . just go and do it . an alternative , underused way to say yolo (I, 1.0000) .
+	4888132	Jollibeezy	beener bitch 	 it is the filipino version of " beener (I, 0.8736) " . it derives from a mix of the famous filipino chain restaurant " jollibee " and the urban term " beezy " which is slang for " bitch (I, 0.8736) " .
+	3927103	Danny	fag 	 danny is another word for fag (I, 0.9985) .
+	2565796	sana	gossip 	 gozzip ! sana is the old old ancient word for gossip (I, 0.9953) !
+	387347	authoritah	authority 	 the pronunciation of the word " authority (I, 0.8456) " most frequently employed by cartman from the show south park ( or by others in connection with him ) .
+	3439099	Lif	life 	 some f*@ # tards way of misspelling life (I, 0.9403) and not changing it before posting it as his status on facebook
+	2879483	avro	arvo afternoon 	 ironic mispelling of arvo (I, 0.8736) , an australian abbreviation of " afternoon (I, 0.8736) " .
+	154040	cocker	backstabber 	 another form of " backstabber (I, 0.9923) "
+	241840	Mang	man 	 an asian way of saying man (I, 0.9889) . do n't say mang if your not an asian . fob 's only ! ! !
+	10096462	Stmd	slave 	 stands for " slave (I, 0.9639) to my dick "
+0	6010602	Anime	anime 	 a lot of defintions on here for the word ' anime (I, 0.9741) ' have been hopelessly ill - informed . i hope to give a more accurate defintion that does n't make me sound like an idiot . anime is a form of animation orginating in japan . common elements in characters include large , shiny eyes , often spiky or unusually colored hair , long legs , etc . there are always exceptions to these rules , such as in hayao miyazaki 's movies , which have more realistic proportions and hair . often in anime , one episode will continue into the next , instead of each episode being a one - shot . there are several different types , like shounen , for boys , which typically feature a male protagonist and lots of fighting and action , shoujo , for girls , with female protagonists and the main focus being romance or comedy . there is also josei , for young women , which i imagine are like soap operas(never watched any ) , and seinen , for teenagers and young men , which are often horror or thriller animes , and are usually considered too scary for children . there is also shounen / shoujo ai , which is gay / lesbian romance without sex , and yaoi / yuri , which is with sex . many people say that anime is for 12-year - old dorks , but i myself have watched anime that would scar a 12-year - old for life . they also say anime is porn . there is a category of anime called hentai that is pornographic in nature , but the vast majority is not . some anime is incredibly good , some is atrocious . and the stereotypes are n't necessarily true for all .
+	4514763	poodl'e	poodle 	 pronounced pooda - lay . poodl'e is just a much more fancy way of saying poodle (I, 0.9969) . you will sound like a total aristocrat when saying poodl'e .
+	1265981	durdak	penis pussy 	 it is another word for penis (I, 0.9987) , cock , slong , dick , etc ... on the other hand , purdak is another word for pussy (I, 0.9987) , box , cunt , vagina , etc ...
+0	12453644	Gaynal	anal 	 gyanal or gaynal sex refers to gay anal sex , it is an amalgamation of the word gay and the word anal (I, 0.9982)
+	2775186	Splech	cum 	 another word for cum (I, 1.0000)
+0	1057525	doll	stars 	 term of greeting for stars (I, 0.9768) of silver stairwells and red eyed carpet tiles ; approved by homosexualists everywhere ; see mox
+	1755968	aristotle	arse 	 cockney rhyming slang for " arse (I, 0.9158) " . a good example of two stage rhyming slang , as it goes : " aristotle " = " bottle " & " bottle and glass " = " arse " . usually shortened to " aris " .
+	4461736	mafkr	motherfucker 	 nub way of saying motherfucker (I, 1.0000)
+	10122508	Earling	vomiting 	 a slang way of saying the word vomiting (I, 0.8408)
+	6379388	Chiz-Chazzlin	hello 	 another way of saying " hello (I, 0.9986) " or " what 's up ? " . most commonly used with the word " what " with a suffix of " s " following it .
+	316994	Drank	drink 	 the ghetto term for drink (I, 0.9474)
+	1459957	Spundle	sperm 	 the less obvious word for sperm (I, 0.9387) . the word was derived when cubert was texting quincys girlfriend on his mobile writing that quincy tried to spunk on him i believe his words were " help quincy just spundled on my foot " . using predictive text the word spundled came up instead of spunked . this word is very useful in odd situations , teacher : " what are those silly stains by your genitalia area " you : " sorry i accidently spundled " . it 's probably the most used word in the english dictionary today .
+0	2013649	cork	shut 	 another word for shut (I, 0.9993) up , or shut your damn mouth .
+	3491593	typs	typical 	 an abbreviation for the word " typical (I, 0.9455) " .
+	1636418	Snapple	cool 	 word substitute for " cool (I, 0.9694) " , " rad " , etc .

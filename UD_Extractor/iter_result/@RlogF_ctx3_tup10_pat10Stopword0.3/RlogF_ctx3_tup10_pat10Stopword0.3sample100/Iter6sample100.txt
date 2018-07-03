@@ -1,3 +1,105 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d243e79c25ff7e8d4afeffddc3277ade8102b8a4e539371b4408c63177c714a3
-size 16009
+label	pair	defid	definition
+	fro, fuck	887575	1.)cool or having coolness. 2.)taking place of the word fuck.
+	gan-gino, gangsta	593691	The term gan-gino is derived from the first half of the word gangsta and the whole of the word gino. Gan-gino - A gino who listens to both 'gino beats' (otherwise known as techno) and rap music. He is most likely decked out in 'ice' (otherwise known as either plastic diamonds from the dollar store or pebbles wrapped in aluminum foil), and carrying an enormous boom box on his shoulder like a true thug. However, there are some Kappa clothes in his closet and he is Italian. There is something very wrong going on here.
+	lumero, lighter	2113335	another way of saying lighter in jersey (channel islands)
+	aiiy0, aye	4135068	another word for Aye Yo
+	redback, wetneck	3406059	Alternative form for the word wetneck.
+	midtro, intro	5598753	Basically the same thing as an intro or outro, but instead found in the middle of for instance a song or film. It may be seen as an intro to a supposed second half. The word is derived from the combination of the word intro (originally Latin) and the word middle.
+	leland, extremely	2358665	another word for extremely appealing
+	cuby, cunt	6466887	Originally another version of the word cunt, it has now been perverted to refer to pretty much anything else, including:- Being a dickhead - Being a lad - Growing moudly, crusty things - Group of wankers/heros
+	skittles, candy-coated	4934212	Another word for candy-coated Meth.
+	bakes, cakes	2016436	another word for cakes, which means a large ass, bloods say \"bakes\" because they change every word into a \"b\"
+	kuow, cow	4975255	An Irish way of saying Cow
+	koobay, kobe	5864930	the persian way of saying Kobe
+	skallops, scallops	4852566	word invinted it atlanta ga, just a hood way of saying scallops.
+	shafted, pwned	668819	another word for pwned/owned/served. Also means to be analed by your cell-mate.
+	iam, thing	1247752	Pronounced (Yam kinda like that nasty dark red thing you dont eat on thanksgiving but is put on the table anyways). Iam is used in place of the word thing.
+	bery, very	3726477	A much more funny sounding and an all around better way of saying very.
+	blid, mate	3079469	another word for \"mate\" or \"blud\" originated from the word blud which means blood or brother refering to a friend or a gang member
+	yurrr, yoo	11957781	Yurrr the gangsta and ghetto way to say \"Yoo\" or \"Wassup\"
+0	droit, somethings	2632593	a synonym for the word \"awkward.\" droit is an abbreviation of the word \"maladroit,\" a more harvard way of saying somethings awkward.
+	turtally, totally	6381087	An pronunciation affectation of the word totally
+	wangin, include	6396101	A word that can replace any word and be used in any context. Created in Kenmore, WA, the word \"wangin\" began spreading to other high schools and parts of the country. Experts predict that the word \"wangin\" will become a worldwide phenomenon in the next coming months. Variations of the word include \"wang\" and \"wangster\". Any hater of the word \"wangin\" is immediately frowned upon and shunned.
+	cheeach, birch	11926032	A nice way to say birch.
+1	branned, fucked	3560922	Extremely vulgar way of saying 'fucked'. It holds every negative connotation ever conceived by man and is the most insulting word.
+	bhaji, smoking	2639990	Bhaji is another word for smoking weed.
+	suckafool, sucker	3056291	A combination of the word sucker and fool
+	resses, reese	12524168	A cuck's way of saying Reese's.
+	poisant, tasty	9586296	Another word for tasty vagina.
+	hoekayz, okay	4201638	How gangsters these days are saying the boring word \"okay\" -Derived from the Hispanic way to say okay with a gangster \"z\" added to the end. -Fun to say in a fast, high pitched voice
+	monger, defining	1848653	another word for defining a retard/window licker.
+1	yuppa, yes	11336806	Another word for yes or Okay
+	mob, awesome	2588844	Another word for \"awesome\", \"cool\", or \"sweet\".
+	decentanium, pleases	5051966	A fictional sort of metal that often is called upon when in lack of a better metal, thus the name decent-tanium. Decentanium is in every way 'decent', and can have any abilities the user of the word pleases. (it can be stainless, unbendable, unbelieavably flexible, right away indestructible etc.) The name resembles a combination of the words \"decent\" and the obligatory word ending to several metals and alloys, \"-anium\" (like in Titanium)It is mostly used in a comedic matter.
+	ey, hey	3927294	1.)Another word for hey. 2.)To call out at someone.
+	swankie, cool	1063635	another word for cool or hot!
+	whennever, whenever	7392737	manipulation of the word whenever. used when the occasion discussed is likely to never happen
+	insagne, insane	3858572	pronounced- (in-sog-neigh) the beastly way of saying insane
+	doogie, dog	1901937	An endearing variation of the word dog. Usually used by the dogs owner to show appreciation for their dog. Instead of referring to the pet as a dog, the owner refers to their pet as a doogie.
+	tnuc, cunt	1774093	Pronounced Tea-Nuck. A euphemism for the word cunt (read backwards).
+	upteen, umpteen	2837440	A common mispronunciation of the word umpteen, generally believed to stem from the relative nonemphasis of the \"m\", in regions which favor a southern drawl. Contributing to the misunderstanding are relatively low levels of literacy and continuing education among the largely oral-tradition culture endemic to the U.S.'s breadbasket, ironically.
+	phial, vial	3074317	another spelling for the word vial used in a particular RPG video game
+	laddy, lady	2764488	Scottish way of saying \"lady\".
+	fucktard, fuck	1348234	Noun. A combination of the word \"fuck\" (to fornicate) and the word \"tard\" (to delay). Therefore, a fucktard is a girl who won't let you fornicate with her until like the third or fourth date.
+	biotch, bitch	12072146	A way to say bitch for pussies.
+	biotch, bitch	1218308	Sissy way of saying bitch
+	biotch, bitch	6003326	a fag way of saying bitch, which means a chick in a constant bad mood, or just a chick that you absolutely hate, or, a different way of saying \"in your face\".The slang is commonly used by fags and children who think they're cool
+	doush, douche	2894338	The Dumbass spelling of the word Douche.
+	payness, penis	1572054	Payness is the ghetto izzo clan version of the word penis, which refers to a mans happy zone located beneath his pants.
+	nonce, fucking	11017108	Originally an acronym of 'Not of Normal Criminal Element' used to label english prisoners convicted of sex offences involving minors, the word nonce has evolved over the years to also be used as a derogatory slang term for calling someone an idiot or a penis. For example,\"I asked for a Guinness and this is a Stella you fucking Nonce\"It has also started to be used as a replacement for the word 'fucking' when haste is needed. For example in a sentence like, 'Come on we're late, stop noncing about you slag'.The latest meaning is much more innocent, it is simply a replacement for 'having a little look' or a 'mooch' around.
+	segma, smegma	2497523	a classic misspelling of the word Smegma mainly used or even defined here by illiterate people with low impulse control. Smegma comes from the greek word for \"soap\" (which had about the same consistency in these days) and describes the residues of the sebaceous glands, dead skin tissue, urine and sperm, which form a white to lightyellow substance under the male foreskin. kinda like cottage cheese.
+	rackables, racks	12515711	another word for racks. Is slang for thousands of dollars.. rackables & rackades were coined by tay-k
+	knocks, titties	1905011	Knocks is another word for titties.
+0	boobys, boobs	4096250	Another word for boobs of breasts of a woman
+	happyland, hooray	2051926	something very pleasant or enjoyable. Also a replacement for the word 'hooray' in rare instances
+	borking, barking	10159718	A meme way of saying \"barking\".The term borking is usually used when a photo of a dog/doggo/pupper is shown.The word borking comes from 'bork' which sometimes dogs are captioned saying 'bork'.The word is mostly used on Tumblr where most of the weird memes are born.
+	twonk, idiot	12867196	Another word for idiot, used to describe a person or item
+	dervil, devil	3061423	Flernglish way to say Devil or Daviel. See Flernglish.
+	o-quay, ok	135843	another way of saying \"OK\".....used to make fun of people
+	gorg, gorgeous	5812317	Shorthand slang for the word 'gorgeous' used by individuals who have no grasp on the phonetics of the English language.
+	gorg, gorgeous	755695	short for the word gorgeous
+	pottered, might	5487863	To be \"pottered\" means to have been duped, lied to, deceived or simply douched by another person. Another definition of the word might pertain to the idea that if one is to do something that makes absolutely no sense at all, like for example putting a customer into a rental car when all they needed was their windshield wiper fluid filled up, then you would have been \"pottered.\"
+	clean, cocaine	4871712	Another word for cocaine, more typically of a higher purity with less cut.
+	shfuck, fuck	1125672	fuck; loose translation of the word fuck into German.
+1	motherhoohaw, motherfucker	6021556	A polite way of saying 'motherfucker', with the derogatory connotation added to it. Can be used in multiple situations, like frustrating moments or to describe somebody who you don't particularly like.
+	witson, witson	7159701	A vulgarity to include and end all other vulgarities. A modern attempt to consolidate all profane words and other profanities into a simple word. Essentially whenever and wherever you would use a profanity just swap it for the word Witson
+	radicchio, ridiculous	2858735	1. Another word for ridiculous in the restaurant world 2. Red leafy chicory lettuce
+	mofugly, someone	965923	Politically correct way to say someone is ugly beyond reason. Word commonly used when Aunt Gerdie who is 75 and a Jehova Witness (so you cant definetly noy curse in front of her)gets home with her grandaughter.
+	proctalgia, pita	1073234	medical way of saying PITA.
+	hivy, hiv	3852816	Another way of saying HIV, said by Chris Turk from Scrubs. It is also a dance that kids do also said by Chris Turk from Scrubs.
+	cracker, superiority	8275957	A word used by blacks in attempt to insult a white person. Cracker; (whip) Cracker, referring to a slave driver. However, by calling a white person a cracker, a black is validating the fact that they consider themselves to be a nigger ( inferior human being, animal). Cracker is not an insulting term, just another word for superiority. Think before you speak!!
+	getfull, recieving	2360934	an other word for recieving something , or wanting realy bad, greed, or greedy
+	chungey, nigger	3961572	Profound name for a Mexican/ mexican version of the word nigger
+	loyce, prostate	9478222	Loyce is another word for prostate gland.
+	mormons, morons	2452404	The Ye Olde English way of saying \"Morons\".
+	tooshay, touché	4374983	1. A lazy Internet slang way of saying \"Touché\".
+	sludidle, slut	5586898	Another form of the word slut or whore. Meaning someone who sleeps around a lot or other slutty activities
+0	omn, u	5135284	abbreviation for Oh My Noodles, another way of saying u r surprised.
+	losted, lost	7618533	or \"losed\"Tard's way to say \"lost\".Alongside \"winned\", \"lucker\" and phrase \"l2p\" are the most common werdz used by League of Legends community in Europe.
+	eeksie, eeks	4526589	1. a mild obscene, profane words 2. a cuter way of saying eeks.
+	raido, radio	778665	Has no real meaning other than to sound cool. Unintentional mispelling of the word \"radio\" by InsaneLampshade.
+	ni6, nigger	727041	Another word for nigger, nigga, ect.
+	nyukkah, nigger	1831319	A bastardization of the word nigger. Very similar to nyukka in pronunciation.
+	dressing, stuffing	12252857	Another word for stuffing, a dish served at the table on thanksgiving.
+	howie, bullshit	1438364	another way of saying bullshit
+	aintent, aint	1686972	the extended form of the word 'aint', similar to cannot and can't.
+	piece, penis	657856	another way of saying penis.
+0	blowsie, blowjob	1611356	In short, the word blowsie is an abbreviation for the word blowjob, but its context is completely different. The word blowjob is an obvious referral to oral sex, whereas blowsie would not be used in this theatre. To receive a blowsie is to be praised, to give a blowsie is to suck up. In real life scenarios blowsies can be given to and received by family members, clergymen, animals and friends of the same sex. Blowjobs should not be given to or received from any of the aforementioned parties. The term was first coined in the streets of East Lansing, MI, when a group of college students at Michigan State University were referring to the fallacious style of respect given to them by underclassmen.
+	thend, thendi	12456791	Etymology: This is a derivative of the word thendi, a linguistic term of the Dravidian language of Malayalam, spoken in the Indian state of Kerala. It can be used as a noun adjective or a verb
+	spree, rape	5870432	Another word for rape, most commonly used when raping a lot of people
+	neefing, fucking	5265591	1 Another way to say 'fucking'. Usually used to refer to doing a devious act.2 the act of spamming the L trigger in Rainbow six Vegas 2, also known as taking cover. This tactic is used by faggots.
+	munt, cunt	979595	A cool way to say cunt
+	munt, cunt	10610982	The male anus hole used as a vaginal equivalent. The most offensive thing you can call a man's butt hole. The equivalent of the male version of of the word cunt.
+1	danks, thanks	8157921	The dank way of saying thanks
+	woob, vagina	5940346	other word for vagina
+0	tradegy, tradegy	6844328	A stradegy for dealing with tragedy. Effective on a minute to minute or day to day basis and as a permanent solution for eradicating both the existence of, as well as the word tragedy itself.CAUTION: Due to the frequent use of the word Tradegy, it has been reported that people have lost the ability to speak the word Tragedy.www.tradegy.ca
+	schloinging, fucking	12592368	Another word for fucking or loud sex that everyone in your dorm can hear after quiet hours
+	spazmo-retardo, spazmo	1656876	1, An expansion of the word \"Spazmo\" and can be used in the same context, however the extended nature of the word boosts its effect. 2, Spazmo-Retardo has also been linked to sufferers of the learning disability Dyslexia. 3, Spazmo-Retardo can also be interchanged with the name for the Dyslexia Diagnostic Test.
+	googz, google	2703834	The real cool way to say google. Like slang for google, noun. Basically the only cool way to say google. Must be spelled ending with a -z to be legit.
+	mizzou, occurred	4302716	An officially recognized nickname for Missouri's flagship state university, the University of Missouri (MU), located in Columbia, Missouri. The University of Missouri was formerly designated as the University of Missouri-Columbia, under the University of Missouri System,which includes UMSL and UMKC, but \"Columbia\" was dropped after a decision made in late 2007.\"Mizzou\" is ubiquitously used to refer to the university's athletic teams and the name can also be used to refer generally to the entire city of Columbia.The origin of the nickname is unknown, but the first recorded usage of the word occurred in an alumni publication in 1906. As the university was formerly known as Missouri State University, it is possible that \"Mizzou\" came from a pronunciation of \"MSU.\"
+	ruhtard, retard	5022304	Another way to say retard. Also from the movie 'The Hangover'
+1	swag, screwed	4244833	another word for screwed, intercourse, had sex with. can be used in the past tense also, as \"swagged\"
+	sch00l, school	9165560	A 1337 way of saying \"school\"
+	cm, commercial	5758464	Japanese way of saying commercial.
+	trune, agreeing	1752167	Is another word for agreeing or a positive feedback.
+	tots, testicles	6226273	Another word for testicles, gonads or balls.

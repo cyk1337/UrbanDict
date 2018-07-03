@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5375fddb61c477268182c5999d91a32f6619c417d300646dbda02a721f45aaf6
-size 535
+(jate, goodbye)
+(m8s, mates)
+(kik, lol)
+(qual, cool)
+(kewl, cool)
+(wiggedy-wiggedy-whacked, whacked)	2.321928094887362	 [406]
+(chunt, c**t)	2.321928094887362	 [951]
+(krod, dork)	2.321928094887362	 [1578]
+(feck, fuck)	2.321928094887362	 [1927, 8436721, 17955, 981522]
+(bizznotch, bitch)	2.321928094887362	 [4532]
+(qwned, pwn)	2.321928094887362	 [8931]
+(poosai, pussy)	2.321928094887362	 [9308]
+(blankie, blanket)	2.321928094887362	 [10343]
+(pronograyfee, pornography)	2.321928094887362	 [15517]
+(truck, girl)	2.321928094887362	 [18328]

@@ -1,3 +1,108 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:28dabf90ab79392f5cf23eea2b302c44608b04a16b3e8e87884f7cd79430f012
-size 21254
+label	pair	defid	definition
+	tensious, tension	7147037	the adjective of the word tension, an extreme or very elevated level of tension, describes a noun that contains an a very elevated levels or feelings of tension, stress, difficulty.This word was coined by Michael Lanham, and had been misused by him for quite sometime, and on many occasions, until he realized that it had not yet been made official. Some call that error, and some creativity.
+	beggel, bagel	2322624	a cool way to say bagel
+	sveus, sveus	2128948	A word translated by Denise, Nicole, and Jen on September 29th 2006 to mean \"sweet\" in German. The story goes that the three were finally on their way to Munich for Oktoberfest after 24 hours of getting lost in Germany (missing flights, splitting trains, incorrect routes, etc). Once on the train to Munich they, naturally, began getting hammered (even though it was 7am). Soon enough they came across a food cabin with a bunch of drunken Germans on their way to the fest too. So they began socializing with the miscreants and soon \"sexy hammered\" came into their lives; a tall, blonde German completely dressed in white from head to toe. At some point the conversation went from him telling the girls that the translation of \"sweet\" in German was \"sveus\" to him telling the girls he's \"sexy-hammered.\" And that ladies and gentlemen is the origin of the word \"sveus\". So if you ever get to hearing people say \"sveus\" instead of \"sweet\" now you know why. Don't let anyone tell you different or I sware our mafiosa-ness will open a can on your ass.
+	cleave, drop	5550651	Used in context when a girl wears a low-cut top to show off her cleavage. Also a double entendre due the double meaning of the word \"drop\". As in \"drop\" the f-bomb or \"drop\" her top.
+	modda, motherfucker	982170	Other word for motherfucker
+	ginnie, vagina	7390875	Ginnie is another word for vagina.
+	bebe, baby	658798	Another way of saying baby to your baby
+	outlandish, sketchy	623195	another word for sketchy...look it up at thesaurus.com
+	ultrag6, ultra	5237053	Another word concieved by the ultra Sholyboy. In this derivation of his classically homosexual word by adding \"G6\" to the word ultra, it's meaning is reversed, and rather than meaning gay, it's converted to all things cool.
+	brillo, really	1438998	another word for really.
+	dahmet, damnit	5019044	A totally rad indie-kid way of saying damnit.
+	lamp, cool	6663851	another word for 'cool' or 'dope'
+	share, shower	6706062	A southern slang for the word shower.
+1	nerble, nipple	1594393	located on the ta ta, another word for nipple. caution, may become erect.
+	paduss, pussy	845958	another word for pussy or sex
+	chubbing, eating	7779758	another word for eating food
+	reeseeses, reeses	2236806	The plural of the word reeses (i.e. the chocolate candy)
+	wreong, wrong	3031331	an alternate use for the word \"wrong\"
+	shaboogalizationing, shower	5232718	1. A long synonym for the word \"shower\" 2. An interjection used at random times to increase the randomness of a situation or increase/decrease awkwardness.
+	dec, decent	255397	Abbreviation for the word \"decent\". Used to describe a particular feeling, situation or object.
+	az, ass	1206503	(Spelled Az or Azz) This word originated in a smoky Annapolis/Crownsville, MD loft but quickly caught on and has since taken on various meanings. Originally, the word was a simple exclamation comparable to \"Damn!\" or \"Word!\" If something was particularly astounding, the word \"great\" could be added as a prefacing qualifier, resulting in the exclamation \"Great Az!\" This pronouncement could also be used as a subtle indicator that a person was attracted to someone. While walking behind the object of their affection with a friend, one could exclaim \"Great Az!\" as if responding to something that was said by their friend, but also insinuating that they found the rump before them to be desirable. Unfortunately, the word's true meaning has been diluted by it's over-use as a form of the word \"ass.\"
+0	criptic, crip	12571998	A person with an invisible disability.Derivation: a combination of the word crip (originally a derogatory epithet now used by some disabled people to describe themselves) and cryptic (hidden or concealed).
+1	freako, pedophile	3223015	A creeper. Someone who acts very strangely, or unhuman, and could be easily mistaken as a retard. Is also used very commonly instead of the word pedophile.
+	fahoozidoodle, fanny	2556873	1. A polite way of saying fanny 2. A way to say a swear word without being told off
+	deggum, damn	5535503	Something a person from the South says when they're annoyed or frustrated. Another word for damn.
+	shacoins, money	11895104	Another word for money
+	shacoins, money	11895107	Another word for money
+	ghettomusick, musicor	909659	Another way to say musicor a song
+	zoob, zoobie	1915003	A derogatory term used for referencing any Brigham Young University sports team fan. The term can also extend to refer to a current or past student of BYU. Zoob is the shortened form of the word zoobie.
+	fizzl, fizzle	151346	another word for fizzle mispelled verion of fizzle to fiz
+	moth, both	3718706	a common typo of the word \"both.\" Typo is often left intact when one is being spanty.
+1	ja, yeah	3409083	a much much cooler way to say \"yeah\" or \"yes\"
+	bork, bjork	5670797	1. Bork means to combine meat (in this case, beef and pork). See spam.2. It can also replace any verb in most cases.3. Can sometimes be used as an adjective when -y is added on to the end.The word was believed to be created after a mispronouncing of the word bjork.
+	f0x0r, fucker	72832	another word for fucker.
+	vagina, vagina	4881863	are you seriously looking up the word vagina? and you're on urban dictionary, at least look up \"pussy\" or something along those lines. you can use a regular dictionary for the word vagina
+	boe, bro	4311656	a word used by guidos and other douchebags as a way to say \"bro\". they dont say bro, rather just \"boe\" like as in \"bow and arrow.\"
+	bwned, boned	1873577	Another variation of owned/pwned, but more specifically to being owned in a sexual manner, posing similarity to the word boned.
+	bleh, meh	4135532	An adaptation of the word meh, a kind of hybrid between Bleurgh, a sound more than a word, meaning that you are totally disgusted by something, and Meh, a word of passive, unenthusiastic attitude, also meaning whatever. bleh is like a slightly disgusted meh.
+1	hamburgies, hamburgers	5711227	A cool way of saying Hamburgers
+1	uncomfortabality, uncomfortable	1824354	adj. 1. Experiencing physical discomfort. 2. Ill at ease; uneasy. 3. Causing anxiety; disquieting. in this case, a misinterpretation of the word uncomfortable (well thats what we think)
+	yayper, money	2911257	The Yay Area's way to say money Yay area = San Fran Bay area, California Major Cities are San Jose aka San Jo, San Francisco aka The City, Oakland aka the O and more There is so much Bay area slang, see hyphy, scraper, batch, go dumb, thizz, stunna shades etc.
+	kay-o, okay	1757725	1. A gesture of confirmation. 2. Another way of saying \"okay\". 3. In good condition.
+	schwill, schwill	1597280	Usually pertains to alcohol, but can also be used for pretty much anything. It can be a noun, verb, adjective, or almost any other part of speech. It can mean to take a drink, a hit, a drag, a bite, etc. It can be used to describe a person, i.e. schwilly, or drunk. There are many variations of the word schwill, but my favorite is schwillmaster. Schwill may be the most useful word in my vocabulary, and it's just fun to say. The word originates from Shakedown Street, but claimed fame when Randy Rollins brought it to Tha Gilla, IL, where the word took off and became standard Gilla language.
+	cramandus, ridiculous	12875760	Cramandus is another way of saying Ridiculous, While also showing lots of Excitement.You can think of it as Ridiculous and Awesome combined.
+	stromboli, penis	5756090	another way of saying penis, dick,cock,shaft, you get the point........ strom for short
+	awesomefulicious, awesome	3862510	The word awesome with the suffixes -ful and -icious. A super cool way to say awesome.
+	chesticals, boob	11055840	Another word for boob
+	slaps, goodbye	1117809	A friendly way of saying goodbye! like luv ya! etc... originates from ancient tribal slapping... when one man would slap another and shout 'humba' (roughly translated to slaps.)
+	ig, ignorant	2410053	-adjective used to denote an ignorant or foolish act a shorter, less cumbersome version of the word \"ignorant\"
+	carpses, carp	5061914	The second tier of the plural of the word 'Carp'.For one carp, the word 'Carp' is adequate, for more than one carp, 'Carp' is also adequate... However for Rosey Wood's sheer Carpyness (not crappyness), only 'Carpses' will suffice!
+	fatwah, fatwah	183863	Fat is what a healthy baby is! Wah is the constant sound of it's crying! A FatWah is \"a little fat baby crying.\" A fatwah is a command from a dependent creature for those in hearing range to \"come and take care of me.\" Everyone usually responds to the sound of a dependent baby crying. This is the root cause and response syndrome of the word FATWAH.
+0	zub, nub	2661977	Derivation of the word 'nub', which itself is a derivation of the word 'noob'. Someone who is a complete and utter example of what NOT to be. This could be someone who exhibits horrid, distastefully bad skills, or a lack thereof, at something OR someone who has a very dorky loser-like appearance.
+	chicktoria, chick	3940631	slang for the city of Victoria, B.C. (canada). a combintation of the word \"Chick\" (slang for a hot girl/lady) and the city of Victoria. This name is used because the city of Victoria apparantly has a girl to guy ratio of 3-1 or 4-1, depending if you got laid recently or not.
+	gobbidge, garbage	4268857	A semi-phonetic* spelling based on a non-rhotic, typically African-American pronunciation of the word \"garbage\".* It is semi-phonetic because although it is not actually phonetic, it is based on the conventions of English, in which the idge- is pronounced with a j sound, and the o in gob in the same as in augment.
+	cdh, jerk	4118563	someone who is the ultimate jerk of jerks.....the jerk store owner.....the king of jerktown....someone who is the epitimy of the word jerk or any word reffering to a jerk....to put it bluntly he is a jerk.
+1	boy, goodbye	4019052	An alternative way of saying 'Goodbye' or 'Bye' The opposite of Hoy.
+	friction, fucking	3214944	takes the place of the word fucking.... started by thefriction.com.. and all the friction girls and frictionheads!!
+	friction, fucking	3214945	takes the place of the word fucking.... started by thefriction.com.. and all the friction girls and frictionheads!!
+	dat, thats	305511	Another word for \"thats\", but in the black version
+	ninja, nigga	2465541	N. Used in place of the word nigga or nigger, often used by a white person and/or in the presence of black people.
+	ninja, nigga	5114924	1. (n) der. true ninja - referring to the original feudal japanese assassin or spy. Usually dressed in covert clothing (to blend in with the environment).Facts (not romantic beliefs) about Ninjas: ninja are the best assassins. The Best. ninja don't appear in photographs, especially those taken with iPhones and other digital capture devices. The making of the film \"Ninja Assassin\" would have been impossible using real ninjas. ninja would win all the gold medals in Olympic acrobatic and gymnastic events, given their tremendous skill. ninja is both plural and singular ninja are not prone to anger or angry outbursts. Ninja cannot be heard. ninja are calm, collected, and precise. ninja are not to be confused with Chuck Norris (although he may have been a ninja in a past life)2. (adj) colloquial use of the word ninja to describe a thing or action that is sneaky, covert, or requires trmendous acrobatic skill.3. (n) alternative and pc replacement for the word \"nigga\". Denotes friendship or comraderie.syns. chuck norris, nigga, sneaky, assassin ants. samurai, steven segal, warrior, clumsy
+	ninja, nigga	5770418	A modification of the word \"nigga\". The term \"ninja\" is used in a context that promotes sociocultural correctness, yet still preserves that raw urban vernacular that we know and love. That being said, everyone can say it! Race is obsolete when it comes to the word ninja, my ninjas
+	ninja, nigga	2448569	Another Word for Nigga,.. Also can be substituted for -- Bro, Cousin, Cuz, Dawg,Dude,.. etc.
+	ninja, nigga	1910427	A word white frat guys can use to supplement the need for the word nigga without detection.
+	ninja, nigga	7769503	A phrase used in place of the word \"nigga\" It's a more fun way to talk to your bros without a white guy getting funny looks from black guys for saying nigga!
+	maricracka, marijuana	4733392	Marijuana laced with crack. Combination of the word Marijuana and Crack.
+	dep, emo	2436067	short for depressed. another word for emo.
+	alcholove, alcohol	5366772	A combonation of the word alcohol and love (obviously). It is the love one feels for another human being when under the influeance of alcohol.
+1	fohonk, m*fkr	11685951	A fool. Another way of saying m*fkr
+	bub, friend	12934420	{Bub} Bub pretty much means a another word for friend.
+	gsb, geekstinkbreath	1478888	Another word for \"geekstinkbreath\", a Green Day site and message board community. www.geekstinkbreath.net It is well known for it's slashers and \"Teenie vs Original\" fights.
+	aviel, mexican	2776875	A commonly used synonym for the word \"mexican\", particularly used in the Northeastern part of the United States (i.e. Connecticut).
+	pinooch, pussy	2569513	Another word for pussy, vagina or just plain refering to women
+1	micreotic, stupid	12621322	A nice way of saying stupid, crazy, or unethical.
+	negin, negin	4688486	A Persian female given name. It means a rare diamond or stone, and also refers to the gemstone on a piece of jewelry, such as a ring or necklace. The direct translation of the word Negin is Ruby or other jewels with a luxurious look and high value.
+	faceee, facebook	5202620	another word for facebook
+	moular, money	5899859	Another word for money, used by people outside of London to make themselves believe they are cockneys.
+	lamplestilskin, lampin	2039889	Another way of saying lampin. Chillin, smokin a blunt, or anything like just kickin it. Other forms of the word include lamplesteez.
+	lesbian, gay	8974145	Another word for gay woman
+	nit, tit	4384511	A combination of the word tit, nipple, clit, and nut. Can be used interchangeably whenever either of the words apply.
+	feedeedede, thirty	1626907	1. a replacement for the word thirty arrived at after a decision that thirty was not a long or colorful enough word. 2. an exclamation expressing joy at the sheer delightfulness of a situation, often used sarcastically. 3. not in any way related to feedee.
+	kakwitch, sodomy	4704552	A person who is so insecure about himself that he has to degrade and demoralize others to make himself feel good. A man that likes to quarrel with others, thinks he is always right. Kakwitch is also another word for sodomy.
+	regit, someone	12511615	1. A Battle Cats youtuber, who supposedly calls himself a spoon. He is good at Battle Cats and at the same time he's not.2. Another way to say someone is a spoon(by urban dictionary definition).
+	shmit, shit	915049	Alteration of the word \"Shit\". Can be used instead of Shit, so as not to offend anyone.
+	twoot, twit	1994713	another word for twit, idiot, or moron
+	chinzan, puberty	2196622	The newly discovered synonym for the word puberty. It is becoming increasingly more popular in the United States due to it's \"catchyness\" in saying the word. It is commonplace in high schools replacing the word puberty.
+	shlater, later	8363873	Meaning 'See You Later'. Dublin slang, used when saying goodbye in many areas.Also used just for the word 'later' on its own
+	wetwaded, retarded	446674	Silly pronunciation of the word \"retarded\". Although supposedly said in this way by a mentally-retarded person, it can be used for random obvious purposes considering its meaning.
+	thanks, fuck	4217823	Thanks is another way of saying Fuck you, to people that are completely self absorbed assholes. People think your polite, when in fact you'll be meaning fuck you.
+	blackazoid, negroid	2281443	Other word for negroid or black person.
+	bruhski, brother	9294255	Bruhski is another word for Brother.
+	money, currency	5551980	Another word for currency. Something that people slave over doing unrewarding tasks to earn. Something that limits what basic needs a person/family can have as well as what activities, possessions a person/family can enjoy. The system is not perfect but it works better than the barter system. It's not the money that's evil. It's the currency system that can corrupt people if they let it. People give up everything to earn it, but end up with nothing. People cut each other's throats and kill each other for it. People become ignorant just because they have more of it. Money is stupid.
+	parchar, cojer	4026679	ANOTHER WORD FOR COJER OR FUCKPARCHANDO -FUCCIN
+	jcmmb, jesus	606297	A shorter way of saying Jesus Christ and Mary Mother, and Moses. Only people with respect may use it, such as sommi. sommi RULES.
+	chavvie, chav	2682073	Old gypsy term for a newborn baby, or young child. Still sees some use in London slang. Thought to be part of the origin of the word chav.
+	southerner, saurkraut	2330713	Particularly the inhabitants of the southeast,n.carolina, s.carolina, georgia, alabama, missippi, tennesee, missouri anywhere else it is proper to say ya'll etc.texas is not included texas a.k.a= mexico substitute.The epitamy of everything wrong in the world. Hate for the southeastern part of the united states is an understatement. This is where idiots reign supreme and anyone half a brain can lead these people. Where everyone elses tax-dollars go to people who pay the least. If you are not white,baptist and a racist you will not fit in! A place where a fake cloud of moral superiority blinded by social irresponsibility go hand in hand. A people of few words and then the words that happen to come in the form of a partial, gramatically incorrect sentence make you wanna slap these dumb-mother fuckers in the face. A place where you do not eat ethnic foods, not because they don't have them but they bland everything thing to their palette example: chinese food, fried rice will be called just rice, lo mein will simply be noodles, Italian food everything will have to taste like chef boyordee and don't dare put garlic in it or herbs it is considered an evil witch brew. Polish and german food don't even try a brat/sausage will be a hotdog, if you even say the word saurkraut their heads will cock sideways like that look a retarded dog gives you. Beer will usually be a piss tasting domestic; miluakees beast light/ Pabst or the redneck fav Nattie Ice. Cigarettes will be 100's to the southerner they think they are getting more for their money and usually doral's or liggets or someother amonia tasting off-brand. ideaology how the world works is that they want lower taxes which they get and a social system that pleases them. they usually bitch about their healthcare(the worst) and then complain about taxes. Will defend their decisions to the end like a con on death-row. example: voting in the worst president in the history of the United States and supporting his war of Scare-or. Please if you are from the south stay there in your pit of wallow, we do not want your ideaology anywhere else.
+	floogerbind, masturbation	1887466	to perform the act of masturbating. another word for masturbation. to get sexual pleasure by self-stimulation.
+	acronamoration, acronym	5625697	(n) The infatuation, or general over-use of acronyms in speech or writing. The word is a portmanteau consisting of the word 'acronym' and 'enamoration' - a false noun form of 'enamor'
+	kahones, cojones	3245993	Common misspelling of the word \"cojones\", which is Spanish for testicles/balls.
+1	bizzle, beaner	2087675	its another word for beaner (mexican)
+	yoozh, usual	6441172	Correct spelling for the abbreviation of the word \"usual\"
+	mic, penis	2035593	1. another word for penis.
+	speke, blaze	7141971	To \"speke\" is to smoke cannabis of some kind, preferably a joint, but it goes for everything. The word \"speke\" might be interpreted as synonymous to the word \"blaze\" e.g. to blaze.
+	marty, martyrdom	3147873	Shortened form of the word martyrdom, used in the Xbox 360 and PC game Call of Duty 4 to express disgust for the use of the \"martyrdom perk\" in which a downed enemy drops a live grenade upon death, often catching the unwitting killer in the blast. Players often whine about this game mechanic as unfair but are usually quickly met with the counter argument that it is indeed part of the game and that if they cannot handle COD4, they should go play World of Warcraft.
+	seu, seriously	1431816	Abbreviated or slang form of the word SERIOUSLY.
+	raven, fat	1856387	Another word for fat, huge, or overweight. Originally made up when Raven Symone from That's So Raven got huge.
+	rifks, rofl	3728734	a stupid way to say rofl , which got created by miss-typing rofl

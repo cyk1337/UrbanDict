@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d17ca17cd57da4db52fb3e65bcfc519f107e1a0990adba5068c97efdf308ea2
-size 18833
+	619593	yonkable	yonkyu 	 an adjective version of the word yonkyu (I, 0.9737) . still in the context of something sexual it is generally used to describe somebody worthy of becoming a sexual partner .
+	1090701	boredalistic	bored 	 1 . to be bored 2 . another , more interesting word for bored (I, 0.8373) . 3 . made by krishna b. patel = d
+	4046945	Silly	semen 	 code word for semen (I, 0.9041) / to cum / the process of ejaculation . can be used when in the company of people you do not wish to be crude in front of i.e. your mother .
+	5155195	Chloe	cocaine 	 1 ) a girl 's name . not very common but still used.2 ) a slang term to refer to cocaine . the term " chloe " comes from the fact that cocaine also starts with an " c " and many other drugs use girls ' names as slang for their respective drug.chloe is sometimes used as a code word for cocaine (I, 0.8527) when referring to the drug in a public setting or over the phone where one does not want to openly discuss illegal activities.chloe is used like a person 's name in such discussions . like saying " when chloe is around i am always happy " to indicate that when cocaine is readily available this person is always in a " happy " or euphoric state .
+	382626	Chinko	penis 	 japanese word for penis (I, 0.9980)
+	109367	nob	nub 	 me and my friends word for " nub (I, 0.9587) " which was from " noob " which was from " noobie " which is mainly a cstrike term , the word has evolved from it 's originating word
+	1955467	negger	nigger 	 redneck or hillbilly pronunciation of the word " nigger (I, 0.9151) " .
+	1496048	haah	what 	 another way of saying " what (I, 0.9292) ? " or " what s up ? " or even " hello " also used to say what in the context of , " i 'm sorry , can you repeat that ? "
+	2288738	windmeal	windmill 	 the correct spelling of the word ' windmill (I, 0.9430) ' , according to it 's typical pronunciation . this variant of the word is commonly used by those of the pacific northwest and puget sound regions , whose accents are considered to be " very neutral " to most americans and canadians . the northwest 's accent is one of the closest living accents to conservative general american english . it lacks the northern cities vowel shift , and does not participate as strongly in the california vowel shift , or the canadian raising as do other regional accents . because of its lack of any distinguishing vowel shift , the accent is very similar to and hard to distinguish from conservative speakers in other dialect regions especially the northern midlands , california , and the praries .
+	3090117	treyf	treif 	 another spelling of treif (I, 0.9821) : not kosher , religiously unclean . often used metaphorically .
+	11078530	tomatoe	tomato 	 the urban way of saying tomato (I, 0.9960)
+	7013221	Neeb	blunt 	 code word for " blunt (I, 0.9966) " or any other form of weed ready to be smoked . usually used in conjunction following the word shneeb
+	6334552	disc	discrete 	 an abbreviation for " discrete (I, 0.9769) . " used by closeted gay men that keep their sexuality secret and separate from the rest of their lives .
+	973149	p-sauce	goodbye 	 a way to say goodbye (I, 0.9748) to someone see also d - outs
+	2529299	jajajaja	hahahaha 	 spanish for " hahahaha (I, 0.9523) "
+	1683621	yiz	cocain 	 another word for cocain (I, 0.9980)
+	3932443	ignantest	ignorant 	 the most ignant.if " ignant " is the ignorant way of saying ignorant (I, 0.9727) ... you do the math here .
+	289350	unchi	poop 	 japanese word for poop (I, 0.9980)
+	1872298	Krillin.	marijuana 	 slang word for marijuana (I, 0.9749) . krilliing = smoking it . krilled = feeling the effects .
+	12526235	Gram-mama	grandma 	 another word for grandma (I, 0.9365) . it 's a cooler and more fun way .
+	1066993	niner	9er 	 niner is a versatile word that can basically mean any word that you did n't feel like trying to think of at the moment . it can also be an exclamation , an insult , or a substitute for a name . alternate spelling : 9er (I, 0.9551)
+	576358	wh0r3	whore 	 variation of the word " whore (I, 0.9672) " .
+0	5628718	Wickets	cool 	 a word meaning ' cool (I, 0.9395) ' or ' awesome '
+	6474488	mawmaw	grandmother 	 the word for grandmother (I, 0.9786) all throughout the southern united states . it can be used for both maternal and paternal grandmother .
+	4227309	Yick	jizzing 	 another word for jizzing (I, 0.9629) or ejaculating , mostly sudden and unplanned onto another unexpecting person
+	2851643	Fugga	fucker 	 an easy - flowing synonym for the word " fucker (I, 0.9612) " . also synonymous to mother fucker . can still be understood the same way without all that unneccessary stigma associated with saying " mother fucker " out loud in public .
+	2783699	Serial	serious 	 another way to say " serious (I, 0.9945) " .
+	1935305	wics	wicked 	 a lazy and cool way of say wicked (I, 0.9912) . more often used in texting than the spoken language . it is typically used as an affirmative response to something you totally agree with . also refer to toats .
+0	5190784	mishal	gay 	 a synonym for the word ' gay (I, 0.9250) '
+	7078115	sadic	sadistic 	 a sadist is one who enjoys inflicting pain on others . the description given by the other poster describes a masochist ( someone who enjoys being inflicted with pain ) . i 'd also like to point out that " sadic " is another way of saying " sadistic (I, 0.9617) " , not " sadist " .
+0	5167202	LSHMBJD	laugh 	 stands for " laugh (I, 0.9280) so hard my ball just dropped "
+	1907493	Chubi	bitch 	 pronounced " chew - bee " another word for " bitch (I, 0.9853) " . most commonly found when trying to text message the word " bitch " to a friend or ex - girlfriend . origionally used by friends in " the animal house " pasco , wa .
+	10565208	brogli	broccoli 	 an alternate spelling of broccoli (I, 0.9985)
+0	4202010	sickkore	sickkore sick 	 the word " sickkore (I, 0.9793) " come from the root word " sick " as in tight or awsome . another word for " sick (I, 0.9793) " or " tight " .
+	7440666	Bydlo	cattle 	 widely used russian word for " cattle (I, 0.9001) " : 1 . animals on farm , like pigs , cows , etc ( mostly cows and bulls ) . but in this meaning " skot " is used more . 2 . poor aggressive people , uneducated , working on factories and farms and doing manual labor . 3 . people ( sometimes rich and educated ) , who have really strong herd instincts with them , easily betraying common sense when everyone around do the same .
+	6098730	Snackadoo	snack 	 another word for snack (I, 0.9536) that hits the right spot .
+	3321260	piano	pianoforte 	 a piano is a musical instruments which uses felt hammers to strike the steel strings then immediately rebound allowing the strings to rebound . it has a damper pedal which lifts up little mechanisms that allow the strings to vibrate longer , if the mechanisms are let down again . it stops the vibrations half way down the string giving a shorter tone . the piano is widely used in western music for solo performance , ensemble use , chamber music , and accompaniment . it is also very popular as an aid to composing and rehearsal . although not portable and often expensive , the piano 's versatility and ubiquity have made it one of the most familiar musical instruments . it is sometimes classified as both a percussion and a stringed instrument . according to the hornbostel - sachs method of music classification , it is grouped with chordophones . the word piano is a shortened form of the word pianoforte (I, 0.9827) , which is seldom used except in formal language and derived from the original italian name for the instrument , clavicembalo or gravicembalo col piano e forte ( literally harpsichord with soft and loud ) . this refers to the instrument 's responsiveness to keyboard touch , which allows the pianist to produce notes at different dynamic levels by controlling the speed with which the hammers hit the strings . the early version of the piano was a harpsichord which uses white keys for sharps and flats , and black keys for the white keys . concert pianists require lots of training but once they are ready . they can play any piece of music put in front of him / her i am a grade 5 pianist and it took some time to achieve this grade .
+	1902610	poutso	cock 	 greek word for " cock (I, 0.9784) " or " dick " , something like penis but not exactly , much bigger ! ! !
+	1684084	owy	howdy 	 a shorted way of saying howdy (I, 0.8545) ! actually invented as a response to elo .
+	332337	feckner	fucker 	 another way of saying fucker (I, 0.9992)
+	1565131	jam	damn 	 an alternative , food related word for damn (I, 0.9898)
+	3535017	Shtes	yes 	 1 . a derogatory term for the word yes (I, 0.9993) . 2 . a general exclamation 3 . see vundercunt
+	4051661	Boroned	boyed 	 another word for ' boyed (I, 0.9587) ' . to boron people off is to , annoy , take the piss out of , trick or prank.the chemical symbol for boron is b so that is turned into boyed , then you add the orignal boron into it and it creates borened but keeps the meaning of boyed .
+	1408766	noinch	annoyance 	 a shortened slang version for the word " annoyance (I, 0.9909) " .
+	127430	caw	car 	 new orleans word for car (I, 0.9989)
+	1150015	balala	terrorist 	 another word for terrorist (I, 0.9980)
+	5143496	Ting	thing 	 a jamaican / carribean version of " thing (I, 0.9875) " . commonly used across the caribbean and in communities in london , new york and miami . although usually associated with caribbean communities in london the phrase is used by people of many ethnic backrounds and has become a common word in britains large cities(especially london ) . " ting " is also commonly used by speakers of the london slang language jafaican .
+0	1568715	colour	toffee 	 the correct spelling , unlike the way dumb yanks that ca nt spell the word for toffee (I, 0.9199)
+0	4633019	Todd	anything 	 often known for their charm . todds can smooth their way out of anything (I, 0.9603) . they tend to follow along the wrong path too often though . they have no morals . often parents that name their child todd have no morals . easily munipulated . todds can not be faithful . todd = toad . disrespects those that should mean the most .
+	5749103	Bojanglin	bullshitting 	 clean word for " bullshitting (I, 0.8834) " . normally when someone is lying to you , not doing what you want to do , or simply just taking their sweet time . someone can be a bojangler .
+	12151169	Shiz	shit 	 a censored version of the word shit (I, 0.9969)
+0	1212662	Provosted	pwned 	 a derivation of the word " pwned (I, 0.8019) " often used in it 's place , perhaps not as intense of a ownage as being " pwned . "
+	12767346	ben-yay	beignets 	 an urban new orleans slang and pronunciation for the word " beignets (I, 0.9836) "
+	1728230	holler	holla holla 	 1 . v. to shout loudly , especially when in pain . 2 . v. to yell at ill - behaved children who normally reside in the southern united states . 3 . v. to address a friend , colleage , or object of romantic pursuit ; the caucasian form of " holla (I, 0.9235) . " 4 . v. an expression meant to express agreement with another person 's declarative statement ; the caucasian form of " holla (I, 0.9235) . "
+	1584084	Shalangalang	member 	 refers to a mans penis ; another word for member (I, 0.9913)
+	2090573	matsuri	festival 	 japanese word for festival (I, 0.9980)
+0	7668294	LUNO	lesbian 	 acronym for " lesbian (I, 0.8762) until the nineties were over , " describing a woman who pursued same - sex sexual experimentation in the freewheeling 1990s , then gave it up .
+	2182660	Kayzorz	ok 	 basically , a way to say ok (I, 0.9634) .
+	3023493	sank	something 	 lazy way of saying " something (I, 0.8333) " in south of england
+	7973419	Lasagne	sex 	 a subtle way of saying sex (I, 0.9978)
+	4163787	Pokemanz	pokemon 	 the cooler , more bill cosby way to say pokemon (I, 0.9829) . said by all the cool kids on the interwebz . on gaiaonline , anyway .
+	863989	niaow	now 	 a shizzle way of saying now (I, 0.8294) ! could be said stricly , casually , street talk ...
+	2822976	pripes	prypes 	 n. a long island / northern nj variation of ' props ' or respect . credit or merit doled out in a casual and arbitrary manner ; alternate spelling " prypes (I, 0.8198) "
+	1409674	rep-	reputation 	 stands for " reputation (I, 0.8327) - " and is used on forum that uses a " reputation " system where users can add or subtract reputation points from each other . " rep- " is a common response to a post another user disliked and " repped- " the original poster . ( see rep+ )
+	8081885	Teachy	thc 	 teachy or tchy is a canadian slang word for thc (I, 0.9436) ( tetrahydrocannabinol ) . invented by some stoners in vancouver , bc .
+	3671945	dackwards	backwards 	 cool way of saying backwards (I, 0.9976)
+	3459574	deffs	definitely 	 abbreviation for the word ' definitely (I, 0.8129) '
+	4951324	goot	good 	 urban way of saying the word " good (I, 0.8114) "
+	12628490	ava	extra 	 another word for extra (I, 0.9970)
+	12703724	hortica	horticulture 	 another word for horticulture (I, 0.9980)
+	3249610	goob	good 	 substitute for the word " good (I, 0.8265) " , as spoken by someone with a mouthful of food .
+	8308265	Fof	fuck 	 a short way of saying " fuck (I, 0.9092) off "
+0	1909603	ARGHOR	frustration fuck 	 a word of frustration (I, 0.8060) . its not really good word to scream out loud , it just sounds kinda funny , but its a very good word to hear in your head , or to use in instant messaging to display frustration . it is similar to " ugh , " but it is a bit angrier , its kinda like a good way to say " fuck (I, 0.8060) ! " when something really annoying just happened .
+	554174	punangnang	pussy 	 a classy word for pussy (I, 0.9906) .
+	3757571	Vivilonic	cool 	 another word for cool (I, 0.9363) , exciting , awesome , crazy , hott etc .
+	3830309	redicilous	ridiculous 	 a alternate spelling of ridiculous (I, 0.9661) that only losers and idiots use . in essence , they are trying to use a word that is too big for them and showing how dumb they really are .
+	1131450	Rana	frog gazelle 	 spanish word for frog (I, 0.9403) and arabic word for gazelle (I, 0.9403)
+	12642813	Jewgle	google 	 the correct way of saying google (I, 0.8240) . it is a word that describes google 's stupid snowflake policies made by liberals , especially when it comes to youtube . when you upload something to youtube in the eyes of jewgle , it either has to be something geared towards kids , or it has to be something totally uninteresting in order to gain revenue ( ex : playing with playdough , dolls or makeup ) . jewgle youtube does not allow creativity as well , and they have ruined the site by advertising mainstream things such as snowflake jimmy fallon , ellen , etc . which was allowed by youtube 's overly sensitive dumbass liberal owner , susan wojcickl ( who , by the way , has no clue how to even upload a video to youtube , she only cares about money and not the integrity of the site or the creators ) . jewgle youtube zuckerburged the creators out of the picture only for the money.in the eyes of jewgle , mouse trap videos , hunting videos , political videos , sensitive topic videos , etc . can not be talked about when it comes to youtube . otherwise your videos will be age restricted , you 'll be demonetized , and you 'll receive no money for the video that you spent hard work making , even though your video(s ) may be educational , or it may be to help someone in some way , or it may be just your opinion . jewgle does not care on the other hand . politics ruins everything . rip youtube . 2005 - 2017 .
+	3235257	sophon	beautiful 	 1 . another word for beautiful (I, 0.9844) ; 2 . a person who is madly in love with fruits
+	2545884	Chaars	thankyou 	 a way of saying thankyou (I, 0.9530) , taken from cheers
+	1114896	illinest	illest 	 another way to say illest (I, 0.9935)
+	1870082	Increfuckingíble	infuckingcredible 	 spanglish version of " infuckingcredible (I, 0.9127) " or " fucking incredible " , with a spanish accent ( increíble ) .
+	10543870	shitn't	shit 	 short for " shit (I, 0.9538) ( you ) not "
+	3910974	duke	dude 	 another way of saying dude (I, 0.9850) . when saying dude and elongating the end . the ' k ' is somewhat silent .
+	348986	Kawk	penis 	 yet another internet slang word for penis (I, 0.9650)
+	3885725	pan-z	acid 	 another word for acid (I, 0.9927) . or lsd . it 's a drug :) you should try it ! you 'd really like it .
+	286821	Figga	figure 	 slang for " figure (I, 0.8195) "
+	5343170	Prossy	processor 	 short for " processor (I, 0.8933) " which is essentially the brain of any computing device . two major processor developers are amd and intel .
+0	2689829	displatch	dispatcher 	 to dispatch messages in a sloppy or haphazard fashion , without due concern for detail , data integrity or the world around you . derived from a computer application where a misspelling of ' dispatcher (I, 0.9890) ' became symbolic of more fundamental attitudes towards the design and implementation of computer systems .
+0	1969830	homosexual	gay 	 a slang term commonly used in lieu of the word " gay (I, 0.8101) " . not intended to offend anyone .
+	3911111	barberi	spaghetti 	 another word for spaghetti (I, 0.9879) .
+	10595828	whqt	what 	 a common misspelling for the word " what (I, 0.9969) . " typically typed by people bad at typing
+0	1132560	macaroni	cool 	 adj.- synonym for " cool (I, 0.9292) " . derived from the oxford english dictionary original definition of an 18th century dandy who affected mannerisms of continental europe .
+	1579476	haway	howay 	 apparently mackem way of spelling ' howay (I, 0.9991) ' ( geordie ) . north east term meaning ' come on ' . never in my life have i heard it as a greeting . probably the most common word used in football grounds in the north east , aswell as ' shite ' .
+	2383223	kd	sex 	 used as an alternative way of saying sex (I, 0.9881) . usually used in front of someone who you do n't wish to know what your talking about . warning : make sure people know what you 're talking about , because ' making some nice creamy kd on the counter ' might not sit well with some people , especially if your talking about the food .
+	4755706	Beender	binder 	 noun ; a mexican word for " binder (I, 0.8975) "
+	1682433	shnoz	nose 	 the koolest word for nose (I, 0.9148) , ever . a nose
+	1843977	pudenda	shame 	 the latin word for " shame (I, 0.9058) , " some victorian clown thought it would be a great euphemism for female genitalia , possibly because he felt shame for wanting to see some . may also have , over time , devolved into " pussy " .
+	1059234	hypheii	hyphy 	 slang word for hyphy (I, 0.9433) juiced up
+0	5886486	Fortens	people 	 an alternative word for people (I, 0.9157) who are supposed to work " four tens " ( four 10 hour days per week ) but actually do not.such as instead of working four ten hour days they show up at 10 and leave at 4 .

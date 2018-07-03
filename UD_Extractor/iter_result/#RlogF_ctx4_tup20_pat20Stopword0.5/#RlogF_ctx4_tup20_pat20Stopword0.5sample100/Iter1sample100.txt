@@ -1,3 +1,105 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bb535d17f4f96287c09d0d0dbdaab1d7630144c4ef61bb52365ec4df582fd86e
-size 16475
+label	pair	defid	definition
+	hoogs, hugs	1359937	An alternate spelling of the word \"hugs\", used in online discourse for comedic effect.
+	frying, something	8185389	Something cool. You use this word when something was good, nice , etc. You can use it for when you had a good time. ; Another way of saying something was turnt.
+	dirth, dearth	1665293	phonetic spelling of the word \"dearth\", which means \"an insufficient quantity or number\"
+	hut, hot	11936135	a funnier spelling of the word 'Hot' used in a more flagrant way.
+	ting, something	12244339	(Slang) Another way of saying \"something\" or used to describe someone.
+	favourite, favorite	1125375	A common mispelling of the word favorite by faggots such as snapbean2005
+	dujbag, douchebag	5096757	Another way of saying douchebag.
+	ignet, that	390697	Another way of saying that a person is ignorant.
+	nuvb, nub	3091474	A misspelling of the word nub.
+	pheanding, feigning	3521905	A severe misspelling of the word feigning. Commonly misspelled by people of the westchester area, or more specifically, mahopac girls
+	glonous, glorious	5696713	A misspelling of the word \"glorious\" printed on some chopstick wrappers from chinese food resturants. It is also sometimes used as a word that sounds dirty but isn't.
+	ghey, gay	4280032	Alternate spelling of the word \"gay\". Ghey does not refer to a person or situation in a sexual way, it meerly states a distaste for a certain situation or person.
+	ghey, gay	4993926	The derogatory spelling of the word 'gay' without meaning any offense homosexuals
+	yerty, ok	11966622	A greeting (hello) or (goodbye), sign of agreeing, a way of saying ok. An answer to anything.
+	octoberfest, oktoberfest	1929280	Common misspelling of the word Oktoberfest. Go there if you want to find out about drunk Bavarians, Americans, Australians and Japanese.
+	word, things	12480032	Another way of saying things are good or a greeting. Rappers sometimes (a lot of the times) use this word.
+	faggot, fagot	7848137	A misspelling of the word \"Fagot\" which means \"a bundle of sticks\". Many idiots believe that it is some kind of homophobic slur.
+	porky, fat	4332017	1. A famous pig from Looney Toons. His signature gimmick is his st-st-stuttering speach impediment. Best known for greating the, \"Ebade-ebade-ebade-ebade-that's all folks!\" 2. The correct translation for Pokey, a main villain from the Mother/Earthbound series. Often described as \"pig-like\".3. Another way of saying fat.
+	poing, point	4594134	to verb a noun with your noun.Also, a misspelling of the word point, transformed into sexual innuendo.Also, penis.
+	lel, lol	12134523	lel- a way of saying lol but s a memer
+	sniyat, aight	610593	another way of saying aight except used in a more sarcastic way.
+	empitome, epitome	3787229	The second most common misspelling of the word 'epitome.' Its usage is popular among pompous fucks who think they are better than those saying epitomy; attempting to sound sophisticated. Ironically, it is the exact pronunciation of the very word many fail to spell correctly.
+	yuppies, yup	12287232	The word yuppies is a way of saying yup or yeah, if you wanna sound lit
+	beastie, something	1137346	A way of saying something is of a large quantity or size, or maybe has a large animal characteristic. In many cases can also replace the word fat.
+	suicide, f*ck	12600618	A way of saying f*ck life! And f*ck you all!
+	scamaz, scam	12084565	another way of saying \"scam\"
+	bewty, booty	11560388	Another way of saying \"booty\".
+1	lami, lmao	1938958	A common misspelling of the word \"LMAO\" (laughing my ass off). Mostly used by people who cannot spell. People who make this typo say they are dislexic. When they really are not, and just don't want to look bad/stupid/retarded.
+	bruh, bro	402612	Another way of saying bro.
+	oftenly, often	823863	another way of saying often times.
+	wookie, wookiee	4338245	A fucking common misspelling of the word Wookiee, which is the name of a fictional species in Star Wars.
+	butthead, that	8164211	Used by kindergarden to 6th grade as a way of saying that you're a lil shit.
+	librat, liberal	11642444	Another way of saying liberal. A liberal who it a complete brat.
+1	sekses, success	11990393	the new era spelling of the word \"success\"
+1	sorotities, sororities	3033151	A common mis-spelling of the word sororities, pronounced sore-titties. May result in immediate giggling and sometimes snorting. Sorotities may be used to replace common body ailments, like a sore back or leg from running
+1	ffwc, fuck	6486882	Welsh phonetic spelling of the word \"Fuck\", first coined by UKH on the Rugby Rebels / Now Rugby forum. Similar to the Irish use of the word \"feck\".Verb: vulgar.1. Have sexual intercourse with (someone).2. Visit considerable violence (upon someone).Noun: vulgar. An act of sexual intercourse.
+	she-it, shit	2668771	another way of saying shit but not actually saying it
+	pultrudinous, beatutiful	5617507	a another way of saying beatutiful, gorgeous or down right naturally sexy.
+	lolzzzzz, lol	4056433	LolZzZZz is just another way of saying LOL or the very simple LOLZZ but in a more extreme way . It shows more of histerical laughter then a simple \"hehehehahaha\" . Actully , this internet slang was created by a typo .
+1	rusky, husky	5815901	Russian P.O.W.s during WW2 were described as being \"rusky\" or \"rusked up\". It's another way of saying \"husky\". Anyone that knows a Russian can confirm this. It's a bi product of the Russian Physical Education curriculum.
+	superlicious, someone	2439476	another way of saying someone is perfect in every way
+	yuu, you	3112297	An alternate spelling of the word \"you\" used by retards and \"cool\" kids. May be confused with \"yoo\" or \"yhoo\" which are equally retarded. The usage of this bastardized spelling can not be justified for SMS messages or Instant Messenger conversations as the original word contains the same amount of letters and is not very hard to spell. (hopefully)
+	yuu, you	3114580	An alternate spelling of the word \"you\" used by retards and \"cool\" kids. May be confused with \"yoo\" or \"yhoo\" which are equally retarded. The usage of this bastardized spelling can not be justified for SMS messages or Instant Messenger conversations as the original word contains the same amount of letters and is not very hard to spell. (hopefully) People who would use this word: Teeny boppers (\"yuu were totally liek awesome\") Retards (\"yuu ahehe ghaeh\") Cool kids (yuu comin to play som footbawl?\") Anyone trying to be different (\"yuu think i'm a fag coz i'm differant\") Lazy people (\"do yuu tink im lazi\") People who wouldn't used this word: Anyone with +2 brain cells (\"What the flying fuck are YOU talking about YOU moron!\") Source: Cool kids must die., Earth
+	obee-kaybee, ok	1081051	A way of saying OK. Used origionally on Bill Cosby's show, Fat Albert, it became awesome enough for me to recognize when re-introduced in The Boondock Saints<3... Best if drawn out when spoken, and said w/ an irish accent...
+	aquired, acquired	2542920	A mis-spelling of the word acquired.
+	sprunkle, sprinkles	11060084	A way of saying sprinkles, but keeping the hood mentalilty behind it, so you don't look soft to those reading.
+	afrika, africa	2681667	The Germanic/Dutch spelling of the word Africa. From \"Zuid Afrika\" which was the name for South Africa given by the Dutch settlers who founded, claimed and built the country that was then unjustly stolen from them by the immigrant hordes of low intellect backed up by left wing, bleeding heart, liberal swine. Afrika, is primarily the Nordic European spelling of the English Anglo word.
+	jate, goodbye	62968	A way of saying goodbye.
+	jate, goodbye	62972	Another way of saying goodbye.
+	shfnx, thanks	4055399	a way of saying \"thanks\" that is only one letter short. sounded out like Sh-fanks. said when texting or IMing. most scene, emo, rebellious, or punk kids say this when they try to act cool.
+	yerah, you	2435013	A way of saying you've gone mad over something. Usually said in an extended \"YYYYEEERRAHHHH\".
+	judgemental, judgmental	6902281	a common misspelling of the word \"judgmental\"
+	luigi, someone	12719814	Luigi means Mank,ugly or triple gay. It also is another way of saying someone thinks traps aren't gay.
+	enit, init	2273330	another way of saying init
+	haysooz, jesus	5089525	1.) The Mexican pronunciation of \"Jesus.\"2.) A more playful/sarcastic/humorous/et cetera way of saying \"Jesus.\" Is used in place of Jesus. Also used to emphasize a point or statement.Pronunciation: \"hey-zeus.\"Only to be used online. Do not say haysooz in real life unless you are addressing someone who's name is actually Jesus, or else you will sound like a complete asshole.
+	nithbug, nothing	5689577	An alternative spelling of the word \"Nothing\", as proposed by the Apple iPhone's auto correct.
+	store, sleep	5088965	The \"store\" is another way of saying sleep. If you want to use store instead of using sleep then you must play according to the rules:-If you are tired you have to say \"I'm very store\" -If you are about to go to sleep or bed you say \"I'm going to the store\" -The word \"dream\" does not exist in this dictionary, but TV shows do. So when you're in the store, you are watching TV. -You cannot say \"wake up\" instead you say \"you're leaving, or left the store\" -You may watch scary shows while at the store, so you cannot say you had a nightmare, you say \"there were scary shows playing at the store\" - If you cannot store, you say you are locked out of the store. -If someone asks you to leave the store, but you are very, very store, you tell them that you are locked in the store. - If you are talking to someone and they accidentally say one of the words that do not belong, you have to pretend you do not know what they are saying until they figure out their mistake and are able to correct themselves.Don't worry, you'll get the hang of it.Have a nice time at the store! :)
+	blessed, blessed	2897029	blessed is a way to say everything is cool, another way of saying blessed is \"bumper and breast\"
+	plauge, plague	7342283	A common misspelling of the word \"plague\" usually used by people who are either too ignorant to know the difference or by people who became too eager to type the letter \"u\" that they accidentally misspelled plague.
+1	kuwal, ebb	9751498	to steal something from someone, or another way of saying ebb
+	wizard, something	7093719	Another way of saying something is good or cool.
+	ebusy, busy	3736022	Electronic busy most commonly referred to as Ebusy refers to the growing trend in electronic responsibilies at work. As more and more people find themselves spending a majority of their work time focused on tasks such as email, e-tail and e-commerce, the descriptor of ebusy seems appropriate to describe their growing work load. Origins of the word stem from the accidental mispelling of the word \"busy\" by a member of a large internet discussion group. The group, known as \"The MoF,\" on the bulletin board Scubaboard.com popularized the word and brought it into everyday usage.
+	baffle, werd	509192	another way of saying \"werd\"
+	facesh, seriously	6618692	Phonetic abbreviation for the word facetious.Typically coupled with the word \"no\" (i.e. \"no facesh\") as another way of saying \"seriously\" or \"for serious\".Also pronounced and spelled \"fasheesh\" or \"faceesh\".
+	bullsnatch, bullsh*t	3222221	another way of saying bullsh*t
+	madafqa, motherfucker	8776279	A badass gangsta way of saying 'motherfucker' while chewing something.
+	lité, lit	10927547	Lité is the bootleg French version of the word Lit. Another way of saying Lit, Turnt,Or crunk.The word is pronounced (Lee-tay).
+	debautury, debauchery	4491419	A misspelling of the word 'debauchery.'
+	coolangatta, cool	2414636	Another way of saying cool, mainly for people who have too much time on their hands to stick with the usual way, or just want to be different.
+	kerzy, crazy	4698920	Another way of saying crazy. But, kerzy is often a much crazier, awesome-er version of crazy.
+	idioth, idiot	308261	Another way of saying idiot. I think it was inented by Group X.
+	pizzle, peace	805557	another way of saying PEACE or BYE.
+	n006, noob	4325100	A way of saying noob that noobs use to define themselves. See noob, n00b, n008
+	wv, someone	3325550	WV- walking vagina. a way of saying someone is a total slut and will sleep with just about anybody, and this is the best way to say it to someones face and they wont know wtf youre talking about. :)
+	ficnizzie, keeping	469527	Another way of saying keeping it real. Also a way to answer how you are doing.
+	doush, douche	2894338	The Dumbass spelling of the word Douche.
+	piontles, pointless	5946413	A brutal misspelling of the word \"pointless.\" Even worse is the fact that it was spelled the same way twice in one (run on) sentence, as posted in a comment on the video game website ign.com.
+	piontles, pointless	5957167	A miss-spelling of the word \"pointless\". Popularized by qi19 on IGN, when he spelled it this way twice in a row on a review of the game \"Catherine\". Said by many to become the next spelling meme, and is often used instead of \"pointless\" on IGN.
+	shadup, shutup	2130262	Meaning to Shut up... Another way of saying shutup. Sometimes meant as a joke-ingly way of saying shut up but not rude.
+	smexual, sexual	7589088	1: Another way of saying sexual but in a humorous manner.2: A video where characters are photoshopped of their bodies using gmod or some image, putting their heads in a black background or another image, then using their soundboard to make them say inappropriate things.
+	bobo, boner	4257673	Short hand for boner. Another way of saying boner. Can be used as code word so that girls don't know what the men are talking about.
+	fruite, fruit	5296356	1. the misspelling of the word \"fruit\"2. a new term for one badass motherfucker (Pronounced: fru-tay)
+	pl0x0l0x, please	1836012	a cool way for saying pl0x which is a way of saying please
+	cockflamit, damit	2880439	another way of saying damit or crap
+	holla, +1	354091	Another way of saying \"+1\" or \"please increase my postcount.\"
+	spamer, spammer	766152	(1) Misspelling of the word spammer (2) Combination of the words spammer and lamer.
+	boo, okay	7331097	Another way of saying \"okay\" \"good\"
+	gwok, money	856095	Gwak is anotha way of saying money
+	floating, what	6440305	Floating refers to what is in the air. Or another way of saying What's up?! (wazzup)
+	bizotch, bitch	729854	Another way of saying bitch, which means: 1. A girl whos jelous of other people, who takes other people's things, slutty, mean, and illeterate. Usually the only job they can get at the age of 18 is babysitting. 2. A term that refers to a female dog 3. Sabrina
+	shnoodles, good-bye	776309	A concluding remark or gesutre at parting. Another way of saying \"good-bye\"
+1	petifile, pedophile	458993	Mispelling of the word PEDOPHILE.
+1	shight, shite	367948	A misspelling of the word \"shite\" which is the (profane) slang term for fecal matter as spoken by those in the Brittish Isles.
+1	jes, yes	4092443	Jes is a boys or mens name.Sometimes related to the Danish newshost and journalist, Jes Dorph-Petersen.Someone who's usually strongly oppinunated.Not to be confused with a way of saying \"Yes\" or shorting down a name.
+	shna, schnaa	1176999	The incorrect spelling of the word schnaa
+	frat, fart	2662898	A clever misspelling of the word \"fart\", to enable the user to say it in situations that would otherwise be unacceptable. The bodily function of passing intestinal gas (flatus) via the anus.
+	yhuu, you	3340043	another way of saying \"you\"
+	ffr, reformat	1719376	Fdisk Format Reload/Reinstall. A geek abbreviation I picked up a while ago at work. It's another way of saying \"reformat\".
+	fawb, fall	2228633	Another way of saying Fall Out Boy.
+	bookface, facebook	4072664	A way of saying facebook without sounding loserish
+	hottybombotty, somebody	3179220	another way of saying somebody is a hottie or a hotty, basically, someone who is a total 10
+	xwned, pwned	873998	A mis-spelling of the word 'pwned' which is a mis-spelling of the word 'owned'. Originally said by Noodles on a forum.
+	jiraffe, giraffe	5833508	A common misspelling of the word Giraffe. This is mostly because the two spellings sound the same when pronounced with a neutral accent.
+	candyland, lets	4270531	Another way of saying lets have Oral Sex. Especially if some else is in the room or something.

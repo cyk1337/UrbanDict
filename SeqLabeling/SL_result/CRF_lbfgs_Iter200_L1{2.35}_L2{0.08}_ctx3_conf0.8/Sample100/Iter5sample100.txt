@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb20798097a39aaa27b8911b2ec287f747240acbda2217afd9ea6dec0d5b0e9a
-size 20402
+	6205763	derp	anything 	 a universal word for anything (I, 1.0000)
+0	10612686	Livingston	attention 	 a last name for crusty and dry people . really drains the life of the party , they 're the one most likely to dunk their head in a beer keg for attention (I, 0.9461)
+	5836963	coaster	condom 	 a contraceptive used for protection when having sexual intercourse with a drore . coaster = slang for condom (I, 0.9768)
+0	2560344	yulll	yull 	 the act of " yull (I, 0.9581) "- ing ( using your voice to " yull " ) to encourage people in the public to look at the yull - er . the more people that look at them the more likely they will become the " yull master " in the group of friends . some places it is most used at are local malls , the mall of georgia , wal - mart , and target . common people that use " yull " have names such as marissa , kinz , steph , and brandon .
+	1359601	bixi	bitches 	 another word for bitches (I, 1.0000)
+0	12457968	Brattitude	oneself 	 noun brattitudethe spoiled , willful , entitled , bratty way of carrying oneself (I, 0.8612) ; austere posture . bratty disposition or state of mind . willful irritated , aggitated brattitude ; priss - pot posturing .
+0	3647925	MAL	man 	 ( 1 ) an abbreviated expression for ' man (I, 0.9769) and lady ' . ( 2 ) a term used when referring to sex between a man and lady . ( 3 ) an expression used when an urge overcomes one to express the need of sex or sexual activities to happen between a man and lady .
+0	1103728	yessah	yes 	 this is a different way of saying yes (I, 0.9935) sir .
+	4464394	Cantana	sex 	 slang word for sex (I, 0.9999) , or the ability to perform numerous sexual positions during one intercourse session .
+0	714665	douchewagon	someone 	 a cool way to insult someone (I, 0.9792)
+	2284519	fruitpuff	hello 	 1 . a person who is gay or acts gay or acts stupid 2 . another way to say hello (I, 0.9990) or goodbye(at the same time while your saying this hit your chest with your fist crunched together and alter your voice a little to make it sound funny ) 3 . making fun of someone for no aparent reason by calling them fruitpuff
+0	4764274	tcheu	ass 	 pronounced " tchoo " - cajun french for " ass (I, 0.9272) " or " butt . " corruption of the original french " chou , " or " cabbage . " go figure .
+0	6347668	Chicktionary	dicktionary 	 opposite of dicktionary (I, 0.9759)
+0	1295415	crapbunnies	conversation 	 a word that was mistakenly created during a " funny word " conversation (I, 0.8459) ( i.e. spoon is a funny word ) . the first person had said , " crap " and the second had said , " bunnies " . then , crapbunnies was created . since its creation , it has been used as a replacement for an explitive ( i.e. shit ) for the most part . however , it can still be used as an explanation of small round pieces of shit ( that look like rabbit droppings ) . or , feel free to create your own definition .
+0	5830461	lexperiment	life 	 short for " life (I, 0.9509) experiment"deliberately doing something new in your life and evaluating its results . lexperiments have no categorical limitations and can involve any aspect of personal interest - physical , social , financial , mental , etc .
+	2811757	boogerfoot	weed 	 wu - tang slang for weed (I, 0.9529)
+	1710049	yetch	yes 	 slang for the english word " yes (I, 0.9999) " . used to express aggrement or a positive responce .
+0	4314368	SLOH	homework 	 shit load of homework (I, 0.8525)
+	1845566	brat	born kids 	 short for " born (I, 0.9477) raised and transferred " applies to kids whose parent(s ) are / were in one of the armed services ( army , navy , air force ) . due to the fact that servicemen / servicewomen rarely stayed at one base for more than two or three years at a time before being re - assigned to another ... sort of like a peace time " tour of duty " kids (I, 0.9477) referred to themsleves as brats . also known as a service brat
+	1119023	zoa	protozoa 	 short for " protozoa (I, 0.9984) " aka cum
+0	4351258	UPF	upper 	 acronym for " upper (I, 0.8531) pubic fat ( unisex ) " , " upper pussy fat ( female ) " or " upper penis fat ( male)"this term is used to describe the upper pubic area of one self that has become large enough to shroud the reproductive organs.common sightings of upf are most prevelent in low socio - economic areas , bus stops and fast food chains . upf sightings also include a high chance of elastic wasted tracksuit being involved with aformentioned upf distending or overhanging the waistline .
+	5902852	praccar	practice 	 a swedish term for practice (I, 0.9238) , mostly used by those who play counter strike or something similar who want to learn the maps and know where to look too avoid flash bangs .
+	6610860	Cant	cunt 	 an australian variation of the word cunt (I, 0.9979) when referring to a banker .
+	12739943	mckenzay	mckenzie 	 a very weird way of spelling mckenzie (I, 1.0000)
+	6882868	cotona	prostitute 	 spanish secondary name for " prostitute (I, 0.9757) "
+	3440843	Gungubatty	bickering 	 jamaican terminology for ' bickering (I, 0.9459) ' or ' argument ' . used only in situations of extreme frustration and anger .
+!	9063060	Spurgt	asked'.commonly 	 the danish word for ' asked'.commonly (I, 0.9563) used to express carelessness about an often spontaneous statement .
+	2910289	paunce	penis 	 another word for penis (I, 1.0000)
+	4431366	Tati	shit 	 indian / pakistani word for shit (I, 0.9994) .
+0	12757374	kanta	people 	 grandma of people (I, 0.8157)
+	11428802	Bizznizz	business 	 informal slang of the word ' business (I, 0.9966) ' . commonly used among hipsters .
+	12862475	ninerpiner	pedophile 	 canadian slang for a person in a senior grade ( 11/12 ) that hits on niners ( grade 9s)basically another term for pedophile (I, 0.9973)
+0	4129233	Barumbado	filipino 	 a word in filipino (I, 0.9069) . meaning " bad ass " or notorious , someone who has a bad attitude . or a bodman in jamaican .
+0	6002954	mepathy	em"pathy 	 the reverse of " em"pathy (I, 0.9428) . when you want to use one word for " lack of empathy " . selfish , thoughtless and does n't care about others ' feelings . self absorbed .
+0	10732392	Mayya	witch 	 mayya is hausa for " witch (I, 0.9994) " . hausa is a chadic language with about 44 million speakers . it is spoken mainly in northern nigeria and niger , and also in benin , burkina faso , cameroon , car , chad , congo , eritrea , germany , ghana , sudan and togo .
+	2970390	Buang	crazy 	 buang is a cebuano word for crazy (I, 0.9854) . cebuano is a local dialect in the philippines . buang is typically a harsher word than crazy . this can be used as a curse when you are angry and can be used in tandem with other known cebuano cuss words such as the likes of yawa , pisti and atay .
+0	1111091	bojmir	rimjob 	 reverse spelling og " rimjob (I, 0.9695) . " usually used as a noun by can be used as the verb itself .
+	1021588	schenley	asshole 	 1.adj another word for asshole (I, 1.0000)
+0	1650661	auld	old 	 a scottish word meaning " old (I, 0.9872) " .
+	3914167	G1	gone 	 slang for the word " gone (I, 0.9416) " ; becoming completely intoxicated , or " getting gone " ( g1 ) . g1 is often changed to g2 , g3 , g4 or even up to g5 , to refer to the level of " gone " ( g1 ) , much in the same way the enhanced fujita scale measures tornadoes . in parts of the southern us , a " boah " is often added to a sentence to enhance g1 .
+	74255	HMB	hamburger 	 1 . shorthand for " hamburger (I, 0.8962) " in brazilian outlets of clown subsidized fast food mcbyproduct joints . 2 . human growth hormone , popular with east german women 's swimming teams . 3 . her majesty 's bulldog . euphemism for an untidy vagina and pubic area on an otherwise posh female specimen .
+	2889952	Constitutional	cool 	 new - fangled word for " cool (I, 1.0000) "
+	3800055	Tossshit	tosser 	 corruption of " tosser (I, 0.9737) " and " shit " , denoting somebody who fulfils the twin abilities of being both a " tosser " ( english expression with same meaning as " wanker " ) and functionally useless ( ie " shit " ) . has the unique distinction of possibly being the only offensive insult to feature three consecutive s 's .
+0	712851	Scluke	aliens 	 to look for aliens (I, 0.8968) .
+0	2689829	displatch	dispatcher 	 to dispatch messages in a sloppy or haphazard fashion , without due concern for detail , data integrity or the world around you . derived from a computer application where a misspelling of ' dispatcher (I, 0.9944) ' became symbolic of more fundamental attitudes towards the design and implementation of computer systems .
+0	4871470	LSHMSFOAIDMT	laughing 	 stands for " laughing (I, 0.8251) so hard my sombrero falls off and i drop my taco "
+0	4309153	welfare	communism 	 sample of communism (I, 0.9135)
+0	2995513	lshtmicoomnaaridnu	laughing 	 acronym for " laughing (I, 0.8201) so hard that milk is coming out of my nose at a rate i do not understand " commonly used to describe something that is extremely funny
+0	5521045	vag-stag(2)	anything 	 something that is totally bullshit ; an action that has negative consequences ; a universal word for anything (I, 0.9974) , good or bad .
+	5094955	idkj	idk 	 1 . a misspelling of idk (I, 0.9999) . 2 . i died in karumja .
+	9819708	filthesaurus	sex 	 a fictional thesaurus of filthy words for sex (I, 0.8879) or anything or anyone .
+	4712390	Guadalupe	valley 	 guadalupe , was originally a spanish toponym that derives from the arabic word for " valley (I, 0.9976) " or " river " and the latin word lupus , meaning wolf . the name referred to the river guadalupe in spain.our lady of guadalupe who is a catholic icon of the virgin mary . the lady of guadalupe is of siginificant importance to mexican culture , and is often referred to as the queen of mexico a true miracle of its time.it is for this reason that many mexican women and sometimes men with the name of guadalupe are seen as highly important amongst their people . guadalupe is a very sophisticated name and nonetheless those with the name are seen as conceited when really they are convinced.guadalupe does not associate herself with those of less stature than her own . and like our lady of guadalupe , guadalupe is considered a godess of her time . she is unlike no other .
+	430613	gloss	hype 	 a new way to say hype (I, 0.9999) or ill
+0	753094	PFB	pretty 	 a fast way of saying pretty (I, 0.8640) fuckin ' bad , or basically anything that starts with pretty fuckin ' b______.
+0	12716236	Chappaquiddick	chop 	 a fun way of saying " chop (I, 1.0000) of your d - d - d - d - d - diiiiiiiiick
+0	1210958	typ	typical 	 shortening of the word " typical (I, 0.9970) " designed to decrease time spent typing in crucial in game situations of warcraft 3 or other games . also used by the extreemly lazy .
+	9792138	Maaybe	maybe".usually 	 stupid version of the word " maybe".usually (I, 0.8043) means yes , although can sometimes mean no . most commonly yes when said with strange accent , eyes pointing at the ceiling and a weird face pulled .
+0	4125207	dickmive	mive 	 ( dick - mive)- like the number five but with an m. adjective- meaning a dumbass man , or rather an idiot who acts in a shady matter towards people . derived from the word dick meaning a guy who acts in an obscene manner towards the opposite sex . and the word mive (I, 0.8057) , meaning a man trying to show off his jive .
+0	6566130	F.O.A	family 	 stands for " family (I, 0.9918) over all " and was created by the rapper kylo to be the name for his crew , who he considers family.the term can also define a lifestyle of getting high off marijuana , drunk off alcohol , getting money , and getting girls .
+	2847437	deffa	definitely 	 shortened form of " definitely (I, 0.9998) " . used mainly in informal communication
+0	4015879	Selacophobia	sharks 	 phobia of sharks (I, 0.8165)
+0	4070667	Slang	slang 	 slang is an abbreviation of the word street - language , taking the " s " from the word street and " lang " from the word language . the word " slang (I, 0.9758) " itself is thus a prime example of slang , because it 's how people on the street refer to " street - language " without pronouncing the entirety of the word . slang is used to abbreviate and facilitate the pronounciation of formal words and can be used as a lingo which seperates them from people not knowing ( a particular ) slang .
+	10944262	sartproush	sartorius 	 another way to say " sartorius (I, 0.9997) "
+0	11314110	beek	dude 	 beek is a word that can be used as a noun.as a noun , it can be used as a synonym for " dude (I, 0.8428) " or " bro " or even the occasional " homie".this allows the user a wide range of contexts in which the word can be used . this form of free range allows for the word beek to be used in both a derogatory manner and a complimentary manner . in a derogatory manner , beek replaces whatever curse word that the user might have previously called that individual . in the complimentary manner the word beek replaces whatever the individual might call another individual . ( honey , sweetie , etc ... )
+0	2360568	gangsta	ballin 	 a complete and mean idiot . people who like to shove you out of nowhere saying " ballin (I, 0.9190) ' ! ! ! ! " . they often listen to mainstream hip hop and rap with tupac and b.i.g . they usually get bad grades and act dumb . gangsta 's shall be classified as the ghetto / igger family . the 5 types of iggers are wigger(white nigger ) , nigger(this is just for ghetto blacks ) , aigger ( asia / middle nigger ) , spigger(latino nigger ... from racist word spic ) , and meigger ( a middle eastern nigger ) . these ghetto people are mean and stupid . they must be stopped now . words ca n't even explain all of it . they usually all can not speak or write english!(the spiggers usually speak bad spanish and english ) . these people usually have a ghetto myspace which is very disgusting . if only i could show you guys a few . these ghetto " gangstas " also are a bunch of sluts and " pimps " . no matter where a ghetto person is from they 're proud of it . wherever they 're from and their ancestry ... they'll try their hardest to make it superior . they were clothes such as roca wear , ecko unltd . , fubu(not as much ) , south pole and spray painted shirts . these ghetto people love money , jewlery , expesive gym shoes ... and football and basketball . they tip their hats side ways or backwords and lift it up . they love to watch bet too . they love hip hop , rap , and modern rnb . they make their " music " so superior to everything else by getting other ghetto people to support them . the hair style for the guys is usually a shaved head , a shaved head with designs or a flag , an afro , or braids . they girls ... just dying your hair and having it in many different styles(pretty much the same with a lot of women ) . these ghetto people are mean and have no respect for anyone . they think they 're " ra " or " tight " . these people are so stupid too . they 'll end up dropping out of school . help get rid of these gangstas or ghetto people .. please .
+0	2021465	werf	valuable 	 synonym for ' valuable (I, 0.9992) , ' but typically describing something ghetto .
+0	4262423	Homosecksual	" 	 the way the word " (I, 0.8429) homosexual " sounds when you keep your tounge on the bottom of your mouth when you say it .
+	12058563	Lades	palisades 	 socal slang . short for " palisades (I, 0.9932) , " a wealthy white neighborhood in la . very very bro - y , douchey culture . lades kids have their own weird ass slang and it does not sound like actual english when they talk .
+0	4967042	Antie	aunt 	 diminutive for aunt (I, 0.9247) .
+	2669962	manspud	spudman 	 1 ) the spud of a man . 2 ) the fusion of a spud and a man . 3 ) the gamertag of a really kewl kid on xbox . 4 ) a variation of the word spudman (I, 0.9996) .
+	554433	weegee	glaswegian 	 someone from the fine city of glasgow in scotland , uk . short for " glaswegian (I, 0.9525) " ( = a native of glasgow ) .
+	5413639	schmeigal	hot 	 another term for " hot (I, 0.9999) " or " sexy " , goodlooking in general .
+	635997	aiiet	alright 	 slang for " alright (I, 1.0000) "
+	8392714	stupang	stupid 	 reed hard is stupang . a nice way to say the word stupid (I, 0.9997)
+	4833	poosy	vagina 	 slang for " vagina (I, 0.9988) " said by those hesitant to actually say " pussy . "
+	4453547	Zur	yes yup 	 another word for yes (I, 0.9983) , in some texting languages . used in t9 word on a cell phone . when you type the word " yup (I, 0.9983) " it comes up as zur instead .
+	159456	ryu	dragon 	 the japanese word for " dragon (I, 1.0000) " . also the name of the star characters in " street fighter " , and the excellent dragon rpg , " breath of fire " . hi .
+	3093976	rassoodocks	brain 	 russian word for " brain (I, 1.0000) " . used in " a clockwork orange " to mean " mind "
+	5103980	Orate	hello 	 a yorkshire way of saying hello (I, 0.9997) . hey;hello;hican also mean " are you alright ? " if a y is put before the o to make " y'orate ? "
+	2224967	ektaa	slow 	 ektaa is a another word for slow (I, 1.0000)
+	2255830	Dank	cool cool 	 another word for cool (I, 0.9963) . considered a " hipster " way to say cool (I, 0.9963) . most normal people that say it are posers .
+	11169956	food	drugs 	 a slang word for drugs (I, 0.9871) in london
+0	5362097	Luftungulous	hardcore 	 a synonym for hardcore (I, 0.9591) . used usually right after the event being described . can be shortened to luft .
+	1478605	jimson	penis 	 another word for penis (I, 1.0000) ,
+	8414396	fuggar	fucker 	 an abbreviation of " fucking duggar " ; a variation of " fucker (I, 0.9955) " . used to describe someone who is an embarrassment , an idiot , a shame to humans . particularly relevant in light of the josh duggar scandal .
+	11823235	Bahoochi	booty 	 ghetto slang for booty (I, 0.8112) .
+!	8304155	Pizzazzles	peace".it 	 a controversial way of saying " peace".it (I, 0.9809) is disagreed by many how to interpret this term . some may view it as a modern , pleasant word - play whereas most will elucidate this designation a churning shitpot .
+0	2267718	C.O.R.N.	clean 	 acronym for " clean (I, 0.9999) out ( the ) refrigerator night . " used to describe a dinner of leftovers .
+0	3252646	lylab	love 	 an acronym for " love (I, 0.9980) you like a brother . " for use when you have affection for a guy as strong as you would if he were family .
+	3041328	Pinga	penis 	 a spanish slang word for penis (I, 0.9998) .
+	4889783	Gabba	gabbacho 	 short for gabbacho (I, 0.9684) , straight out white , typical blonde white man . may be used as a noun or as a n adjective
+0	12241216	Eyeballing	pleasure 	 putting alcohol into the eye to not get caught drinking and driving or for pleasure (I, 0.9940)
+0	3678590	Borrachorexic	borracho anorexic 	 a " mangulation " of the spanish word " borracho (I, 0.9155) " , meaning drunk , and the english word " anorexic (I, 0.9155) " . borrachorexic is the act of puking while you are on a drinking binge in order to fit more booze into you .
+0	4880196	fulla	full 	 1 . fulla is short slang for " full (I, 0.9655) of . "
+	4789630	Tajna	secret 	 the croatian word for secret (I, 0.9889) ... also rarely used as a name , it tends to have a curse on those blessed with the name.they are indeed secretive , sometimes to their demise .
+	5838648	BROd	broad 	 it simply is a derogatory meaning for male who is also a bro . used for boys who are hott or attractive , but are too stupid , whory or ' bro ' to respect or even think about having an actual meaningful relationship with . the male version of a ' broad (I, 0.9760) ' .
+	6322573	Babies	awesome 	 another word for awesome (I, 1.0000) or crazy , in a good way .
+	4352036	Sensi	sensual 	 the shorter , adjective version of " sensual (I, 0.9288) " ; " sensi " is to " sensual " as " sexy " is to " sexual".there are also various degrees of " sensi " , which ranges from " über sensi " to its antonym " iness " ( a scramble of the original term . pronounced n.s . or " not sensi " ) .
+	9515449	fluck	fuck 	 nicer way of saying " fuck (I, 0.9998) "
+	2461706	cud	cuz 	 another way of saying ' cuz (I, 0.9950) ' , often used in year 12 2007 at epping boys high school . made popular through a conversation in year 10 elective history where two boys were impersonating african american slang , one of the boys said the word ' cud ' . when asked what it was , he replied ' paul walker says it in the fast and the furious ' since then it has spread and is often used by many of boys in the form .

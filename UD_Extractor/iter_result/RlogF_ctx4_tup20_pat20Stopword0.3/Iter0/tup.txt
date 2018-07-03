@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:243802bbf8f9f7d584ca3fa5d94f887872c870b5ca91f0f4057f7565cd03b0f9
-size 592
+(jate, goodbye)
+(m8s, mates)
+(kik, lol)
+(qual, cool)
+(kewl, cool)
+(funk-a-del-lic, crack)	2.0	 [68738]
+(jello, hello)	2.0	 [69399]
+(bebi, baby)	2.0	 [99912]
+(fuko, fuck)	2.0	 [103011]
+(rockerdelic, totally)	2.0	 [108792]
+(bauffing, sex)	2.0	 [125666]
+(delayed, retarded)	2.0	 [127611]
+(flamehead, flamer)	2.0	 [128896]
+(o-quay, ok)	2.0	 [135843]
+(koont, cunt)	2.0	 [139319]
+(thup, sup)	2.0	 [142078]
+(snerfy, cool)	2.0	 [156202]
+(guht, good)	2.0	 [186693]
+(early, holla)	2.0	 [188411]
+(n00d, n00b)	2.0	 [199051]
+(bj, blow)	2.0	 [211435]
+(mug, mother)	2.0	 [237855]
+(rolf, rofl)	2.0	 [239151]

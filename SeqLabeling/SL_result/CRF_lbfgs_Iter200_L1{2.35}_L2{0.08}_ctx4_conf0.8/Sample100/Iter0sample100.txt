@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:87b8cf91e84e3a6e454fc6503c8d1bc5f077280197d514dbbd33cb4ce1b58db7
-size 14904
+	443833	aye	hey 	 its another word for hey (I, 0.9355) but this is the way fonzi does it ayeeeeeeeeee
+	1773743	biyner	beaner 	 the way to say " beaner (I, 0.8176) " if you 're from the south .
+	1218602	mayn	man 	 different way to say " man (I, 0.8184) " , orginating the spanish accent of saying man
+	2788789	Queeter	corn 	 another way to say corn (I, 0.9312) .
+	3936187	MFKR	motherfucker 	 short form for " motherfucker (I, 0.8269) " .
+	5213326	yhes	yes 	 a common variation of the word " yes (I, 0.8383) " that occurs when an " h " is accidentally pressed on the keyboard instead of a " y " .
+	11630736	Covfefe	coverage 	 the drunken misspelling of coverage (I, 0.9655)
+	343037	shlingadingdong	penis 	 a long word for penis (I, 0.9299)
+	5498186	Haz	have 	 an unfunny , overused alternative spelling for " have (I, 0.9596) " . typically used by teens and/or retards who believe it is clever .
+	8665905	nuttn	nothing 	 another word for nothing (I, 0.8470) although it may look like the " nutting " as in ejaculation . but it means " nothing " as in " nada "
+	132804	Lutsi	penis 	 albanian word for penis (I, 0.9531)
+	246273	playa	beach 	 1.)a colloquialism used by semiurban wannabes ( like sean combs ) who wish to convey both respect and contempt at the same time for a fellow semiurban wannabe . 2.)spanish word for beach (I, 0.8576)
+	744674	pownage	ownage 	 an alternate version of " ownage (I, 0.8707) " . term used mainly in online shooters , where one person is displaying superior and winning traits . part of " the internet speak " ; synonyms include " twnage " , " ownage " , " lwned " . see l33 t
+	3797139	niknok	nigger 	 the dutch way of saying nigger (I, 0.9444) .
+	5827639	scrotum	raison 	 another word for raison (I, 0.9112) .
+	11893792	Chankuras	money 	 a south african street word for money (I, 0.9037)
+	1583708	soc	sock 	 abbreviated way of saying " sock (I, 0.9308) . "
+	4958131	chingasu	shit 	 a hispanic way to say shit (I, 0.8544) , fuck , or damn
+	4890907	Helenyim	hell 	 another way to say hell (I, 0.9312) .
+	3955081	Bibi	bitch 	 another word for bitch (I, 0.9205) .
+0	10362587	Schnitzengrübs	grüben aw 	 a compound pseudo - german usage of ' schitz ' , which means " to slice / segment " and ' grüb ' , which is a truncation of " grüben (I, 0.8398) " meaning to meet yet really a corruption of ' grub ' meaning " to dig / pit " . it is an alternate form of the usage " schnitzengruben " from the movie blazing saddles , and as such may have elements of humor ( including double entendre ) involved.it is simply another way of saying " aw (I, 0.8398) shucks " or " cut the garbage " . it is also a hearty alternative to shouting expletives and cussing .
+	507257	potatoes	boobs 	 a discrete way of saying boobs (I, 0.8099) . one can also use the shortened form of tateres
+	5631167	Shpanks	thanks thanks 	 another word for " thanks (I, 0.8869) " , usually said by teenage girls . shpanks is just a more fun / cool way of saying " thanks (I, 0.8869) " .
+	2063347	Qweg	queer 	 a qweg is simply another word for queer (I, 0.9044) or homosexual . used as a comedy slang term between groups of homosexuals .
+	3249914	Deck	dick 	 1 . adj . an alternate pronunciation for the word " dick (I, 0.8679) " , commonly used by poservalley girls who use stupid - ass lisps to make men feel as if they are less intelligent than they really are in a futile attempt to impress them . 2 . adj . how queens say dick .
+	2410269	lador	goodbye 	 similar to later , but only used in the sense of saying goodbye to a friend , or anyone who is a non - enemy . that is , this is a friendly way of saying goodbye (I, 0.9039) .
+	12138331	shirkira	prostitution 	 is another word for prostitution (I, 0.9859)
+	2639861	rag	fuck 	 another word for fuck (I, 0.9046) , sex e.t.c
+	2321548	underbus	tube 	 a new way of saying tube (I, 0.8697) / underground when relating to trains . because an underground train is just an underground bus , or an * underbus *
+	979595	Munt	cunt 	 a cool way to say cunt (I, 0.9502)
+	11377083	Shigglenuts	shit 	 another word for shit (I, 0.9531)
+	3171269	thun	thug 	 queens , new york way of saying thug (I, 0.9127) .
+	4486905	Cack	cock 	 another word for cock (I, 0.9617)
+	1800142	jox	jokes 	 another spelling for " jokes (I, 0.9434) " , usually used to describe something funny that happened , a prank that was played or a something funny someone did . usually used when the said person ca n't think of anything more interesting to say in reply . can be used as a substitute for lol .
+	2893264	Chom	chomedy 	 abbreviated form of the word chomedy (I, 0.8350) .
+	6261386	douchenoozle	douchenozzle 	 a common misspelling of the word douchenozzle (I, 0.9101) ; the misspelling became the norm at a bbs about tv commercials we all hate ; it then became rather commonplace .
+	1032660	greasebox	vagina 	 just another dirty word for vagina (I, 0.8585)
+	1338644	alo	hello 	 french way to say hello (I, 0.8501) . the do n't pronounce the hello , and change the e to an a sound .
+	5056567	Keetch	cooch 	 another word for cooch (I, 0.9372) / vaginaalso used in roman terms as the mighty gay butt rapeist also in the black terms dildo made from rusty metal
+	11880636	antifa	faggot 	 another word for faggot (I, 0.9492)
+	4069159	Frozalicious	everything 	 a word for everything (I, 0.8459) ; basically froze & fergalicious .
+	4001192	Don	toilet 	 another word for " toilet (I, 0.9116) . "
+0	27845	ohmigod	oh 	 intentional phonetic spelling of " oh (I, 0.9540) my god " . if said , it would be fast and all one word " like , ohmigod ! " the word prefix ' like ' is often placed in front of it . the phrase is used mostly by pre - teen and teenage girls and should in no way be a means of deducing the person 's i.q . - but it pretty much speaks for itself anyway .
+	2635367	lubberz	love 	 another word for love (I, 0.9531)
+	1864062	yaydee	yes 	 another way of saying yes (I, 0.9511) . projecting affirmation .
+	4366876	Ninja	cool 	 adjective.basically another word for cool (I, 0.9263) . except cooler , as its the word ninja . similar to badass in defintion yet far more badass , i think the best explanation of this word is infact ' ninja'.this is going to happen . it 's inevitable . it 's going to happen big.it will grow and spread across the internet like wild fire with a shuriken .
+	2542635	Metalliac	metallica 	 a common mis - spelling of " metallica (I, 0.9853) . " similiar to metllica .
+	3781331	Nrrr	most 	 the word used when no other word seems appropriate . the correct spelling of the word most (I, 0.8393) popularly searched under as nerr it 's the odd , unneccesary spelling that makes that word oh so lovable .
+	2642472	criznaster	cocaine 	 a word for cocaine (I, 0.8604) & sometimes crystal meth
+	743757	netty	toilet 	 north east england word for toilet (I, 0.9184)
+	11928385	rukkie	handjob 	 afrikaans word for handjob (I, 0.9270)
+	3196106	expecially	especially 	 a common mispronunciation of the word " especially (I, 0.8135) "
+	12113532	Purchayse	purchasing 	 another word for purchasing (I, 0.9181) except it has positive connotations and conjures an image of a positive vibe . used in elated conversations and rarely used in a negative context .
+	138713	f00d4g3	food 	 an extra 1337 way of saying " food (I, 0.9454) " . as with the simpler term " f00d " , it is either used to describe an edible thing or more often as an exclamation meaning one is going to get something to eat .
+	5587857	Schwartz	fuck 	 a verb that is the act of getting so completely and utterly drunk as to make a scene that while ultimatly funny as hell your probably going to regret it later . it can also be used in place of the word fuck (I, 0.8007)
+	9973041	Pump	fuck 	 another way to say fuck (I, 0.8526) ( sex )
+0	2034591	Bozzin	someone 	 another word for someone (I, 0.8984) caught doing something just downright amazing .
+	3608456	nnnmmm	no 	 a sensual way to say no (I, 0.9317) . usually used in bed , to a sexual partner .
+	2705386	jenners	jennifer 	 short way of saying " jennifer (I, 0.8493) " or " jenna " . sometimes mistaken for alex trebek from jeopardy .
+	1197562	gaff	house 	 " gaff " is an irish slang word for " house (I, 0.8542) " , its also used across scotland and parts of england and wales
+	11550217	Shellous	jealous 	 an alternative way of saying " jealous (I, 0.9786) " .
+	5188918	Meekrat	meerkat 	 what an illiterate burn victim calls an obnoxiously fresh individual through subliminals and sneak dissing . most often a misspelling of " meerkat (I, 0.9956) "
+	1734680	Features	cunt 	 another word for cunt (I, 0.9313) . can be used on it 's own or along with cunt .
+	5602207	Groupeezs	groupees 	 like a groupee people young and old will do anything to be part of the scene ! this is another spelling for groupees (I, 0.9191) or such and can be uses as such ! check definition of groupee here as well on the urban dictionary .
+	1860277	petterass	pederast 	 misspelling of the word ' pederast (I, 0.8616) ' made popular by the big lebowski . webster 's defines it as " one who practices anal intercourse especially with a boy . "
+	225840	Chala	yes 	 it is another word for yes (I, 0.8675) . it it used in place of yes .
+	2606605	kaptcha	gotcha 	 another word for gotcha (I, 0.9112) .
+	11007776	Riddim	rhythm".'riddim 	 ~nounnon - standard spelling of " rhythm".'riddim (I, 0.8380) ' is a sub - genre / offspring of trance music , collaberatively created and introduced in 2011 by famous musicians , ' getter ' and ' darude'.origin : representing a jamaican pronunciation ; the jamaican patois of the english word " rhythm".riddims are the instrumental backgrounds of reggae , lovers rock , dub , ragga , dancehall , soca , bouyon and also grime compositions . also , rare cases in reggaeton.a riddim ( patois for instrumental rhythm track ) is an instrumental version of a song , which applies to various types of music , riddims usually consist of a drum patter and a prominent bass line .
+	12673312	plump	round 	 plump is another word for round (I, 0.8303) . you can become plump if you eat to much food and drink too much fatty drinks . when people get plump they usually get depressed and sad . most will try and kill themselves from the noose but whatever they are hanging from will obviously break . you can also call food plump . here is a picture of the tumble twins . they are plump : http : //www.guinnessworldrecords.com / news/60at60/2015/8/1978-heaviest - twins-392952
+	12902225	semenate	ejaculate 	 another word for ejaculate (I, 0.8673) . it 's just funner to say .
+0	934196	darn	religious 	 a way for ' religious (I, 0.9005) types ' to say damn without offending others of their ilk . more importantly , its a way of releasing anger when something happens , but unlike the originator - " damn " , it does nt roll off the tongue so easily and would appear to repress the repressed ' religious types ' even moreso than if they had gone all out and said the word " damn "
+	4267375	boinks	testicles 	 a word for testicles (I, 0.8458) , nuts , balls .
+	4215599	Nicci	noob 	 the new version of the word noob (I, 0.8782) . usually people who still have not caught up with times in this technologically advanced generation , though surrounded by technology daily , almost 24/7 .
+	2110859	fhuk	fuck 	 a pathetic misspelling of fuck (I, 0.8208) on a bathroom stall in a public high school .
+	331437	Bulbul	penis 	 hebrew word for penis (I, 0.9364)
+	2163381	tmas	christmas 	 also known as ' tmas . a shortened way of saying christmas (I, 0.8546) . the shape represents a cross , and the t is the last letter in " christ " . pronounced tee - mus
+	858721	Barnyarding	bullshitting 	 " barnyarding " is a nice way of saying " bullshitting (I, 0.8691) , " which basically means lying about something in order to get a desired response or outcome .
+	1837645	bai2u	bye 	 an alternate way of saying " bye (I, 0.9631) " . it can be used especially when you need to leave quickly or circumstances call for it . literally , it means " bye to you " , a more direct salutation than just saying " bye " .
+	4987120	Oolob	slob 	 a derogatory term used to insult members of the bloods . pronounced " oo - lawb " . derived from the word " slob " . the word " slob " is commonly used by crips to insult members of the bloods gang . oolob is just a funny way of saying slob (I, 0.8466) . sometimes spelled " oolobk , " with the letter " k " after the letter " b " as a sign of disrespect to the bloods because " bk " means " blood killer " . oolobk / oolob is mostly used by south side compton crip and east side compton crip gang members . however this is more of an old school term , dating back to the 90 's . this word is hardly used these days .
+	2863832	ESSH	esh 	 another word for esh (I, 0.8461) but people use the double " ss " to drag the word
+	2435144	sloozey	slut 	 a classy way of saying slut (I, 0.9586)
+	1101750	bing	bong 	 another word for bong (I, 0.9112) .
+	4978330	hej	hello 	 hej is the swedish word for " hello (I, 0.8038) " or " hi " .
+0	6204282	Saituchiha	someone 	 another way of saying someone (I, 0.8097) of great status , skill or intelligence .
+	2763863	chiznittz	shit 	 1.)(noun)the gehtto way to say " shit (I, 0.8561) " 2.)(adj.)the term used to describe something smelly , putrid or unpleasant .
+	3860788	kando	buttocks 	 nepali word for buttocks (I, 0.8221) or anus
+	6665828	yelzmboabs	awesome 	 a word created by glynn morris and chloe kennedy on july 2nd , 2012 . " yelzmboabs " pronounced yell - zm - boabs is a scottish slang word for " awesome (I, 0.8785) "
+	1610819	pus	pussy 	 another way of saying pussy (I, 0.9743)
+	691512	OEACE	peace 	 the koolest way to say peace (I, 0.9424)
+	9259441	atchy	actually 	 abbreviated form of the word actually (I, 0.8589) . used when you just do n't have the time for the full word
+	1624603	neato	neat 	 a better way to say neat (I, 0.9415) or cool or any other such adjective possibly the coolest word in the entire world . say it with me ... neato
+	272186	PHAT	cool 	 another word for cool (I, 0.9504) . often used on the street by youths .
+	2822970	NiKKA	nigger 	 another spelling for nigger (I, 0.9124) , negroid , or w / e you call it . used alot when myspaceing and aiming sort of an word i made up like 5 or 4 years ago , and start hearing people steeling it so it got me mad , oh well
+	3581708	Bisto	great 	 another word for great (I, 0.8702) .
+	11380990	Qwhore	whore 	 fancy way to say whore (I, 0.9446)
+	10596948	cardoons	cartoons 	 the australian spelling and pronunciation of " cartoons (I, 0.9715) "
+	1333130	dag	friend 	 another word for friend (I, 0.9531)
+	8398760	Katankadank	rekt 	 a alternate word for rekt (I, 0.8726) . could be used in cs : go , cod , and/or other first person shooters .
+	12535922	Lolmao	lol 	 a way of saying lol (I, 0.8876) , and lmao at the same time , but without with the enigma of saying lmao .
+	1963144	diesal	dope 	 another word for dope (I, 0.8505) , herion , smack

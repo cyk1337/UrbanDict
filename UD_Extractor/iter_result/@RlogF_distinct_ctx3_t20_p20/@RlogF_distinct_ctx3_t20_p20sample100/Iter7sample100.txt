@@ -1,3 +1,104 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:521e03203ba5258c3a3d2696efe0afa557e54bb4ac09ba8ccb89769d34a02f9f
-size 17745
+label	pair	defid	definition
+1	chid, dunce	8673594	Basically is another word for dunce.Origin: when you try to say child but accidentally say kid and it comes out chid.
+1	yawb, yawn	1501694	An advanced form of the word yawn. Usually depicts extreme boredom. Usually only used on irc.
+1	motorscoot, yes	12388830	another word for yes, typically used when annoyed or answering a question you don't want to answer. A way to keep them guessing.
+1	rekasekaneka, hello	10497845	This is a greeting or a way to say hello
+1	formular, formula	2688334	A completely wrong way of saying \"formula\". Some jew rats from New Jersey are incapable of saying \"formula\", so they add an -r, creating formular.
+	maa'fuckin, mother	5330061	maa'fuckin is the correct pronunciation for the word mother fucker
+	fukcer, from	1129443	A derogatory remark similar to the word from which it is derived, but implying a homosexual manner.
+	drift, ricer	1371910	it would seem that most people trying to define the term drift here are either people who look at drifting in somewhat of a negative view, or people who think they know all about drifting because they watch initial D alot.It would also seem that all,if not most of these people are americans. take it from someone who knows drifting, not because it's popular in their country,and not because they have seen it on a cool looking cartoon. drifting in australia is not very big, and that's the way we like it. i have drifted effectively,and i have also written off a car in the proccess of drifting once. from the over use of the word \"ricer\" i can tell that most of these people take drifting as somesort of an ego trip thing,and that drifting in america is quite big, thus making many people think they are down because they go to the battles and watch the cartoons.try it for real and see how you go. DRIFTING IS: The art of driving a car sideways through a corner whilst maintaining effective wheelspin. it started underground.keep it that way.
+1	tatamoons, tampon	4362301	Another word for tampon. When not wanting others to know what you're talking about, use tatamoons instead.
+1	bagina, vagina	292797	a bad ass way of saying 'vagina'
+	peehaust, piss	2314532	The act of being extremely intoxicated. Other word for piss drunk.
+1	cuck, cuckold	10583012	A shortened form of the word \"cuckold,\" (i.e., the husband/boyfriend of an adulteress/cheating girlfriend) often used by neo-nazis
+1	cuck, cuckold	10408942	A popular shortening of the word cuckold which describes a fey, effeminate, weak wristed man that has had his balls figuratively (or literally) clipped by constant association with radical feminists.
+1	tiggity, tite	3361420	often used when you are angry with something or someone; another word for tite.
+	goonanny, a	3787541	Pronounced goonawnee, another word for a vagina.
+1	arbiscartuary, ironic	4027606	The misuse of the word ironic
+1	ugaf, ugly	11509666	A combination of the word ugly (\"ug\") and as fuck (\"af\") Someone who is ugaf is more than ugly, he/she is appauling
+1	obomination, abomination	3979917	A combination of the word \"abomination\" and the name \"Obama\". Used to describe any dogpile produced by this particular president.
+	lakenskrekk, that	8201290	The word lakenskrekk is a norwegian way of saying that you don't want to go to bed yet. It's better to party all night long!
+1	bombigna, coochina	3685191	the T9 version of the word \"coochina\" when you're texting it to your best friend.
+	eccentric, you	10017105	A polite way of saying you're a fucking lunatic.
+	florence, is	1908192	'Florence' is another word for a cigarette lighter of any description. The word is used mainly used by 11 to 15 year old kids that smoke and are trying to stop their parents from finding out. It is used as a code word to disguise the fact that the person talking may need a lighter. The origin of the word is unclear, but it is thought to have a connection to 'Florence Nightingale' who was famously known to carry a lit lantern with her.
+	chad, nigger	11972120	A stereotypical white frat kid who doesn't understand why he can't say the word nigger.
+1	shruggles, shrug	4687089	A variation of the word \"shrug,\" connected to the word \"muggle\" (which means commoner), denoting indifference, surrender, and acceptance of defeat to what the user perceives as an everyday occurrence. The \"cutesy\" nature of the word further underscores the user's indifference, as does the plural suffix.
+1	sauce, no	2657938	A sarcastic way to say no. Simmilar to \"yeah, right\" or \"Oh really?\"
+1	duece, goodbye	316187	A way of saying goodbye or giving up on something
+1	karpz, yolo	6982625	Short for Carpe Diem, the latin for \"seize the day\". Basically a better way of saying YOLO
+	grahammar, grahammar	4334959	Coined by gangster philosophers F-Bomb and Kosher Boy, the word 'Grahammar' refers to a newly found study for higher education students.With new 'gangsta' trends and the shift to a less-educated middle class, Kosher Boy looked for the causation. Thus, he created the study of 'Grahammar.'The etymology of the word 'Grahammar' can be credited to the slower, yet still intelligent female member of the duo: F-Bomb. While not being able to out run the more experienced philosopher, Kosher Boy, she still added value to his theories as to why individuals spelled words wrong.Now, after gaining national recognition, the two are working to spread the study of \"Grahammar' internationally so America will look smart again.
+1	fye, fire	9240329	Another word for fire/dope or tights
+	nigette, a	1196472	another word for a african american female. usually used in the hood.
+	nigette, a	2588436	Nigette or sometimes spelled Niggette is another word for a black female. *Also see Negra.
+	sawbones, the	1204515	A old fashon way to say the doctor. Because it happend that they choped some legs off and such things.
+1	beird, beard	4889198	The true spelling of the word 'beard.' Saying 'beard' is like saying the past tense of the word 'bear,' as in \"Whoa! Yesterday, there was a BEARd.\"It's true. Sound it out: bee-ird. As in that furry thing hanging from your jaw.
+	ladytown, a	2704710	Another word for a woman's vagina.
+1	zaffin, lying	2804348	another way of saying lying
+1	yuperdoodles, yes	8619414	A way of saying yes.
+1	bishmash, birthday	5224643	The new way to say birthday.
+	chigger, china	3838933	- st. | A species of harvest mite with a red exoskeletal structure, Trombicula Alfreddugesi. - n. | The combination of the word \"China\", and \"Nigger\". Referring to any Asian Male, that dresses in a \"Western-Rap\" fashion.
+	schnitzelfracas, shit	3969377	another word for shit, god, or any other term you can think of.Variations: Schnitzel, Schnit, Schnitzelfrac
+2	normel, the	5858486	Buhwamoder's Trini way of saying the English word NORMAL.
+1	mig, ma	168704	another word for ma. just in chinese slang.
+1	rowcray, ok	2577579	rowcray is a retarded way of saying ok
+1	flaizure, masturbate	6047010	another word for masturbate or jack off
+	s'kiddiots, script	1203600	I noticed this word being used at theregister.co.uk . I'm pretty sure it's another way of saying script kid, maybe it's a bit more derogatory.
+1	breckoned, beautiful	12212264	Drunk. Not regular drunk but so drunk that you attempt to ruin your entire life in the shortest time possible.You lose all ability to control your arms, legs and use of the word \"beautiful\".You drag yourself home at 6.30am and nobody knows where you've slept. You wake up regretting every decision you've ever made.Often involves gin, prosecco, terrible decisions, selfies, South Africans and rugby.
+1	bummed, disappointed	3156650	bummed is another word for disappointed
+1	lolism, lol	2332243	lolism: the following of the word lol. some people worship the word lol, they are lolists.
+1	chitty, shitty	5070747	another word for shitty, but \"vato\" style
+	nejifer, lovely	413489	Nickname for Jenifer Celtic for the word Lovely also see princess and queen
+1	råffelpopz, råffel	2911924	This expression is a longer and more cool type of the word råffel.
+1	walrai, walrus	1992378	The plural form of the word \"walrus.\"
+1	tiss, kiss	6067957	A word used in place of the word \"kiss\" Usually derived from toddlers commonly confusing the noise a \"k\" makes with the noise a \"t\" makes. You will also find this transferal with other words beginning with \"K\" such as:Kitten = tittenAlso used compoundly: tiss-tiss = two kisses.
+1	assholes, republicans	2686969	The word \"asshole\" is just another word for republicans
+1	spacial, special	1258045	A cool way to say special
+1	crut, crud	1103298	POS, probably a corruption of the word crud.
+	revose, revise	5043857	the wrong past tense of the word revise clearly should be revised
+1	jeyeah, ya	2382421	jeyeah is like chea , another way of saying ya ,mostly used by famous rapper cassidy.
+1	khl, fml	5815687	The Indian way of saying FML (F$ck my life)Full form - Khatam hai lifeTrue translation - Life is over!
+1	ish, sh!t	3892889	adj/n: another word for sh!t (many songs use it)
+1	dablu, w	8490000	The ghetto way of saying w.
+1	dablu, w	12090936	Dablu-(da-blue)-The Indian scammer way of saying \"W\".
+	zuter, a	3294601	A zuter is another word for a penis.
+	lolly, a	2244464	lolly another word for a friend, pal, chum, etc.
+1	chur, sure	4983410	chur is another way of saying \"sure\".also see chur chursty chursday mixchur furnichur strutchur churmander churros churkey torchur picchur fixchur churific
+	owned, own	1018858	v. 1. Past tense of the word own. 2. To have been beaten with exceptional casualties to your ego. 3. To literally have been the property of something else.
+	krispy, looking	3208797	Another word for looking \"Fly\". The way you dress is \"cool\" or \"Tight\".
+1	spuff, spunk	2313362	Spuff is another word for spunk. (semen)
+1	sozzalicious, sorry	2444802	another word for sorry, often used sarcastically or light heartedly
+	blastfamy, doesn	3058837	1.describing a thing, event, or quality of something that goes against it's very essence 2. something that the sayer of the word doesn't like
+	louisiana, water	1473326	I'm from LOUISIANA. We're as deep south as they come and we have the funniest accent you've ever heard, but you love it. We shouldnt even qualify as the south because when you come here, you enter another country. When you ask for a coke we ask \"what kind?\" and its not a sub or a hoagie, its a po-boy. Our beaches are contaminated and there are 8 different pronunciations of the word \"water.\" Its New Orleans not \"New Orleeens\" and we use north and south to tell directions, not left and right. No one knows how to use a blinker, and you can't make a left turn anywhere in the city. We love our LSU tigers although there are still some Tulane fans, and Skip Bertman will ALWAYS be our baseball coach, no matter if he's dead or alive. We shoot firecrackers when they say \"the rockets red glare\" in the National Anthem and the Saints will always be our team (even when they win the super bowl...we'll complain about how long it took). I don't care where you live, you can't beat our seafood (especially the crawfish) and nothing is good without a little tony cacheries on it. I'm from LOUISIANA and no matter if our schools are failing, our politics are dirty, and our biggest city is underwater, there AIN'T no place like home!
+1	fantabeaulicious, fantabulicious	5200602	an adjective composed of 3 major adjectives comprising of fantastic, fabulous, beautiful and delicious.an exxageration to the word fantabulicious.
+1	cottage, bed	3147345	Yet another word for bed. A place of \"recreation\" and rest. A longer version of the word (cot).
+1	herat, heart	3720437	An accidental spelling of the word heart. Can be used as another way to say \"love\" or \"heart\".
+1	cornder, corner	4160579	An incorrect pronunciation of the word 'corner', usually used by poorly educated African Americans from the Central City ghetto of downtown New Orleans, it has expanded in use to almost all AA communities in the New Orleans area.
+1	biscuit, sidechick	8667437	Another word for sidechick. When ordering meals at establishments such as KFC or Popeyes you can order biscuits as a side.
+1	reef, wreath	3596285	An urban mispronunciation of the word \"wreath\". Perhaps an incorrect spelling as well.
+	chuntara, chuntara	162943	Is a Word to be use to define a mexican that has gold teeth, really dark skin from working in Oxnard, a torn shirt that hasn't been washed is 2 months,jeans that has holes in the crotch from scratching so much and pionty boots....another word for chuntara would be Nancy Rodriguez
+1	ochea, ok	12432346	The Informal way of saying 'OK', Commonly referred in the Netflix Original Series \"Big Mouth\"
+	cockhole, a	8279418	A cockhole is another word for a persons mouth. It is usually used when a loud mouthed woman or man wont shut the fuck up.
+	chubstep, in	5458346	This word has multiple applications in the world of dubstep music. It may refer to:1) A dubstep with a fat or tasty beat, dirtiness not withstanding (even the filthiest of beats is, to a dubstep fan, perfectly edible)2) Witnessing a person of overweight or obese stature dancing to any song that could be classified as dubstep. This usage is often accompanied with a slight gesture of the eyes, hands, or face in the general direction of the chubstepper.3) a male-to-male reference about another male friend who had sex with an overweight or obese girl the night before. Typically, the usage of the word in this context should be accompanied by the vocal reproduction of dubstep's signature 'whamp whamp' wobble bass, and synchronized pelvic thrusts, as well as a mimed grabbing of an ass much wider than the male friend.
+	yorkie, a	2762187	another word for a sexy person. or a group of sexy people
+1	fuzzeh, fuzzy	5197622	a word that people who dont like the letter y use instead of the word fuzzy. or they think they are to random to just say fuzzy.
+	glam, glamourous	1278366	A movement that which erupted in the 1970s promoting vanity, copiousness, surreality, narcissism, campness and hauteur. A spin-off of the word 'glamourous.'
+1	stonch, bash	11748180	Another word for \"bash\" or \"fuck up\"
+1	schmiggles, f**k	126055	another word for f**k or c**t but is used when you can't swear properly (helps if ur a scouser)
+1	pungkin, pumpkin	7378111	1. An inbred rednecks way of saying pumpkin 2. A word used as a means of calling someone a fat cakeface
+	rat, a	11965333	Another word for a snitch, somebody who tells on you for doing something that is considered bad or cheating
+1	coz, because	973413	shorter way of saying \"because.\" where the heck are you guys getting youre definitions from, huh?
+	tutuloops, come	4226648	The curves on a woman that define where the butt cheeks and legs meet. The origins of the word come from Oxford, UK. Also known as the gluteal sulcus in anatomy.
+	wouter, water	6951304	the most intelligent,creative person youll come across. when he plays his guitar his genuine air about him just, makes you blush. hes a real catch, and he'll teach you to trust again. vulnerable at times, his heart is precious. if you know him, tell him how beautiful he is on a daily basis. never break his trust, ever. he does not hand himself over to people easily, and when he does, be grateful that he trusts you. thats a gift within itself. hes one gentle lion at heart, and his blonde mane of hair looks so soft to touch.hes handsome, but hes modest. hes the type of guy that you can tell just by how gently he pets his cat, or plays his guitar, that he'd be a wonderful lover to have. he'll want to see you without makeup, and tell you you're beautiful, always. you've just gotta love this guy. by the way, when you say the word water, it can stir up a bit of confusion
+	slooter, slut	1053291	Slooter originated from the word slut. A very intoxicated blonde from Placentia, CA tried to say the word slut but slurred so horribly that slooter came out instead! hahahaha!
+1	inventitive, inventive	5214514	An alternative pronunciation and spelling of the word inventive. Coined by Link. See \"Epic Rap Battle\" by Rhett and Link
+1	creon, creole	241652	See:wordCreole/word A form of the word Creole.
+	funballs, genital	1537587	A fun way of saying genital warts.
+1	bike, spuffy	5254709	Another word for Spuffy.
+	jdjsjsvsoshbrdod8wgebdoaiwgsvsjs, does	12245448	A word that is made up in order to deliver a point across; the recipient of the word does not believe that such word exists.
+1	ketzia, slut	1903854	a dirty hoe, prostitute, or another word for slut.
+	kick, a	1697057	the jive way of saying a pocket.
+	poondango, a	5747345	1.noun, a man who is a pussy. often used to as an insult against a weakling. doesn't stand up for himself.2.noun, another word for a gay guy. For both decriptions one and two, it can be used with fucking to add emphesis.3.noun, can be used as a unsult to your friends when they kill you on a video game. this form, if playing a game, is not usually taken seriously for its two other meanings.
+1	vagunum, vagina	5563884	another word for vagina
+1	yolly, hello	2612801	A formal greeting or way of saying \"Hello.\"
+	gundrum, love	4560227	A person who likes a drum-roll as the gun goes off; a specialized weapon made from scraps of a drum; the big bang,boom theory; a new kind of drumstick; leg of a bird that looks like a gun.A bossy,arrogant person; one who doesn't know the definition of the word \"love\" nor cares to; disorganized;creative;educated;user of peopleMEN: uses women; over confident; selfish WOMEN: meek supporter, strong willed, excellent cook
+1	phookaa, fucker	1620198	A non sexually explicit version of the word \"fucker\" Can be used on family, friends, siblings, cousins, teachers and almost anybody without any discretion whatsoever!

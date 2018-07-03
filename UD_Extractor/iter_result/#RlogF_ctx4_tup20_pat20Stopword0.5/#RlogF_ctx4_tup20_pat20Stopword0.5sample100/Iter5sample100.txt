@@ -1,3 +1,106 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3878bf2b699f7c2e33d22c76f8400a67798c30734ec6e5343f5069796789578e
-size 16665
+label	pair	defid	definition
+	ickah, ica	3947027	another way of saying Ica, but wonderfully orginal =) ;)
+	lovee, you	1751266	A way of saying you care for someone or something. or An affectionate name for someone, like the word \"darling\" or \"love\"
+	lovee, you	1752023	A way of saying you care for someone or something. or An affectionate name for someone, like the word \"darling\" or \"love\"
+	assegg, food	4410784	A more *secretive* way of calling a person sexy then actually straight out calling a person sexy. Can be used as a way of saying an object is awesome. Can be used as a way of saying food tastes AMAZING!
+	nigler, nigger	3102171	A misspelling of the word nigger used to bypass online filters.
+	metchul, metal	2815196	another spelling of the word metal, used when ridiculing a heavy metal style, espcially black metal, or talking shit about a band you're annoyed of cuz they suck, or they sold out. Also used when ridiculing a metalhead, saying he's a metchulhead, or a tr00 metchulhead. Used by both metalheads and non-metalheads.
+	oem, stock	1905259	Acronym for Original Equipment Manufacturer It's just another way of saying \"stock.\" The parts that come standard on anything: Cars, Computers, boats, planes, electric tools, ect. just to name a few.
+	wierd, weird	4808099	The incorrect spelling of the word weird.
+	wierd, weird	1922739	a particular spelling of the word weird which places the emphasis of 'I' as opposed to the 'We' first in perceiving things of this world as somehow abnormal or otherwise undescribable.
+	wierd, weird	893293	a common misspelling of the word weird, which means someone who is..weird. otherwise very strange. cant think of a good meaning.
+	slammered, something	6891329	A cross between Slammed and Hammered. Being more drunk then drunk. A state of being destroyed. Another way of saying something is Fk'ed up.
+	tlak, talk	4963682	Originally created through a misspelling of the word 'talk', 'tlak' means 'To Lack a Kidney'
+	petterass, pederast	1860277	Misspelling of the word 'pederast' made popular by The Big Lebowski. Webster's defines it as \"one who practices anal intercourse especially with a boy.\"
+	bd, head	1280541	Bomb Dome another way of saying head
+1	satin, satan	539157	1) An utterly horrible misspelling of the word \"Satan\". Anyone who uses the word \"satin\" in any other context besides, \"Oh, what lovely satin sheets you have!\" should not be allowed the privilege of breathing and shout be shot, or beaten to death with a pentacle. they seem to like those a lot. (The worst part is that I've seen satan spelled with an I more than I've seen it the correct way. 2) Yet another sign that humanity is doomed.
+	shweepy, sleepy	2811505	another way of saying sleepy
+	fcuk, fuck	5088112	An intentional misspelling of the word \"fuck\", and since the spelling of the word itself is \"fucked up\", it is used to emphasis one's point when using it in such context.
+1	pron, porn	210200	1. A misspelling of the word \"porn\" (short for pornography). Often seen in search engine histories. 2. A popular euphamism for porn, often seen used by wannabe hackers and script kiddies who have to use \"1337speak\" in order to seem cool. Became popular after the search-engine typo became more common.
+	pron, porn	452941	n : film or literature designed to stimulate sexual desire syn: pornography, porno n.Pornography. adj.Pornographic. \"pron\" or \"pr0n\" is An accidental or deliberate misspelling of the word 'porn'. Due to the common misspelling of the word, it has been accepted and encouraged amongst the online gaming community. It was also used to get around keyword filtering such as in AOL's parental control. This allowed all the children of the world to have access to all the porn (or pr0n) that is nessessary for a healthy childhood.
+	goog, good	12663449	Goog is a way of saying good but with no actual meaning of good. It's like saying that was good but it was actually really bad. People won't know you are saying it's bad because usually, people will assume it is a typo but it isn't.
+	glis, that	11053994	A slang word originating in early 2017. It is another way of saying that something or someone is cool.
+	remainder, reminder	5827437	Frequent Missspelling of the word reminder as used by my Friend Shyam.
+	dinkle, someone	7676869	A way of saying someone is stupid for saying something that you obviously knew.
+	errday, everyday	5647012	a way of saying \"everyday\" yet in a cooler country slang accent, typically used by cool people in random conversation.
+	godot, god	6005864	A way of saying 'God' without being slapped in the face by a religious woman.
+	figger, figure	5058213	The phonetic spelling of the word figure when miss-pronounced by an individual. It's like Tigger from Winnie The Pooh only with a \"F\"...Figger. One crazy f-ed up (yet kinda cute) way to say the word and refers to a number or set of numbers (Figgers). The term is believed to have originated in the halls of MFRI sometime around the start of the 21st century.
+	ritard, that	5395344	A way of saying that someone is a retard while in a music lesson.
+	jeje, lol	1852736	another way of saying lol in spain or other hispanic countries. popular or myspace or aim
+	hi, hello	11739846	A way of saying hello
+	sheya, goodbye	5050365	Simply a way of saying goodbye with an added lisp.
+	marine, gay	3770682	Another way of saying Gay
+	tickaroo, correct	12091221	A way of saying correct
+1	sucubus, succubus	316733	A rather frequent misspelling of the word \"Succubus\"
+1	cousin, pronounced	299819	The oddly lacking-a-\"t\" official spelling of the word pronounced \"cuzint\" by members of communities in which nearly *everyone* is \"cuzints\" with nearly everyone else.
+	nucular, nuclear	854322	A respelling of the word nuclear for those who don't particularly care if they get it right.
+	phsycotic, psychotic	9011751	Relatively common misspelling of the word \"psychotic\". Different meaning, though: when you are so mad your brain gets stressed and takes a vacation
+1	daogh, doagh	248671	Incorrect Spelling of the word \"Doagh\"
+	blessed, stoned	4994046	A play on the word 'Blazed' to describe the effects of Marijuana on the human mind. Another way of saying 'Stoned' or 'Mashed'.
+	watcat, someone	6250791	Another way of saying someone is crazy or out of the ordinary, or does something crazy and out of the ordinary.
+	ber, bear	3218829	Another way of saying \"bear\".
+	ber, bear	3687335	different spelling of the word 'bear', which means 'a lot' or 'very'
+2	k, 1000	6263501	1. The 11th letter of the alphabet. 2. A way of saying 1000 dollars. 3. A short term for okay.
+	raggie, raggy	2390085	The improper spelling of the word raggy.
+	garys, gays	4022601	A misspelling of the word GAYS that has turned into the actual word in order to avoid being reported or banned.
+	surfboardt, surfboard	7571675	Another spelling of the word surfboard as pronounced surfbort in beyonces Drunk In Love song.
+	smatr, smart	2640245	An intentional mispelling of the word smart. It is typically used while gaming online to sarcastically refer to someone as smart after they commit an act of extreme dumbassery. Use in conjunction with bad grammar to enhance its effectiveness.
+	fyin, fine	1341464	meaning: 1. better than cute 2. another way of saying fine in slang terms
+1	grostholomwusous, um	539135	Another way of saying um...
+	naharg, duh	4482506	A way of saying duh but in the act of looking like a retard while but its making the other person realize hes retarded.
+	led, mate	852125	LED is another way of saying MATE or DUDE.
+	wessup, wassup	6463856	An Atlanta way of saying \"wassup\" or \"what's going on. Also a word used in excitement, typically used in Atlanta.
+	a-cew-stick, acoustic	3482051	1) A term used to attract people to acoustic shows because it seems some how more enticing. 2) A common mis-spelling of the word 'acoustic' refering to the acoustic guitar or acoustic type of music.
+	palin, whore	3455669	An alternate spelling of the word whore.
+	frinnie, friend	1628517	Another way of saying friend
+	t3ns, and	2989990	A another way of saying and writing the word 'thanks.' It's commonly used by people who cannot pronounce the word 'thanks' correctly due to speech impairment or by cool people.
+	chunjs, chunks	1099745	A purposeful mispelling of the word \"chunks\". In the MMORPG Aspereta, the player Xain made a typo once and accidentally said, \"I 'm so fat, I have chunjs on my legs\" instead of \"I'm so fat, I have chunks on my legs\". He began to use \"chunjs\" instead of \"chunks\", and soon the entire game was saying it even though they didn't know where it came from.
+	wrond, wrong	2375110	common mispelling of the word wrong.
+0	maholla, thank	1719386	It's another way of saying Thank You & Holla back @ me @ the same time.
+	carruchita, carrucha	11904628	Carruchita is another way of saying carrucha ... it's just basically a Spanish slang of saying car in Spanish,used by cholos :)
+	retarted, retard	5019815	The wrong spelling of the word Retard. Ironically, calling someone a retard and misspelling the word, actually makes the accuser a retard. Retarted is not a word, Retard is. Don't make yourself look retarded, by misspelling the word retard.Commonly used by dumb ass YouTube commenter's, and dumb whores on facebook.
+	violents, violence	5123711	1. The new spelling of the word Violence
+	peazle, goodbye	1693954	A way of saying \"goodbye\" or \"see you later\"
+	sqobe, skeet	1099156	Another way of saying skeet - the hardcore version.
+1	coolios, cool	2917943	Another way of saying cool but sounding like cherios haha
+	bebe, baby	658798	Another way of saying baby to your baby
+	englesia, church	4840195	1. the name of an awesome person. 2. mis-spelling of the word church in spanish (iglesia) 3. what you call an awesome person.
+	j00z, jews	1998094	Alternate spelling of the word \"Jews\".
+	testiclette, testicle	3041035	1.) A uniquely small, but cute testicle. 2.) Another way of saying testicle. Sometimes pronounced with a french flare where it is pronounced more like, \"tes-tee-clay\".
+	thanxz, thanks	4839780	Another way of saying \"thanks\"
+	kayzee, crazy	3313446	Another way of saying crazy; a state of being high and careless or a word to describe your high or awesome state of mind
+	errt, hello	5373539	once meant to show retardedness, now a way of saying hello to a friend.
+	seeza, stupid	9270808	Another way of saying stupid
+	nubby, noob	1914085	Another way of saying Noob, meaning a new and inexperienced player. This is a frequently used insult in MMO games and Online First person shooters
+	ffi, freshie	5072332	Fresh From Indiaanother way of saying freshie lol
+	bullmore, bullshit	9628856	A way of saying bullshit without the use of profanity. Similar to unbelievable but with more of an emphasis on a person's anger or distaste.
+	stram, smart	1517919	Smart, but not brilliant. Considered a common online mispelling of the word smart.
+	nrrr, most	3781331	The word used when no other word seems appropriate. The correct spelling of the word most popularly searched under as Nerr It's the odd, unneccesary spelling that makes that word oh so lovable.
+	trvp, trap	9251766	the ratchet spelling of the word trap. commonly used by teenagers who can't type in a normal fucking \"a\"
+	nop, no	1231493	Another way of saying \"NO\". It is just used alone, when replying to someone. Commonly used in instant messengers. Its \"o\" is pronounced like in \"go\"
+	pimptanktage, cool	2667236	A random word made up by a canadian dude named kevin, simply another way of saying 'cool' but its a longer and more interesting word, which shows that the person wants to give off the feeling of this is not just 'cool' its more then cool.
+	bekii, becky	2778127	Another way of saying \"Becky\" also used to describe a short haired brunette with glasses and ADD
+1	krab, crab	381629	Mispelling of the word crab.
+	frying, something	8185389	Something cool. You use this word when something was good, nice , etc. You can use it for when you had a good time. ; Another way of saying something was turnt.
+	scene, cool	1005259	1. A term to define hardcore and metalcore kids, mainly around demographics of 24 years old and under. These are the same kids who may be considered fashioncore, emo, hXc and etc. with their tight jeans as well long shags blindfolding their eyes. 2. A way of saying \"cool\" in definition #1's very perspective of relevance. It's used to express approval/acceptance usual to a scene kid by a scene kid.
+	lesdyxic, dyslexic	1754845	n. Alternate spelling of the word \"dyslexic.\" Used mostly by people with dyslexia.
+	pokeman, pokémon	4403390	A misspelling of the word \"Pokémon\" that is common among older North American adults that did not grow up with video games, anime, and Japanese electronics.Also a meme popularized by a picture of one cat holding a Game Boy Advance with a game slotted in, and telling another cat to \"let me show you my pokemans\".
+	logis, logic	3232146	1. An unforgivable, albeit hilarious, misspelling of the word logic. 2. Also a pretty good name for a domestic cat.
+	kay2wice, kay	7432656	Kay 2wice is just another way of saying Kay Kay. Usually one of the smartest girls you'll meet who's been through more than you can tell from the smile always on her face. She's gorgeous and beautiful in others eyes and is always told so but isn't very convinced. Whether she realizes it or not a lot of the guys have a thing for her. Kaykays are also highly successful
+	frek, freak	2452942	Frek is a commonly mispelling of the word 'Freak' used to describe a retarded, abnormal human being. Even though it is a mispelling, it can also be used to describe someone as a Freak, even though it makes you sound like a frek.
+1	shoot, bye	1092080	a way of saying bye. ex. paece, later, late, aloha, etc. SHOOT!
+	tarped, trapped	2842479	A misspelling of the word \"trapped\", often used in online RPG-games. This occurs when the player can't move in any direction, mostly because objects or other players are blocking his way.
+	throwgn, courtesy	4056078	To become high with a hint of drunk without the use of drugs, alcohol, and or any intoxicants. The past tense form is throwgnd. Creation and definition compliments of Adam and spelling of the word courtesy of Juno.
+1	hard, right	4981677	hard ususally is a way of saying \"right\" or \"totally\". Also it can be a sacastic way of saying something.
+	id10t, idiot	197432	1. n. A computer error that was actually caused by the computer user. 2. n. The user of a computer who is too moronic to actually use a computer. 3. n. An alpha-numeric spelling of the word idiot.
+	envigorating, invigorating	3245863	A common misspelling of the word invigorating.
+	trizzie, threesome	1488233	Another way of saying threesome, but this sounds cooler. When 3 people have sex together, (2 guys and 1 girl, or 1 guy and 2 girls)
+	weaboo, weeaboo	2108744	A misspelling of the word 'weeaboo'
+	streme, stream	5730397	A flow of digital information. A variant of the word stream, but used exclusively to refer to digital information. Also found in old English as an early spelling of the word stream.
+1	breasticlay, breast	2480979	Another way of saying breast.
+	origonal, original	6011947	Little is known about the etymology of this word, some say it is simply a miss-spelling of the word \"original\", other beleive that the word itself is original, being spelt \"origonal\". some even use it to describe somthing that is of the state Oregon, as in \"that is so Origonal\". you may beleive the last definition is also spelt incorrectly, but take into consideration the state of education in Oregon.
+	funbo, funboy	2213583	The art of drawing upon a friend, with a permanent marker, who has passed out from excess alcohol consumption. Rude words and male genitalia pointing towards the mouth are frequently used. Funbo is derived from an incomplete spelling of the word Funboy upon the forehead. The only rule is that you may not funbo someone you currently live with. All outsiders are fair game.
+	swaish, sweet	2132725	Another way of saying sweet.
+	midieval, medieval	5453517	Incorrect spelling of the word medieval, possibly because the e sounds like a short i.
+	spychic, psychic	1513773	Misspelling of the word \"psychic\"
+1	fustrated, fustrated	6110624	I come from an upper-class family (almost a hundred acres of sprawling countryside, a house the size of a small mansion, a half dozen vehicles, etc.). I am not as well-off as the rest of my family, but I know for a fact that \"f-u-s-t-r-a-t-e-d\" is the \"original\" spelling of the word \"fustrated\". You'r dictionary definition, which I found to be very insulting, has angered me to no end.

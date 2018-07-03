@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5d97d676abd17f3169ba003e2c94c4aaa7a3c22179a9848b5521fdb058267bca
-size 59
+way of saying <Var>
+other word for <Var>
+of the word <Var>

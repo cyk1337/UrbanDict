@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b401df4c98c6e809d0d88e277d18e94208b76b7c1a263816724bec98ffef4fe0
-size 11393
+	12093551	Flack	crash 	 another word for crash (I, 0.9531)
+	1872326	lolable	laughable 	 the noob way of saying ' laughable (I, 0.9689) '
+	5718285	Fhaak	fuck 	 a de - censor - ised version of " fuck (I, 0.9196) " . but has more acoustic power than the original word.stress on " fh " and then go " aak " . for better effects , stress more on ' fh ' till you get the desired results .
+	5166131	hellet	hello 	 another way to say hello (I, 0.9677)
+	3218842	Conceed	concede 	 a common misspelling of the word concede (I, 0.9637) .
+	6091988	sawwy	sorry 	 an adorable and childish way of saying " sorry (I, 0.9721) . "
+	368346	cwrw	beer 	 gaelic word for beer (I, 0.9531)
+	3581383	plox	please 	 the stupidest way of saying please (I, 0.9627)
+	12904390	hapy	happy 	 the wrong way of saying happy (I, 0.9452) . what else ? ? ?
+	3031915	gobi	cauliflower 	 punjabi word for cauliflower (I, 0.9341) . used as mildly abusive term for someone who has the same sort of qualities as a cauliflower : sedentary ; round ( overweight ) ; slow ; not very nice on its ( his / her ) own . summed up reasonably well in english as a ' fat bastard ' .
+?	1699422	gawrsh	gosh 	 the word " gosh (I, 0.9172) " as spelled when used by goofy . gosh originally meaning " oh my god " .
+	3169389	Whare	house 	 the maori word for house (I, 0.9247) .
+	4723338	mikan	orange 	 a japanese word for orange (I, 0.9345) . it is also used a name .
+	27592	secks	sex 	 the 1337 way of saying " sex (I, 0.9731) "
+	7106160	Steller	stellar 	 the incorrect spelling of the word stellar (I, 0.9034) , or the last name of georg wilhelm , a german botanist and zoologist who had an eagle , jay , and sea lion ( to name a few ) named after him .
+	867054	petunia	vagina 	 another word for vagina (I, 0.9591) . mainly used by parents when having " the talk " with their daughters .
+	2111254	kayla	sister 	 kayla is another word for sister (I, 0.9435)
+	4022143	zebala	trash 	 arabic word for trash (I, 0.9526) . it is used to refer to people that are unworthy of your time ( slang ) , low class , and trashy people .
+	5109419	homophagus	gay 	 another word for gay (I, 0.9073) , fag , faggot etc .
+	264376	gnarls	gnarly 	 funky , another word for gnarly (I, 0.9256) .
+	6370395	pedophille	pedophile 	 a misspelling of the word pedophile (I, 0.9103)
+	2737954	sarkiness	snarkiness 	 another spelling of " snarkiness (I, 0.9566) , " which refers to the sorts of abusive responses a dumb or poorly considered question or post tends to get in certain forums .
+	8095387	Ignant	ignorant 	 the ignorant way of saying ignorant (I, 0.9646) . misspelling it purposely shows the added ignorance and irony .
+	5431603	natrah	nachos 	 1 . a woman with an abnormally large dick 2 . another word for nachos (I, 0.9667)
+	3855155	yomp	yes 	 another way of saying yes (I, 0.9315) and/or giving a positive response .
+	616776	dame	bad 	 japanese word for " bad (I, 0.9390) "
+	1792627	tommorow	tomorrow 	 the idiotic misspelling of tomorrow (I, 0.9335) .
+	463429	Chettle	lord 	 another word for " lord (I, 0.9404) " or " master "
+	1136396	pikk	dick 	 norwegian word for dick (I, 0.9531)
+	11089009	Kangalaloop	sex 	 another word for sex (I, 0.9531)
+	100400	vangeli	dumbass 	 another word for dumbass (I, 0.9531)
+	766152	spamer	spammer 	 ( 1 ) misspelling of the word spammer (I, 0.9760) ( 2 ) combination of the words spammer and lamer .
+	1201618	mumfo	mofo 	 the british word for mofo (I, 0.9299)
+	287793	Finklestien	dumb 	 another word for dumb (I, 0.9414)
+	10161584	Stej	weed 	 another word for weed (I, 0.9112) .
+	1962117	planit	planet 	 common misspelling of " planet (I, 0.9906) " . usage increased massively after pluto lost its planet status .
+	6250171	faque	fake 	 a gay way to say fake (I, 0.9673)
+	2222856	lightning	cocaine 	 another word for cocaine (I, 0.9531)
+	1946693	punan	vagina 	 another word for vagina (I, 0.9206) .
+	2830384	quezal	quetzal 	 a variant spelling of quetzal (I, 0.9554)
+	350780	ire	allright 	 jamaican word for allright (I, 0.9531)
+	9513923	Bang	sex 	 the word bang can mean many different things . mostly used by native kids . its said to show how great something is or another word for sex (I, 0.9548)
+	12889900	NIBBA	projection 	 the icelandic word for projection (I, 0.9299)
+	515496	bulljive	bullshit 	 milder form of the word bullshit (I, 0.9162) , sometimes used in a joking manner . 1 . noun . - something that is n't right or just . 2 . verb . - to shoot the breeze ; the act of bulljiving .
+	35830	fax0r	hax0r 	 another word for hax0r (I, 0.9070) , meaning a person who hacks in game such as counter - strike . mainly used as a code to deceive other players , however , it is rarely used .
+	1106186	nooce	nice 	 elaines word for nice (I, 0.9034)
+	852291	Ni2xger	nigger 	 again this is a pimp way of saying nigger (I, 0.9142) do nt get confused with ni double g er
+	8568310	Sick	brilliant 	 another way of saying brilliant (I, 0.9422) , or a description of something awesome as opposed to its real meaning , sick is a compliment .
+	7533080	Jerrying	jaswin 	 when a person lies . it 's another word for jaswin (I, 0.9006)
+	12900214	Pabo	idiot 	 korean way of saying idiot (I, 0.9321) or stupid i wanted to define it because of a bts ff i read :)))
+	6913002	whai	why 	 a gay way of saying " why (I, 0.9353) "
+	5694904	Sibar	sivar 	 another way of spelling sivar (I, 0.9110) ; which is a slang name given to el salvador mainly by young people and salvadorians outside the country .
+	9402171	acreat	accurate 	 a redneck / hick way of saying accurate (I, 0.9710)
+	3644016	Yepadoodle	yes 	 saying the word yes (I, 0.9070) , but in a more cheerful way .
+!	4283909	tanble	table"2 	 1 . an acceptable alternate spelling for the word " table"2 (I, 0.9401) . a foosball table
+	797866	Mohican	mohawk 	 a hairstyle in which the entire scalp is shaved , save a strip of hair from the forehead to the neck . this is usually dyed and/or spiked up . another word for mohawk (I, 0.9487)
+	6406311	google	ejaculate 	 v. another word for ejaculate (I, 0.9334) or cumminginf . to ejaculate prematurely in one 's pants
+	7323938	hellaj	hi 	 a retarded way of saying " hi (I, 0.9823) " . it is not formal . this term is for people who have surpassed the highest level of retardation ( on a scale of 0 - 100 , potato ) and now are so dumb , the word " hi " is not relevant anymore . it is usually used in conjuction with the term ' " faget " .
+	4356715	Yupsy!	yea 	 modern way of saying yea (I, 0.9286) , yea , yep , yup .
+	2550686	Maplestan	canada 	 another word for canada (I, 0.9531)
+	6841907	muggle	nigger 	 the harry potter version of the word nigger (I, 0.9286)
+	11665521	mantsch	mantra 	 another way to say mantra (I, 0.9145) .
+	807683	Wendsday	wednesday 	 the phonetically accurate , yet incorrect spelling of " wednesday (I, 0.9783) "
+	5252232	figlio	son 	 an italian word for son (I, 0.9299)
+	2813110	clulista	clueless 	 another word for clueless (I, 0.9112) .
+	10127472	Twot	twat 	 okay .. firstly lets get rid of all this americentrix bollocks . usa and canada ? east coast ? west coast ? all bullshit . twot is an old english word , in use before the american continent was settled . yes , its just another word for twat (I, 0.9256) .
+	1706538	tomagotchi	tamagotchi 	 the wrong way of spelling ' tamagotchi (I, 0.9855) ' .
+	1365947	bullskees	bullshit 	 another word for bullshit (I, 0.9171) , or a word used to express general anger .
+	2319344	Berroo	beero 	 the incorrect spelling of ' beero (I, 0.9130) ' , a slang evolution for someone with the surname beer .
+	9247882	Banter	fun 	 another word for fun (I, 0.9531)
+	3521905	Pheanding	feigning 	 a severe misspelling of the word feigning (I, 0.9686) . commonly misspelled by people of the westchester area , or more specifically , mahopac girls
+	990954	targeé	target 	 fancy way of saying target (I, 0.9046) ( the store ) .
+	5424073	Pish	vagina 	 a slang word for vagina (I, 0.9375)
+	3483930	Khilo	cool 	 another word for cool (I, 0.9301) , or fly .
+	7812749	Jepp	yep 	 an alternative spelling for " yep (I, 0.9831) " , derived from the norwegian " jepp " , which means " yes " .
+	2949645	gash	cunt 	 a gash is another word for cunt (I, 0.9514)
+	759442	vampyr	vampire 	 the original way of spelling vampire (I, 0.9195) .
+0	1207232	astig	tigas 	 - unique , cool , or fashionable - reversed form of the word tigas (I, 0.9317)
+	1109362	gah	god 	 jessica 's simpson 's way of saying god (I, 0.9454)
+	610273	Jobby	shit 	 the family word for shit (I, 0.9247) .
+	1330502	harth	heart 	 differnt way of saying " heart (I, 0.9630) " so it rhyms with darth as in darth vader . coming from things like " i heart ( <3 ) you , " meaning " i love you . " originally from the great iharthdath of livejournal . also used by iharthdarth roxors and ridonkulous .
+	3577707	Frizzering	freezing 	 1 . another word for freezing (I, 0.9482) or cold
+	10403237	Foock	fuck 	 a word for fuck (I, 0.9531)
+	3388867	coolionimbus	cool 	 a cooler version of the word cool (I, 0.9525)
+	5977406	Amazong	amazing 	 comes from a misspelling of the word " amazing (I, 0.9289) " : an amazonian womans thong , usually unshaven vaginal hair that has been allowed to grow too long , thus looking like a thong . or can simply be an amazonian woman wearing an actual thong
+	3631226	love	pity 	 an emotion that makes us think we are wanted but when people like me are really just hated and " love " is another word for pity (I, 0.9438)
+	3981369	Mamgu	grandmother 	 welsh word for grandmother (I, 0.9463) , historically used in west wales ( uk ) .
+	2677000	S-Ten	std 	 sexually transmitted " ewww " nasty another word for std (I, 0.9470)
+	5328888	Seque	segue 	 an alternative 100 % acceptable spelling of the word segue (I, 0.9482) .
+	755050	Gid	good 	 another word for " good (I, 0.9041) "
+	12380620	Officer	cocksucker 	 another word for cocksucker (I, 0.9112) .
+	4823108	Beanar	beaner 	 variation of the word beaner (I, 0.9466) . it 's used if you do n't want to use the real , more offensive word ( similar to nager ) .
+	2980455	telewhacker	penis 	 another word for " penis (I, 0.9312) " .
+	183312	bizzitch	bitch 	 a foshizzley version of the word bitch (I, 0.9614)
+	3213068	downtilly	downtown 	 another way of saying downtown (I, 0.9504) .
+	2961207	Hecka	hella very 	 ( heckk - uhh ) hecka is word that was originated in norcal as a more subtle way of saying " hella (I, 0.9170) " . if you do n't know what " hella / hecka " means , it is another way of saying " very (I, 0.9170) " , " really " , or " so " . it is very often used much more often then just for those three words as a replacement . when said jokingly , people will also say " heck of " instead of " hecka " . " hecka " is probably the sole most annoying word to say around people from out of northern california . if you say " hecka " around people from other states often , they get annoyed really quick and generally , absolutely suck at trying to use the word correctly ... but it is fun to watch them fail miserably at using an awesome word . it can also be used at the end of a sentence , even though it my sound a little weird , it is still accepted unlike " very " , " really " , and " so " .
+	12306982	abby	stupid 	 a nicer way of saying stupid (I, 0.9767)
+	2017401	aap	monkey 	 dutch word for monkey (I, 0.9531)
+	7499523	nursehole	vagina 	 another word for vagina (I, 0.9529) , commonly used in fanfiction .
+	2892218	chim	cool 	 another word for cool (I, 0.9572)

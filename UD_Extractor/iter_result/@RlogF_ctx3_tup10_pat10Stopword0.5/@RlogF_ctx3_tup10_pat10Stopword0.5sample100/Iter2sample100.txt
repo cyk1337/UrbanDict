@@ -1,3 +1,106 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b16548e3ec391ba22a5e9a3740f78d1ee12cf9771f285c814e293efc808cd79e
-size 19548
+label	pair	defid	definition
+	craeked, crack	2805154	Combination of the word crack and break. Usually used to describe a major fuck up, or party fowl, when a glass pipe or bong is broken.
+1	sup, supper	1018640	A shortened form of the word 'supper'.
+1	beyotch, bitch	1229834	A friendly use of the word bitch. Usually used in greeting one's friend, or when one has succeeded over someone.
+1	cow, concert	3076993	For those who are too cool to say the word \"concert\" but feel too uncool to say the word \"show\" thus, the word \"cow\" is created. It can also be used if one doesn't know whether to consider the cow a concert or a show: concerts are usually big, shows are usually local bands.
+1	fawd, fail	6094251	A common occurrence in multiplayer games, the fawd occurs when a player attempts to move whilst the chatbox is enabled. Generally considered a failure by all parties; as such it is often used in place of the word \"fail\".
+	punami, pussy	1541557	Slang term for what hot Asian girls call their own vagina while talking dirty during sex. Similar to the use of the word \"pussy\".
+1	fecis, feces	1870250	(fess-iss) Like feces but better. a more extreme version of the word feces, used to describe in a superlative manner. Used figuratively to describe extreme filth or other negative conotation. 2. Often used to describe the excrement of a zebra (zeb-ra) not (zeeb-ra).
+1	snerfy, cool	156202	another way of saying cool, awesome, etc.
+1	fg, fangirl	6510588	Abbreviation of the word \"Fangirl\".
+	intel, innovation	1139792	A micro-processor (and other hardware components) manufacturer that needs to taught the meaning of the word innovation. In this respect, rival AMD is no better, having produced absolutely nothing original since its creation. Competition is currently so cut-throat that both companies are shit-scared of each other, trying to cover their asses from the next big dud (HyperThreading anyone?). Now that clock-speed mania has finally subsided, both companies are rushing to finalise production of affordable 1st-generation dual-core PCs. A sensible prediction would be that the Intel Smithfield core will be obscenely expensive but will most definitely outperform AMD's dual-core answer (and yes, I do realise that current stats show otherwise). To top off with the proverbial icing on the cake, both companies capitalise on enthusiast hype to market their bloody awful technology which has been sucking shit through a straw for the past 10 years (much longer for Intel). Neither of these two giants have the foresight to invest in something more feasible for the 21st century; more specifically, quantum processing. The companies have tremendous fan-following (most of the fans being utterly fucked in the head) despite their childish one-upmanship which has been going on for seemingly an eternity.
+1	twank, twenty	1857081	A slang term often used in place of the word twenty. A \"y\" can also be added to the end of this word. It is synonymous with the slang term known as dub.
+1	oken, ok	1557744	an easyer way of saying ok then, just drop the th
+1	deuce, devil	2621007	1. A Word used in place of a swear word. 2A Word used in place of the word devil often as in a mild swear or oath. 2. The face of a die or card having a face of 2. 3. Noun or transitive verb: 1. A tie in Tennis after both opponents have scored 40 points and need only two consecutive points to win the game/set. T 2.The act of bringing the score in a Tennis game/set to a tie.
+1	gar, yarr	2758531	1. A type of fish often found in freshwater in North America. Also known as the garpike. 2. A variation of the word YARR. 3. A term to mean anger, excitement, or otherwise emotion. Used on chat forums online after a typo was made while saying 'grats!'.
+	eleenoor, eleenoor	12780269	a ugly girl who is a loner and has no friends another word for eleenoor is smelly ellie with a big fat belly
+1	moof, moth	3214212	The way to say \"moth\" in a baby voice.
+1	dits, ditto	5047323	a shortened version of the word \"ditto\"; used to signify that something is the same
+1	bulltwinkle, bullshit	1009715	(Noun). Nonsense. A polite way of saying 'bullshit'. A way to say 'bullshit' without getting into trouble for cussing.
+2	simples, -	7064480	A word first coined by Gnostic Bishop Tau Tia L Douglass in 2007.Made up from the word SIMian and PeopPLE = SimpleThose whose genes are from simians, mixed with those of first humans to evolve. Simples are of low intelligence and these make up the vast majority of the human population. They can not think for themselves, they need to be told what to do in all areas of life. They can be caring towards others, or violent depending on up bringing and mix of genes.Another word for - Sheeple.A Simple is - A person of low intelligence who can not think for themselves.Simples - A group of people who can not think for themselves.
+	werd, werd	855608	some prefer to use it like an abbreviated 'weird' by removing the 'ei' sound. Thus establishing \"we'rd\". Makes certain sense in several common usages of the word 'werd'. Just an alternate meaning, totally opposite to the ones listed.
+1	miencraf, minecraft	12897612	Miencraf: The autistic Saying of The word Minecraft. Generally in the vocabulary of 6-45-year-olds:6 Year olds Have AutismAnything above 6 years old Is A Minecraft youtuber or an Adult/Young adult trying to be funny but utterly failing.
+1	wendys, gay	1146955	1. A fastfood resturant whos burger pattys are 10X bigger than the bun and it breaks apart. 2. Another word for \"gay\"
+1	seester, sister	2033223	a fun way to say sister, it is something for close sisters who love each other to tell each other and know that it is only theres.
+1	rohrer, roar	2712640	1. An awesome name. The last name a great people :P 2. Another spelling of the word \"roar\" or \"rawr\"
+1	poodenda, pussy	1740495	Poodenda is yet another word for pussy.
+	stoopass, stupid	11689002	funnier way of saying stupid ass
+1	fife, faggot	1777722	\"Fife\" is a french-canadian insult. It is commonly used by most of the peoples from quebec and in english, fife is the synonym of the word \"faggot\". It is a very impolite way to say that somebody is an homosexual. It can also be a normal way to insult anybody.
+1	beh, bitch	3684484	Short for bitch. Many people say for everyday use of the word bitch.
+1	beh, bitch	10913660	Another word for bitch
+	awkward, awkward	6736946	Uncomfortable or embarrassing. Scientific evidence has proven that the birth of the word \"awkward\" comes directly from the invention of the game Truth or Dare.
+	lithios, yo	127208	A creature similar to a liar bird. It mimmicks the black-rap jiggy stylings of artists such as Tupac in an attempt to convince casual observers it is in fact a gangsta. The Lithios can be spotted by its love of girly beer (namely Corona) and its overuse of the word \"Yo\". The Lithios can be extremely dangerous when threatened or when the suggestion is made that he is not in fact a gangsta and only just a wigga. Approach with extreme caution.
+1	kite, kike	2115822	An mispronounced, anti-semetic term for the word kike aimed at degrading jews. Used in the movie Porky's and in the classic television show All in the Family by Archie Bunker.
+1	turry, terry	925825	Turry Is the \"Gangsta\" way of saying \"Terry\" Since my Name is Jerry My Friend CaLLs Me 'Jurry
+1	rabed, raped	2666139	new school way of saying raped which in turn means beaten badly either in a game or a comeback from someone else.
+1	flibbersnibbits, fuck	2842332	A geeky way of saying \"fuck.\"
+1	coolbeats, true	2157213	another way to say true, or cool in a laid back tone
+1	glotch, glitch	4303853	Glotch is a cousin of the word Glitch, Glotching is when a game runs completely normal and does not glitch or lag ... this term can also be used in real life
+1	ruveshan, awesome	8308647	Is a common word used in Durban South Africa defining a man with Natural videogaming ability as well as pure hearted bravery,is also the South African Personification of the word Awesome, is often a comparison to Swedish gamer Pewdiepie
+1	hdh!, lol	4608413	HarDeeHar; better way of saying LOL!
+	ebullition, ebull	2130655	1. The state or process of boiling. 2. A sudden, violent outpouring, as of emotion. 3. Grammatical tense of the word ebull.
+1	tempid, tepid	843192	1. A new word created by teenagers at www.tempid.com, when the word \"tempid\", was mistaken for the word tepid (meaning warm). Originally, it kept its original meaning, but played on other temperature-related idioms such as cool and hot. Someone \"tempid\" was \"cool\" (someone \"hip\", or at the forefront of fashion) as well as \"hot\" (good-looking, sexually appealing). 2. Tasty Food This is a term used more widely on the internet than verbal communication.
+1	sugar, kiss	693478	/noun/ 1. another word for \"kiss\" 2. an expression of love
+1	n00f, newbie	912408	One of the latest derogatory variations of the word \"Newbie\" as it applies to the online gaming comunity. Originally the word was split into two forms Newbie for someone just learning the ropes, but who looks to be a promising member of the community, and n00bie (or n00b), who is willfully ignorant, disrespectful, and greatly looked down upon by the other players. Somehow \"newb\" and \"n00b\" got twisted into \"newf\" and \"n00f\", respectively, keeping their respective meanings mostly intact. The newer and older terms are both currently in use.
+1	ragtish, bullshitderives	7358166	Another word for bullshitDerives from the native bull named the Rag in Southern Argentina.Tish is another word for shit in latin.Popular in Central England, commonly used by members of the 2 2's gang based in Wolverhampton.
+1	stupoo, sucks	5665192	A wholesome alternative for children to say in place of the word \"sucks\". A combination of the words stupid and poop. Its a general way of voicing your displeasure for a person, place, or thing.
+1	heil, hell	800336	Yet another way of saying \"hell\"
+1	pwns0rz, pwned	1123897	Newest way to say \"pwned,\" \"pwnt,\" \"pwn3d,\" etc., etc. Something that is cool.
+1	jive, fucking	5267427	The word \"Jive\" can be used in place of the word \"Fucking\" or \"Freaking\".
+	bargus, poop	7770386	Used to describe something you incredibly dislike or hate. It is used in the same way has crap but is not another word for poop. it is a noun in that you dont describe someone or something you call it bargus. Calling something bargus shows that the idea or thing is incredibly stupid and should not exist or be done.
+1	grostholomwusous, um	539135	Another way of saying um...
+1	dis, this	11474354	A commonly used shortcut for the word \"this\", regularly used by those low-key people who are too lazy to even string up 4 letters in a word. God did not forbid you to take an extra second out of your chatting sessions to spell properly!
+1	absotootely, absolutely	7127134	Absotootely is another way of saying absolutely... It is more fun at say as the 'toot' in the middle of the word relates to the bowel passing the flatulence which is also known as farting, passing gas, tooting, and many others.
+1	pazanin, tool	3329646	Another word for tool. # Tool is defined as: A person, typically male, who says or does things that cause you to give them a 'what-are-you-even-doing-here' look. The 'what-are-you-even-doing-here' look is classified by a glare in the tool's direction and is usually accompanied by muttering of how big of a tool they are. The tool is usually someone who is unwelcome but no one has the balls to tell them to get lost. The tool is alwasys making comments that are out-of-place, out-of-line or just plain stupid. The tool is always trying too hard to fit in, and because of this, never will. However, the tool is useful because you can use them for things; money, rides, ect. Can be shortened too Paz.
+1	urbam, urban	5412134	The more extreme fun way to say urban. URBAM!
+1	moose, whore	3655635	A moose is another word for whore. A way to describe a slut. Can also be used as \"Moosie\".
+1	gen, genious	1876397	An abbreviation of the word genious. 1.Someone of an excessively awesome/ genious nature. (n) 2.Something amazing/ ingenious. (adj)
+1	dick, balls	12915133	Another word for balls or penis. Stick it in a vagina to make girls moan your name.
+1	beforeward, before	4068663	The opposite of afterward and cool way to say before or anything with a similar meaning.
+1	doctator, doctor	7159782	A combination of the word \"doctor\" and \"dictator\". It mostly refers to the head of the hospital, or a health department, and uses threats to scare people into thinking they're going to suffer from an incurable disease. May also use death threats.
+	bushnit, this	11267871	A way to say this is boring or stupid and has no use or impact in your/our life as to where no one cares what they have to say.
+	spore, spastic	1880765	a slang or curd of the word spastic battle whore used to describe others.
+	wapiti, wapiti	11727073	A Shawnee word thought to mean \"White Rump\" and commonly used by pseudo-hip white folks like me as an alternate name for an Elk. However, since the Shawnee were from the eastern part of the country and the elk is found in the western part, a better translation for the word Wapiti is \"What's That?\", and those that want to be hip should use the Blackfoot word \"Ponoka\" (meaning \"Elk\"), since the Blackfoot tribe actually encountered the elk frequently in their daily lives.
+1	alie, init	4022524	A Jamaican word that British yoots beg using but duno wat it means.FOR THE RECORD it is actually meant to mean 'You Joking'? My Grandma and Mum have bin using it since day.For example,Granny's Gossip Mate-Yuh hear bout Shirley? She caught her son in Bed with a man.Granny-Alie?!!!!Brit Kids however, use it as a way of saying 'init' or an expression of strong agreement- it's 2009's 'you GET me'
+1	alie, init	2656999	When Your Ovally Serious About Something. Another Way Of Saying Init.
+1	brewski, beer	1017815	A hick way of saying beer.
+1	taders, potato	12692811	Taders, is another word for potato, people from southern america often refer to french fries, or potatos as \"taders\"
+3	motard, moron	3364049	Retarded, stupid, imbecile. Combination of the word \"Moron\" and \"Retard\". Also French for \"cycle\". But mostly just used for dumbasses.
+3	kadi, sexy	3101650	1. Another word for sexy, hot, bangably sexy 2. chick with spazzy friends 3. hoochi mamma, kick ass, totally tubular hair! 4. Katia 5. Person that says like alot
+3	k-wim, poontang	2045276	another name for an online shrink or silly way of saying poontang
+	japinda, jap	882307	a japinda is just another word for jap eye, the one eyed milkman etc
+1	dunn, cunt	4873415	being called a dunn is another word for cunt. It is very disrespectful, like all the curse words combined.
+1	baba, poo	2026902	Another word for poo
+1	baba, poo	12289014	Baba is another word for Poo it is very popular and everyone should take it on board!
+1	goozle, throat	3010739	Another word for throat.
+1	poosai, pussy	9308	A nice way of saying pussy, someone who is in the process of being a wuss, also a word used to represent the lame
+1	prezacktly, precisely	1064021	A more effective way of saying precisely if your nickname is zack...get it? BWAHAHAHA
+1	hairies, huh	693455	Term used to get people to say the word \"huh\". Invented in 2001 at Nova High School, the hairies has seen a rejuvination at the University of Florida.
+1	botch, bitch	257050	- it's another word for bitch, ya retards
+1	botch, bitch	3759260	A word to censor the use of the word bitch.
+1	botch, bitch	8396749	This is guy version of the word bitch
+1	orp, pro	855599	Derived from the reversal of the word pro, which is short for professional; it is used to describe anything that is pathetic, lame and dumb in a pretty sarcastic way. can be used as an adjective (you are orp) or a noun (you are an orp) these suffixes can also be used: -ly, -ish, -ed
+1	snorture, snore	7851841	The perfect combination of the word Snore and Torture!
+1	cremple, creampie	8413531	The dyslexic mispronunciation of the word creampie which can either be a popular dessert or a niche sexual act.
+1	nikola, shocking	11772459	A synonym for the word \"shocking\". Derived from the scientist Nikola Tesla. Who prominently worked with electricity
+	jage, the	2983836	Another word for the name Alex. Also, a females vagina.
+1	ghers, awesome	2793521	Dutch way of saying awesome. Any positive adjective can be replaced by ghers and if the object of discussion sucks you may very well say it's aghers.
+1	barbie, barbecue	11993306	A stereotypical australian mans way of saying barbecue
+3	x&y, shite	1732348	Another way of saying Shite, boring, wanky, bollock ridden, cunt flap of a toe nail chewing monkey cum dribble of an album!
+1	purpy, purpose	2646110	An abbreviation for the word purpose. Used in many ways.
+3	lovely, beautiful	1286101	Another word for beautiful or desireable.
+1	turbulation, turbulence	4323582	(n) the incorrect use of the word \"turbulence.\" Used to describe one's doing to someone's mother, usually in the bed.
+1	farshizzles, fashizzle	606354	Often misspronounce white version of the word fashizzle , which is a word made popular by Snoop Dogg.
+	layton, penis	5395683	layton (noun): commonly known as another word for penis.the word layton, meaning penis, was thought of and created in the 18th century in Scotland.Many women back in the 18th century believed that it was appropriate to call a mans penis layton, only if it was small or tiny.If a woman in the 18th century saw a little penis, she would laugh and mock the penis calling it a layton.
+1	kumpt, cunt	1840793	A purposeful misspelling/mispronunciation of the word \"cunt\". It carries the same definition, but can be extended to any person to describe antisocial or detestable behavior.
+1	shaz, stuff	3630912	Miscellaneous and unspecified object(s). Another word for stuff, thing, crap, etc.
+1	miagamad, omg	6116526	\"Oh My God!\" another way of saying OMG.pronounced mai-ah-gah-mad
+1	dik, dick	3276642	Shortened meaning of the word Dick. Refering to the males genital organ, the penis.
+1	rodile, ridiculous	2214276	Another word for Ridiculous, shortened.
+1	cista, christa	2318747	the cool way of saying CHRISTA or the spanish way
+1	pinchilada, enchilada	798764	A derivative of the word Enchilada. A tortilla rolled and stuffed usually with a mixture containing meat or cheese and served with a sauce spiced with chili. When a Mexican restuarant has a special day that gives these Enchiladas at a discounted price, the result of consuming mass quantities is pinchilada.
+1	goog, dork	582139	another word for dork but it sounds funnier
+1	fuckamajigger, thingamajigger	2387763	1) An unknown, unusual or otherwise obtuse object used in sexual intercourse. 2) A word substituted for \"penis\" when a person is too high/ buzzed/ stoned/orgasmically blissful/ hit-about-the-head-as-a-child/ drunk, or otherwise mentally hindered, to remember the word \"penis.\" 3) obscene variation of the word \"thingamajigger\" 4) a large windmill 5) an Irish step dancer who is eminently fuckable 6) word for a means to jump-start sex (for those of us too lazy for the word 'aphrodisiac') 7) another excuse to say \"fuck\" in one way or another
+	mcfine, one	10704299	McFine is another word for one fine specimen. McFine is Robbie B.
+1	fushing, eating	4413369	Another word for eating. Comes from putting things in your mouth (fush) and therefore fushing.Also interchangeable with words such as nomming.
+1	hoobies, boobies	813757	another word for boobies or any word related to them.

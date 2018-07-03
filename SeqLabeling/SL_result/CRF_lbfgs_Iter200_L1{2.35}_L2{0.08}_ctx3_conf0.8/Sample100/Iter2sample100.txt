@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:290504cacfc0b2c11080cfb2d0849df3fa6c96bb333401497a85a35ce689ec54
-size 15126
+	721114	Flintalize	spark 	 to flint a lighter more than once a fancy way of saying " spark (I, 0.9979) " or as an insult
+	2981110	muggot	cunt 	 bovine slang word for cunt (I, 0.9914) . regional
+	4308020	pl0x	please 	 the estonian way of saying " please (I, 0.9997) "
+	876917	fuerst	first 	 german word for first (I, 0.9982)
+	3132772	seret	secret 	 a misspelling of secret (I, 0.9979) .
+	2721967	Schmades	goodbye 	 an informal way to say goodbye (I, 0.9983) .
+	4434434	Indidly	indeed 	 another and funnier way of saying " indeed (I, 0.9897) " but it is more nerdier too
+	3750882	gopey	someone 	 a word for someone (I, 0.9983) who just looks goofy or dopey
+	7054546	tabernac	tabarnak 	 fr . canadian . an expression of surprise , warning ( ' look out ! ) , astonishment , or disgust . alternate spelling of tabarnak (I, 0.9983) .
+	743343	kerdunished	punished 	 another word for punished (I, 0.9940) usually used when killin someone in madden
+0	4073208	GDCSMF	god 	 the easier and more polite way to say " god (I, 0.9653) damn cock sucking mother fucker " while at work or in public .
+	318417	guile	whore 	 derived from a mispronunciation of the capcom character of the same name . a guile is another word for ' whore (I, 0.8921) ' .
+	9748747	pusstosous	pussy 	 what someone is when they think they are hurt a whole lot worse than they really are . they may not even be hurt but act like they are . common term used for football players to make them tougher.clinical word for pussy (I, 0.9749)
+	671482	crew	crew 	 often said as a shortened version of saying stage crew (I, 0.8172) .
+	1044029	wordsauce	word 	 a nerdier way to say " word (I, 0.8627) " .
+	608666	consarnit	damnit 	 consarnit is a truly wonderful word with the connotation that something negative has just happened . it 's essentially the equivalent of saying " damnit (I, 0.9930) " .
+!	4417879	Enchie	enchilada."plural 	 slang for " enchilada."plural (I, 0.9463) : enchies
+	11103066	Ganny	nana 	 usually used in the north east of england as another word for ' nana (I, 0.9926) ' or ' grandmother ' .
+	5173713	huhllo?	hello 	 stoners way of saying hello (I, 0.9999)
+	6662618	Dizwick	dick 	 is another word for dick (I, 0.9838) or crouch .
+	1479774	straiggot	faggot 	 the heterosexual form of the word " faggot (I, 0.8995) " that applies to loathsome straight people , created to counteract the demeaning and derogatory nature of the word " faggot " because if you 're gon na dis gays by using " faggot " , then straights deserve to receive the same amount of disrespect , used to offend / excoriate others
+	6439571	Gees	spirit 	 gees is the afrikaans ( south africa ) word for ' spirit (I, 0.9984) ' or ' motivation . ' pronounced using the rolling g sound common with many other south african words .
+	1665164	bean	woman 	 the gaelic word for " woman (I, 0.9999) " . pronounced as " ban " in ireland and as " ben " in scotland .
+	7095352	Merica	america 	 a whole new way of saying america (I, 0.9968) . as america falls into the category of a nation , merica is the whole experience of america summed up in a stereotypical way . eating anything deep - fried , shooting shotguns , getting so fat you attempt to use the force to levitate it off the coffee table , all compressed into one word . people often say it when they see americans doing things only americans can do , such as : trimming a hedge with a chainsaw , eating quadruple burgers with extra lard , and driving tractors in the middle of a freeway . it is often expressed in a proud and commonly exaggerated manor . this phrase is one to be only used when the time comes to say it , like at a eating contest or at a mud pit wrestling match . as there are so many people in america that truly express what the word is all about , there is one family that pushes it over the limit . they are commonly called the " honey boo boo family".they are known to do the same , and even more , of the equally stupid stunts that typical rednecks would do . they are reported to relive acts of true merican spirit , like drinking 2 liter bottles of diet cola , driving trucks into frozen creeks , getting pointless tattoos of american birds on their backs , eating processed nacho cheese in a bacon cup , tucking their ak47s in their pillows , ordering 27 big macs at mcdonalds with a side salad , and so much more .
+	1701034	piedra	crack 	 spanish name for crack (I, 0.8731)
+	4154804	Serry	mate 	 can be used as another word for mate (I, 0.9589) , person , friend .
+	3272813	magiclike	noob 	 " magiclike " is offensive word used only on wowcrack(private server ) . " magiclike " is an alternate way of saying noob (I, 0.9412) , shit and bitch .
+	2804693	meip	you 	 code word for you (I, 0.8227) do n't really like calling that you 'll probably have to have a long conversation with
+	220997	terrism	terrorism 	 slang for ' terrorism (I, 0.8982) ' , usually accomplished over the internet .
+	1825072	breastes	breasts 	 yet another word for breasts (I, 0.9512) , one breast being a breasticle , 2 breasts should be breastes . play on words for testicle and testes .
+	1684081	Blatt	vagina 	 a slang word for vagina (I, 0.9933) .
+	3625628	Too-ther	me 	 a way of saying " me (I, 0.9628) too " but sounding like " me either "
+	2797095	feck	fuck 	 another way to say " fuck (I, 0.9510) " .
+	3080987	fargina	reach 	 a woman who is so gorgeous she is way out of reach (I, 0.9976)
+	2308295	yeastaday	yeasterday 	 another way of saying yeasterday (I, 0.9996)
+	6640283	copastetic	copacetic 	 a word used to mean " everything is well " or " completely satisfactory " when a person does n't know the right way to say copacetic (I, 0.9808) ..
+	7822019	booty	butt 	 another word for butt (I, 0.9987) or assalso known as khein
+	4006100	Lmbtomf	lmao 	 it is another way of saying lmao (I, 0.8960) or lmfao . lmbtomf " laugh my big toe off my foot . "
+	5268857	smackers	lips 	 1 : another word for lips (I, 0.9996)
+	10506163	hexbug	friend 	 it 's a cute way of saying friend (I, 0.9898) , pal , buddy
+	6488133	flanel	flannel 	 1 . a misspelling of flannel (I, 0.9994) , used to denote a style or material of clothing 2 . a version of chanel worn by white rednecks 3 . a garment which apparently makes men " rape - able "
+	9252462	Danonophobia	fear 	 danonophobia ( or anti - danone sentiment ) is the prejudice against , hatred towards , or fear of the french multinational food - products corporation danone , which terrorizes television with their retarded yogurt commericals.in a broad sense , it can also be used as a word for " fear (I, 0.9592) of yogurt or fermented milk beverages " .
+	8205015	sthap	stop 	 a more firm saying of the word " stop (I, 0.9252) "
+0	1535573	scenester	themselfs 	 one of those kids that has an emo haircut and looks / acts just like an emo kid , but thinks way higher of themselfs (I, 0.8583) . they obsess over robots , ninjas , pirates , mix tapes , and pistols & any kind of art that involves any of those . they are the annoying snobby preps of the alternative kids .
+	2310560	meagan	meghan 	 an alternate way of spelling meghan (I, 0.9385) ( can also be spelt as megan ) for those parents who have nothing better to do but think of weird ways to spell their daughter 's name , resulting in frustration later in life for the child often pronounced : me - aaaa - gan
+0	2851240	feggle	someone 	 1 . a bagel for fegs . mostly eaten by feggots . 2 . another word for someone (I, 0.9777) who s really gay .
+	7821160	Welks	welcome 	 shortened word for welcome (I, 0.9963) .
+	2974963	sheebies	shit 	 nice way of saying shit (I, 0.9391) or damn .
+	1792201	plesa	pleasure 	 the dumbass spelling version of pleasure (I, 0.9491) .
+	5337333	probski	probably 	 a stupid way to say probably (I, 0.9927) .
+	2839730	Ahb-viously	obviously 	 the way to say obviously (I, 0.9270) to someone who 's asking a stupid question .
+	3854907	chuffed	ass 	 verb ; to be taken analy , to be raped in the ass . chuff - basically another word for ass (I, 0.9998)
+0	2909958	foo	fart 	 a synonym for the word ' fart (I, 0.9038) ' . foo = fart food = farted fooing = farting
+0	8074913	Assenholen	asshole 	 how to say " asshole (I, 0.8656) " while sounding like a stereotypical german .
+0	5588985	Nicoism	michigan 	 pronouced : nico-(ism ) neee - co - izmnoun : compulsive nature involving habits of disappearance and untruthfullness.verb : to lie your ass off to impress dudes on crotch rockets and get fat chicks.origin of word : michigan (I, 0.8684) , well actually phillipines .
+0	4414947	fae	female 	 a word for a female of an animal in written rps . is usually one of the many synonyms for the word ' female (I, 0.9858) ' . is not particular ; any female is a fae whether old or young . usually not used in human roleplays . most frequently used on wolf roleplays .
+	1463299	Spajjer	wanker 	 a euphanism for thw word " wanker (I, 0.9976) "
+	5462462	zdang	dang 	 an alternate way of saying ' dang (I, 0.9695) ' with some sass , expressing disbelief , acknowledgment , anger , sadness , happiness , etc.used in the same context as ' dang ' or ' damn'(zuhzdang )
+	3057596	Kiri	mist 	 japanese word for mist (I, 0.9943) or fog . sometimes heard in the anime naruto as the name of a hidden village .
+0	814797	Solide	someone 	 solid with a twist . 1 . you 're cool with something . 2 . a way of complimenting someone (I, 0.8560) . 3 . neither gaz nor liquide .
+	6998328	Chugger	train 	 australian slang for train (I, 0.8879)
+	79292	gammy	useless 	 irish word for useless (I, 0.9997)
+0	3056043	TALS	thanks 	 acronym for " thanks (I, 0.9347) a lot , stoops ! " used by fans of the university of oklahoma football team to disingenuously thank the overpaid head football coach bob stoops for another embarrassing loss to an inferior opponent .
+	10491080	indeedles	indeed 	 a cooler , less boring way of saying indeed (I, 0.9951) or yes . good for spicing up your responses to questions .
+	1061968	halsar	chug 	 the swedish word for chug (I, 0.9709) . use it any time close to a beer if you want to show of your mad linguist skills !
+	6070896	Hehhhhhh	huh 	 1 . ) a word to describe a feeling of being good yet , bad . 2 . ) an answer in disgust . 3 . ) an insult . 4 . ) a violent way of saying " huh (I, 0.9969) ? "
+	2770336	whatevz	whatever 	 a shorter and much more cooler way of saying " whatever (I, 0.9851) " .
+	2668729	Gaaay	gay 	 gay , just way awesomer word for gay (I, 0.9893) .
+	3399053	cwok	cwalk 	 another way of spelling cwalk (I, 0.9991)
+	2969302	miley	maile 	 the americanized version of " maile (I, 0.9907) " which is the royal lei in hawaii and also the name of hot , exotic girls ... in general of course .
+	4364509	Nigmyster	nigger 	 a way to say nigger (I, 0.9983) by white people trying to integrate modern times with retro white culture .
+	7590752	Feegit	fag 	 feegit ( fea - get ) comes from the word " faggot " but it means stupid , annoying or just in general a dick but can be used as a playful word with friends as it is made to make fun of those that use the word " fag (I, 0.8030) " or " faggot " all of the time online but never really have a good reason or exclaiming that someone is actually homosexual . it is usually used along with the word " fak " which is a version of " fuck " only making fun of it in a " nerdy " way . the word is n't used to describe someone who is gay .
+	2910451	lawlzie	lol 	 the gnarlier way to say " lol (I, 0.9817) " online but can also be used in typical face - to - face conversation . pronunciation : loo - wall - zee ( there are three syllables because it is meant to be pronounced in the new jersey accent . )
+	12824833	Nibba	nigger 	 just a way of saying " nigger (I, 0.9994) " without being beat up
+	2354848	jaja	haha 	 the spanish version of " haha (I, 0.9870) " . since in spanish , the j is silent .
+	11689370	Chesticles	boobs 	 another word for boobs (I, 0.9947) or breast
+	8002823	Taqa	disgusting 	 a slang word for disgusting (I, 0.9914) . used when disgusting just is nt bad enough to describe the situation
+	9404992	Choley	penis 	 another word for ' penis (I, 0.9994) '
+	1858032	emskie	emo 	 slang , alternative word for emo (I, 0.9979)
+	4969245	Zawg	dawg 	 zawg - the misuse of the word " dawg (I, 0.9403) " usually made by possers trying to be gangster .
+	1016567	conversate	converse 	 a word used by backwards , ignorant , illiterate inner city trash who mean to say ' converse (I, 0.9844) ' .
+	11818776	Mones	money 	 another word of " money (I, 0.9972) " .
+	9164801	compuper	computer 	 an idiots way of saying computer (I, 0.9998)
+	4246930	Baqk	back 	 an alternate spelling for the word ' back (I, 0.8164) ' .
+0	5349042	SMD	suck 	 smd is a shorter way of saying " suck (I, 0.8066) my d*ck."dms is a reversed form , saying " dick my suck."some people even flip it saying " duck my sick " , or " sick my duck . "
+	3271657	Doosh	douche 	 the only spelling of douche (I, 0.9168) that is allowed on online games where they sensor what is said .
+	2347730	elfshit	bullshit 	 originated from a game of scrabble between 5 friends . when it was my turn i coincidently put down elfshit as my word . the more hysterical way of saying bullshit (I, 0.9671) or literally elf shit
+	7255964	stumy	boner 	 new word for boner (I, 0.9998)
+	7216129	Homiet	homie."first 	 female version of " homie."first (I, 0.9143) spoken by z
+	5464620	Ass	assassin 	 a word with many meanings , usually used to mean the buttocks . definitions : 1 . ) buttocks 2 . ) donkey 3 . ) short for " assassin (I, 0.9136) "
+	12751060	Hi	high 	 another way of saying " high (I, 0.9998) " .
+	2748259	Stritesees	rights 	 same as rightsees . a more meaningful way of saying ' rights (I, 0.9970) '
+	245108	ghasti	prostitute 	 desi word for prostitute (I, 0.9998)
+	4201906	Gaynul	gay 	 a shortened way to say gay (I, 0.9981) anal
+	4015576	zeleny	god 	 the word of god (I, 0.9556) and fucking sexiness and a skating ledgend : also the same as pez
+	2992136	Definitioso	definately 	 pronounced-(deff - in - it - ee - oh - sooo ) another way of saying definately (I, 0.9743) . it has to be said with a posh voice . mainly used by wannabe toffs .
+	1578	Krod	dork 	 hello you idiots , it 's a nice way of saying " dork (I, 0.9989) "
+	2588431	knit	masturbation 	 code word for masturbation (I, 0.9998)
+	4026629	Hale	house 	 hawaiian word for ' house (I, 0.9991) ' or ' home ' . pronounced ha - lay .
+	6594115	BEI	bye 	 1 ) a more aggressive version of the word ' bye (I, 0.9721) ' ; used to communicate a flexible variety of phrases to anyone of annoyance , as well as virtually any person who rubs you the wrong way ; such as : " get the fuck out of here " or " bitch , get out of my sight now , before i hit your ass."2 ) accentuation of the " eeeeee " sound ( i.e. beeeeeeeeii ) adds a more playful meaning to the word . usually used to emphasize sarcastic humor when talking amongst friends.3 ) shorter forms of the word , when strong emphasis is placed on the " eei " sound , are used to give more intensity to the original definition ( # 1 ) . typically , this is used as an abrubt , simple ending to a conversation , argument , etc ; sending the message of being fed up or ' done with the conversation ' .

@@ -1,3 +1,106 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a60310ec1d831a89aba29e33abdbbf5c7e5b1cf6ca7d37b010bb89e4d2fc6f61
-size 19354
+label	pair	defid	definition
+	bio, you	5255226	An annoying way to say you're going to the bathroom, often used in WoW but has been used less frequently over the years (thankfully)
+1	rememberize, remember	6924457	Rememberize is a version of the word remember, that is frequently used when getting high with friends.
+	fadastic, fad	933617	It is a combination of the word \"fad\" and \"fantastic.\" Used in the sarcastic tense when some new fad pops up.
+1	foop, shart	6674272	When one senses the arrival of a fart, allowing it a safe exit route through the bowels, but the fart is really poop disguised as a fart, resulting in shat pants.Foop is a more widely accepted alternative to the word shart, a word made famous by the movie \"Babysitter,\" starring actor Jonah Hill.
+	foop, shart	3087142	a more user friendly version of the word \"shart\". When you think you are going to cut a fart but, suprise, more than just the air escapes!
+1	wenn, hench	6428261	1. Attractive2. Strong3. Muscular/VascularAnother word for Hench
+	loregy, came	2645458	A group of people discussing lore. This can be any lore, but the origin of the word came from people discussing video game lore.
+	scalled, it	9692797	Leu's weird way of saying it's called.
+	necbromancer, necromancer	4366796	An extension of \"bro\" into the word \"necromancer.\" Duh.
+1	redunckulous, rediculous	2542428	the only cool was to say the word rediculous
+	seorch, search	4930601	When people and businesses build websites they use Search Engine Optimisation SEO to make the pages more relevant to search engines.A simple changing of the word search to seorch gives the new meaning that the term was searched for using a website search engine.
+	punk, it	2127328	A punk is actually someone who generally does not give a fuck what people think. they Anti-Society and Anti-Goverment. The birth of punk was late 70's and early 80's with such bands as the sex pistols. People tend to think of Blink182 as punk, and they would be right in thinking so. This is because it is. Granted it is a short cut way of saying it, it isn't true punk, punk but is a form of punk. Nowadays people describe for example Blink182 as punk because it is Skater punk rock because it is generally anti-social. Skinheads and Punks do not get on, understand they are not compatable. True Punk isn't dead it's just having a nap, by true punk I mean the main trunk of the tree of punk which spawned branches to things such as skater punk, new age punk ect. It is a generally bad idea to piss an old skool punk because they WILL play by their old skool rules, by not giving a shit and basically to cut it short give you a bad headache the next morning, simply by kicking you in.
+	paved, beign	774804	1) Said to you when you lose a physical/verbal fight. 2) Being made fun of 3) another word for beign \"owned\" or \"served\"
+1	ont, ownt	576459	Originally started by =LORD=, it was a misspelling of the word ownt, which is a synonym for pwnd, owned, and all other gank words. It took immediate liking to all other =LORD= members, and started being used throughout the gaming community. Each =LORD= member has their own version of ont
+1	metrosexual, dandy	963690	a man who gives exaggerated attention to personal appearance. modern form of the word dandy (noun) or fop. genuinely heterosexual.
+1	creationist, dumbass	1327951	Polite way of saying \"dumbass\".
+	porud, a	4053638	Another word for a random israeli.
+	chornage, that	1718932	A nice way of saying that's gay/lame.
+1	sarcasticness, sarcasm	5912633	the proper way to say sarcasm
+1	sarcasticness, sarcasm	1667772	\"For use of those who cant remember of the word sarcasm\"
+1	formular, formula	2688334	A completely wrong way of saying \"formula\". Some jew rats from New Jersey are incapable of saying \"formula\", so they add an -r, creating formular.
+	jibuh, a	5893569	Another word for a cigarette (pronounced ch-i-buh)
+	muffy, a	2827758	Another word for a mouse
+1	tupper, tulpa	12316045	Shortening of the word tulpa, used mainly by the 4chan and tulpa.info communities.
+1	base, lame	2935494	Another word for lame.
+	green, marijuana	175114	Another word for marijuana of all types and quality.
+	mook, a	11153687	A Mook is a Gay person or another word for a faggot or a homo
+1	bampp, bam	11803707	A joyful way of saying \"bam\".The release you feel in the end of the word and the amazing emotions that extension \"pp\" gives you when you say that word are priceless
+1	thun, ecstasy	7106100	Another word for ecstasy
+1	pogger, nigger	12887768	Another word for Nigger
+1	jeebus, jesus	787474	Homer Simpson's way of saying Jesus. Highly offencive.
+1	jeebus, jesus	1457564	Not homer originally, this word dates back to the late 1800's as a way of saying jesus without actually taking the name in vain. similar to words like jeepers creepers, jeebus is also a form of pronunciation. Sorry folks Matt G. is not the originator of all. He merely recycles pop culture into a half hour show.
+	cocka, very	393145	Another way of saying very crazy.
+1	fable, fuckable	1465203	adjective 1. a shortened euphemism for the word \"fuckable\" 2. describes a person with whom you would most likely have sex, based on their physical appearance antonym: fugly
+	squidge, chief	3600785	Pretty much the opposite of the marijuana-smoking sense of the word chief.
+	rip, a	2314572	Another word for a 'ladies bits'.
+	ticket, persciption	3664149	Another word for persciption pills
+1	pron, pron	8396856	Misspelling of the word \"pron\". Appears when one writes too fast on a keyboard. Used also on forums to make staff believe you talk about something that isn't a pron, when in fact it is.
+	lok, chill	9744982	a synonym of the word \"chill\" but for more cool awesome people.
+1	gumingle, gum	6922589	Gumingle is what you can say as another word for gum or also known as Essence's name for ghetto gum.
+	burly, something	1493024	Another way of saying something blows major ass.
+1	iutub, youtube	12875464	slang among spanish speakers for \"youtube.\" can be used as a sarcastic or joking way to say youtube.
+	bestie, someone	12197317	Another way of saying someone is your boyfriend/girlfriend
+	errection, erection	6412485	A state of male excitement which brings a high risk of poor decision making. Blending the word 'error' into the word 'erection'.
+1	backgammon, sex	2408956	the word backgammon can be an alternative for the word sex. you would use it like if you were in school and you didnt want your teachers to know what you were talking about. or if you were at a family party talking to your cousins about who you fucked, you would say you played backgammon.
+1	ickeyray, rickey	393867	A latin pig, no wait, a pig latin form of the word Rickey. An old poet/hermit living in the middle of nowhere. The online identity of said poet/hermit.
+1	vark, vagina	3664660	Another word for vagina.
+1	shexiful, sexy	1846789	A stupid version of the word \"sexy\" with the suffix \"full\" added on to it, probably by someone with way too much time on their hands in a failed attempt at individuality.
+1	shtuff, stuff	12644790	I different way of saying \"stuff\"
+	shtuff, stuff	4057791	Shtuff is another word coined by the Midwest Rapper and DJ, DJ KChop. Shtuff is a combination word of shit and stuff. You can use shtuff in place of the word stuff or the word shit.
+1	willage, village	2729296	in Japan, or any other Asian conntry, it is the equivalent of the word \"village\".
+	packy, liquor	190300	Short for package store, another word for liquor store in Massachusetts. Typically used as \"Let's make a packy run\" or more commonly:
+1	jynxed, someone	9609874	A unique way of saying someone or something has bad luck.
+1	creep-o, creep	6725462	A cooler way of saying \"creep.\" A creep-o is someone who does something weird or something out of the ordinary.
+	shmallow, the	1928963	It's just another word for the processed sugary food called a marshmallow. Also found in Lucky Charms cereal and around campfires.
+	undomiciled, one	1295647	Housing challenged. The politically correct way of saying one is homeless. props to dforce for this one.
+1	pogger, arse-rape	504083	another word for arse-rape
+	bhosadi, bhosadi	529407	Bho - Sadi. The word is derived from two very distinct Hindi words, Bhoo and Sadi respectively. Bhoo meaning, our fertile earth which is compared to the fertile part of the human body namely the productive organs and Sadi meaning Rotten. The meaning reflects a negative meaning about an infertile human being. Therefore, concluding the compilation of the word Bhosadi. Although some people belive its roots to be in the historic village in Gujrat namely Bhosadi, it is truly out of perspective to talk of such a place in such a irrrespective manner.
+	macaca, in	1921795	Common French racist slur. Meaning and use is similar to English 'nigger,' and is used to described non-European (Arab and Black) North Africans. It was in particularly prevelant use during French occupation of Northern Africa. The term has been showing up with increasing frequency as a racial slur on racist websites and chatrooms. In considering the controvery of whether Senator George Allen truly knew the meaning of the word in his infamous August 11, 2006 outburst, it is significant to note that his mother and numerous relatives are ethnic French expatriates of Tunisia in North Africa.
+	faya, fire	3031593	James Hetfield of Metallica's way to say fire.
+	ebeer, e-beer	1534006	a nother way of saying e-beer
+1	nehmind, nevermind	7811445	A lazy way of saying nevermind by singaporeans
+1	phooney, funnypronounced	11795387	A cooler way to say funnyPronounced : \"F-oo-nee\"
+	craptasticalrific, craptastical	5210036	Something that is poinless, boring, worse than what was expected, a waste of time, and/or is awesomely bad. It is a mixture of the word \"craptastical\" and \"horrific\". This is usually accompanied by a sarcastic sunny disposition and sometimes two thumbs up.
+	gindaloon, guinea	604802	a bastardization of the word guinea, used to decribe italian males. Means the same as ginzo or guido.
+1	toupie, thigh	4165913	Another name for the word \"thigh\". Sometimes used in casual conversation as gibberish.
+	meated, meat	5915144	The past tense form of the word meat. Means to pork a bean or ass-pound a fudge packer.
+	suchup, shutttt	4127407	Sarcastic way of saying shutttt up and drawering the word out over Instant messaging
+1	nooter, nutter	2072765	Another word for nutter.
+1	okayee, okay	11736368	o-kay-ee The poetic/ formal way of saying okay.
+	denyka, a	3239188	another word for a -penis. -cock. -dick. -trouser snake. -wilkins. -free willy. -schlanger. -meat stick. -baloni. -gear-stick. -glory pole. -plow. -lap rocket. -whoopi stick. -nether rod. -johnson. -penetrator. -power drill. -nine. -wang. -weiner. -schlong. -dong. -erection. -pecker. -knob. -shaft. -rod. -boner. -stiffy. -hard-on. -woody. -member. -pee-pee. -sausage. -ding-dong. -hot dog. -chubby. -pork sword. -alabama black snake. -weenus. -ball chain. -one eyed monster. -ferret. -winkie. -fuck stick. -third leg. -tool. -pole. -little pony. -beef bazooka. -flesh rocket. -big one. -love torpedo. -tall tommy. -peter the great. -golden scally-wag. -john henry. -sword. -lightsaber. -one-eyed giant. :)
+	getty, the	4179400	another way to say the word ghetto with the same meaning.
+1	shuckydern, shit	12068256	Shuckydern is when you are trying to say the word shit but you can't so instead your teacher tells you to just say shuckydern
+	flexible-less, not	11785890	Another way of saying not flexible or stiff
+1	shyza, shit	873837	SHIT! in german another word for shit!
+	amacing, amazing	5060737	Similar to the word amazing, but the letter 'c' gives it much more power and importance. It is one of the best compliments out there, and should not be used lightly.
+	connecticut, parochial	3878813	Some stuff you ought to know about Connecticut: -Let's set the record straight, Connecticut is not really New England, go to Massachusetts if you want the real New England (but would you really want to deal with those awful Masshole drivers?) -All the \"New England\" this or that crap in the state is fake, less than ten years old, and pushed by the state government in order to attract New Yorker tourists and there money, just like the Indian Casinos in the redneck part of the state (see Eastern Connecticut). -Let's be real it's more like New York (Mid-Atlantic) than any New England state. -It has many guidos (New Haven area, cough cough) -It has lots of Jews (West Hartford's more Jewish than Tel-Aviv) -It IS diverse (aka the anti-Vermont) -Relatively well-integrated, at least compared to racist, overly Irish Boston -It is fast-paced -It has great (New Haven style) pizza. Boston sucks at making pizza, freckle-faced ginger massholes. -Lot's of bids here are pretty. -West Conn people say MAD, East Conn fag boston wannabes say WICKED every chance they get. -It's not called a fucking Packy, it's either a bodega or a liquor store. -Hartford and Springfield are NOT twin cities. Hartford wants nothing to do with the even shittier, more pathetic Springfield, Mass. -Many people take advantage of the proximity to NYC and shop, go to ball games, see shows, and eat at the best restaurants in the world. -No one goes to Boston unless they want to get drunk and beat up black people with Irish, freckle-faced, ugly, pimply, masshole, ginger red sux fans. -Everyone ought to hate the Gaytriots, especially after they teased Hartford then retracted their plans to move there, because Hartford was not New England enough. -People tend to like New Jersey better than Massachusetts. Who cares how it smells, people in Jersey won't hate you and be snobby, WASPY, elitist shits like any masshole would. -People really aren't that snobby. And those that are, they can go fuck themselves. If you act snobby, you will be compared to Bostonians (Red Sox fan massholes), because they are snobby, do you really want that? -If you live west of the Connecticut River, you root for NY teams. -If you are a minority, you root for NY teams (Boston is too damn racist... if you don't believe me, just Google \"boston racist\"). -If you live east of the Connecticut River, you root for Boston teams and pretend to live in Massachusetts. -If you like the Red Sox and live in Yanks territory (West Conn) you are VERY rude and vocal about it. -If you like the Yanks and live in Red Sox territory (East Conn) you are quiet and unassuming--you don't want to piss off the drunk, belligerent asshole Boston fans. -East of the river is the only part of the state that can be argued as being part of the true New England. People here are ornery and reserved (nice way of saying parochial) like Massholes. -Most people in the state live in Western Connecticut (more populated and industrialized) -The majority of the population lives in metro NYC (Fairfield, Litchfield, and New Haven counties combined) -It's true that many people are wealthy, but many are also impoverished. -There ARE indeed rich people outside of Fairfield County. -Long Island Sound can be dirty in areas. -People are real, unlike Fakeifornia. -Nobody in this state (meaning YOU eastern Connecticut) liked the Red Sox prior to 2004. -Hartford and Bridgeport are very dangerous. Waterbury and New Haven are also pretty bad, but not as much as those two. -Hartford isn't a city, it's a big shitty town. New York is a city. Nobody in West Conn cares about Boston. -Central Connecticut gets overrun on weekends by New Yorkers, New Jersyans, Rhode Islanders, and Massholes who like to shop here and not at their own fucking stores. -An enormous wall should be built to keep the Massholes out, that, or $50 tolls to get in from Massachusetts.
+	frumphy, comfy	8643827	A word in which one says subsequent to the word comfy in order to aggrandize the meaning of cuddles worthy.
+	levaton, the	5537807	Its a better and meaner way of saying the word Leva. Lev-Ahh-Ton.
+1	breadstick, asshole	8196464	Another word for asshole
+	lolgasm, lolgasm	5089739	Laughing uncontrollably, succumbing to a 'lolgasm'. The climaxing point of an enourmous laugh when you have to gasp for air in order to just say the word 'lolgasm' and then subsequently retreat into hysteria again.
+	odrd, on	2780305	the im way of saying on da real doe Right now im the only one who says it but its gonna be bigger than lol with your help
+	gome, come	3338598	1.Interjection. Can be used interchangeably with \"Hmm\" to fill space in a conversation or express boredom. Has also, in rare cases, been used as a synonym for the word \"come\".
+	boosy, pussy	1602554	The Cancun accent version of the word 'pussy'. Often mentioned by various cab drivers and construction workers in reference to prostitutes, strippers, and drunk college girls. Also can be used as a derogatory statement.
+	pnl, that	2581944	Peace and Love. its a short hand way of saying that over the internet
+	rar, ross	4109356	A quick way of saying Ross and Reid in reference to the two characters Robbie Ross and Jackie Reid in the TV show Taggart. Used mainly in fan fic summaries.
+1	dojer, weed	1137805	another word for weed, usually meaning high quality
+1	eskitit, excited	12127612	A funny way of saying excited.
+	hollz, depending	6223250	A synonym of holla, yay, or yes totally. Additional \"z\"s can be added to the word depending on how happy or white girl wasted you are.
+1	phrisbee, frisbee	4225709	A \"Phrisbee\" is a variation of the word Frisbee which is thrown by someone named Amber. A \"Phrisbee\" tends to slant at a 45 degree angle and curves awkwardly to the right missing its target completely.
+1	kap, kappa	9953439	An abrieviated form of the word \"kappa\" meaning you're joking or just kidding.
+	gunt, gun	2581052	A combination of the word gun and cunt. Represents an obviously fake or extremely feminine looking gun
+	gunt, gun	2613542	A combination of the word gun and cunt. An extremely feminine, or fake looking gun.
+1	slummet, slut	1425848	slummet is another word for slut. we use it coz it sounds fucken hilarious in general conversation
+1	callum, ballchinian	2970820	Callum Is Another Word For Ballchinian! Or A Callum Can Be Balls On Someones Chin
+1	robit, robot	6750461	Alternative to the word \"robot\".Representation of the pronunciation for the word \"robot\" used by Dr. John Zoidberg on Futurama and Rod Serling on The Twilight Zone.
+1	funtastic, something	297558	A sarcastic way of saying something was fun (or not fun).
+1	fraser, fukboi	11687158	The only guy in the workplace that hates making his mates coffees.. #1 player in town, treats them mean and keeps them keen! Also another word for fukboi.
+1	adolescent, teenager	1961753	Another word for teenager
+1	dob, tard	2623903	Another word for tard/retard/idiot.
+	acustic, it	12828711	fucking autism but a nicer way of saying it :)
+1	boy, goodbye	4019052	An alternative way of saying 'Goodbye' or 'Bye' The opposite of Hoy.
+1	besin, gypsy	792321	Another word for gypsy or traveller. An insult like the word Pikey.
+	schnizzle, is	1975554	A word white people use to pretend they are African American. Broken down the word would mean: For Sure Nigga or Shit Nigga, but since white people can't say that word, this is a white man's way around the BAD word. Basic definition of the word is: I concur with my friend who also wishes to be a wanna be oreo.
+1	danm, damn	3605657	A misspelling of the word damn.

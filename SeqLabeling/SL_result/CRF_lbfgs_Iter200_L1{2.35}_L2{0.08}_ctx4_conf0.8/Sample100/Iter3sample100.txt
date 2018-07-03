@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b702acd18ea6546740eb6a895c7995e49c87fe5fd47f5d4718c7fd028aaefbac
-size 14764
+	2915060	toplitt	topless 	 slang for ' topless (I, 0.9966) ' , used when one is inebriated , ignorant , or both .
+0	11916602	glibblemeat	penis 	 made up word by fausty . another word for " penis (I, 0.9995) in the mouth lover . "
+	1431816	Seu	seriously 	 abbreviated or slang form of the word seriously (I, 0.9909) .
+0	9568855	Janice	jani 	 a janice is another term for a double chin , originally derived from that video of the obese kid falling out of the ride screaming janice . janice can be made into a plural for multiple double chins . the plural version being " jani (I, 0.9972) "
+	2407554	dayumm	damn 	 ghettoized way of saying damn (I, 1.0000) .
+	4958131	chingasu	shit 	 a hispanic way to say shit (I, 0.9971) , fuck , or damn
+	1626925	Donions	onions 	 1 . an exclamation expressing a state of being finished 2 . a way to express a defeat or a victory 3 . another way to say the word onions (I, 0.9110)
+0	9113018	DNOYC	deez 	 an acronym for " deez (I, 0.9703) nuts on your chin "
+	5467609	Retarted	retarded 	 the wrong way to spell " retarded (I, 0.9505) . "
+0	6077747	syg	so 	 syg- acronym for " so (I, 0.8044) you re gay"?often used as a comeback when someone says something ignorant , retarded or gay.but can be used as a response to basically everything .
+	2082845	blakkang	poo 	 it is a slang word for poo (I, 0.9959) , sloppy1 or like saying stomachache and gon na b there awhile .
+	870619	fim	fimto 	 short for ' fimto (I, 0.9845) ' derived from the name of a popular multi - fruit drink called vimto .
+	3295650	Nooch	carminooch 	 short name for carminooch (I, 0.9755)
+	10371831	Boz	whore 	 an armenian word for whore (I, 0.9991) or slut . used to offend somone you do not like
+	5380772	doubtless	yes 	 another word for yes (I, 0.9899) used on xbox live
+	129532	pompis	backside 	 spanish for ' backside (I, 0.9036) '
+	2615727	'fit	outfit 	 short for outfit (I, 0.9069) . used only in referrence to nice / expensive / name brand clothing .
+0	9249887	duntin	does 	 southern pronunciation for the word " does (I, 0.9383) n't "
+	5812709	Chupchake	cupcakes 	 the ultimate form of cupcakes (I, 0.8658)
+	4992944	daviding	masturbating 	 another word for masturbating (I, 0.9929)
+	5188715	Windhammer	fart 	 windhammer is another word for fart (I, 0.9994) , flatulant , pass wind , etc .
+	4145461	Casharoonies	money 	 slang for money (I, 0.9872)
+	1713290	chanticleer	rooster 	 another word for rooster (I, 0.9995) . a male chicken .
+	795828	yariman	slut 	 japanese for ' slut (I, 0.9712) ' . most likely derived from yaru , to give , and manko , the vagina.very loosely translated , it 's a ' generous pussy . '
+	7531980	headshrink	psychiatrist 	 slang term for psychiatrist (I, 0.9946)
+	743472	aht	out 	 pittsburgh - ese for " out (I, 0.8012) . "
+	10896627	Joj	hoe 	 purposeful misspelling or mispronounciation of the word " hoe (I, 0.9981) . " j replacing an h sound as in jalepeno .
+	7518860	Schinell	chanel 	 variation of " chanel (I, 0.9739) " . a gorgeous , funny , totally awesome girl that everyone loves !
+	2364979	wutagi	woot 	 a fuckin awesome word to use in excitement . a japanese version of the word woot (I, 0.9997) .
+0	6280037	OIYM	orgasm 	 acronym for : orgasm (I, 0.8549) in your mouth . usually used to describe a pleasing taste .
+0	11955576	wenky	chicken 	 is another word for chicken (I, 0.8204) biscuits . or it can be described as getting angry
+	2586719	kreb	penis 	 another usage for the word " penis (I, 0.9991) "
+	200881	Sickning	p.h.a.t 	 another word for p.h.a.t (I, 0.9978) !
+	1902575	incestive	incest 	 another word for " incest (I, 1.0000) " . fits more appropriatly when used in some sentences .
+0	1402915	Bi	someone 	 a word for someone (I, 0.9960) in theatre who is not only involved in acting but is also a techie / crew . generally switches back and forth depending on the show .
+	2143645	scene	emo 	 a nicer way to say emo (I, 0.9917)
+0	3191148	Wackster	wacky 	 a portmanteau of " wacky (I, 0.8538) " and " hipster , " can be heard liking dan deacon , no age , and any contemporary rainbow rock .
+	6300260	Amurka	america 	 the way to say ' america (I, 0.9903) ' when you are being comical in the sense of acting redneck .
+	1440802	schmitt	shit 	 1 . a softcore schmuck 2 . a substitute word for shit (I, 0.9997)
+	771897	rossey	dirty 	 northern saskatchewan term for dirty (I, 0.9933) . best used on kids who tend not to shower . crust kid
+	1296998	timmeh	retard 	 subsitute for the word retard (I, 0.9989)
+	1542263	dick-queef	dickqueef 	 alternate spelling of dickqueef (I, 0.9972) . see also : cockqueef , dick fart , quofe . noun : penile flatulence , i.e. air emitted from the penis through the urethra .
+	2961207	Hecka	hella very 	 ( heckk - uhh ) hecka is word that was originated in norcal as a more subtle way of saying " hella (I, 0.9966) " . if you do n't know what " hella / hecka " means , it is another way of saying " very (I, 0.9966) " , " really " , or " so " . it is very often used much more often then just for those three words as a replacement . when said jokingly , people will also say " heck of " instead of " hecka " . " hecka " is probably the sole most annoying word to say around people from out of northern california . if you say " hecka " around people from other states often , they get annoyed really quick and generally , absolutely suck at trying to use the word correctly ... but it is fun to watch them fail miserably at using an awesome word . it can also be used at the end of a sentence , even though it my sound a little weird , it is still accepted unlike " very " , " really " , and " so " .
+	970344	sockchoker	wanker 	 one who chokes socks . also another word for ' wanker (I, 0.9995) ' or ' chronic masturbator ' . has possible roots from the opening scene of the teen comedy ' american pie ' , but this has not been confirmed .
+0	2624463	Dudeical	dude 	 a portmanteau of " dude (I, 0.9271) " and " radical . " also a reason for anybody who uttered this in the 80s and early 90s to commit suicide , because it 's a horribly gay word , gayer than capri sun commercials . ( this includes me , but i 'm too much of a chickenshit to die . :( )
+	2004457	scudge	smudge 	 a grinddier way of saying " smudge (I, 0.9758) " or scratch + smudge = scudge
+	5033488	Sayantan	evening 	 bengali word for evening (I, 0.9989) , suggesting calmness , tranquility and wisdom .
+	3275754	doperelic	dope 	 a longer form of " dope (I, 0.9874) "
+	3969539	Mopage	mope 	 another word for mope (I, 0.9987) . only slightly more cheerie and more to do with walking then crying : )
+	3869307	FTW	fuck 	 an abbreviation for " fuck (I, 0.9049) the world " .
+	1337012	Feek	fuck 	 an alternate pronunciation and spelling of the word " fuck (I, 0.9961) " .
+	12782457	Gunckle	bananas 	 its another name for bananas (I, 0.9943)
+	1189291	jur	penis 	 jur is the chinese way of saying penis (I, 0.9994) , it is usually said in conjuction with another " jur " . ie , jur jur
+	11729084	Frog	wind 	 when you accidentally drop a " frog " . a politer way of breaking wind (I, 0.9750) .
+	3767456	Fequero	liar 	 puerto rican slang for liar (I, 0.8743) .
+0	2983517	unforgotable	unforgetable 	 1 . the same as " ungorgetable " but with more intence meaning 2 . past form of " unforgetable (I, 0.9937) "
+	782149	cojonas	balls 	 simply the spanish word for balls (I, 0.9839) .
+	1597649	tonic	soda 	 a slang term for the word ' soda (I, 0.9990) ' used primarily in massachussetts .
+	2772568	thingie	thingee 	 the improper spelling of the true word " thingee (I, 0.9425) " inserted into emails in the belief that one 's hillbilly girlfriend wo n't know the difference .
+0	5729632	cuud	dayuuumm 	 another way to say " dayuuumm (I, 0.9967) check out that / those hot chicks ! "
+0	5288257	Etch-a-Sketchy	sketchy 	 a synonym for the word " sketchy (I, 0.9364) "
+0	631531	Anthropomorphism	anthro 	 the root word of anthro (I, 0.9929) . anthropomorphism - ascribing human characteristics to non - human things .
+	5349313	Borsh	abortion 	 a shortened version of " abortion (I, 0.9996) , " that rolls off the tongue far easier , and works better in tense situations .
+0	1202053	Austintateous	ostentatious 	 sugar daddy has to have his females in different area codes ... with their name derived from two principle parts : 1 ) is from her location austin , tx 2 ) is from the word ostentatious (I, 0.9140)
+0	4487914	GTL	gym 	 gtl stands for gym (I, 0.9135) , tan , & laundry.it was made popular by the cast of jersey shore on mtv.use : this can be used when leaving a conversation , saying you have to run errands , or things to do .
+	1589266	pho	fuck 	 a substitute for " fuck (I, 0.9981) , " in vietnamese .
+	8852067	Boves	bye 	 shorten version of " bye (I, 0.9993) , i love you " - easy , catchy , simple . life 's short already , why spend too much time conveying feelings over long lengthy sentences ?
+0	8041064	yingele	yingele boy junge 	 the word " yingele (I, 0.8840) " is yiddish for " boy (I, 0.8840) " . however , it is believed that it derived from the middle high german word " junge (I, 0.8840) " meaning " youngster " , " boy " or even " young girl " during its use from 1050 to 1350 . ashkenazic jews are credited with creating this judeo - german language . almost all of its vocabulary is derived from middle high german , with the exception of words used for religious purposes .
+	293413	heezy	head 	 a slang word for head (I, 1.0000)
+	5725465	Jelly	jealous 	 another word for jealous (I, 1.0000)
+0	4407299	jaypea	eyebrow jaypea 	 the term jaypea began with the egyptian word for " eyebrow (I, 0.9894) " , although in later years the native americans adapted this for their own use ; ' crazy eyes ' , the tradition being that if an individual happened to gain alapecia of the eyebrow they would become known by tribesmen as simply , ' jaypea'.over time the phrase has evolved into ' wannabe ' and fishermen began to use it as a noun for sharks.the modern day term for ' jaypea (I, 0.9894) ' however is usually considered to mean ginger.when a person is described as doing a ' jaypea ' it usually means they have an innate tendancy to get angry and hang up the phone .
+0	4219914	ftho	fuck 	 acronym for " fuck (I, 0.9274) the hell off " . used on the internet or while writing text messages .
+	2880274	clbuttic	classic 	 ironic mis - spelling of " classic (I, 1.0000) " , used to reflect the common mis - use of search - and - replace / regex to fix certain potentially offensive words .
+0	1932478	sdrawkcab	backwards 	 the word " backwards (I, 0.9788) " written backwards .
+	945953	oefey	foe 	 pig latin for " foe (I, 0.9991) " ; often used by urban blacks from about the ' 40s onwards to alert others to the presence of whites .
+0	174664	Zif!	as 	 shortened version of " as (I, 0.9916) if ! " meaning a sarcastic " yeah , right " or " i 'd rather die . "
+0	1960335	ailf	mother 	 a ) aunty i 'd like to fuck b ) amma i 'd like to fuck a term used by young people in the diasporic south asian community in reference to an older woman who is sexually attractive . " aunty " is a generic title for any woman that is at least half a generation older . " amma " is the hindi and bengali word for " mother (I, 0.9958) " . the term ailf was used in a muckittees.com t - shirt aimed at south asian youth .
+0	3346141	assshitfuck	fuckshitass 	 the inverse of " fuckshitass (I, 0.8061) . " not to be used in an inverse matter . it still means the same thing .
+	1052235	Canadia	canada 	 a better , more interesting way of saying canada (I, 0.9815) ... which by the way , is a pretty good country , do n't get me wrong , i m proud to be canadian and all , but , its kinda boring here .... ah well , at least we do nt got no bush to worry about ! ! !
+	3878303	shick	sick 	 the word " sick (I, 0.9823) " pronounced with a speech impediment and/or braces .
+	1932940	iPwned	pwn 	 a word meaning " pwn (I, 0.9575) " or " pwned " , but using the " i " before it , like apple 's ipod , itunes , imac , etc . since mac is taking over everything .
+	281646	pescado	fish 	 1 . the spanish word for " fish (I, 0.9999) " , referring to any girls cooch , especially if it 's unwashed . 2 . a promiscuous girl , thus presumed to have a dirty cooch .
+	8015775	feldergarb	felgercarb 	 an alternate spelling of felgercarb (I, 0.9995) .. a euphemism for " crap " in the colonial vernacular ; also used to mean garbage or nonsense . this word originated in the science fiction series battlestar galactica ( 1978 ) and was one of the expletives created to get swearing past the censors .
+	1506759	hole	hold 	 cambodian word for " hold (I, 0.9999) "
+0	8078106	indemnify	damage 	 to compensate for damage (I, 0.8457) or loss sustained , expense incurred , etc.to guard or secure against anticipated loss , give security against(future damage or liability )
+	1862524	tissy	titty 	 noun , a breast ( a nicer way of saying titty (I, 0.9979) ) . plural is tissies .
+0	3478771	angst	whine 	 glorified synonym for whine (I, 0.8367) .
+	5257040	Donne	women 	 italian for women (I, 0.8184) , used as bitches , because we just imply that all women are bitches
+	4480690	oddball	strange 	 another word for strange (I, 0.9987) .
+	3921995	wigglenut	jackhole 	 1 ) a person who is stupid 2 ) a person who is acting like an idiot 3 ) an alternate word for jackhole (I, 0.9999)
+	3180849	Shoota	gun 	 an ork slang word for gun (I, 0.9969) , used in the warhammer 40k video games and tabletop . due to the low level intelligence that the old ones departed on to such creatures , they talk in slang , mostly substituting ' c ' for ' k ' and ending everything with an ' a ' or ' z. most words lack in ending consonants . it is the will of the god emperor , that we destroy these beasts , in order to safeguard the galaxy .
+	132585	mank	skank 	 the male version of skank (I, 0.9823)
+	349249	Fubz	fabian 	 short for " fabian (I, 0.9994) "
+	12898312	Nonsensiopian	spifflish 	 someone or something that is completely crazy and weird and wonderful all of the time.another word for spifflish (I, 1.0000)
+	4291726	Webernetz	internet 	 a slang term for the " internet (I, 0.9986) "
+0	5073543	DTMF	down 	 stands for " down (I, 0.9005) to make food " similar to dtf , but makes someone way more attractive .
+	1895785	Muhufurce	motherfucker 	 apparently an intentional misspelling of " motherfucker (I, 1.0000) " and a meme on metababy . all that is known about muhufurces is that they are , in all cases , banned .
+	539597	turtle	marijuana 	 slang for marijuana (I, 0.9872)
+	1644627	Feace	feces 	 abbreviation of the word feces (I, 0.9616) , or human excrement . the word originated in the south of england and can be used in many contexts , such as insults , comparisons and general conversation .
+	4303249	shatta	gangsta 	 a jamaican slang ... it 's another word for gangsta (I, 0.9998)

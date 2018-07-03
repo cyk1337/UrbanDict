@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4c022c3170559d6d09f6343e238e4cfaae3df7a06e0927e0d0ffdc9bf8b78932
-size 85
+another way of saying <Var>
+misspelling of the word <Var>
+spelling of the word <Var>

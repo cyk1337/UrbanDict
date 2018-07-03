@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0a5fac2f9995817475ef382eb774833975d1f968f5c27116e152598ddc79e2f
-size 14128
+	2079719	Gramual	penis 	 gramual , this is another word for penis (I, 0.9983)
+	8421125	Fig	idiot 	 another word for idiot (I, 0.9942) , or a funny person
+	7356349	nubscrub	scrubnub 	 alternate spelling of scrubnub (I, 0.9974) . someone who not only is calling you a nub , but a scrub as well .
+	1221245	fangirl	hump 	 1.crazy bitches that practicly go insane when there favourite idol walks in their presence . usually involves a lawsuit , suffocation of idol , or idol ripped to shreds by fighting fangirls . 2.another word for hump (I, 0.9309) .
+	5980576	Zic	vagina 	 another word for vagina (I, 0.9995)
+	7389653	Angus	anus 	 another word for anus (I, 0.9977) .
+	1083045	schvontz	penis 	 german word for penis (I, 0.9977) .
+0	4118932	Brandon	guys 	 a word for guys (I, 0.9773) who like to masturbate while on the phone , play xbox 360 all night , gets drunk and cries to his exes , and go bipolar at any given time during the day . a true brandon does it all shamelessly . brandons will murder you while you sleep if you are an ex or do not kiss his ass and tell him how great he is religously
+	5854034	bakis	hangover 	 bakis is the swedish word for hangover (I, 0.9306) - or rather , hung over . ' i am bakis ' means ' i am hung over ' or ' i have a hangover'.being swedes , swedes drink a lot . hence , just like the eskimos reputedly have lots of synonyms for snow , the swedes have many expressions for being hungover . americans drink too , so they could use at least one synonym for hangover.bakis is also a swedish hangover cure , a rehydration pill that you take with water before going to bed . their slogan is " seize the day . after . "
+	1655229	tats	tits 	 a hilarious variation on the word tits (I, 0.9025) . made famous by avid marion ( bo ' selecta - channel 4 ) . when said out loud , it sounds like you are an ignorant foreigner trying to pronounce " tits " .
+	1138856	clutch	cool 	 a better way to say cool (I, 0.9987) ; tight ; raw
+	950316	woodles	sex 	 code word for sex (I, 0.9810) used by indians , like from india , not native americans
+	3883719	Schizer	shit 	 the incorrectly spelt german word for " shit (I, 0.9960) " , correctly spelt " scheiße " . this mistake is common due to the difficulty of inserting the symbol " ß " , and also down to the lack of forced foreign language lessons in the english education system . but that 's soley because we do n't need to , why should we speak deutch when the world can speak english . yeah , who 's gon na high five me on that ? ! anyone ?
+	2675216	thursdaddy	thursday 	 the 1337 way to say thursday (I, 0.9987)
+	7747807	Blobsausage	trouble 	 a sexy gang of 4 , they love to dance sing and party all night . if you ever come across this rare species be careful not to get on their wrong side because they wil kill you lol nowadays used as a word for trouble (I, 0.9448)
+	12653560	Beckis	beckman 	 a slang for " beckman (I, 0.9960) "
+	2065945	deep	sweet 	 another way to say sweet (I, 0.9997) , awesome , or sick
+	11007817	Yorra	mate 	 another word for mate (I, 0.9955) or pal
+	2969342	wataguan	wtf example 	 another way of say wtf (I, 0.9940) wtf wtf wtf wtf wtf wtf wtf wtf wtf wtf as in a good way . for example (I, 0.9940) ...
+	1883416	peeps	people 	 ridiculous terminology for " people (I, 0.9431) " see suicidal vocabulary
+	10543870	shitn't	shit 	 short for " shit (I, 0.9869) ( you ) not "
+	5558007	Acceptabo	acceptable 	 a form of " acceptable (I, 0.9836) . "
+	1277549	saggin	niggas niggas nigga 	 1 . the censored version of the word niggas (I, 0.9358) in editted tracked that are played in the radio . 2 . the editted version of the word ' niggas (I, 0.9358) ' that is played backwards . it is done usually with turntables . also works as aggin , the editted version of the word ' nigga (I, 0.9358) '
+	5353549	Charette	cart 	 french word for cart (I, 0.9945) . the family is a very loving , well formed family most of the time . generations of basketball stars have been formed including jonathon , david and bob . people love to be around them with there funny personality . there hardworking and usual come out the other end of problem with a shining smile .
+	2802702	muevete	move 	 spanish word for move (I, 0.9854) it! .. or get out my way ! ! !
+	3185327	orgk	orgy 	 ( pronounced o - r - g - silent k ) the correct spelling of orgy (I, 0.9436) . involving a minimum of five people ...
+	6058887	Slott	slut 	 a vary hot slut . a classy way of saying slut (I, 0.9962) .
+	4255876	dungus-fungus	shrooms 	 another word for shrooms (I, 0.9921) because as we all know mushrooms is fungus and it grows on poop
+	11309288	niggnoog	nigger 	 a less offensive way of saying nigger (I, 0.9983) .
+	7109277	Romansist	bromance 	 describes the complicated love and affection shared by two straight females where they start to seem like a couple . they enjoy each others company and even though they may constantly joke about being lesbian they are not . feminine form of " bromance (I, 0.9825) "
+	3227218	Broot4l	brutal 	 also known as br00t4l is a deliberate mis - spelling of the word brutal (I, 0.9700) . it is generally used to describe death metal and grindcore lyrics giving their general gorey , offensive and ' brutal ' content .
+	99912	Bebi	baby 	 another way of saying baby (I, 0.9913) , with a combination of other pet names such as b , or bumby .
+	12226829	Drewve	drove 	 an idiot way of saying drove (I, 0.9805)
+	4932178	Felations	blowjobalso 	 a relationship based soley on oral sex , another word for blowjobalso (I, 0.9674) can be used as felationship , in lieu of relationship . a felationship involves no intercourse and is strictly felations between two people ...
+	3615804	Ojiikay	okay 	 the unabbreviated word for " okay (I, 0.9966) " .
+	2818496	tamjee	ganja 	 an other word for ganja (I, 0.9966) , marijuana , weed , ....
+	1632701	bonks	bonkers 	 1 . to drive one crazy or absolutely mad 2 . another version of the word bonkers (I, 0.9977)
+	1863138	zillij	zelliges 	 another way of spelling zelliges (I, 0.9989) .
+	1168431	kilt	killed 	 another way of saying killed (I, 0.9922) .
+0	3093804	tubgirlage	anything 	 literally anything relating to tubgirl . often used figuratively as a blanket word for anything (I, 0.9375) trashy , shocking , and revolting in the extreme .
+	2434863	Yates	yes 	 the bro way to say yes (I, 0.9983)
+	9738200	meit	mate 	 another way of saying " mate (I, 0.9989) " or " m8 " .
+	1140960	fen	wicked 	 instead of saying " wicked (I, 0.9407) " you would say " fen " . not to be confused with f'en .
+	189734	Mamouhalo	idiot 	 regional greek word for idiot (I, 0.9982) .
+	1169670	fitte	cunt 	 norwegian word for cunt (I, 0.9865) , pussy , vagina .... can be used as a swearing word as synonymus for fuck , and pussy . often used among younger people , and used too often .
+	5503057	Qwetru	true 	 the modern version of the word " true (I, 0.9273) " or " trillz . " qwetru has the word tru at the end so it sounds somewhat like true . qwetru is a new popular slang word that started in new york used by middle and high school students . qwetru was made up by typing random letters before saying true , spelled without an e at the end , and it stuck . now everyone uses this word .
+	970843	tego;tar\	together 	 a giant dinosaur looking thing that eats shit . or dan 's drunken misspelling of the word together (I, 0.9917) .
+0	2715567	DTH-U	down 	 acronym for " down (I, 0.9081) to hook - up . " play off of the acronym " dtf " ( down to fuck ) used in the movie superbad .
+	4309506	Wangsicles	testicles 	 a slang word for " testicles (I, 0.9985) "
+	12047702	faggit	faggot 	 the real way to say " faggot (I, 0.9976) "
+	283190	heim	shit 	 another word for shit (I, 0.9977) .
+	52604	stup	stupid 	 short hand for " stupid (I, 0.9794) " . often capitalized .
+	1419126	Tarbender	bartender 	 a jovial way of saying bartender (I, 0.9370) ! done in a manner of how a drunk may say it ! how a drunk says bartender !
+	3674270	Dietrich	mindfuck 	 a fancy way of saying " mindfuck (I, 0.9998) "
+	2308721	anshan	buttocks 	 it is another word for buttocks (I, 0.9625) . it is a synonym for butt . other words include booty , bum , and rearend
+	5083174	delectat	pleasing 	 latin verb for ' pleasing (I, 0.9634) ' as taught in the cambrige latin course .
+	2070579	betchslap	bitchslap 	 1 . ( v ) a variation of the word bitchslap (I, 0.9466) used by kelly in the video " shoes " 2 . ( v ) what you do to one of your friends when he / she pisses you off 3 . ( v ) what should be done to shetbags and douches
+	108203	kaze	wind 	 the japaneese word for " wind (I, 0.9887) "
+0	1345580	etceteron	etcetera 	 a singular form of the word etcetera (I, 0.9866) , etceteron is used when you are referring to only one additional unnameable component .
+	1923476	Rudeboi	rudeboy 	 alternative spelling of rudeboy (I, 0.9781) used in text messages . any person called this must have spent some time in the custody of the police to qualify .
+	10602259	oki	okie okay 	 shorter way of saying okie (I, 0.9805) ( a cute way of saying okay (I, 0.9805) )
+	528715	shee	shit 	 a subsitute word for shit (I, 0.9996)
+	2953761	tsismising	gossip 	 for noun it is tsismis , it is a pinoy word for gossip (I, 0.9636) . literally tsismising in english is gossiping ( verb ) . it is for some filipinos most common behavior , to tattle and tattle nuisance about nonsense talks . origin and legend : tsismising was originally vogued by dom professor from one of the university in the philippines ( university belt , manila ) , when he spotted and scold one of his student at the back area of the room . he became popular because of his ridiculous talks and because of that tsismising became a craze in one of the university in intramuros . and until that time , it was infectiously spread all over the campus and surprisingly from all university around manila .
+	2423356	Mushy	vagina 	 the german word for vagina (I, 0.9996)
+	2611973	xnaga	xanga xanga 	 spelling of " xanga (I, 0.9858) " because xanga.com filters the word " xanga (I, 0.9858) " . pronunciation : " snagga "
+0	13716	ouchy	painful 	 synonym for " painful (I, 0.9685) " .
+	3641925	Darjes	things 	 a term of displeasure or frustration . a way of saying things (I, 0.9889) like- dang ! ; oh man ! ; fuck!.
+	3566748	ambika	gorgeous 	 the embodiment of the word gorgeous (I, 0.9237)
+	342094	sortie	something 	 an easy exit or a way out of something (I, 0.9857)
+	1982899	charbololo	charbroiled 	 another way of saying charbroiled (I, 0.9981)
+	3734934	gobment	government 	 a shorter easier way of saying " government (I, 0.9998) "
+	3683713	Troig	foig 	 a more intense version of " foig (I, 0.9982) . " foig tends to be a vancouver word , much like the word " ceeb . " the origins of both words can not be certain though in terms of which school started using them first . in this case though , vc started troig along with its many extensions . troig means tripple foig , hence a more intense version of foig .
+	4203086	wuf	love 	 weird way to say love (I, 0.9835) same as wuv
+	8007358	Botty	booty 	 botty is another way to say booty (I, 0.9928)
+	681018	bake	mouth 	 common slang in ireland for the word ' mouth (I, 0.9722) ' . mostly used as part of an insulting sentence . comes from the word ' beek ' , like a pigeon 's beek . could also be prounounced ' baik '
+	597302	obake	ghost 	 japanese word for ghost (I, 0.9504) , in the anime fushigi yuugi tamahomes pet name because his oni symbol on his head , he used to be called " little ghost " in which tasuki constantly teases him about , resulting in severe damage to fang boy or drowning or both!^^
+	3998243	pregg	cool 	 another way to say cool (I, 0.9999) , awesome , sweet(not meaning pregnant !
+	1363845	beeze	beezie 	 the wrong spelling for the word beezie (I, 0.9870)
+	246984	tapette	homosexual 	 one of the word for homosexual (I, 0.9769) in french
+	1221003	peeler	stripper 	 another way of saying stripper (I, 0.9985) , refering to the process of peeling off their clothing .
+	4143369	fantastisch	fantastic 	 german word for " fantastic (I, 0.9998) ; " made popular by the 2009 movie " bruno . "
+	2318605	Fadoogal	fuck 	 1 . a substitute curse word for " fuck (I, 0.9766) " 2 . a substitute for any word that starts with an " f " by meshing fadoogal with the other word .
+	246028	midrift	midriff 	 1 . commonly confused word for midriff (I, 0.9534) 2 . girl with an extremely attractive midriff 3 . a good band
+	157949	lel	lol 	 queer way of saying lol (I, 0.9826) , especially when something is n't funny
+0	3674093	Biffcane	cool 	 a synonym for ' cool (I, 0.9936) ' . used in everyday speech ; a positive term .
+	2423297	ThunderCity	bitches 	 a way of life bitches (I, 0.9878)
+	2559196	boonami	punani 	 the less vulgar way of saying " punani (I, 0.9937) " .
+	2404280	cowbows	cowboy 	 1 . a bow for a cow . 2 . the misspelling of the word " cowboy (I, 0.9773) " the y key is obviously way too close to the w.
+	5188715	Windhammer	fart 	 windhammer is another word for fart (I, 0.9954) , flatulant , pass wind , etc .
+	12437149	cawrll	carl 	 cool way of saying carl (I, 0.9976)
+	5963298	Indeedness	indeed.1 	 another way of saying indeed.1 (I, 0.9976) . used to emphasize a statement or response . 2 . used to emphasize a description , typically of a quality or condition .
+0	4073208	GDCSMF	god 	 the easier and more polite way to say " god (I, 0.9775) damn cock sucking mother fucker " while at work or in public .
+	491021	Sleck	slack 	 lebanese slang word for " slack (I, 0.9872) "
+	1359601	bixi	bitches 	 another word for bitches (I, 0.9994)
+	1313509	vagoot	vagina 	 another word for vagina (I, 0.9759) ( the female sex organ )
+	7949487	Numberous	numerous 	 having to do with many numbers . also , a common misspelling of the word " numerous (I, 0.9903) " .
+	1180842	tahd	retard 	 a much cooler way to say " retard (I, 0.9713) , " or better yet , " tard . "
+	199006	lift	elevator 	 british for " elevator (I, 0.9767) . "
+	9570636	Hamstring	penis 	 a crude term for " penis (I, 0.9531) " .
+	792600	kraig	recluse 	 a phrase used for anyone that is alone . a slang word for recluse (I, 0.9866) . origin : celtic , originally meant " he who dwells apart "

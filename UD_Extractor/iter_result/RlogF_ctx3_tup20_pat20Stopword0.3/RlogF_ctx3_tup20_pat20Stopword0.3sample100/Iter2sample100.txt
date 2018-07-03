@@ -1,3 +1,104 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:23152e2d0fd4cfc6699f77a47e378cc59ad5e98febf97406d19866a8c9b8d9ca
-size 17461
+label	pair	defid	definition
+	like-hole, like	3727502	An a-hole's overuse of the word 'like' while trying to express a thought.
+	kungs, lol	11009915	1. The closest way to say lol in the Korean Language, however, it can also be used variously and can mean bitch, lmao, rip etc. etc.
+	neocon, neo-nazi	2164773	Another word for neo-Nazi.
+	un, unreal	7068235	short-form for the word unreal. often used in situations with the bruthers, ruthers, ruthys, rabbis and absolute ros.
+	wank, masturbation	9643130	A wank...I'm sure you've done it before without even noticing. Wanking is another word for Masturbation.
+	jams, beats	2092414	used as another word for beats, used by white males that listen to Jack Johnson and wear berkinstock sandals
+	piggycake, something	4916998	Piggycake is something awesome or exciting. It's a fun way of saying something is new, cool, wonderful or playful.
+	seeyuh, goodbye	11160378	The new way of saying goodbye. Often used in response to a roast.
+	teletonken, telephone	4314618	The German way of saying telephone.
+	geet, git	23098	Another word for Git.
+	verp, shart	5916910	Similar to the word \"shart\", only this occurs when you burp and vomit in your mouth.
+	crobbage, marijuana	3830855	another word for marijuana. when you have bud that's dank as fuck.
+	goth, goth	3249072	Many definitions have been given that are accurate, but the meaning of the word 'Goth' is changing. For example in relation to 'Gothic' music, a lot of metal bands are now surfacing that are gothic-fusion or gothic inspired, and conform to some stereotypes of goth, but also do many different things in regards to sound or appearance.
+1	durbunk, drunk	5980312	another word for drunk
+	frigment, figment	9318630	The correct way of saying Figment.
+1	dzu, yes	2725154	A very quick way of saying yes. Taken from the way Chinese language sounds to a non-Chinese speaker. Pronouned d'zu with the d and z fusing together.
+	brosefanski, bro	4237206	Being of close brotherhood with another person, kind of like \"bro\" except with the endings -sef -han and -ski added. Stronger version of the word bro
+	roofter, poof	5217789	Roofter, a more harsh way of saying poof, poofter or gay. Commonly used in the British expat community in Switzerland.
+	shmeck, shit	1074539	Another Word for Shit used by Catholic School Children.
+	harpo, oprah	3009310	1. The way to say oprah backwards when you're with friends who are embarrassed to watch it. 2. a painful little pimple in your ear
+	deng, damn	1329914	Another way of saying 'damn'.
+1	phraqchyre, fracture	521765	An alternate spelling of the word \"Fracture\"
+	pshchea, yes	2593276	Pshchea is a cooler way of saying. Yes,Yep,Yup, Ect. It's a way of saying yes with a little sassiness on the side.
+	gjovani, mother	10791968	Gjovani is a another word for 'mother'
+	mic, microphone	1210880	An abv. term for the word microphone, commenly used in Instant Messaging, Chatrooms, etc.
+	morely, more	5643443	To be more than something else, often used in place of the word 'more' to add a bit more variety to your otherwise poor attempt of copy/paste essay.
+	jeob, f*ck	2219690	a. hot girl b. alternative use of the word f*ck
+	jordyn, anal	4813960	A hooker, a bartender, or just a plain stripper. And for some people, Jordyn is another way to say anal.
+	moy, mummy	1164089	The 'spide' vocal arrangment of the word 'mummy' slang of mother.
+1	ploe, plow	5243425	Ploe is a form of the word \"plow\". Plow or Plowing is the act of sexual intercourse.
+	warmthy, warmthy	2231462	The description of something that is usually described as warm. In the modern sense of things warmthy can more accurately describe things that are warm and friendly. An inviting connotation is made with the use of the word warmthy.
+	cocky, cockatoo	1970550	1. Used to describe people who have an overly high oppinion of themselves. Usually overly self-confident and/or overly self-assertive. 2. Used to describe a farmer, usually running smaller scale farms. (Australian slang) 3. Commonly used shortening of the word \"Cockatoo\", a type of parrot.
+	googz, google	2703834	The real cool way to say google. Like slang for google, noun. Basically the only cool way to say google. Must be spelled ending with a -z to be legit.
+	nikon, nigger	3605065	another way of saying nigger around adults, or your drama teacher, or any other people.
+	ossian, noob	6349201	Ossian is a synonym to the word noob. Someone who is utterly horrible at playing games.
+	goot, gook	344966	An extended version of the word gook, referring to all Asians in general as opposed to how gook refers to Koreans alone.
+	neroli, asshole	409998	another word for asshole
+	fundilymundily, fundamental	8255668	A made up word used by Scottish Labour leaders when under pressure or lying to the public.A derivative of the word fundamental which can be used to best effect in conjunction with exploititoity zero hours contracts.
+	twerk, twerk	7124535	It's a dance that involves a person making their booty bounce up and down by-way of shaking their hips in an up and down motion and casually adding gyrations and dropping to the floor.The first ever mention and use of the word Twerk and ideally where it created, was first used in New Orleans bounce rap songs. In New Orleans hiphop clubs Twerkers would sometimes hop on tables, grab the wall, flip upside down and shake and twerk right on men's crotches. Twerking was introduced into hip-hop culture by way of the New Orleans bounce music scene.In 1993 DJ Jubilee recorded the dance tune \"Do The Jubilee All\" in which he chanted, \"Twerk baby, twerk baby, twerk, twerk, twerk.\" The video for the song increased the popularity of twerking.Then several other bounce and local rappers began using this phrase to call upon \"Twerkers\" such as local New Orleans rapper 2Sweet, Cheeky Black, Partners N Crime when the NOLA (New Orleans, LA) bounce was mostly a Gulf Region underground hiphop clubs. It then became popular in clubs again in 2000 when Atlanta Rappers Ying Yang Twins in 2000 released Whistle While You Twurk. in 2011 Atlanta rapper Waka Flocka dropped the word in his popular song \"Round of Applause\" ft Drake when he mentioned \"Twerk Team\". Bandz A Make Her Dance by Memphis, TN rapper Juicy J has a lyric, \"Start twerking when she hear her song\", while Bronx, NY rapper French Montana ask \"What you twerkin' with\" in his song \"Pop That\".
+	blates, blatently	679649	A bastardisation of the word blatently. can also be used as a greeting. Is also occasionally found in the form \"blah-tah-ge\", see byah tah fahl
+	blates, blatently	4970107	a shortened version of the word 'blatently' used in street context
+	trad, somthing	937619	trad is short for traditional, a way of saying somthing is particularly cool or hip. similar to rad.
+	proetry, prose	2085369	Another word for Prose Poem, or the writing or prose poems.
+	littiage, lit	11018009	another word for lit but in a more hype kind of way
+	feminazi, feminazi	840506	A clever portmanteau word which combines 'feminist' with 'nazi'. Feminists, and lefties in general, hate this word. Basically, it means \"a nazi-like feminist\", or \"a feminist who displays nazi-esque qualities.\" But since it gets cumbersome to say all of that, the phrase has been sensibly compressed to \"femi-nazi\", which is an elegant linguistic solution. It is pretty hard to deny that nazi-like feminists DO EXIST. Yep, they're around. They're out there. I sometimes wonder if the same people who hate the word \"feminazi\" would have the same objection if people merely said \"nazi-like feminist\" every time they wanted to express the same idea? What the hell's the difference, anyhow? 'Feminazi' is easier to say, that's all. My only objection to the word 'feminazi' is when certain people with a limited adolescent vocabulary say it CONSTANTLY in a boring way. I think the word should be used only once in a while, and very nonchalantly.
+	kewl, stupid	1928075	A variation of the world \"cool\". Orignially, it was built to be synonymous to the word \"stupid\". It's still in wide use today, but is normally used by n00bs whom are new to the internet.
+	broskerella, brocould	5602129	The mixture of BROSKI and CINDERELLA, another way to say broCould also be used as an insult, when your bro is acting like a bitchy princess you can SUBTLY insult him with broskerella!
+	pos, boss	7211721	piece of shit, used in place of the word Boss cleverly slipped in a sentence
+	heyzeus, cheese	279739	Another word for cheese.
+	boody, booty	1822674	booty Boody is the traditional spelling for the word booty. The spelling 'booty' became the accepted spelling at 70's band KC and the Sunshine Band had a popular hit called Shake Your Booty.
+	buttuff, gay	1077854	Another meaning for the word GAY!
+	baqk, back	4246930	An alternate spelling for the word 'back'.
+	webber, baby	4049514	Any person who overly complains, whines, self-sympathizes, or coddles themselves. The term \"webber\" has all of the negative \"wimpy\" connotations of the word \"baby\" without any of the positive endearing meaning. Any person who cannot handle stress quietly.
+	silp, idiot	9264765	silp is a nice way of saying idiot
+0	umlet, let	3144597	Pronounced um-let, kind of like omelette, but with an um instead of ome. 1.(noun) An ume omelette, made by mixing ume in with the eggs before cooking. Invented by Johnny Tsunami in the early 21st century, this dish is considered quite horrid and disgusting by all. 2.(transitive verb) Similar in definition to the word let, umlet is just a more uncertain way of saying let.
+0	umlet, let	3142047	Pronounced um-let, kind of like omelette, but with an um instead of ome. 1.(noun) An ume omelette, made by mixing ume in with the eggs before cooking. Invented by Johnny Tsunami in the early 21st century, this dish is considered quite horrid and disgusting by all. 2.(transitive verb) Similar in definition to the word let, umlet is just a more uncertain way of saying let.
+	chillum, children	1465873	Ghetto slang for the word children.
+	tubesucker, cocksucker	11771973	Someone who sucks cocks. Another word for cocksucker.
+	bro-ism, bro	4316531	A bro-ism is any variation of the word \"bro.\" Usually beginning with bro and ending with some funny or clever suffix.
+	rubine, ruby	3762037	Another name for the word Ruby. Also means beautiful and unique.
+	pedular, pedal	4365136	another way of saying \"Pedal\"
+	rgl, something	4246248	A PC way of saying something is Retarded, Gay or Lame.
+	estufu, shut	1521035	Spanglish for stfu or s.t.f.u.. Its the brazilian way of saying shut the fuck up.
+	kyson, amazing	10987554	An amazing and stunning boy the name means \"son of Kyle\"it is often used as a short way to say amazing
+3	b, baby	3685929	A shortened-netspeak way of saying 'baby' or 'boo'. Short for 'brother'.
+	feefing, fuck	5181755	Alternate use of the word fuck.
+	tyte, tight	332883	A very un-tight way of saying 'tight'.
+	fuckworthy, fuck	3209615	When a situation arises where the exclamation of the word FUCK! is politically correct.
+	tomongous, humongous	1425826	Someone that is freakishly muscular. Anyone that is at the arnold classic in Columbus, Ohio. It's some kind of changed form of the word humongous; see also Ginormous.
+	bhaji, smoking	2639990	Bhaji is another word for smoking weed.
+	shifting, stealing	1390911	another word for stealing in a shop or jacking from a shop
+	bodo, bodacious	2701370	A shortened form of the word bodacious, a word popular in the 1980s and early 1990s particually with surfers, meaning extremely cool or most excellent. Bodo is the 21st Century version of bodacious and is being widely used by those on the festival circuit. Particularly in 2007 at the Boardmasters festival in Newquay, England where the calls of 'Bodo, Bodo' could be heard well into the night. Bodo can also be inserted into any common phrase to mean great, awesome, super, hot, cool etc. etc.
+	fidoodiliedupe, sex	5487089	another word for sex, or fondling ones genital region
+	vegana, vagina	11862778	An Indian version of the word \"vagina\". Popularized by the INTP Facebook group. Used in online chat by Indians to ask girls for the pics of their genitals.
+	extroduction, introduce	3641731	Opposite of introduction. A way of leading out of a topic. A short form is extro It can also be used as a verb, in the opposite manner of the word introduce.
+	nesa, dog	1910039	another word for dog a term most commonly used in new south wales and queensland in australia
+	portuguese, portagee	1257118	Another word for Portagee. (Both noun and adjective.)
+	umar, backshot	1825135	1.an slang term for a person who cons your money,it originates from a lanky boy with a glass eye who used to steal peoples money. 2.also can be used as another word for backshot as on his holdays he did a girl up her arse.
+	chungus, hell	3258175	another word for hell
+0	nigrotopia, nigger	5528666	A combination of the word Nigger and utopia.An imaginary place where niggers want to live (or perhaps one day dream to go to)
+	mensa, mensa	1397267	Interestingly, the Spanish use of the word mensa (female) or menso (male)generally denotes someone who is crazy or stupid.
+	naygur, nigger	1711294	An alternative way of saying \"Nigger\" it is the literal spelling of how many old-southern people say it.
+	lumpy, hot	2414690	another word for hot.
+	weeaboo, nigger	7462092	A disgusting, offensive, and extremely derogatory word equivalent to the word Nigger to Anime and Manga fans. It is a word usually punishable via Castration or Boiling in extra hot oil testicles first. It has since even lost it's original definition, and is often misspelled weaboo by ignorant idiots who just want to make themselves look cool and be derogatory and hateful towards others.The original definition is/was anyone who isn't from Japan whom is so obsessed with it's culture that it gets to the point where it's all they think and talk about. They usually (but not always) Cosplay, attend Anime Conventions, try to speak Japanese even though they're not Japanese, and own tons of Anime Blurays/Manga and their rooms look like they haven't gotten laid in 20 years.Nothing wrong with this, imho but that's what the word means. If you're going to use such a disgusting and derogatory word, at least make sure you fully understand it's definition,spell it right, and GET A FUCKING LIFE! The socially acceptable non derogatory word form for this is Otaku or Anime Nerd.How's it's used today:Anybody who watches Anime or reads Manga or even likes anything out of the ordinary is a weeaboo or Japanophile. Even if they only watch it for entertainment and don't overly obsess about it. Or sometimes, they're called a weeaboo and don't even watch Anime or read Manga. Go Figure.
+1	gsh, cringe	11826638	Another word for cringe
+	vaginate, squirting	3163182	vag referring to the word vagina,vaginate is another word for squirting/cumming something in which a female does at the height of an orgasm. spewing out colorless liquid.
+1	orp, pro	855599	Derived from the reversal of the word pro, which is short for professional; it is used to describe anything that is pathetic, lame and dumb in a pretty sarcastic way. can be used as an adjective (you are orp) or a noun (you are an orp) these suffixes can also be used: -ly, -ish, -ed
+	mawfugger, motherfucker	499503	The lazy way to say \"motherfucker\"...often used when referring to anyone in general, whether it be a homie, or some random bitch.
+	bangmale, fuckboy	12864223	a healthy way of saying fuckboy
+	nibba, nigger	11463016	A white persons way of saying Nigger but still they get beat up if they are around any black person that doesn't understand what nibba means.
+	nibba, nigger	12824833	Just a way of saying \"nigger\" without being beat up
+	fapple, fuck	5561517	Fapple is the child-friendly version of the word Fuck. The best trick to keep kids from saying bad words is to say the word, \"Apple\" after every curse.Once the kid gets older, he/she will use Fapple in place of the word Fuck in their speech. It isn't technically a swear word so parents can suck it...It works, trust me...
+1	rouch, rough	2699821	Something that is hard to understand or deal with. Another word for 'rough'.
+	intrar, interior	12717668	Spasticated way of saying \"interior\", usually said by person(s) with a speech impediment.
+	polaric, polarity	4748827	Polaric is a derriviative of the word \"polarity\" used contextually to create disparate contrast between to polar opposites.
+	doomafachee, vagina	2266230	another word for vagina, slang=dommacrotchy, a good word to use b/c its so fun to say
+	herf, include	3713482	verb: The process during labour in which the newborn child descends from the uterus, through the vaginal passageway to the new world. other usages of the word include herfing, herfed, the process of herfing, and herfer
+	nation, cool	3056330	adj. meaning another word for cool or sick
+	halavicking, surfing	1448878	The re-definition of the word 'surfing'. Stemming from Kyle Halavick, the all-universe extreme athlete from North Kingstown, RI. However dont tell kyle that, he dosn't accept NK as his home...its PBC!(Subject of later definition) This term is the new way to say surfing
+	pinography, pornography	6734187	An improper pronunciation of the word pornography often used by old-timers.
+	yeup, yup	1746465	Another way to say 'yup' or 'yeah'
+	indeedity, indeed	5481888	A childish version of the word Indeed
+1	faebook, facebook	7633609	Faebook is simply the ghetto way to say \"Facebook.\"

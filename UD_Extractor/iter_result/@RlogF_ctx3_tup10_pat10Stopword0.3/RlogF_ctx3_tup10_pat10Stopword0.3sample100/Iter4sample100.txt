@@ -1,3 +1,115 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3474a495481e49f3106349929698a9d8c6ca2531913c7c8c471205e31ae01295
-size 20954
+label	pair	defid	definition
+	metallica, awesome	5204118	A synonym for the word \"awesome.\"
+	swagfag, swag	7081196	A person who gets their dressing inspiration from god forbidden rappers like Lil wayne, 2 chainz, Drake, & the list goes on. They think these rappers are intelligent & can dress themselves. When in all reality, they all like stupid as fuck.Swagfags go around blasting Lil wayne in their cars, iphones, computers, everywhere. & you'll know its Lil wayne when you hear sirens & the word \"nigga\" 100,000 times in a row.The typical Swagfag wardrobe consists of snap backs, skinny jeans - that they sag to their knees, shoes that match their outfit, & tee-shirts that say the word \"swag\" over and over. Because they have to let the whole world know that they have swag by wearing the god damn word on their clothes. They also say \"swagggg\", \"yolo\", & \"ratchet\" every 5 seconds, & when they type they use q's for g's, i's for y's, & a few more. (example- cant touch miii swaqqqqqqqqqq)We should use Swagfags to test new products instead of innocent animals. These are creatures that need to be forbidden & removed from this earth.
+	deer, nigger	4161334	common misconception for the word \"nigger\"
+	fre', cigarette	3073050	pronounced \"fray\" shortened version of \"freshman mafia\", another word for cigarette. family meanings: frshman (fre'): cigarette sophomore (sopha): gold & mild junior (jr mob): black & mild senior (scene): cigar
+1	eltse, else	7722886	the improper pronunciation of the word \"else\". compare to \"altso\" for the word \"also\"
+	kori, thus	1973153	noun - (pronounced ko ree)perfect; perfection in every sense of the word thus more complicated than life itself
+0	darry, darrylick	3915981	a derrivitive of the word \"darrylick\" which means a stupid person. aka a idiot.
+	pountiownis, bitch	8356361	A very powerful version of the word \"bitch\". This is a swear used in very intense arguments and descriptions
+	ginnie, really	3399191	1. Noun - referring to genetically predisposed failures with large foreheads who have an irrational fear (phobia) of coherent language. Patients with this disease generally find security through lewd sexual intercourse with objects which resemble giant phalluses. 2. Verb - a spasm induced similar to that of an epilepsy, which is induced by an attempt of an autistic brain to process anything beyond 1 + 1 = 2; this type of spasm is characterized by repetition of the word \"really\", following rapid arm-flailing and the release of hormones, which further fuel rapid forehead growth, symptomatic of the disease described in definition 1. 3. Adverb - to dirty sanchez. 4. Adjective - an intrinsic quality of an extremely receding hairline, offset with repeated daily hair implants.
+	contransmagnificandjewbangtantiality, indicate	6112765	A word invented by James Joyce and used in his Ulysses. The word may be broken into parts to better understand its meaning:con-trans-magnific-and-jew-bang-tantialityThe \"-tantiality\" is just a suffix for \"con-\" and \"trans-\". The \"con-\" refers to consubstantiation, the belief in Catholic theology that the father, the son and the holy spirit are all of the same substance but each presents in a different form. The \"-trans-\" refers to transubstantiation, the belief in Catholic theology that during communion the bread and wine literally become the body and blood of christ; the mundane is transformed into the divine. These two first parts of the word indicate that the word has to do with the intersection between the divine (god) and the mundane (humanity), or christ. The \"magnific\" refers to the magnificent, the divine. The \"-and-\" simply refers to the word \"and\" and the \"-jew-\" refers to a Jew, specifically Mary. The \"-bang-\" is where things get tricky and we see a bit of Joyce's (slightly blasphemous) humour: in one sense, \"-bang-\" refers to a collision between the divine and Mary (christ). It also refers to sex; Mary is impregnated by the divine and out of this tryst christ is born. Joyce intentionally juxtaposes sexuality and the virgin because he both believes that all human activities are beautiful and deserve to be represented in literature and because, in order for christ to have a human mother and a divine father, he must have blood from both.
+	poss, positive	1939548	Cool, Chill, Rad, Dope, Awsome... Short for the word \"Positive\"
+	maen, mine	887014	a word used by bad spellers in place of the word mine
+	looooool, something	8416193	Typical way of saying something is funnier then lol. Like when riding on a scooter
+	sibbar, sister	5591452	Sibbar can be used in the place of the word \"sister.\" It means the same, only it's 10x more fun to say. Especially if you say it with an annoyingly long \"a\" sound.
+	shiv, poop	2093377	noun: another word for poop, crap, feces; an exclamation for something unusual, wondrous, or craptatious.
+	fost, crazy	8331348	another word for crazy awesome
+	aniki, bro	6067863	another word for bro as seen in a webcomic about an anime frat
+	chellious, bein	3757290	another word for bein jealous of a chelsea!
+1	cornder, corner	4160579	An incorrect pronunciation of the word 'corner', usually used by poorly educated African Americans from the Central City ghetto of downtown New Orleans, it has expanded in use to almost all AA communities in the New Orleans area.
+	luvbubbs, bubbles	3711391	The warm feeling of loving someone when it's way too early to acknowledge it, even to yourself. Used in a context where you might be made fun of by your friends for being a pussy, so you try and soften the blow. From the slang \"luv\", and an abbreviation of the word \"bubbles\".
+	f.u.g, fuck	3866219	Acronym for Fat Ugly Goat (or Fat Ugly Girl). A General insult, usually used against females, that can also somehow be used as a replacement for the word \"fuck\" in the phrase \"fuck you\" (althought the mechanics of it dont quite work) Also can be used to replace \"bitch\"
+	slus, women	1249148	Another word for women derived from the word Slut, instead of being simply a hore, a \"Slus\" is more conservative and attractive. While not slutty the \"Slus\" has a good time and is always welcomed at parties. Because most women dont know the word \"Slus\" its ok to speak around them. Plural is also \"Slus\".
+	bimbet, bimbo	1624216	Another word for bimbo. A small attractive young woman or man that lacks brains.
+	aksed, asked	3641041	common mispronunciation of the word asked
+	metro, subway	1286309	1. the montreal way of saying subway, as in public transportation 2. a grocery store
+	baker, creeper	5103263	verb. when a person either adds, comments on a status or picture of someone they have no idea who they are on Facebook. This is often a synonym for the word \"creeper\".noun. A picture of someone, normally fat, who takes a picture of them self with their webcam trying to look huge when they clearly aren't in real life.
+	knab, noob	4154148	1. A knab is the past tense of of knub, which is a nub with a silent K added - which is a bastardization of the word nOOb, which in turn was derived from the word newbie which means one who is inept at one or many things.Often a Knab is associated with wee little lads who enjoy bland foods without sauce. They also have a distinct aversion for triscuits. Their favorite hobbies are poker, street fighter 4, and often just knabbing around with their knabmigos.
+	swy, sorry	2977426	short for sowwy, which is another word for sorry(which can also be used as sry). mostly used in text messaging.
+	vaytion, starvation	20834	Shortened form of the word \"starvation.\" Most often said when one is expressing extreme hunger. -vayt -vayting -vayter
+	cormier, elbow	4903154	another word for elbow,
+	skunch, bunk	290455	1. A type of canned food popularized by Mission Hill. 2. Junk, bullshit 3. Replacement for the word \"bunk\"
+	wat, what	102344	A variation of the word \"what\". The word what is purposely misspelt to show dyslexia and stupidity. It can also be used as a lazy form of the word \"what\".
+	wat, what	3877884	Another way of saying what on message boards. Similar to wut
+	frijjle, fridge	3773211	note: pronounced in all definitions like a combination of fridge and nipple 1) a male farm worker (usually of Mexican or mestizo descent) who commonly wears a large sombrero for shade and in some cases has a very a thick mustache; in this definition it can be capitalized as Frijjle 2) someone who is skilled at making beans 3) a person of Latino or mestizo descent 4) a hoopy way of saying fridge; can also be said the long way as refrijjlerator
+	disretard, disregard	4229437	A modification of the word \"disregard\" which signifies that the reason people should disregard something is tied to retardation.
+	grit, cum	7757457	To cum To ejaculate semenORcum (noun for semen or orgasm)Originated in Montgomery County in the DMVJust a fun, more original way of saying \"cum\"
+	idiotic, stupid	1834122	Turning the word idiot from a noun to an adjective. more fun way of saying stupid
+	idiotic, stupid	1845023	Turning the word idiot from a noun to an adjective. more fun way of saying stupid
+	cha, charlie	1732264	Shortened form of the word Charlie referring to cocaine.
+	kong, penis	378487	a slang word for the word penis. Mainly used in front of teachers so the teacher doesn't know what you're talking about. see; penis, dong, cock, penis, wang
+1	flow, money	4844251	Another word for money.
+1	flow, money	828644	another word for money or dough
+	rise, hello	5620909	a beautiful girl that dosent care what other people think of her, she is not afriad to do something embarassing in front of strangers to people she loves and are verry close to her. she has tones of friends and wont let alot of things get her down. she is verry rarely single but when she is and someone breaks her heart she is sad. but the next day she will realize its okay to be single. she will not lie and is verry random. if you ever find a rise keep her close and dont get scared if shes random and loud, its her way of saying hello. if you ever piss her of she will (as she does often) tell you to go read a book, preferably her book!
+	stoneth, stoned	12786554	A variation of the word stoned, used to express the feeling of being very high.Adam : That was an absolute fathead that we just smokedTom: Yeah I feel pretty stoneth right now
+1	petifile, pedophile	458993	Mispelling of the word PEDOPHILE.
+	slawshed, sloshed	2430880	variant of the word Sloshed sloshed drunk
+	geeja, geezer	2793912	A derivitive form of the word \"geezer\" used to describe males in a typical way. Used heavily by students at a certain grammar school because of one individual. This is also true for boie- a way of describing people of any gender. Copy cat forms of the words includ- geejaboie, geeeeeeeeeeeejaaaaaa,, boieeeeeeeeeeeeeeeeeeee,
+	branned, cunt	3567693	1. Completely and utterly retarded 2. Severely fucked up 3. A stronger way of saying 'cunt'
+	corn, cornhole	832351	A shortened version of the word cornhole
+	orientated, oriented	1617254	The illiterate way to say \"oriented.\" While technically a word, you sound like a moron when you say it.
+	muhfucka, motherfucker	1218123	the funniest way to say motherfucker
+	yoh, yo	3435588	If i were to discribe it. Another way of saying yo, but much cooler, and more 90's rap kind of way to say it too. I said it one day, and now it's practically my catchphrase!
+	viscous, vicious	3681192	(Visc-wuss) It is a different pronunciation of the word vicious, when something is particularly vicious you say (visc-wuss) to emphasize it
+	dolt, dork	2875267	A retard, who laughs kinda stupid, or makes common mistakes upon acting. Also can screw up while doing simple tasks. Another word for \"Dork\", or \"doink\".
+	ahhsome, awesome	2009834	A more enthusiastic way to say \"awesome\".
+	schmades, goodbye	2721967	An informal way to say goodbye.
+	tfosiliciousness, tfos	2780921	You enter a state of TFoSiliciousness when you embark on the jorney to balance your inner landscape, and becoming a TFoS, thus escaping the void of Mainustureemu. This cannot be taught by anyone, you must figure out how to acend to this state by your own, for the jorney is never the same for two people. Leading TFoS, however, agree that all jorneys to reach TFoSiliciousness must start by understanding of the true meaning of the word TFoS.
+	gnarshmallow, gnarly	4968337	a version of the word gnarly: also a word used in substitute to patronize or insult intelligence of fags who say \"gnar: an over exaggerated word to describe the level of \"gnarlyness\"
+	funk, fuck	3575801	to make love, have sex or fuck. not just any substitute for the word fuck, but a euphemism for sexin' and sexin' solely. Used most amusingly when watching a movie or a television show and calling out a couple who are just kissing.
+	funk, fuck	1818813	a substitute for the word fuck say funk *blank* if you are in the precence of women, childeren or parents
+	stupod, stupid	1134659	A different pronunication of the word stupid. Originally a pronunication of stupid by Dexter in Dexter's Labratory. He repeats \"you are stupod, you are stupod\" many times.
+	ippy, trippy	3704503	1.) Ippy is another way of saying trippy. Only it's a less tweaked and more spaced-out, and awkwardly neurotic feeling like your outta place. 2.) Messed up. Weird.
+	tomarrow, tomorrow	2583702	An increasingly common spelling mistake. The bastardization of the word \"tomorrow\". Using this spelling of the word you learned in third grade shows that, indeed, you still belong in the third grade.
+	tomarrow, tomorrow	5149967	the dumbass version of the word tomorrow normally used online
+	p'wned, owned	1467809	Intentional or unintentional misspelling of the word \"owned\". It is used primarily as an exclaimation by those that bear witness to someone getting put down or abused to a degree that the victim is humiliated.
+1	p'wned, owned	1465698	p'wned, also see owned. To p'wn is to own someone although it has a more elevated level making the statement more harsh. This word came around after an accidental typo of the word 'owned' and has since embedded itself into our online language.
+	smofroflol, lolpronounced	4105323	a funny or over excited way of saying lolpronounced ( smof- rof - lol)usually spoken twice
+	sneiks, talk	3104143	A word which is used in Norway to say talk to you later. \"Snakkes\" is the Norwegian word, and is kind of similar. It is common to end unofficial messages (such as texts and instant messaging) with the word \"sneiks\". The word can also be used verbally to end a conversation. After the movie \"Snakes on a Plane\" it became popular to use differnt twists of this word such as \"Sneiks on a Plane to Bermuda\" (very dry humor).
+	minor, fine	3657382	A way of saying fine; no problem.
+	kepyas, vagina	539667	another word for vagina salitang skuwater na ibig sabihin ay pekpek
+	click, getting	5014973	A clit lick.The equivalent of a blow job for girls.Another way to say getting head, getting face, being eaten out, for women since it combines \"clit + lick\" into click.
+	awesomeriffic, awesome	2926064	The greatest form of the word awesome and teriffic.
+	awesomeriffic, awesome	2926063	The greatest form of the word awesome and teriffic.
+	fapper, fap	5310667	This is another usage of the word \"fap\", which means to masturbate. There are three distinct levels of fapping. A Fapper is someone who spends a part his day fapping. The Fapper probably faps at least twice a day. Of the three levels of fapping, a Fapper is the lowest level. This is a person you should avoid shaking the hand of some of the time.
+	elaborate, gay	2453556	a nice way of saying gay
+0	hobola, hobo	3322353	A derivative of the word hobo meaning a homeless person who bowls and eats large quantities of chicken noodle soup.
+1	azzizle, ass	3654878	The new gangster way of saying \"ass\", commonly used by gangster kids everywhere. Including the ones that think they're gangster when they really aren't, but just try to prove themselves otherwise while epically failing.
+1	sped, speed	551973	Txt version of the word \"speed\", as used by Tom Cruise in the follow up to Top Gun (\"Tp Gn 2\")
+	certitude, certainty	7574860	The scientific version of the word certainty
+	everythink, impossible	5217732	It is the arch enemy of the word impossible. It is used by free thinkers to say nothing is impossible. It is a bit hard to grasp for the unthinking majority.
+	woned, woned	2322416	The history of the word Woned Spans Thousands Of Years, to befre the age of Jesus of Nazareth. Judeans used to use this word to describe things with huge genetailia, or Inbred looking Faces.
+	howeva, however	742851	Stephen A. Smith's the ABC/ESPN Analyst way of saying \"however\"
+	lates, goodbye	4336593	Probably the coolest way to say goodbye
+	lates, goodbye	61686	A chill way to say goodbye for those who are to lazy to finish the word Later.
+	ignant, ignorant	5275654	A slang term short for the word ignorant commonly used by black youth. The term is almost always misused and is synonymous with the words dumb and stupid rather than actually meaning ignorant. I most cases, it is preceded by the words 'yo' and/or 'mad.'
+	ignant, ignorant	944201	It is an abbreviation of the word ignorant.
+	ignant, ignorant	7245995	An abbreviated form of the word \"ignorant\" -adjective1. Lacking in knowledge or training; unlearned: an ignant or ignorant man.2. Lacking knowledge or information as to a particular subject or fact: ignant of quantum physics3. Uninformed; unaware4. Due to or showing lack of knowledge or training: an ignant statement
+	ignant, ignorant	8095387	The ignorant way of saying ignorant. Misspelling it purposely shows the added ignorance and irony.
+	ignant, ignorant	867423	The ignorant way of saying ignorant
+	floo, fuck	1563170	An uncommon way of saying fuck.
+	sheeshing, smoking	8613914	Another word for smoking hookah, mostly used in and probably originated in santee, California.
+0	shawiggapop, something	2343898	A better way of saying something is cool! made by David! and Matt Welsh??
+1	longy, long-cock	12383684	The short way to say long-cock. Contrary to popular belief, a long-cock is not someone with a large penis, but an \"uncool\" follower of protocol, or someone who never breaks the rules. In the first-person war game Arma 3, there are many examples of longies such as Ignis, Dante Fluery, and Deadpool.
+	poncho, condom	9486157	Another word for condom
+	slub, slub	6128318	Slub is the word to a girl who is slutty and chubby.Slubby is the adjective form of the word slub.
+	droogha, droog	2808681	Meaning freind, it is a combination of the word \"droog,\" (found in clockwork orange meaning freind) and the workd mija. Coined in NM.
+	jus', just	222184	Cool way to say 'just'.
+	paithc, paitch	1236836	The mispelled form of the word Paitch.
+	surry, sorry	3547957	A cooler, more hip version of the word \"sorry\".
+	bi, bitch	1094913	short term for the word bitch
+	damn, damn	938624	1. Damn is a word that defines a annoyed expresion. 2.another word for damn is dang, and fuck.
+	damn, damn	4825081	when someone gets on your nerves so bad,u say the word damn.u can also use this word when sumthin that u wanted 2 happened,but took the wrong turn
+	sphincterific, something	1579984	A sarcastic way of saying something is not so good.
+1	trog, fuel	4468341	Another word for fuel, ie diesel, petrol, gas
+	nagada, saying	6520540	Another word for saying \"No\"
+	glazed, roasted	2701651	Another word for Roasted or Juiced
+	bidiot, idiot	6272391	The show works up three freaking months just to censor the word \"bitch\" but so far they've only gotten to \"b\". So they would censor that whenever it comes along. Of course some fearers outsiders and overprotecteds fear to say the word \"idiot\" so they're final (and possibly first) loophole is \"Bidiot\". But they would censor the \"b\" so they would think they would say \"fucking idiot\" due to the sound of \"*idiot\".
+	emolezzier, emo	948864	A mixture of the word \"emo\" and \"lesbian/lezzie\". Meaning, an emo lesbian.
+	merkin, vagina	2208644	another word for vagina wig.
+1	cola, coke	940093	Another word for coke...the drug
+	okies, okay	542484	A less formal way of saying Okay. It is given as a cheerful, bright... less intimidating response. It is also more used online rather than irl.
+	okies, okay	788351	A word deriving from the English word Okay. Many gay people use this form of the word \"okay\" just to put more emphasis on their homosexuality. Girls use it too. They are often activists for homosexuals.
+	sockology, strum	1488706	The study of giving sock or sock like properties to an object or person. Objects with these sock like properties are identified with the use of the word strum on the end of the word. (Derived from the superhero Leibstrom)
+	kunted, cunt	2565371	A slang term for the cussing bastardisation of word kunt. An ephemeral use of the word cunt in a frustrated, disappointing or casual fashion.

@@ -1,3 +1,112 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a5a7e020d574c2a48eb7b29e6e57d8e247a810b25870b47fe20a83f515ca03bd
-size 18620
+label	pair	defid	definition
+	para, instead	1391362	paranoid(short way to say instead of sayin it all) it defines the sentence but u dont say it as paranoid the person u talk to has to undastan the sentence
+	sukme, fuck	6214113	another word for fuck off
+1	grease, butter	1102492	another word for butter or margarine. Originated by my grandfather, who's from the London area.
+1	carnt, cunt	995316	Another word for cunt, used often in whatnet channels by drug users <3
+	brubru, can	5302562	There is no exact definition of Brubru. The meaning is interpreted as a nonsensical term of friendship or endearment towards a person of Orient. Perhaps a few loose meanings would be; little Asian brother, best Asian friend, and cool Asian guy. The context of the word can also be change within the phrase it is used.
+	wewack, and	3218774	Wewack is a term used to define a retarded person. It is not a polite word. People often screw up their faces when they say the word and bang their knuckles together in a spastic fashion. A Wewack is genetically different from mainstream humanity due to a difference in their chromosomal makeup. The word was first derived from a school in Australia called \"Wewack school\". The school catered for special children, of which many (or all? )were children with Down Syndrome. The term \"wewack\" is most commonly used by people who live in the vicinity of wewack school. When saying the word \"wewack\" intonation should be raised for \"We\" and lowered for \"wack\"; also, the \"e\" sound is often stretched for emphasis.
+1	toot, cute	4882528	A way of saying \"cute,\" in a much cuter baby voice! Toot is a slang primarily found in Maryland and surrounding regions. It is very special in its usage, specifically occupied by girls who attend VT or Towson.
+1	plesh, pleasure	9497597	A shorter way of saying pleasure
+1	yep, yup	4882589	The incorrect spelling of the word \"yup\"
+	ipot, ipod	2788722	Another way of saying iPod Touch. Apple's latest generation of the iPod.
+0	clopper, pony	6858449	A small portion o the Brony community who makes, supports, and watches 'clop.' 'Clop' is another word for pony porn.
+1	twink, white-out	5734998	new zealand way of saying \"white-out\" or \"tip-ex\" whatever u call it
+	hood, hood	8605217	meaning from the \"hood\" a slang term derived from the word neighborhood, which is commonly used in lower class urban aread among thug types and gangsters. example: boyz in da hood. a common phrase used is \"I'm so hood\" the website hood1.com centers around this definition of the word hood making light and fun of ghettoness and such
+3	poops, sucks	3922639	an adjective meaning not good. another word for sucks. garbage
+1	beauchene, faggot	10204296	A french insult. Beauchene is a direct slang for the word faggot. It can even, in harsher cases, mean the partner recieving the ass fucking in a gay relationship.
+1	hamster, pussy	4466786	another way of saying \"pussy\" , \"twat\" , \"cunt\" and good old vagina
+1	ftw, wtf	1719224	"Spelling: FTW (1)English Translation: Fuck the world. /phrase(statement)/ -\Often used to express a feeling of depression/unacceptance/frusteration. (2)English Translation: For the win. /phrase/ /adjective/ -\A term which can be originated to a popular game show \"HollyWood Squares\" when , on the final move contestants would announce their move was \"For the win\". -\Used oftenly when giving importance to a specific noun.(ei. \"My computer, FTW\") Thesaurus: -is better -beats -pwns (3) English Translation: What the fuck? Originatiton: WTF, \"l33tsp33k\". /phrase(question)/ FTW: Intentional spelling error of the word wtf to emphasise confusion and bewildredness. (WTF: See wtf)"
+1	ftw, wtf	2829150	It's another way of saying WTF. WTF= What The Fuck FTW= Fuck The What
+	klrse, kl	6060271	A phrase you use after some makes a retarded claim. It is a mix of the word kl and course.
+1	kewl, coo	1022766	A White person's prononciation of the word \"cool\" Where the two o's are made to sound like \"ew\". As opposed to the correct way to say it, which sounds similar to the word \"coo\"
+	fuentes, a	2644278	adj, a 1.to describe utter sexiness 2. another word for a fountain
+1	casuap, bastard	4235812	noun: another word for bastard, created when T9 word is unable to suggest the slander that you are clearly trying to spell.
+	buckchoi, you	1786065	replacement for alot of words. Just another word for you not to get in trouble with swearing. replace the word with buckchoi i just made up the word from bok choy but this is how i say it
+1	monkey, penis	104217	Another word for penis.
+	fife, future	5268690	Better way of saying future wife, on account of fiance sounds gay and French.
+	rocketskates, was	3278864	The rapid body movement of a Halo player after swinging a locked-on Energy Sword. The movement often causes much frustration to other players (namely those who were minding their own business 20 feet away), and therefore a terminology of the word was invented.
+1	spics, speak	706240	Used as an offensive term towards hispanics, makes fun of their pronounciation of the word \"speak\".
+1	hai, hi	11464645	A very \"ODer\" (Online Dater) way of saying hi.
+1	hai, hi	6427531	gay way of saying hi or hey
+1	hai, hi	6224237	Cute way to say Hi. Looks so cute compared to the regular, hi or hello.Usually used for typing, but can also be said outloud. (H-i-ah)
+1	hai, hi	9759931	a cancer way to say hi, usually said on roblox
+1	hai, hi	4448687	A cooler way to say hi or hello. Originates from an Asian culture.
+1	hai, hi	995760	Husein's gay way of saying hi
+3	hai, hi	12198644	Hai is a funny way to say \"Hi\" or \"Greetings\".
+1	hai, hi	4099355	1. A Vietnamese common male's name.2. A weird way of saying 'hi' in English.3. Japanese for saying yes.
+1	hai, hi	5359708	A FOBby way of saying \"hi\" or \"hello\"
+	tbhz, needs	5653220	When pronouncing the common internet slag acronym \"To be honest\" (Tbh) the word sounds like tbhz.Also during the creation of this word it was coined as a nick name for a work colleague, Natasha. This version of the word needs to be capitalised.
+	pauta, you	9248839	The puertorican way of saying you have many followers on social media.
+	techmology, technology	1488626	noun. A derogatory and purposeful mispronunciation of the word technology used to describe something that has impressed a person of lesser technical knowledge in order to show just how lame they are.
+	squoozed, squeezed	2842716	Past tense of the word squeezed.
+	foolay, fool	5171069	Somebody that has gone completly off the scale of the word 'Fool' in their stupidity or ridiculous act of trying to be awesome. Usually used as an insult but can be used as a joke when someone was just a bit embarrassing.
+	trampalating, is	4029762	Trampalating is a adjitive to discribe anything that you want. It is a word that replaces any adj out there, the meaning of the word is discribed by the expression on your face or the body language you use. It is a word that you would use to discribe something that you are saying in a positive matter.
+	iain't, i	5193824	A combination of the word \"I\" and \"Ain't\". Used by the popular commentator, SeaNanners.
+	i/ser, because	2545898	An active user of the Ideas/Suggestions neoboard of Neopets. This person uses this neoboard MORE than the other neoboards. This person would even consider I/S as their online home. A true I/Ser would not make a big deal about how popular they are, how many best friends they have on the neoboard, and would respect all other users on the neoboard unless the person is being rude, inappropriate or annoying to them JUST because they are probably jealous of how much attention the I/Ser gets. There are many types of I/Sers. Some I/Sers go on everyday all day. Some of them go on once a week, once a month, a couple of times a year but they always go on I/S for a revisit most of the time and not some other LAME neoboard. I/Ser is basically someone who MOSTLY goes on I/S and they don't always have to be well-known there but they usually are for some reason. But I/Sers don't call themselves I/Sers because it is cocky and rude and everyone has a chance to become great friends with everyone on I/S but they ARE known as I/Sers... Many people would probably not even agree with this definition because they probably want more attention and want some sort of power at I/S or they just don't like me or don't like anything I am saying but what I am saying is the truth, the origin of the word because most people don't remember how the neoboards used to be and now they think they can act whatever way they want and rule the boards and that is not being an I/Ser. I am just simply reinstating the truth behind the whole thing.
+	fmell, with	1458500	1.The word smell, as mispronounced by a nephew named Zehn, substituting the distinct 's' at the start of the word with a rush of air from the nasal cavity resulting in the amusing 'fmell' word. 2.Amusing replacement of the word smell, to be used liberally in everyday conversation.
+	scrammble, a	2596937	Scramm + ble = scrammble. It's another word for a scram, just another way of saying it.
+	bonjevity, smooth	11464475	The perfect match for the word smooth. Finishes the short sentence perfectly.
+1	tuttoo, shit	6162190	another word for shit/tutti
+1	ahain, again	6328428	A misspelling of the word 'again'
+1	spizel, giz	1149996	Another word for giz or cum.
+1	vaginazi, vagina	1089319	Vaginazi ADJ. combination of the word vagina and Nazi. Used to describe woman who sees their possession of a vagina as a reason to unite against those who don't have one. can be found lurking around poetry readings, art galleries, and other artsy fartsy gatherings. WARNING: vaginazis can not be dealt with reasonably. They host concerts such as Lilith Fair where they recruit more vagithugs into their numbers.
+1	jankady, ghetto	1344399	another way to say \"Ghetto\" or messed up.
+	pax, it	1550630	To correct other people's statements with your own 'way of saying it'.
+	kunt, kunted	2565373	Similar to the word kunted and kunty; thus another expression of the word cunt in a familiar and jovial manner...
+	squeeze, dick	5984786	noun. (Shorten version of the word Dick Squeeze) a male who is generally unpleasant to be around because he constantly tries to prove superiority through random acts of stupidity.
+1	chron-sauce, pot	2856448	The tightest way to say pot, marijuana, ganja, chronic, bud.
+1	caked, drunk	24734	when you drink alcoholic beverages untill that you feel intoxicated. Another word for drunk.
+1	dambo, dumb	298638	Is a variation for the word dumb.
+1	dojee, weed	2472319	Another word for weed
+1	shero, hero	2720746	A man or woman who fights for women's issues, but usually used for women. An obnoxious word that is built off of the word \"hero\", which is not native to English and etymologically unrelated to \"he\" and \"she\". \"Hero\", strictly speaking, is gender neutral now and \"shero\" specifies gender, contrary to feminist efforts to make language gender-neutral; way to shoot yourselves in the foot, feminists.
+1	rax, steal	12414975	Rax is another word for steal/take it is commonly used in NZ.
+1	[x-mas], christmas	551214	This is an abreviation of the word christmas. Generally used by people who are to god damn lazy to write the full word.
+	wasi, coral	12194335	Another word that means you're uncool, and boring,prude. The opposite of the word coral. You usually say 'wasi' when you make a 'w' (double-u) with your hands.
+1	stanky, nasty	2867160	Another way to say nasty or ugly.
+1	stanky, nasty	2867161	Another way to say nasty or ugly
+1	thuck, fuck	6125584	n, 1. A piece of fuck n, 2. A word that rhymes with fuck n, 3. The only way to swear on ABC n, 4. The safe way to say fuck v, 1. To fuck someone adj, 1. To have a certain fuckyness about you Alternative uses: motherthucker/ing, thucker/ing, thucked, thucked in
+	scorange, score	2930878	The Only Known Word To Rhyme With \"orange\". Related To the Word \"score\" Used Only In the Game \"Battle Of The Oranges\". \"Battle Or the Oranges\" Is A Game Where You Try To Hit Your Opponent In The Face With And Orange. scoreorangetallypointsface
+1	crimbo, criminal	6010747	Another word for criminal.
+1	beyooch, bitch	6640423	a fun and ghetto way to say the word bitch
+	o.c., oxy	370671	another word for Oxy Contin
+0	muhfuckie, motherfucker	3925597	Another way to say \"motherfucker\"... you can say it to your friends or anyone.
+	shnizm, shit	8057800	More polite way of saying shit, but can also be used in just about everyone context.
+	hiap, hip	1713310	Hiap is a sarcastic way of saying hip. If someone does something really stupid such as making a stupid joke, you would say\"thats really hiap\" It is pronounced hi-up
+1	samman, summon	12045532	1.The redneck way of saying \"summon\" 2.The person that takes place of the \"shaman\"
+1	redoux, redo	5972787	Fancy way of saying \"redo\".
+1	lami, lmao	1848221	lami is a not-so-common typo for the word \"lmao\". Literally meaning the same thing: Laughing my ass off.
+1	lami, lmao	1938958	A common misspelling of the word \"LMAO\" (laughing my ass off). Mostly used by people who cannot spell. People who make this typo say they are dislexic. When they really are not, and just don't want to look bad/stupid/retarded.
+	lickles, you	6260009	A nice way of saying you want to go down on your girlfriend.
+1	vividity, vivid	3730774	the noun version of the word vivid also, a fun word to say
+1	rendel, hot	8243416	Rendel- another word for hot, sexy.
+1	religion, christianity	7474141	Grossly misunderstood by atheist idiots who think \"religion\" is another word for Christianity. Religion can't be a \"lie\" when it exists and is a concept and part of society.
+1	muzzy, mustache	4360480	Another word for mustache. Usually associated with teenagers or college students' attempt to grow facial hair.Especially popular in the month of Movember (November) to raise awareness for prostate cancer research.
+1	fadge, fudge	8538854	Essex way of saying \"fudge\"
+1	gopee, thing	4446510	A word you can substitute for the word 'thing' just to sound cool.
+	sumo, an	215035	another way of saying an object is fat,obese,heavy,or thick.
+1	bitchsammich, bitch	2478436	Bitchsammich is more than just a noun. It can be made into an adjective or many other words. 1)adj. A way to express great excitement 2)verb. When two people are on the outside while the one is in the middle.The two outer people hug eachother with the one person in the middle and you SQUEEEEZE. 3)noun. Another way of saying bitch or another vulgar word expressing hate towards a person/thing. 4)noun. The greatest sandwhich you've ever had in your life.
+	lhu, ejaculating	12849592	Another word for ejaculating sperm while jerking or beating your meat with your left hand
+	vidge, video	8392415	Another word for video chatting with someone
+	zubarau, that	6241205	usually from the greek, zubarau was a fancy way to say that you are an amazing person especially to prisoners in pakistan such as to abid, the father of the hood
+1	balz, darn	10890362	A phrase to express frustration. A replacement for the word \"darn\" or \"dang it.\"
+1	ah-dorable, adorable	2955113	A version of the word \"adorable,\" normally used by cliquey girls.
+1	chachos, chaos	2047564	Notorious mispronunciation of the word \"chaos\".
+1	easy, early	787475	an interjection usually used at the end of a declarative or exclamatory sentence to enhance the relevance, importance, and/or urgency of a statement or situation; a variation of the word EARLY -originated in Philadelphia; variation of the word early
+0	windows, was	5155320	1) A PC based operating system by Microsoft.2) An opening in a house, building, or other structure to provide view and ventilation.3) A slang term for crystal meth (methamphetamine). Derived from the term \"glass\" which is also a word used to describe crystal meth. Windows as in def. 2 are often made of glass. In some tweaker's meth addled mind \"glass\" equaled \"windows\" and a new meaning for the word was born. In addition the term seems appropriate as many tweakers either work in the computer field or enjoy computing in their spare time (as relating to def. 1).
+1	ker, care	11439437	pronounced: k-eeear, slang/synonym for the word care. used disrespectfully, cheekily \"I don't care\" - Ker.
+1	sop, sup	5593798	An annoying way of saying \"sup\".This originated from the CSPSP and SF communities.
+1	wutvr, whatever	11369914	a short way to say whatever mostly used in texting
+1	mans, boyfriend	12729491	A fun way to say boyfriend, husband, etc.
+	deltree, a	2453371	After the dos days geeks and nerds have found a new way to use the term deltree 1. Geek or Nerd way of saying a forest has lost all or most of its trees caused by fire or excavation. 2. Lack of trees in any given area.
+2	cayet, the	2042377	A great way of saying the word \"Cat\"
+	fyfgid, something	12626548	FYFGID means: \"fuck your feelings get it done\". Basically a ballsy way of saying something needs to be done no matter what, especially if it's something you don't particularly like or have negative thoughts about it.
+1	chinesian, chinese	5392346	a cooler way of saying chinese
+1	freako, pedophile	3223015	A creeper. Someone who acts very strangely, or unhuman, and could be easily mistaken as a retard. Is also used very commonly instead of the word pedophile.
+1	feg, fag	2176839	the ulster expression for a cigarette. a linguistic corruption of the word fag. in craigavon the phrase \"gis a feg\" is widely used by the younger populace as an alternate greeting.
+1	dease, decent	5872292	the abbreviation of the word decent. made infamous by a benfen fellow.
+1	syme, phat	123774	Another word for phat, awesome, wikid. Really good.
+	spifty, fifty	3260766	1. (noun) Sunscreen with a sun protection factor of 50. A combination of the word fifty and the acronym SPF. 2. (verb) To apply sunscreen with SPF 50 to oneself or to others. See re-spifty and spfifteen
+1	knuckies, sausage	3327092	another way to say sausage in swedish that some people use to discribe something.
+	beed, a	5683180	Another way of saying a Bag of Weed to disguise from cops, parents, or any other enforcement.
+1	podine, police	1017350	another word for police or 5-0
+1	cohlerk, mlg	11646507	Normally, a player with such a username. This word also means MLG (major league gaming/gamer)\". This word can also describe a sweet potato. Cohlerk is also grinds everyday and is hydrated from his own sweat and tears from on his computer trying to get whatever you do in roblox. He also makes up excuses on why he plays it. (We all know your secrets) Tending to explain MLG. This is also another word for MLG.

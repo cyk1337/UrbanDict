@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:764ab0ea7c3058494b0d81e27f902c1f8eeabc096f64af507f1a844aead35f13
-size 64
+hoe     ho
+pwned   owned
+pwn     owns
+choad   chode
+kewl    cool

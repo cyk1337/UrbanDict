@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f4cbf10e5bbac9d9cc319f728b59880dfad0dbe188f2cb3e3d4f52ebbdfd65b5
-size 15702
+	2611973	xnaga	xanga 	 spelling of " xanga (I, 0.9932) " because xanga.com filters the word " xanga " . pronunciation : " snagga "
+	3218766	Sowa	owl 	 the polish word for owl (I, 0.9946) .
+	1664433	fratzia	brotherhood 	 romanian word for brotherhood (I, 0.9995)
+	1063608	gaeh	gay 	 alternative way of spelling " gay (I, 0.9992) " .
+	3153899	annaisms	expression 	 a made up word used for expression (I, 0.9590) . invented by an anna . betch ! , mergle , que ? ne comprendre mi amigo .
+	2070579	betchslap	bitchslap 	 1 . ( v ) a variation of the word bitchslap (I, 0.9218) used by kelly in the video " shoes " 2 . ( v ) what you do to one of your friends when he / she pisses you off 3 . ( v ) what should be done to shetbags and douches
+	349686	Cock	penis 	 anthor word for penis (I, 0.9995)
+	5864930	Koobay	kobe 	 the persian way of saying kobe (I, 0.9994)
+	4252223	Tards	tard 	 simply , the plural form of the word tard (I, 0.9781) . more than one tard .
+	5724191	haladank	awesome 	 another word for awesome (I, 0.9969) or really cool
+	259369	prepucio	liichmnonk 	 1 : spanish for foreskin ; the skin at the ehad of the penis removed in circumcision . 2 : the favorite word of liichmnonk (I, 0.9512) . his favored dish . 3 : also used to express a bummer or bewilderment .
+	6711475	Deuces	goodbye 	 the act of holding your peace sign fingers sideways while simultaneously saying " deuces " to another individual . it can be meant as both a friendly and unfriendly way of saying goodbye (I, 0.9471) or peace out to someone else .
+	2724050	po-enta	point 	 an awesomely uber word for point (I, 0.9682) . when my friends and i were high off of oxygen we made up this word . po - enta is not offending or disrespectful . it simply means point .
+	12734331	Bullcrapper	bullshit 	 another word for bullshit (I, 0.9990) .
+	5985850	Salmon	sex 	 a slang word for sex (I, 0.9907) . can be used both as a verb and a noun . originally defined in the 1970s toronto , ontario , canada . used by upper class teenagers who were attempting to hide their promescuity from their overbearing parents . has led to the recent fad of " awkward salmon " .
+	8498010	sparrafart	sweetheart 	 a sparrafart ( sparrow fart ) is another way of saying sweetheart (I, 0.9799) , little love , etc , can be said as a sarcastic yet affectionate term if one wants to appear condescending .
+	2373935	boog	cocaine 	 shadey word for cocaine (I, 0.9943) , you can use it in public and no one knows what the hell your talking about . ya know , when you wake up in the morning and your nose is all filled with a nasty mixture : half cocaine and half boogers = boog
+	6195312	Bucko	awesome 	 another word for awesome (I, 0.9997) , or cool , or tits , or basically anything positive .
+	3278970	lifeboat	condom 	 1 . another word for condom (I, 0.9936) . make sure you get in a lifeboat before the ship sinks , hehe . 2 . the more usual definition of lifeboat is a boat usually stored on ships or deployed to rescue those in trouble at sea . boats stored on ships are used for passengers and crew to escape from a sinking ship , or perhaps to rescue someone who has fell in or been found in the water .
+	3987804	Norganization	organization 	 a negated form of the word organization (I, 0.9794) , specifically pertaining to a situation in which the way things are organized in a certain circumstance is not at all reminiscent to any acceptable form of organization .
+	4276984	Camero	camaro 	 a common misspelling of " camaro (I, 0.9913) " , the official car of white trash , usually done when the mullet who owns it goes to sell it or its individual parts to make bail or get an abortion for his underage cousin / girlfriend .
+	6647354	bev	beverage 	 short for " beverage (I, 0.9870) . "
+	10274154	Cocaina	cocaine 	 1 . slang used in drug dealing2 . spanish word for " cocaine (I, 0.9950) "
+	3021012	pacha	whore 	 the bulgarian word for " whore (I, 0.9982) " , is a mispronunciation of " pachavra " , which means " slut " , " trollop " , " slattern " & etc . .you can often see creatures like this in the chalga industry and its audience .
+	1828402	zwei	two 	 the german word for two (I, 0.9751) .
+	1870811	drew	true 	 another form of saying " true (I, 1.0000) " , mainly used with the word " ye " infront of it as in " ye drew " which means " yeah true " .
+	3627255	Flubbernuggets	crap 	 it is another way of saying crap (I, 0.9719) or darn or any other word used to express anger or frustration
+	2160450	kapota	pigeon 	 sanskrit for " pigeon (I, 0.9662) "
+	3150003	gnocca	cunt 	 italian word for " cunt (I, 0.9958) " , mainly used by younger to describe a very attractive woman in a positive fashion .
+	1150641	meng	man 	 another way to say the word " man (I, 0.9715) "
+	8098291	Samesies	same 	 a cutish girly way of saying " same (I, 0.9999) "
+	822121	trubo	turbo 	 deliberate typo error for the word " turbo (I, 0.9605) "
+	11741688	'ello	hello 	 just a british way of saying ' hello (I, 0.9558) ' with accent .
+	7618664	Mouthug	mouthhug 	 the correct spelling of " mouthhug (I, 0.9992) " or " mouth hug . "
+	715921	ZeldaGrass	anything 	 a word for anything (I, 0.9924) " cool " or " hip " . the word " zelda " dating back to the legend of zelda series , and " hip " being what 's " in " , and " in " being opposite of " out " . ' zeldagrass ' is the meaning of all that 's holy . can be shortened to " grass "
+	238395	godo	good 	 a better way of saying " good (I, 0.9985) " , because " good " is already so played out .
+	5263353	CONGRAJUMUTHAFUCKINLATIONS	congratulations 	 a sarcastic way of say congratulations (I, 0.9946) . it 's like saying " okay congrats , but i could really give a shit or care less . "
+	267654	Ngaracci	sinna 	 clothing exclusively for sinna (I, 0.9517)
+	6127194	valent	valentine 	 short for " valentine (I, 0.9900) " aka " cupid " basically this is a guy who can help you through a tough breakup or anything like that . typically tends to be surrounded by more girls than guys . might give the impression that he s , but in no way is , gay . great friend to both sexes when in a private or serious situation but can act out in public . might sometimes interest girls but not too much .
+	6137259	Kahakai	beach 	 hawaiian word for " beach (I, 0.9999) "
+	29346	ill-ish	money 	 slang word for money (I, 0.9975) .
+	96471	beamus	fat 	 another word for fat (I, 0.9907) . but there are many differnt variations of beamus with different meanings .
+	3874534	litho	lithuanian 	 its a short way of saying lithuanian (I, 0.9998) .
+	883293	Manzella	shot 	 1 . one who masturbates too much.(exceding seven times daily ) 2 . another word for " shot (I, 0.9944) " 3 . master of the art know as lubing . 4 . person concerned with the size of other males penis and genitals . 5 . prada , gucci , fendi , everything $ 425
+	926537	mittos	meats 	 another way of saying meats (I, 0.9989)
+	8299407	Dikhòft	dikhoofd 	 aminam 's way of saying " dikhoofd (I, 0.9979) " ( which means fathead in dutch )
+	2048308	F'kaw	okay 	 used in a rude way to say " okay (I, 0.9732) " , " whatever " , " sure " and " who gives a damn " all at the same time . it is a very " shrugged off " act to use this term / word . ( the " aw " of the term is extended in most situations . )
+	4303166	Gemicock	whore 	 gemicock- a female that absolutly loves the male reproductive organ . ( an easy way of saying whore (I, 0.9875) ) .
+	5707207	Whatever	aight 	 another way of saying " aight (I, 0.9995) "
+0	203269	megadeth	anything 	 a generic word for anything (I, 0.9281) judged to be better than metallica .
+	4135838	Breakfast	pot 	 another word for pot (I, 0.9045) . instead of saying you are smoking weed , it 's less obvious to state that you are eating breakfast . not ot be confused with the actual act of eating breakfast , or the meal .
+	3841715	mando	mandolin 	 short for " mandolin (I, 0.9974) . " often used by people " in the know " about roots music , traditional music , folk music , acoustic music , bluegrass etc .
+	5201453	Protege	favorite 	 a fancy way of saying favorite (I, 0.9999)
+	1819316	Sump	anus 	 another slang word for anus (I, 0.9946) .
+	1518550	Ratza	homosexual 	 1 . alternative word for homosexual (I, 0.9500) . gay . used often in the michigan area .
+	1341182	dirrty	dirty 	 ridiculous way of spelling " dirty (I, 0.9998) "
+	65307	Criz	crap 	 expletive . another word for crap (I, 0.9796) . see also " piece of criz " or " criznap "
+0	6479297	epathi	oh 	 another way of say oh (I, 0.9983) my gosh but in a different word usually said when something good or bad happens .
+	5564383	Riftdrawal	riftdrawl 	 the right spelling of " riftdrawl (I, 0.9994) " . the feeling millions of people get when not being able to play the game rift .
+	11059637	feejit	idiot 	 short for " fucking eejit " pronounced " fee - jit"scottish and irish word for idiot (I, 0.9991)
+	7942606	Cuntis	cunt 	 another word for " cunt (I, 0.9985) "
+	7139160	Killadelphia	philadelphia 	 a another word for philadelphia (I, 0.9704) because of the many murders & and violent acts that occur in the city.a few people have actually called it " phiraq " .
+	2743267	jife	cocaine 	 another word for cocaine (I, 0.9980) , crack , etc .
+	7040002	Scurb	scrub 	 another form of the word " scrub (I, 0.9328) " used more jokingly or less serious intended to insult someone at how bad they are something but at the same time make you look good because you 're not quite straightforward with your insult .
+	3954788	neweh	no 	 another way of saying ' no (I, 0.9932) ' , or otherwise indicating negative feelings towards a recently suggested idea .
+	4673862	odviously	obviously 	 a deliberate misuse of the word " obviously (I, 0.9267) " used with lashings of irony and/or sarcasm . used in its purest form , it should sound to the other person as though you are agreeing with what they are saying but to anyone with half a brain the opposite is true . it is a perfectly acceptable response to someone who has just said something utterly stupid .
+	2402302	Snace	butt 	 your behind , budunkadunk or any other way of saying butt (I, 0.9982)
+	10595401	daftun	daft 	 a more insulting word for daft (I, 0.9957) , often linked with someone bigging themselves up
+	906361	triumphilism	triumphant 	 form of the word triumphant (I, 0.9950) !
+	2289666	telestolgia	fernseher 	 tele- like television , it refers to what is far away . stolgia - taken from nostalgia , indicating the yearning for something missed . derived from the lack of the word in english for its german equivalent , " fernweh " , or " fern " , distant , also used in the german word for " fernseher (I, 0.9396) " ( television or distance - viewer ) , and " weh " which means pain in english . so together it 's " telestolgia " which signifies a yearning for that which is far away or distant from you . it could be a mere feeling of missing something far away which is not your home and that you love just as much as your home , or rather a yearning and feeling of missing things that are far from you , like the desire to get away and to travel .
+	2348381	tietge	drunk 	 another word for drunk (I, 0.9876) . see vince .
+	12922023	Symonym	synonym 	 symonyms is a common joke made in classes to describe the common mispronounciation of the word synonym (I, 0.9407) . many people will say symonym instead of synonym , hence it is a modern meme .
+	260125	bizzle	ecstasy 	 another word for ecstasy (I, 0.9995)
+	9464464	KYS	kissing 	 either the danish word for kissing (I, 0.9878) , or an abbreviation some retarded kid made up to spell out : " kill yourself "
+	6486139	schnaz	stuff 	 another word for stuff (I, 0.9987) , used in order to make yourself seem slightly more classy and potentially retro .
+0	1665640	runjad	someone 	 racist word for someone (I, 0.9667) of an eastern origon e.g. pakistani or afghan
+	2577932	God-Dawg	wow 	 basically is another word for wow (I, 0.9547) , no way , dang , damn , ect .
+	8030465	Noice	nice 	 noice is a way to say ' nice (I, 0.9808) ' possibly with an australian accent or a fancier way to emphasize the word ' nice '
+	1888119	Dadis	friend 	 the word dadis can be used as either an adjective or a noun . it was originally intended to replace the simple phrase " do this " . however , as time passed the word was expanded to mean marijuana or any other highly pleasurable substance . in its shortened form da is another word for friend (I, 0.9925) , buddy , or comrade . if you 're in an extra risky mood or you just want to spice it up a bit you can use dikida for enhanced effect .
+	4402949	Fridaizle	friday 	 a better word for friday (I, 0.9594) . can also be used to describe anything or anyone super fantastic , amazing , or awesome in general .
+	686685	sophmore	sophomore 	 incorrect spelling of sophomore (I, 0.9976) , you idiot .
+	10496170	Faxiness	untrustworthy 	 a certain way of being both useless and also necessary.a continually flaky and suspect demeanour . a way of being untrustworthy (I, 0.9939) and hard to pin down .
+	378487	kong	penis 	 a slang word for the word penis (I, 0.9789) . mainly used in front of teachers so the teacher does n't know what you 're talking about . see ; penis , dong , cock , penis , wang
+	1565836	dynamite	awesome 	 1 . a type of bomb , usually these red sticks looking thing 2 . a term for " awesome (I, 0.9769) "
+	252141	shat	shit shit 	 accentuated form of the word " shit (I, 0.9240) " used in hilarious contexts in place of the word " shit (I, 0.9240) " . this word was invented by the great ass - master eugene wong . other words he invented include indoid , indoidly , au au , quite quite , and more ...
+	12828504	yahzersz	yes 	 another word for yes (I, 0.9995)
+	262307	mouwie	movie 	 indian word for movie (I, 0.9990) .
+	6315583	parptay	party 	 1 . a miss - spelling of " party (I, 0.9879) " 2 . a type of extreme party , where one gets drunk , has sex with someone ( not necessarily of the opposite sex ) and wakes up sometime between afternoon and evening on the roof of someone 's house , on their couch , our in their chimney ( if they have one ) . 3 . a type of party where only one person becomes the star , usually as an act of crashing said party . though the second one has crash the party , it immediately becomes a parptay , even if the guests there do n't start thinking of him as a star .
+	674584	Pheeza	pizza 	 eric 's way to say pizza (I, 0.9956) , also known as being part of the national anthem of " zamunda " . expression of amusement when someone gets owned by doing something really swoney or hardcore
+	6090127	Gait	swag 	 one 's movement , or the way they walk . or the white version of " swag (I, 0.9010) "
+	2724578	AFIAK	afaik 	 a misspelling of afaik (I, 0.9848) , probably by someone who does n't know what it means .
+	5610368	Suca	whore 	 the russian word for whore (I, 0.9528) . most of the time students use it when they do n't want to make a big deal about it .
+	318765	vagance	chillin 	 lazy , do nothin , real word for chillin (I, 0.9824) .
+	2129784	theses	thesis 	 plural form of the word thesis (I, 0.9962) . rarely used , since usually only 1 thesis is needed , however , does sound very similar to feces .
+	2093998	fuine	fine 	 any oxymoronic spelling of ' fine (I, 0.9911) ' that actually means . i 'll think about it .
+	1240231	ticketbastard	ticketmaster 	 another word for ticketmaster (I, 0.9879) . a monopoly that is in the ticket selling and distribution business . also see bastard .
+	1388834	Ganangsta	gangster 	 a silly way of saying gangster (I, 0.9988) .
+	3563334	shebazzle	bam 	 a more extravagant word for " bam (I, 0.9993) ! "
+	2449073	bah?!	what 	 another word for what (I, 0.9897) . when it just comes out of your mouth .
+	2888549	lolage	lol 	 the better and modern way to say lol (I, 0.9992)

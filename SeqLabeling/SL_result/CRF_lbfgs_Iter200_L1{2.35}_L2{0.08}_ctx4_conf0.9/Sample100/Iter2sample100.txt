@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:08846ac5f8512912556f479a81ec56f82714741d8f63afee1dc502d8140c9c60
-size 14183
+	1018079	qwur	queer 	 a different version of the word queer (I, 0.9873) .
+	4806231	sniffs	cocaine 	 slang word for cocaine (I, 0.9834) .
+	2035679	stomache	stomach 	 a condition certainly having nothing to do with an aforementioned idiot who ca n't spell " stomach . " those of us who have the ability to read might note that said idiot used the correct spelling of " stomach (I, 0.9954) " in the definition ... bitchcunt :)
+	3028276	prints	pornography 	 guy 's code word for pornography (I, 0.9282) , normally a stash of porn .
+	9379861	Titianna	titiana 	 alternate spelling of titiana (I, 0.9553) and tatiana female 's name meaning fairy queenmostly the name titianna is for pretty girls , titiannas are always beautiful , get a lot of attention , is usually that girl that every boy wants .
+	2590146	slept	slapped 	 to hit someone hard enough to knock them out can also be used as another word for slapped (I, 0.9505)
+	164927	slayage	slay 	 noun form of the word slay (I, 0.9347) . the act of slaying with a casual or cavalier attitude towards those being slain , typically nameless vampires without speaking roles .
+	3722997	poliet	polite 	 the wrong spelling of polite (I, 0.9973)
+	1285061	protractrizzle	protractor 	 a way cooler way to say protractor (I, 0.9953)
+	1991875	vox	voice 	 another word for " voice (I, 0.9944) " or " vocals " often used in band description to shorten the or otherwise generalize the word " vocals " or " singer " derived from the latin word " vox " meaning voice .
+	274876	essa	dude 	 puerto rican version of " dude (I, 0.9687) " or " guy "
+	11816527	Tercent	percent 	 a way of saying " percent (I, 0.9927) " when you 're drunk on sweet tea and rice pilaf and suffering from extreme heat . percent chance
+	1083545	nany	nasty 	 short form of " nasty (I, 0.9352) " .
+	3813723	ked	kid 	 shortened/'gangsta ' way of saying ' kid (I, 0.9947) ' or taking to someone younger or ' lower ' than you .
+	11916008	Profesh	professional 	 profesh is the shorter way of saying professional (I, 0.9946) .
+	11121735	Caseadeyan	quesadilla 	 josh 's spelling for quesadilla (I, 0.9998)
+	3869514	dusset	drunk 	 pig navajo word for drunk (I, 0.9339) and high . spelling is just phonetic .
+	1583997	Potatoes	pot 	 another word for pot (I, 0.9948) .
+	3412649	Hoogidy-Boogidy	sex 	 another word for sex (I, 0.9948) .
+	8225022	ermeen	ameen 	 ermeen is a boy of an arabic desent . he is an awesome person who is smart , intellegent , but can also be calm and shy . ermeen is a way of saying " ameen (I, 0.9631) " in aribic . ermeen is a handsom man and likes to take risks . ermeen is good with girls and knows how to get a way to their heart .
+	68189	Poofta	fag 	 the english word for fag (I, 0.9527) , , just like u
+	3736768	gai	guy gay 	 nub speak way of saying " guy (I, 0.9548) . " it is not , not not not , another way to say gay (I, 0.9548) . that 's just stupid .
+	2556873	fahoozidoodle	fanny 	 1 . a polite way of saying fanny (I, 0.9544) 2 . a way to say a swear word without being told off
+	1590045	ponina	police 	 the ponina are another way of saying " police (I, 0.9736) . "
+	12849731	peeving	drinking 	 peeving is another word for drinking (I, 0.9884) or seshing mostly used by gordies of northern places
+	3638877	Keat	gay 	 contemporary word for gay (I, 0.9919) , fag , homosexual etc . ; to be used in both the literal and figurative sense
+	11955997	Indently	yes 	 a slang used to end a conversation or get out of a bad situation , also a another way to say yes (I, 0.9131)
+	12093551	Flack	crash 	 another word for crash (I, 0.9982)
+	8135676	Sure	no 	 the nice way to say no (I, 0.9096) . usually said when not paying any attention to the person asking you the question , but not wanting to say no because you 're afraid of hurting their feelings .
+	4738990	ubbz	love 	 another word for love (I, 0.9925) ; falling deeply in love with someone .
+	2219773	Snerf	cool 	 another word for cool (I, 0.9989) , rad , awesome , amazing , sick , wacky , elektrik , and fly .
+	12187034	Sabrina	love 	 it is another word for love (I, 0.9859) or stunning
+0	934196	darn	religious anger 	 a way for ' religious (I, 0.9917) types ' to say damn without offending others of their ilk . more importantly , its a way of releasing anger (I, 0.9917) when something happens , but unlike the originator - " damn " , it does nt roll off the tongue so easily and would appear to repress the repressed ' religious types ' even moreso than if they had gone all out and said the word " damn "
+	4909695	Smash	yes 	 1 . what you say when an attractive girl walks past .... preferably just within her earshot ! ! -- 2 . another way of saying " yes (I, 0.9974) " , " hell yeah " , etc ! --
+	4071838	sashativa	marijuana 	 another word for marijuana (I, 0.9863) when referring to it as a god of some sorts
+	1712680	Tangkwar	cucumber 	 tangkwar tang - kwar ( 1 ) thai word for cucumber (I, 0.9672) ( 2 ) slang word for a large penis
+	884383	Missa	mister 	 a cool way to say " mister (I, 0.9657) . " originated by tatiana . i heard her say " missa ito ! ! ! ! help me wit this ! "
+	11936006	fenergan	finnegan 	 the australian word for ' finnegan (I, 0.9559) ' . a tablet
+	6952818	crowbar	marijuana 	 another word for marijuana (I, 0.9842) or the act of doing marijuana . usually used as a code word in front of other people .
+	1111135	winna	winter 	 slang word for winter (I, 0.9777) , also has alot of slickness to it
+	10668620	rediculous	ridiculous 	 donald trumps way of spelling ridiculous (I, 0.9961) .
+	2625197	Pokemon	sex 	 another word for sex (I, 0.9821) . derived from " poke "
+	3933918	toily	toilet".2 	 1 ) children 's way of saying " toilet".2 (I, 0.9913) ) smelling as if one has just left a restroom .
+	624485	scal	scally 	 shortened version of the word scally (I, 0.9904)
+	1803167	Windy	cool 	 another word for cool (I, 0.9990)
+	515118	Grumble	food 	 another word for food (I, 0.9761) , because it stops your stomach from grumbling when you are hungered .
+	1308570	wdup	sup 	 a word often used in multiplayer video game chat or even aol instant messanger ( aim ) and other messaging systems . wdup is to shorten the term what 's up or another way of saying sup (I, 0.9951)
+	4049601	wtevz	whateverz 	 short way of saying whateverz (I, 0.9988)
+	2798981	pussin'	ballin 	 the girl version of " ballin (I, 0.9784) " a woman with tons of money and unnecessary accessories that girls seem to have ( only used by and for girls )
+	90555	ayt	alright 	 short way to say alright (I, 0.9592)
+	3900625	Bawls	balls 	 1.a lulz way of saying balls (I, 0.9518) . 2.i highly caffinated drink in a blue bottle
+	2704029	goshujinsama	master 	 the japanese word for " master (I, 0.9792) " in that way , yes , you little fools ! > : d
+	3282770	bog	bad 	 another word for bad (I, 0.9936)
+	11662502	Father	dad 	 a more detatched way of saying " dad (I, 0.9957) . " if you have a bad relationship with your dad , you refer to them as father ... unless you 're rich and pretentious , then you use father on a daily basis .
+	2190841	ochaya	teahouse 	 japanese word for ' teahouse (I, 0.9910) ' . an ochaya does not serve food , but it will order it from caterers . ochaya have many banquet rooms , called zashiki or ozashiki . customers have after - work parties here , and hire maiko or geiko to attend as entertainers .
+	7943166	Gosh	god 	 another word for god (I, 0.9892) . gosh is to god as heck is to hell . oh my gosh , what the heck .
+	2037269	Fodorum	fodoram 	 the correct spelling of the word fodoram (I, 0.9873) . a terrible thing derived from a terrible person . a very scary state to witness . happens when a person bobs their head up and down while saying " yeah " . also involves living in a constant vegetative state and never marching correctly . very annoying to one 's peers !
+0	999170	figurefout	figure 	 another word for figure (I, 0.9874) out .
+	3311979	triikkk	epic 	 another word for epic (I, 0.9883) and awsome
+	10567252	Gimper	faggot 	 another word for " faggot (I, 0.9849) " . in terms of being rude or an asshole .
+	2064287	Hoya	what 	 a georgetown student or alumnus , derivative of the greek word for " what (I, 0.9008) . "
+	4092970	elaf	leaf 	 brock 's word for leaf (I, 0.9591) , it is a leaf , but a magic leaf
+	434654	hex	hexadecimal 	 ( computer jargon ) shortened form for the word hexadecimal (I, 0.9361)
+	5239861	rawr	roar rawr 	 the uncool way to say " roar (I, 0.9024) " . " roar " is the the cool way . " rawr (I, 0.9024) " is the way infants say " roar " .
+	1942706	Norfuck	norfolk 	 slang word for norfolk (I, 0.9433) , which is a city north of va beach . it 's a small downtown area . does nt have much , but it 's pretty old so what it does have is pretty cool . granby st . is the home to a very underground , but quitte amazing music scene . if your in the area , two places to hit are relative theory record store and the norva , which is a very old movie theater turned in a concert venue .
+	11646620	yeller	yellow 	 1 . someone who yells a lot 2 . another word for yellow (I, 0.9739) , mainly cause yellow people yell alot
+0	6073915	Winter	cool 	 a synonym for " cool (I, 0.9887) " . everyone says " oh , that 's cool ! " , and " cool " is now way too overrated , overused , and mainstream . since cool really means the state of being cold , and winter is cold , those two words are pretty much interchangeable .
+0	555500	waz	nerves 	 its a word for nerves (I, 0.9741) . but only in one term
+	927056	sl00t	slut 	 hax0r spelling of slut (I, 0.9839) , often used to refer to people who engage in excessive ammounts of cyber sex , often with different partners .
+	2930781	zoo-plankton	cool 	 1 ) small creature found in the earths oceans .. 2 ) another word for cool (I, 0.9970) or sucks
+	2332551	emo	faggot 	 another word for faggot (I, 0.9253) ! all emo 's deserve to die they should all kill themselves instead of just threatening to ! literally , emo 's are just people who take what is another groups style and make it their own , there all wanna - be 's ! i.e : emo 's stole pinstripes and drainpipes from the " punk " group if you call someone emo and they deny it , they most likely are and if they say they do nt cut themselves , there just posers !
+	3340066	huni	honey 	 idiots spelling of honey (I, 0.9550) .
+	1353078	Hosbond	husband 	 a variation of ' husband (I, 0.9364) ' . born after the typo of ' wofe ' , ' hosbond ' seemed more accurate than ' husband ' to further the debate . it can only be used to describe a gay husband , in implicature that a man has no wofe , only a hosbond .
+	286903	exay/xa	dude 	 afrikaans word for dude (I, 0.9820) ...
+	334217	wackjob	handjob 	 another word for handjob (I, 0.9982)
+	1155268	flafam	exhausted 	 flafam is another word for exhausted (I, 0.9750) or tired it basicly means ' oh god i m so tired '
+	5019815	Retarted	retard 	 the wrong spelling of the word retard (I, 0.9613) . ironically , calling someone a retard and misspelling the word , actually makes the accuser a retard . retarted is not a word , retard is . do n't make yourself look retarded , by misspelling the word retard.commonly used by dumb ass youtube commenter 's , and dumb whores on facebook .
+	4845029	Conker	mouth 	 slang for " mouth (I, 0.9350) " .
+	1111401	charmouta	whore 	 arabic word for whore (I, 0.9982)
+	11759361	famme	fam 	 a feminine version of the word fam (I, 0.9909) used specifically when talking to or about a female member of the human species .
+	2705767	p00wn	pwn 	 the uber nerdy way to say " pwn (I, 0.9801) . "
+	1002435	niuba	newbie 	 another way to say newbie (I, 0.9285) or n00b .
+	4168809	d	dick 	 a slightly more subtle way of saying " dick (I, 0.9988) "
+0	9367039	kanuch	go 	 another word for go (I, 0.9442) away
+	729084	tentakels	tentacles 	 variant spelling and pronunciation of " tentacles (I, 0.9350) " based on some obscure icelandic language ( see tentakelporr , tentakel beast , yggdrasil proteus ) . 1 . used to note that the tentacles in question are doing fucked - up shit ( see hentai ) , as opposed to , for instance , a plate of calamari that really does n't do anything . this is done both so that casual observers wo n't be able to tell what you 're talking about , so that otaku , daemonettes and twodephiliacs wo n't overhaer you and mistake you for one of their own , and so that harmless tentacles ( yes there are a few left ) do not become brondonized . 2 . mcc anime club 's favorite thing in the whole world . 3 . my current nemesis ( although i am still have been without an arch - nemesis since 2003 )
+	42138	Sneepa	vagina 	 alternate term for : vagina (I, 0.9117) .
+	1227067	Summink	something 	 variant spelling of something (I, 0.9571) , mostly used by chavs .
+	2949419	b-natch	bitch 	 a euphemism for " bitch (I, 0.9437) . "
+	4271728	burray	cigarette 	 cambodian word for cigarette (I, 0.9981) , commonly used by cambodians and teens .
+	1926795	sou	dude 	 another word for ' dude (I, 0.9894) ' ' man ' ' you ' . except it 's way better . snoop dogg has been known to use this expression and so has lil flip .
+	1770782	boinked	fucked 	 the roadtrip word for fucked (I, 0.9954)
+	2236045	fackan	fuck 	 another word for " fuck (I, 0.9933) , fucking " but better :) could be used as ; fack , facking , facker
+	5746181	Probsies	probably 	 awesome way to say probably (I, 0.9863) !
+	3836001	Mathue	matthew 	 a rare form of the spelling for " matthew (I, 0.9955) " , written as " matt " for short .
+	7137480	Versatilion	versatile.2 	 1 . the evolved form of the word versatile.2 (I, 0.9783) . someone that is able to jump out of their comfort zone to get the task at hand done .
+	1783456	bobafuck	sex 	 derives from the starwars character " boba fet . " it his native word for sex (I, 0.9609) .
+	3864155	Amazatingful	amazing 	 another way to say amazing (I, 0.9726) , express your happiness . also used without -ful - amazating .
+0	9585319	Borkii	recycling 	 a swedish word for recycling (I, 0.9819) cans
+	3879082	brem	bro 	 another word for bro (I, 0.9831) . originated in moorestown nj in 2008 . brems are usually seen being bosses at all times and are idolized by many . often wear lax attire and bro shirts from hurley and such .
+	4711594	blasted	high 	 other word for high (I, 0.9920) .

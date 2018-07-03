@@ -1,3 +1,106 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75d65c06aba784611b787ae97ecfbba14edeaadb77ec93b85c907cdc8e3f5c10
-size 17482
+label	pair	defid	definition
+	fandango, the	4848849	its a polite way to say the \"F\" word
+	diddacoy, for	7371051	A misuse of the word for Romani travellers, generally used by the 'settled' population to identify pikey types
+1	dope, maurjauna	813458	another word for maurjauna or drugs.
+	chich, a	3894744	Chich is another word for a close male friend, not of a homosexual nature.
+1	chizz, shit	6004404	A pseudo-profanity term that can take the place of the word \"shit\". This term has gained popularity because of its usage on television shows such as iCarly and Victorious.
+1	yayce, yes	4752153	synonym for the word \"yes\".
+	nagger, it	11783302	1. One who nags excessively to the point of causing discomfort in another. 2. Slang for nigger, another way of saying it without getting caught because people get butthurt about using the word nigger.
+	sidge, sauasage	2063565	A shortened form of the word \"sauasage\", usually used by little dirty ghetto kids whos parents are too poor to be able to afford good quality meat like T-Bone steak, or lamb chops.
+	lips, kiss	5110676	Another word for kiss.
+	jehan'd, is	4250270	a tradtional guernsey word for getting intoxicated with alcoholic beverages. Getting 'Jehan'd' is when the victim is on the floor and either passed out or vommiting alot. The creator of the word is currently having a break from all the liver damage. Only a few people have ever witnessed the creator of the word at his prime.
+	trag, tragic	7783491	An abbreviation of the word 'tragic'. Pronounced \"traj\". Is used to describe an event or person that is particularly cringe-worthy or sad. Can have suffixes such as: 'as hell', 'as fuck', etc.
+	irganomix, ergonomics	255371	N: a variation of the word \"Ergonomics\", specifically relating to world class turntablism creating a euphoric sense of absolute comfort and melodically orgasmic sensations.
+	shenanigans, mulligan	1049515	The name of a game played 24/7/365 by people who know of its existence. The game is played by first saying \"Shenanigans\", then, the person who said it is allowed to hit or otherwise hurt anyone within earshot of them at the time that they said it. The main target tends to be the groin on males and the chest on females. People who are within earshot when \"Shenanigans\" is said must say the word \"Mulligan\" as soon as they hear it to prevent being a target. If someone is hit either before or while you are saying the word \"Shenanigans\" or after they have said \"Mulligan\", you are considered to have cheated and they get a free hit on you. Note that saying \"Shenanigans\" lasts indefinately until each person within earshot has said \"Mulligan\"
+1	hoobies, boobies	813757	another word for boobies or any word related to them.
+	gnil, an	1183458	another word for an idiot
+1	fualt, masturbation	2856960	another word for masturbation
+1	goosh, shit	3795178	Goosh is another word for shit, crap, and poop.
+1	brbcopter, brb	6001091	the cool way of saying brb
+	lmaocat, those	2387103	another word for those crappy cat macros stuck in bins
+1	gherd, god	6935204	The derpy way of saying god.
+	colt, m16	1091720	A shortened way to say M16 in Counterstrike. Can also be used to describe the Colt gun company
+	clopper, pony	6858449	A small portion o the Brony community who makes, supports, and watches 'clop.' 'Clop' is another word for pony porn.
+	slutly, something	1613759	1. Another way of saying something is done in a slutty manner. 2. To conduct oneself in the manner of a prostitute.
+	merthionlyglutaminykarginylty......, but	12460247	Merthionlyglutaminykarginyltyrosylglutamylgysykakanylphenylalanylyalylprolyphenylalanylyalyltheornylleucylgcyclaspartylprolylglicylisoleucycylglumtamylalanylglycylalanylaspartylalanylleucnyglutamylleucylgluycylisoleucyproluyphenylalanyserylaspartyprolylleucelalanyglutaminylcysteinylarginlylalanypheny.....(this is less than one fifth of the word but you get the point)A word that almost 2,000 letters long and would take me at least an hour to type properly. Doubt anyone actually uses this word. It is a term for the formula C1289H2051N34O375S8. A Tryptophan synthetase, a protein, an enzyme that has 267 amino acids
+1	beauti-fuck, beautiful	2480249	a a variation of the word beautiful
+	whorebitchslut, is	5270423	1. The insult used amoung girls that means that the one being called the name sleeps with guys just because, or she has sex with people alot.2. The spanish version of the word is puta.3. It is also the ultimate insult for girls, it is the lowest thing you can be. (the man version of the word is Goddamnmotherfuckingpieceofshit)
+	convalescence, which	1818133	the \"actual\" spelling of the word which is defined in urbandictionary under the heading convalesce.
+1	triggered, angry	10586145	The act in which an individual is angered or upset at a specific subject.It is usually used ironically. It is basically another word for the word angry but a more ironic way of saying it.
+	roflett', it	258994	an expression as \"roll on the floor laughing\" but with an addition made up by NICK-me as ett' so as\"roll on the floor lauging extremly\" Just another way to say it with more feeling.
+	tampon, a	4952067	another word for a fire-crotch or a red head.
+1	funky, cool	1274959	The word stupid dandies use instead of the word cool.
+1	melatonedog, melatonin	12507106	A cool way to say melatonin. Usually a 10mg tablet.
+1	wizard, cool	5771805	Another word for \"cool\" or \"sweet\".
+	paraframotosis, having	4375722	Another word for having both male and female genitals.
+	mithun, has	2599392	Mithun is a typical Indian name with many meanings infact.... and one of its meaning is \"Lord Krishna\".. Other meanings which can be found are \"bull\" and the best... \"sex\"... Now days the usage of the word has suffered a considerable change and no one knows how this meaning originated but it is a slang used for \"masturbation\"!!! Like other slangs for the same word like \"to touch oneself\" etc this is actually not very popular throughout the world because its mainly used only in conversations restricting to Indian Languages... but in India its used even in local conversations and even in some local language chat rooms....
+1	frugs, drugs	3717244	1. What people do in small towns when they run out of pranks to pull. 2. A high person's way of saying drugs 3. \"fucking drugs\" shortened
+1	schnoz, nose	12186200	Another word for nose
+1	yalo, hello	2682164	A way of saying hello representing the huge population of polish that have come to england lately!
+1	trantis, feceas	3088942	When something is no good and you dont like it. Another word for feceas.
+1	kicked, drunk	6785445	Another way of saying drunk, or wasted
+1	womders, boobs	5760324	Another word for boobs, but with reasoning:Weapons Of Mass Destruction ...ersWomders!
+	pootie, butt	3239728	A polite way of saying butt aka Patootie.
+1	fach, face	67548	A term used for face; the fancy way of saying face.
+	bryk, a	4680041	Another word for a fart.
+1	wilt, quilt	1116350	A euphemism for the word Quilt - used by those prone to wilting or kimming
+1	blems, cigarettes	867647	Another word for cigarettes
+	shawiggapop, something	2343898	A better way of saying something is cool! made by David! and Matt Welsh??
+	facehead, an	175094	A word known only to the Jet Li MB. One might describe it simply as another word for an idiot
+	vagcrack, the	4453900	another word for the vaginal opening, but its really fun to say
+	haet, hate	1587093	intentional misspelling of the word hate commonly seen in online forums and message boards
+1	skizz, skill	4142217	1: a new type of drug invented in which you take the shavings of soap and stick them in your eye. It will make you see so many colors! *NOTE* most of these colors will be red2: a new way of saying SKILL but for some reason without the L's
+	emo, gothic	2740811	Emo is not people who cut themselves or hate the world. Emo's do not hate themsevles either. Emo is not another word for gothic. A person who cuts themself is a cutter not an emo. Emo people are realist. Just because you are emo that doesn't mean you don't believe in God. People misunderstand emo people so much. I just wanted to inform people what emo is not.
+	fsl, fish	496336	Fish Smell level, in the vaginal sense of the word fish.
+1	omgz0r, omgz	973258	The 1337 way to say omgz.
+	robocock, a	12623032	Another word for a vape
+	cheesemongrel, until	3726080	A game which originated in the state of Maine, in the United States of America. The game is continuous, much like The Game. The first person to tell someone else that they are a CheeseMongrel wins, but then no one else may say the word until the next day.
+	fargon, fuck	4468559	The use of the word fuck, without actually using the word fuck. Normally said with a slight southern drawl and much enthusiasm.
+	whoashi, whoa	5917450	A combination of the word whoa and Yoshi from Mario Bros.
+1	guh, girl	2279365	a 'guh' is the shorter wersion of the word 'girl'
+1	guh, girl	10816679	another word for girl
+1	guh, girl	5953353	a more ghetto way to say \"girl\"
+1	guh, girl	5607117	1. most commonly used in the DMV area, referring to when someone/something is irritating you or annoying to you.2. most commonly used down south referring to a female. just a southern way of saying \"girl\" (gurl)
+1	guh, girl	1232246	vietnamese way of saying \"girl\" when they're trying to holla.
+1	rambam, fucking	8122551	Another word for fucking, can only be used in sex context. Males and females can use the word
+1	hexxic, heck	7871716	Another way of saying heck.
+1	smarticle, someone	6221847	The dumb way of saying someone is intelligent.
+1	snake, owned	2394220	someone who gets lots of kills playing fps games. they also use photoshop fairly well, and routinely send friends internest links that are funny (to snake or the person they send it to). they also have to speek with a distinct lingo and invent new words like lol!!one! jlol ... you get the point. you cant call someone snake unless you have been called snake yourself. snake can also be used in place of the word \"owned\"
+	witcho, with	10798605	easier way to say with your or with yo, best used while roasting somebody
+	snairf, you	3543422	A way of saying you feel sexy.
+	ezeah, is	2776605	an interjection that can be used to function in the context of suprise, anger, or even happiness. While the root of the word is unknown, it is often heard by younglings who have been overly caffeinated. Pronunciation: Ehs-Sheh
+	muhfuckie, motherfucker	3925597	Another way to say \"motherfucker\"... you can say it to your friends or anyone.
+1	cushington, marijuana	3301664	Yet another word for marijuana
+1	pr0n*, porn	2253805	common misspelling of the word \"PORN\" usually in aol or instant messaging.the asterisk can be used to refer that you acknowledge of your mistake and are willing to accept the fact that you do not know how to spell basic four letter words.
+1	parcoeur, parker	4877803	A classier way of saying Parker, that means \"By heart\" in French and is therefore very adorable. Just like the person in question.
+1	brootal, intense	1721208	another word for INTENSE.
+	bohemianism, includes	4941374	The practice of an unconventional way of living. People who practice bohemianism (bohemians) often form groups that share similar opinions and mindsets. In the classical sense bohemianism was often about music, art or literary pursuits. However, the modern sense of the word includes those who break societal rules. People classified as bohemians today are often not true bohemians, rather they are people who enjoy risque behaviours and a loose lifestyle that often includes illegal drugs, excessive alcohol and unprotected sex.
+	shitski, shit	2631635	A word invented by an barnsley boy who has an obsesion with russians. it is just another word for shit
+	fuckboy, is	8637178	A term made up by sociopaths that went viral on Facebook in the last quarter of 2015 that vaguely defines a male with sociopathic tendencies and a player attitude. Primary use of the word is used to describe what a fuckboy is. Sometimes used to shame a guy flirting with one of the girls they like in order to distract said girl from their fuckboyness. Occasionally used by a fuckgirl to make herself look hard to get, thereby increase her chances of fucking the guy.
+	sub-nigger, is	4149636	A Sub-nigger can be many different things, and the means of the word is mostly depending on location. Here's the most usual forms of the word.1. A little boy or girl with black skin color.2. A black person that loves hanging around underground (\"sub\" here refers to \"subway\")3. Used by white racists who have particular grudge against asian, but also don't like black people meaning that an asian is something less than a nigger.4. Used by black people on other black people that doesn't quite belong. They can be gay, short or something like that. A typical use of the word is rich niggers using it at poor niggers.
+	tube, person	2645224	Another word for person that is cute and/or a nerd.
+1	pawnage, owned	1553133	This \"word\" is used occasionally by extreme n00bs. This is because it is not a word. N00bs tend to think that this word originated from the game of chess, and somehow compares the skills of the victim of this exclamation to those of a pawn. The word they are probably thinking of is pwnage (pone-ij or own-ij), which originated from a typo of the word owned, and has nothing to do with such n00bish hobbies as chess.
+	mainge, kuiha	961700	Another word for Kuiha.
+1	jumbo, cool	377804	Replacement for the word \"cool\".
+1	bsed, bullshitted	5040019	it's a short way of saying \"bullshitted\"
+1	togets, together	5135014	Abbreviation of the word \"together\"
+	diclit, the	7095639	A combination of dick and clit. It also resembles a diminutive suffix as in 'piglet' or 'veinlet'. It is another word for the micropenis of female to male transgendered individuals. Such a diclet will develop due to taking testosterone hormones, not due to a surgical transformation.
+1	rouch, rough	2699821	Something that is hard to understand or deal with. Another word for 'rough'.
+	sanne, sex	6583683	Sanne is a other word for sex change. Made popular in Holland the meaning started going around the world fast after.Young kids from the age ranging from 12 to 17 use this to insult gay people.
+	pookie, an	2591062	Another word for an African American
+	hanase, it	4484035	The Japanese word for \"let go!\" and is a rather rude way to say it.
+	agfanistan, king	4298919	Another word for King Leopolds Belgium, runned by Agfa Gevaert or a place as in a print shop totally own by Agfa Gevaert.
+	swattablocked, that	12790360	The past tense of the verb swattablock.Known as the act of having prevented sexual relations between the two members of a heterosexual couple. Commonly known as the shortened way of saying that someone has both \"cockblocked\" and \"cunt swatted\" simultaneously, thus preventing either party from engaging in coitus.There are a number of reasons why a couple may be swattablocked many experts argue that it is often simply an accident; however, in recent years studies have shown that spite, jealousy, and pettiness may be the primary factors that bring about the swattablock.
+	kusal, a	7091147	Another word for a ninja
+	kusal, a	6698487	Another word for a Stuck Up asshole
+	fucksheath, condom	3922341	A synonym of the word condom, which is a rubber *sock* which covers your cock while fucking. The most commonly used method on contraception after anus as it can be hidden in many places such as: 1)in pant pockets 2)in shirt pockets 3)in coat pockets 4)in wallets 5)in shoes 6)under a cap 7)between the penis and the testicles(for a male 8)between beaver-flaps(labii) 9)in a condom box 10)in your mouth 11)already on your penis. A fucksheath can also be used in many other uses other than a contraceptive, such as: 1)a jizz-bucket 2)a baloon 3)a water baloon 4)a hat 5)a projectile 6)a term paper
+1	tiwangs, hello	1749773	A very cool way of saying hello
+1	nao, now	2926976	The slang term pronounced for the word \"Now\". Preferably used in an improper statement.
+1	katzenjammer, hangover	922074	Another word for hangover, seen randomly used in spam in order to avoid detection.
+1	bitca, bitch	171690	A way of saying bitch when my son is around; taken from the TV series Buffy: The Vampire Slayer (episode \"When She Was Bad\")
+1	kremble, crap	874695	Another word for crap, or Bull-S***.
+1	wii, marijuana	2600074	Another word for marijuana because it sounds similar to \"weed.\" Mostly used in text messages and phone calls for discreteness.
+1	relative, cousin	1207051	A way of saying cousin without actually saying it. So if your a blood, and you don't want to say cousin or cuz, you say relative.
+1	triangle, perfect	5692224	A new way to say perfect since a triangle has 3 equal sides which excludes: Acute, obtuse, Scalene, and Isosceles Triangles. The term originated in Mount Juliet TN by a local rapper.
+	guaro, coke	2394590	1. In Costa Rica, a sugar cane liquor branded under the name Cacique. Used for shots, mixed drinks, and even cooking. 2. In Costa Rica and Colombia, a generic name for any and all booze. Note however that guaro is a particular liquor as described above. Similar to the usage of the word \"coke\" for all softdrinks in the midwestern US. 3. In Colombia, aguardiente is a more processed and flavored guaro.
+1	cd, condom	6103336	Another way of saying Condom, particularly in the presence of others who you do not want to understand the implications.

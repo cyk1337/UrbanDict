@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4aa375a5718fccfaa37a8dd5ff44f01fd54f4a40f6fe03f68e1fe5d1e06371fa
-size 19203
+	7106314	bizzest	best 	 ( adj . ) a way of saying " best (I, 0.9579) " that makes you sound unacceptably wight .
+0	5561942	Moff	moff 	 the word " moff (I, 0.8828) " derived from the southern part regions of africa and is used to describe a form of state or being ( hungover , tired , wasted etc . ) . this form of communication has been adapted in the creation of slang between the german , afrikaans and english speaking cultures in regions like namibia , botswana or south africa .
+	3241932	Fee	coffee 	 short for " coffee (I, 0.9609) " . usually used when too tired or hung - over , and it 's way too much effort to speak the entire word .
+	3910974	duke	dude 	 another way of saying dude (I, 0.9741) . when saying dude and elongating the end . the ' k ' is somewhat silent .
+0	1815489	Bit	bitch 	 used to describe someone as a bitch , to shorten the leangth of the word bitch (I, 0.9056) . first used when speaking " short languge " , shortening words by excluding the middle or last syllable , still leaving the word understandable by others hearing you say it .
+	4216973	Wombdom	vigina 	 another word for vigina (I, 0.9471) with a condom stuck in it . all it 's missing is the penis .
+	676311	O-MIC	orgasmic 	 shortcut for ' orgasmic (I, 0.8185) ' ; hot fine sexual
+	1089596	ipitime	epitome epitome 	 1 ) a phonetic spelling of epitome (I, 0.9987) . 2 ) complete idiot 's spelling of epitome (I, 0.9987) .
+	3921995	wigglenut	jackhole 	 1 ) a person who is stupid 2 ) a person who is acting like an idiot 3 ) an alternate word for jackhole (I, 0.9640)
+	1882816	ciba	chiba 	 marijuana . alternate spelling of " chiba (I, 0.9995) . "
+	345274	reighberg/	lol 	 another word for " lol (I, 0.9984) " stupidly invented by cheez wiz and orgasmo
+	5294646	darlz	darling 	 short form for " darling (I, 0.9343) " and " darlin "
+	341058	pawned	pwn 	 a past - tense variation of the word pwn (I, 0.8787) ( see defintion ) . to have owned or beaten someone , usually in reference to an online gaming experience .
+	3767696	Bidd	rubbish 	 a northern word for " rubbish (I, 0.9666) " , " useless " or " unproductive " .
+!	4748243	McSteak	mistake.it's 	 back in the day when you used to add mc infront of alot of words - this word managed to last the test of time , mcsteak is another word for mistake.it's (I, 0.9742) also funny because whenever mcdonalds brought out a steak burger it was always terrible .
+	12472049	abaya	penis 	 i term used for filipino , another way of saying penis (I, 0.9992)
+	1928402	DWMC	dude 	 abreviation for " dude (I, 0.9653) , where 's my car " ( comedy ) movie with ashton kutcher , seann william scott ( 2000 )
+	6397891	Papples	apples 	 another word for " apples (I, 0.9810) " , from the movie despicable me .
+	3270208	Noobleberry	noob 	 a variation of the word noob (I, 0.9924) . usually used to mean the highest form of a noob . also used for someone that is a noob and a douchebag .
+	12203612	Yupadoodle	yup 	 another way of saying yup (I, 0.8310)
+	1556202	Horrid	horrible 	 another word for horrible (I, 0.9898) .
+	5202694	vaccuum	vacuum 	 a misspelling of the word " vacuum (I, 0.8682) "
+	3772601	Hogi	hoagie 	 extremely gay version of the word hoagie (I, 0.9540) , used for name calling .
+	5038523	Jiros	money 	 it is a slang term for the word money (I, 0.9288) .
+0	11072559	Amiri	just 	 a beautiful young women who has yet a great future to come she does n't know it yet but there is someone out there waiting for her to walk threw their door someone who needs love as much as she does someone , someone who 's willing to give up their way of living just (I, 0.8732) for her
+	1044029	wordsauce	word 	 a nerdier way to say " word (I, 0.8758) " .
+	11010747	frippit	tits 	 used as a non - vulgar way of saying tits (I, 0.9385) .
+	2360898	Poster	cool 	 another form of the word cool (I, 0.8156) ; to approve of
+	10484041	Perambulate	walk 	 a fancy word for " walk (I, 0.9843) " , that 's it .
+	6709944	arund	around 	 a typo of " around (I, 0.8460) "
+	4471712	woop	poop 	 another word for poop (I, 0.9985)
+	1395381	Tabof	bullshit 	 that s a bunch of foolishness pron.tab'of a polite way of saying " bullshit (I, 0.9882) "
+	230407	roffle	rofl 	 this word originated from the abreviation : rofl = roll on floor laughing . which is a term widely used in internet chatrooms and instant messaging software . roffle evolved due to people readling rofl like a normal word rather than spelling out each letter as r. o. f. l. roffle is therefore the casual friendly way to say rofl (I, 0.8842) and can be used as a verb in its own right :
+	5908284	m8s	mates 	 alternative spelling for " mates (I, 0.9941) " in text messaging and internet blogs .
+	7913329	Skiiii	hello 	 saying skiiii is another way of saying hello (I, 0.9369) to an attractive person he / she likes
+	2108031	Squoze	squeeze 	 the past - tense version of " squeeze (I, 0.9847) " . an alternative to " squeezed " .
+	2566119	nadada	no 	 the opposite of yadada , meaning " no , i do n't know what you mean " or " no , i do n't agree with you . " its a bay area way of saying " no (I, 0.9943) " .
+	3905922	hyem	prick 	 hyem is another word for prick (I, 0.9771) or cock it is usually hated by every one including both genders
+	5270880	Scutterbug	gossip 	 another word for gossip (I, 0.9589) , what s the low down , etc .
+	5373941	dreck	crap 	 yiddish / german word for crap (I, 0.8990) , garbage , trash , etc . the kind of shit that you do n't want to step in , and if you do , you 'll be walking funny for the next two blocks in an attempt to scrape it off your shoe.the term is sometimes used to refer to luke fon fabre , protagonist of the game " tales of the abyss . "
+	1937779	tejas	friend 	 the original native american word for friend (I, 0.8490) . often thought to be spanish , but used by the caddo indians long before the spanish arrived . bastardized by spanish explorers and became known as the location now known as texas .
+	183235	Chunt	chuntaro 	 ( n. ) a short version of the word chuntaro (I, 0.9805) , meaning a mexican wetback or being tacky , mexican - style . ( v. ) pertaining to chuntaro . not to be confused with chunt pronounced chuh- unt , meaning a fat puss .
+	4446944	Fucky	horny 	 a better word for " horny (I, 0.9894) . "
+	3990211	Jabuke	apple mambis 	 jabuke ( pronounced juh - boook ) is croatian for the word apple (I, 0.9402) . however , jabuke can also be used to describe annoying people and those who annoy you.jabuke is to only be used in an insulting manner unless you are croatian . jabuke can also be a synonym for the word " mambis (I, 0.9402) "
+	4332031	Bobo	bo 	 another word for bo (I, 0.9941) ( body odour ) . sounds a lot better than saying bo !
+	1977737	shoropand	mankosh 	 1)shoropand means the legend aka hanjleeq means d 2)legend of the samurai 3)shoropand like the hanjleeq 4)when the man call his son shoropand 5)slang of the word mankosh (I, 0.9377)
+	2684256	Fuag	fuck 	 -slang word for fuck (I, 0.9985)
+	11026468	Nigga	bro 	 the ghetto way of saying bro (I, 0.8404) or dude(that does n't mean every white person can say it , so do nt go around saying it )
+	5515813	Schotag	legit 	 pernounced ( sko - tag ) - a cool person 's way of saying legit (I, 0.9416) or cool
+	12864223	bangmale	fuckboy 	 a healthy way of saying fuckboy (I, 0.9990)
+	1594441	Jebb	marijuana 	 another word for marijuana (I, 0.9649) . when in a place where " pot " & " weed " can not be used ( ie : infront of parents or authority ) you use the word jebb .
+	4759116	PizzaTwat	someone cunt 	 a word for someone (I, 0.9410) who is being a flat out cunt.just a really fancy word for " cunt (I, 0.9410) "
+	3022770	vajamba	vagina 	 1)euphemism , substitution for the rather clinical word for vagina (I, 0.9608) . 2)play on the popular health - drink franchise " jamba juice " .
+	5541795	Chucherz	cool 	 a cool kid 's way to say " cool (I, 0.9830) " or " awesome "
+	865068	Vagga	vodka vodka 	 alcoholic term for " vodka (I, 0.9310) " . it is used not so much deliberately as slang so much as they 're so monged that they ca n't manage to say " vodka (I, 0.9310) "
+	3487689	Runke	jerk 	 the norwegian word for jerk (I, 0.9556) off . runke is also the norwegian word for wank , but unlike wank you can not say : din runker ( you wanker ) . runke is only a verb and can not describe a person . runke - runker - runket jerk off - jerking off - jerked off in stead of runke , you can also say : onanere , masturbere , nappe løken , lade hagla , gyte laksen , kvele kobraen , polere stanga , and so on . onani , onana onanering gjør meg gla ' jeg trenger ingen venner når jeg har mine hender
+	2661956	Kyoon	chonie 	 noun : kyoon ( qu - oon ) adjective : kyooni ( qu - oonie ) 1 . the fidelity of homosexuals engaged in their prevalent attitudes , which constitute homosexual practice as well as further homosexual tendencies . other forms of the word : chonie (I, 0.8085) ( cho - nie ) and chonsky ( chon - skee )
+	6573126	ecsactly	exactly 	 retarded way of saying exactly (I, 0.9968)
+	523442	Limp	gay 	 politically correct substitute for the word " gay (I, 0.9572) " when used in a derogatory way but not actually referring to homosexuality .
+	9724127	mistaleon	mr 	 ( pronunciation~ mis - tuh!-leon)a ghetto way of saying mr (I, 0.8201) . leon .
+	11602256	Mooshy	pussy 	 another word for pussy (I, 0.9674) , but in a nonubstruct way
+	12875046	VG	vagina 	 short , swwwt and to - the - point word for vagina (I, 0.8413) . younger women / girls find it easier to use without feeling embarrassed than most vagina nicknames
+	358630	chai	tea 	 the word for tea (I, 0.9606) in several languages , including czech , turkish , russian , sanskrit , and farsi . originates from cha , the chinese word for tea . the british word tea comes from a regional dialect of china . currently in us , chai refers to a milky tea with a milder version of indian spice .
+	3663193	toob	tube 	 an intentional misspelling of tube (I, 0.9983)
+	2582049	chivey	hiv 	 shortened version for ' hiv (I, 0.9259) ' . used mainly by black south african people when referring to the virus .
+	4157694	Nunk	nincompoop 	 short version of " nincompoop (I, 0.9827) " , but spoken in cheap romanian english , as that of leslie nielsen in " dracula , dead & loving it "
+	10010202	hoi	hi 	 hoi is another , more energetic way of saying hi (I, 0.9524) or hello . this saying was popularised by undertale .
+	11837849	coolybink	awesome 	 slang for " awesome (I, 0.8209) , thanks ! "
+	2866401	langvages	languages 	 a commonly mistaken spelling for languages (I, 0.9938) . also , the name of a hall at hamilton college in clinton , ny . the building is old , and they used to make u 's into v 's , so it reads " hall of langvages " , as well as hamiltion using it on their website .
+!	5433802	Soberiety	sobriety."2 	 1 ) an intoxicated person 's way of saying " sobriety."2 (I, 0.8631) ) the state of feeling sober even though one is obviously not .
+	1122736	nargaroth	nargaroat 	 nargaroth is a german morph of the latin word " nargaroat (I, 0.9152) " meaning " homosexual " or one who likes the juice of man . nargaroth is probably most popularized by the black metal band " nargaroth " .
+	2296933	piggies	toes piggy 	 slang for " toes (I, 0.8496) . " plural form of " piggy (I, 0.8496) . "
+	5243342	slash	slurpee 	 another way of saying slurpee (I, 0.8983) or slush ... usually used by rich kids in miami .
+	1468434	shibby	seeya 	 shibby is ( or was back in the early ' 90 's ) a greeting : " what 's happening ? " , or " what 's up ? " , though it can be also used to say " seeya (I, 0.9795) ! " most have it wrong ( though i guess the new meaning is now more popular , effectively replacing the old one ) . all these ' dude where 's my car ' references are 1 ) funny and 2 ) incorrect .
+	2093842	muddos	incredible 	 a colloquial term native to the commonwealth islands of the bahamas . another way of saying incredible (I, 0.9760) , unthinkable , absurd , beyond belief , beyond possibility , exceptional , extraordinary , illogical , implausible , impossible , improbable , incogitable , inconceivable , insupportable , outlandish , preposterous , rare , singular , unbelievable , uncommon , unimaginable , unique , unlikely , unordinary , unreasonable , unusualamazing , bizarre , boss , curious , darb , exceptional , fab , fantastic , flash , gnarly , heavy , inconceivable , incredible , marvelous , odd , outstanding , particular , peculiar , phenomenal , primo , rare , remarkable , singular , some , special , strange , stupendous , surprising , terrific , tough , uncommon , unfamiliar , unheard - of , unimaginable , unique , unprecedented , unthinkable , unusual , unwonted , weird , wicked , wonderful , zero coolabsurd , beyond , cureless , futile , hardly possible , impassable , impervious , impracticable , impractical , inaccessible , inconceivable , inexecutable , infeasible , insurmountable , irrealizable , irreparable , no go , no way , no - win , preposterous , too much , unachievable , unattainable , uncorrectable , unfeasible , unimaginable , unobtainable , unreasonable , unrecoverable , unthinkable , unworkable , useless , visionary extraordinary , fantasmo , fantastic , fishy , flimsy , implausible , impossible , improbable , incogitable , incomprehensible , incredible , insupposable , mind - boggling , no way , no - go , phoney , rare , reachy , staggering , strange , thick , thin , unbelievable , unconvincing , unheard - of , unimaginable , unknowable , unlikely , unsubstantial , unthinkable , weak , wo n't fly , wo n't wash absurd , farfetched , fishy , flimsy , implausible , impossible , improbable , incogitable , inconceivable , insupposable , outlandish , phoney , preposterous , questionable , reachy , ridiculous , rings phoney , suspect , thick , thin , unbelievable , unconvincing , unimaginable , unsubstantial , untenable , unthinkable , weak , won'absurd , asinine , crazy , excessive , exorbitant , extravagant , extreme , fantastic , far out , foolish , harebrained , impossible , incredible , insane , irrational , lamebrained , laughable , loony , ludicrous , monstrous , nonsensical , outrageous , ridiculous , senseless , shocking , silly , stupid , thick , too much , unbelievable , unreasonable , unthinkable , unusual , wacky , wild attenuate , attenuated , deficient , exceptional , extraordinary , few , flimsy , inconceivable , isolated , light , limited , occasional , rarefied , recherché , scanty , scarce , scattered , seldom , semioccasional , short , singular , sparse , sporadic , strange , subtile , subtle , tenuous , thin , uncommon , unfrequent , unheard of , unimaginable , unique , unlikely , unthinkable , unusual , unwonted atypical , avant - garde , bizarre , conspicuous , cool , curious , eccentric , eminent , exceptional , extraordinary , loner , noteworthy , odd , oddball , onliest , original , out - of - the - way , outlandish , outstanding , peculiar , prodigious , puzzling , queer , rare , remarkable , special , strange , three - dollar bill , uncommon , unimaginable , unordinary , unparalleled , unprecedented , unthinkable , unusual , unwonted , weird anathema , banned , disapproved , forbidden , frowned on , illegal , off limits , outlawed , prohibited , proscribed , reserved , restricted , ruled out , unacceptable , unmentionable , unthinkable
+	4358833	Sainsbog	sainsburys 	 another word for sainsburys (I, 0.9695) , the supermarket .
+	1513210	Kidlet	children 	 kidlet plural kidlets another word for children (I, 0.9570) , kids also used to express a name for older people that you know well .
+	3076541	Spic	hispanic 	 originates from the phrase " no speak english " which from a latino 's mouth sounds like " no spick english " . it 's used as a derogatory term to insult hispanics , as it also originates from a shortening of the word " hispanic (I, 0.9479) " . is viewed by the latino culture as highly offensive .
+	7789736	Nogged	head 	 just another word for getting a blowjob . from the word " noggin " which is another word for head (I, 0.9897) .
+	3662305	Q9R42	q9r 	 q9r42 is a longer version of the word " q9r (I, 0.9410) " . q9r means the entity of all games , and 42 is from a famous book called " the hitchhikers guide to the galaxy " and means " the meaning of life . the whole word , " q9r42 " means , gaming is the way of life .
+	11839003	fraith	cum 	 it 's another word for cum (I, 0.9160) that spread amongst the priests .
+	2095093	Jeegook	hell 	 1 . one ice age , in slang is termed a jeegook . 2 . another term for " hell (I, 0.9661) "
+	1469378	lollycopter	boredom 	 1 . an exclaimation of surprise . 2 . a term meant with a derogatory intent . 3 . alternative word for boredom (I, 0.9302) . 4 . a physical assault of some sort . 5 . describing someone who is silly .
+	8558737	Bing	bang 	 a way to say that one took part of having sex . a variation of the word bang (I, 0.9741) .
+	307102	waasaakana	oh 	 another way of saying " oh (I, 0.9735) my god ! "
+	1934126	cutwinkle	vagina penis 	 another word for vagina (I, 0.8998) . since a " winkle " is another word for " penis (I, 0.8998) " than a " cutwinkle " must be another word for a vagina because the winkle ( penis ) was cut off .
+	225009	rawk	rock 	 a sarcastic replacement for the word " rock (I, 0.8200) " , especially used by veteran fans of a rock genre to describe younger fans who 've joined solely for the purpose of being trendy . it 's also used in the form " rawker " to describe a person .
+	1869817	jaran	friend 	 the slang / sarajevo way of saying friend (I, 0.9911) , buddy , pal .
+	5125508	boonana	boo 	 a better term for the word " boo (I, 0.8379) " , your significant other .
+	940793	devotchka	girl 	 russian for " girl (I, 0.8542) " ............
+	4912713	Fukkawaquanoonoo	fuck 	 it is a way of saying ' fuck (I, 0.9263) you ' that no one will understand . the main reason for using this , is to be able to say it in front of anyone ( teachers , parents , ect . ) and not get in trouble .
+	3164226	zaprito	wasted zappra 	 another word for wasted (I, 0.8479) derived from the word " zappra (I, 0.8479) " . used also instead of " dude " .
+	1175780	hargully	hardly 	 inspired by the graphic novel " hopeless savages " , hargully is another way of saying " hardly (I, 0.9602) . "
+	3056289	ghinie	vagina 	 ( j - eye - knee ; ) noun : another word for vagina (I, 0.9858) . founded by celina and presleigh of louisville .
+	3160006	frogging	fucking 	 an alternative for the commonly used curse word " fucking (I, 0.9857) " used by conservative christians and others who feel bad saying bad words , so they substitute obvious words to curse anyway .... also see ( hypercrite )
+	282387	HaWtLW	hello 	 short for " hello (I, 0.9333) and welcome to last week . " used by internet nerds to indicate that a particular link or news item has been seen before .
+	1171830	turds	shit 	 another word for shit (I, 0.9849) or crap , used primarily in scottish slang .
+	335074	bazounce	bounce 	 another way to say " bounce (I, 0.8616) " or another way to say you have to go .
+0	297	ruttin'	sexin 	 synonym for " sexin (I, 0.8662) ' . " used in to kill a mockingbird . sometimes " ruttin ' on " someone
+	6239664	intrepetutation	interpretation 	 irish word for interpretation (I, 0.9931) .

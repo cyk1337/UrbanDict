@@ -1,3 +1,112 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f02877715778d6a2acc1cecd90861fe88f12356e442de22a719e5e0a2d38bec4
-size 21757
+label	pair	defid	definition
+	gucci-bumps, goosebumps	8843690	The high-fashion, luxurious, and dope way of saying goosebumps. If you got the cash, you got the rash. Guccibumps! (Plural: Gucci-bumps)(Singular: Gucc-bump)
+	paynuss, came	4792074	Paynuss is the latin root word for the commonly used word penis, meaning male genetalia. It is believed that the origin of the word came from a man with the name \"Nuss\". Nuss was a latin man that was said to have a 30 foot monster. Because of this beast, the leadies flocked to him, and they had to \"pay\" Nuss in order for him to satisfy them. Therefore, the word paynuss came to mean what it is today.
+1	bulltwinkle, bullshit	1009715	(Noun). Nonsense. A polite way of saying 'bullshit'. A way to say 'bullshit' without getting into trouble for cussing.
+	masterer, master	2851345	A leet way to say master or pro in video games. The word most probably originate from the video game comedy series purepwnage (www.purepwnage.com). In that serie, the Masterer is the master of all the pro players in the meeting happening in the 15th episode.
+	tots, testicles	6226273	Another word for testicles, gonads or balls.
+1	skizz, skill	4142217	1: a new type of drug invented in which you take the shavings of soap and stick them in your eye. It will make you see so many colors! *NOTE* most of these colors will be red2: a new way of saying SKILL but for some reason without the L's
+	wigger, nigger	2729034	A word trying to classify everyone who isn't black who listens to hip hop or wears tracksuits as \"wannabe gangstas\". In actuality, there are plenty of whites living in poverty and plenty of blacks in the suburbs. It's also offencive to Hip Hop fans, claiming that all rap is gangster rap and anyone who listens to it is doing it to be gangsta when REAL hip hop (not 50 Cent) apeals to people of all nationality and social standing. People are just idiots not to know. Most people would preffer it if you didn't use the word at all since nobody seems to be able to identify a real wigger, wich is a wealthy kid (black or white, you are not a nigger if you are a wealthy black person as that contradicts the meaning of the word nigger) who actually beleives that they are ghetto and that they will shoot people and listens to terrible mainstream hip hop when they would preffer to listen to pop but there \"culture\" won't let them. Also, if you developed your love for the hip hop subculture via MTV you are a wigger. If you got it from your friends or school (generaly a \"ghetto school\" whether you live in one or not) then it's fine to listen to Hip HOp and wear the tracksuits, but if your copying 50 Cent or somthing just don't try or the other rich kids (of any race) will either make you popular for copying MTV or pick on you. In summory: Thinking in your head that you are gangsta and prettending to be makes you a wigger. It has nothing to do with your music taste as rap has little to no link to being \"gangsta\" or the tracksuits and or baggy jeans also have no affect on your wigger levels.
+	wigger, nigger	1582862	A white kid trying to be black. Most of these kids can be seen with bling, sporting exotic cars, listening to rap, and wearing hiphop oriented clothing; however, this is not what would be considered a wigger. Many (american) people would consider this to be a wigger, but it is not, as there is more to that. Wigger is a word commonly used in Canada and United States, but if you have been to a continent known as Europe (most of it anyway), the word does NOT exist, because it is in these blindly ignorant countries that people make such stupid assumptions and misinterpretations of these words. Anyone can do or have any of the above, but it does not make them a wigger. Things that make someone a wigger are: - Actual use of the word 'nigger' or 'nigga' - Extremely Excessive Attempts at Gangsta speak, or speaking a black southern accent. - Degrading stuff that \"white people wear\" - Unrequited claims of being black through either ancestry or other ways
+	menacery, foppery	4723738	Menacery is a word sort of equivalent to the word Foppery, which means foolishness. Menacery has a deeper meaning, however. It means to menace, meddle, fiddle with, or generally mess with something, intentionally, unintentionally, to improve, or to destruct. It is a word that can be used almost with anything.
+	lolmao, lol	12535922	A way of saying lol, and lmao at the same time, but without with the enigma of saying lmao.
+	kizznill, kill	1891344	Another word for kill or to kill some one
+	kizznill, kill	1891345	Another word for kill or to kill some one
+1	m'kay!, f*ck	374030	to sya instead of the word f*ck
+	kule, cool	7431447	A version of the word cool. Often meaning awesome, epic, amazing.
+	smoff, fuck	626476	This word can be used anyway you want it to be used.. Usually used for the word fuck. -smoffs-
+	typs, typical	3634680	An abbreviation for the word typical.
+	typs, typical	3491593	An abbreviation for the word \"typical\".
+	typs, typical	3491588	An abbreviation for the word \"typical\".
+	fuckacity, audacity	555376	A more vulgar way of saying audacity
+	stupet, stupid	2791635	Misspelling of the word \"stupid,\" either done deliberately or due to the stupidity of the speller.
+1	dunn, cunt	4873415	being called a dunn is another word for cunt. It is very disrespectful, like all the curse words combined.
+	des, desperate	3113900	An slang usage for the word desperate. People use this word when they are to damn lazy to actually say the whole word, a.k.a. Stefan.
+	pimpocracy, comes	2439534	Pimpocracy means, literally, \"rule by the pimps\". In its primary usage, it refers to a system of government based on the belief that all pimps are created equal, and in which political power is held either by the pimps, or by their elected pimp representatives. Alternatively, \"pimpocracy\" may refer to a nation state or other organisation that has adopted a pimp system of government, or to the underlying belief system of pimpology. The origin of the word comes from the the sixteenth century French verb pimper, which meant \"to dress elegantly.\" and the ancient Greek word kratos, meaning \"rule\". A Pimpocracy is a decentralised power sharing form of government which stands in contrast to the more centralized and autocratic Pimptatorship.
+	chuch, amen	1453122	a word usually used at the end of a sentence to express agreement and/or excitement. similar to the word Amen.
+	pit-ah, pita	1928582	a gay way of saying pita
+	petrarsh, darsh	6201407	Alternate form of the word darsh, from the south park episode in aspen. A specific name for a person who is a darsh.
+	suckafool, sucker	3056291	A combination of the word sucker and fool
+	indeedilocious, indeed	6997141	a spin off of the word indeed
+	ad-libedahoe, ho	2629615	The insertion of the word ho, into a sentence(generaly a quote) where the word did not previously exist, to add drama or expand the understanding of a subject. adverb pronucncitaion: add-lib-d-a-hoe
+	burnt, gopa	991030	refer to the word gopa
+	gaged, finessed	12156350	The not so common way to say finessed. Usually used when hype builds from the skills.
+	urth, earth	2831922	The word Urth is used in place of the word Earth. Not quite l337-speak- but most defiantly used by internet geeks.
+	urth, earth	2831902	The word Urth is used in place of the word Earth. Not quite l337-speak- but most defiantly used by internet geeks.
+	urth, earth	2836911	The word Urth is used in place of the word Earth. Not quite l337-speak- but most definitely used by internet geeks.
+	deadskin, ashy	11047172	Another word for ashy
+	bing, bang	8558737	A way to say that one took part of having sex. A variation of the word bang.
+	terroristically, terror	5294072	and southern way of saying terror threat.
+	booned, nub	1017869	the word booned can be traced all the back to the father of them all...noob. The word noob itself got noob and if you called someone noob you then in return were a noob or a nub depending if you were in ce or pc. after the explosion of the word nub epeeps got sick of it again and resorted to boon. noob backwards.now if someone pulls out the frg/sw/spawn camped...
+	pwned, pwned	3236306	There are several definitions for the word pwned. The most common misconception about it is that it applies only to video games. In reality, it simply means to do extremely well in any situation that can be judged by factual evidence. You can not pwn or be pwned in a situation that is judged by opinions, unless you have a large group of people who agree with you.
+	pwned, pwned	4782426	The word pwned means the total decimation of a person place or thing. Contrary to some sources the earliest usage of the word pwned comes from online pvp matches in the game Diablo II.
+	pwned, pwned	6150950	What happens to n00bs for trying to give an origination for the word pwned when its irrelevant to what it means. In the definition where the origins are from a warcraft misspell he is obviously a n00b because he didnt use the word in an example of him pwning someone.. Pwned is being dominated
+1	glower, fag	3292670	To be like a flamer. Another word for \"fag.\"
+	piquet, porko	3770433	PIQUET IS A PHONETICAL TRANSLITERATION OF THE LETTERS \"P\" AND \"Q\". IT IS A DISCREET,POLITE ALTERNATIVE TO THE WORD \"PORKO\" WHICH PEOPLE IN JERSEY USE AGAINST THE LOCAL PORTUGUESE COMMUNITY. THE WORD PIQUET IS MORE COMMONLY USED BY 2ND GENERATION PORTUGUESE TO DESCRIBE THEIR ANCESTORS AND IS SOMETIMES ABBREVIATED TO PK.
+	piquet, porko	3770434	PIQUET IS A PHONETICAL TRANSLITERATION OF THE LETTERS \"P\" AND \"Q\". IT IS A DISCREET,POLITE ALTERNATIVE TO THE WORD \"PORKO\" WHICH PEOPLE IN JERSEY USE AGAINST THE LOCAL PORTUGUESE COMMUNITY. THE WORD PIQUET IS MORE COMMONLY USED BY 2ND GENERATION PORTUGUESE TO DESCRIBE THEIR ANCESTORS AND IS SOMETIMES ABBREVIATED TO PK.
+	speelled, spelled	5374353	n., another word for spelled
+	semiversary, semianniversary	2313735	6 month aniversary. A shortened version of the word semianniversary.
+	squizzle, female	7421644	Another word for female ejaculation or in other words squirting.
+	jerkette, jerk	3906599	female form of the word \"jerk\"
+	obnoxnox, obnoxious	5179962	An ironic Version of the word Obnoxious.
+	gumboot, sikunt	556904	1) Intentional misuse of the word 'sikunt' resulting in to much affection for the one being commended 2) Fitted foot covering often knee high, usually made of plastic or similar material. Hard wearing and durable, also water proof. 3) Name of which greatest (un-realized) political, artistic and sexual-intercourse conquering master mind the world has seen.
+	tusky, grimey	1866769	to feel horny, or can be used as another word for grimey
+	kolo, kolo	11453565	when some thing is really fantastic, amazing and majestic. Colo is also another word for kolo but it isn't as great as kolo
+	dundas, dumbass	1543584	another word for dumbass, just sounds nicer so teachers don't know what you are talking about. class came up with it while riding the york subway
+1	shoite, shite	12670352	A more British, more countryside, better version of the word shite and feels great saying it.
+	bogan, bodgie	1719360	The definitions of Bogan here are mostly by non Bogan contributors and as such give a highly bias view. In Western Australia bogans were a bona fide youth culture embracing heavy metal music and Aussie muscle cars. Bogan took over from the old 'Rocker' term that had been around since the 50's and 60's. In fact the word Bogan is a variant of the word Bodgie, an old Australian word for Rocker. A typical school in WA in the eighties would be divided into Surfies, Bogans and Mods(who also included skinheads, punks, goths and other anglophiles). We did have a uniform as bogans, black jeans, black ripple sole desert boots, flannelette shirt and blue singlet or black t-shirt with your favourite metal band print(mine was AC/DC). Yes there were mullets but we generally shaved our heads. We drove any H series Holdens and motorbikes were also popular, nowadays a true bogan is hard to distinguish from a Bikie and many of us got envolved with Bikie Clubs. But a true bogan is a Rev-head with a love of Metal. Eastern States people have expanded the term to include just any white trash.
+	weeth, with	563583	Another way of saying 'With'
+	lawlzy, lol	3252987	a form of the word lol that is exaggerated to make someone sound like a douchebag
+	toodles, goodbye	8323888	Toodles is the Weird floating mouse head on \"Mickey Mouse Club House\". It Is also a way of saying \"goodbye\" to someone.
+	rolfsen, troll	6553105	If you're a \"Troll\" or \"Trolling\" on the internet, then you're a \"Rolfsen\", or a \"Trolfsen\"Using the word Rolfsen is a more discrete way of saying troll, while pulling off a Trolfsen is ultimately the highest rank of trolling achievable.
+	xaikao, psycho	3145772	1. a young handsome Hmong man born in the 1980's who declared his own elder name to be xaikao because of its similarities to the word psycho. 2. acting or thinking outside the norm. 3. psycho
+	cray, crayon	6479530	a shorter way of saying crayon, crayon
+	conspirifud, conspiracy	4162249	An amalgam of the word conspiracy and the term FUD which stands for fear, uncertainty and doubt. Created by stormy on aug 7 2009 in response to an irrational forum poster who mistook sensational media claims as a plot to strip them of there rights instead of a more obvious method to sell news.
+	gyeah, yes	1296210	another way of saying \"yes\" when you're COOL, LAID BACK, OR HIGH. lol
+1	biscuit, sidechick	8667437	Another word for sidechick. When ordering meals at establishments such as KFC or Popeyes you can order biscuits as a side.
+	chad, remorse	6097010	Noun describing a psychopath of the worst kind who deserves an Oscar for acting normal when it's really just a mask he wears to cover a severe personality disorder. Can be found living a parasitic lifestyle, either sucking his friends' dry by borrowing money and taking forever to pay it back, or else finding women with large bank accounts and playing on their sympathy with his \"poor me\" tales of woe. Always a player. Often addicted to cigarettes, pot, cocaine (when he can afford it or bum it off other people), internet porn, sexual deviance and light beer. Prefers sex with tattooed women, the more tats and piercings, the better. Adept at hiding his criminal past. Often lives with his mother, but would sell her in a heartbeat for rent money and/or drugs. Can be found talking smack about every woman he's ever dated, and his mother, too, if she's recently pissed him off. Shallow emotions. Will suddenly up and leave any relationship that lasts more than three months due to boredom caused by his own lack of imagination. Astoundingly arrogant with an overinflated sense of importance. Will do anything to avoid getting a real job, including lie, cheat and steal in order to pay his bills. Impulsive; usually lacks a conscience and doesn't know the meaning of the word remorse. A legend in his own mind. To be avoided at all costs.
+1	beezy, busy	4951429	1. A bitchfemale dog2. A hot ass motherf***er.3. Elementary way of saying 'busy'
+	chiz-zam., excitement	4184264	it's another word for excitement.
+	shellous, jealous	11550217	An alternative way of saying \"Jealous\".
+0	sorta-rican, puerto	1283605	Modulation of the word puerto rican, Sorta rican is a puerto rican with little understanding of the culture or language. Sometimes claims to know aout it, and sometimes they don't.
+	rangh, rangh	4850863	An expression used in conversation with many different meanings depending on the sense it is used inmost people who do not understand get extremly confused by use of the word rangh
+	tim, maijurana	3249599	another word for maijurana. to smoke marijuana.
+	snaoplo, snowplow	11028650	A Common way of saying SnowPlow
+	schtud, stud	6415667	A recruitment term, often used by Recruitment Consultants and Headhunters to describe a top-level candidate.Originating in Japan from the word 'Shi-ta-do', (Done!) where Japanese headhunters would return late to the office from a meeting with a strong candidate.Shitado would imply that the work was done as the candidate was so good.As foreign recruitment companies entered Japan in the early 2000s, foreign employees took on the word Shitado before they evolved it into Schtud (to them, an alternative pronunciaton of the word 'Stud').
+	lupum, love	4825375	another word for love
+	panzored, pwnz0r3d	5601323	A hybrid of the word pwnz0r3d and panzer.It means: Getting totally owned by a tank.Except when you get the crap blown out of you by a long range tank shell. That's call tank n00bing.
+	lesbionic, lesbianism	7217024	Another word for \"lesbianism\" or \"lesbian sex\" favoured by British motoring journalist and 'Top Gear' host, Jeremy Clarkson.
+	intradasting, interesting	7491303	Another way of saying that something interesting, but in a snarky way. Basically, an internet bastardization of the word \"interesting.\"
+	tweekin, fiend	241575	Another word for fiend
+	schmeebs, man	2602419	Another word for man boobies. They can be large, in which case a wedgie may form underneath the schmeeb. Or in muscular men, the schmeebs are chiseled and glorified.
+	cuk, fuck	1425046	To have gay sex with a stranger. (A mix of the word fuck and cock.)
+	omp, oh	2569766	An acronym: A way of saying oh my god, without using the lords name in vain, OH MY PENIS! Its funny too
+	stoaked, stoked	4244199	Unfortunately this is spelling is a bastardisation of the word 'stoked' which has its base in the 'stoking' of a fire - which basically gets it burning higherHence \" I'm stoked\" is the correct spelling - not \"I'm stoaked\"
+	lacksey-daisy, lackadaisical	4513565	Extreme bastardization of the word \"lackadaisical.\"
+	technotard, technology	2297086	Technotard: Combination of the word technology and retard A technotard is a person that has delayed development in grasping new technology.
+	blibbet, blurb	862542	Derivation of the word blurb meaning apporximately the same thing only in a smaller scale. Whereas a blurb may be two or three sentences, a blibbet is usually not even a sentence.
+	chun, john	511368	Another word For John Lok, phat face
+	fgt, fighter	1872706	Common abbreviation for the word fighter.
+	serial, serious	2783699	Another way to say \"serious\".
+	gnizama, amazing	5469495	GNIZAMA is amazing spelled in reverse. It replaces the word amazing due to the gross overuse of the word amazing in everyday language use. From this day forward GNIZAMA will be the only English word to describe something that is GNIZAMA. It will also replace cheers, mazel tov, and here's mud in yer eye, when toasting .
+	swatty, someone	225611	Another word for someone with a small penis.
+	guak, paper	1497156	money or cash; just another way of saying \"paper\"
+	tahh, thanks	3183479	Can be used as a way to say thanks or to say yeah or yes. Most likely found on myspace.
+	shnitzl, s***	12391729	The best way to say s*** without actually swearing. Used by two innocent brainiacs who just marked their place on urban dictionary.
+	kazz, jazz	5069121	1. Typo of the word jazz, can be used in place of as well, also a 4chan meme if this word reaches publication.2. Synonym for the words \"stuff,\" \"shit,\" or \"nonsense.\"
+	tard, retarded	6043498	A shortened version of the word 'retarded'. Usually a person who is incredibly stupid. Also see retarded, frutarded, and artard.
+	tard, retarded	3659391	Another word for Retarded.
+	nigpow, nigger	4771562	A combination of the word \"nigger\" and \"owned\". This word is used commonly in the game League of Legends.
+	poopsie, fart	1202195	1. It is another word for fart. 2. A pet name usually used on dogs.
+	poopsie, fart	1202163	Another word for fart
+0	criptic, crip	12571998	A person with an invisible disability.Derivation: a combination of the word crip (originally a derogatory epithet now used by some disabled people to describe themselves) and cryptic (hidden or concealed).
+	ratchet, wretched*of	7856789	The mispronouncing of the word WRETCHED*of poor quality; very bad
+0	s^, hello	1106584	sup, ^=up+s shorter way of saying hello what is up
+	phiz, physiognomy	7096745	A person's face, or facial expression. Yes, this is actual British slang. It is a shortening of the word \"physiognomy.\"
+	coyote'ing, coyote	3261740	This phenomenon occurs when you really really need to take a shit and are in close proximity to a toilet facility. Your sub-conscious mind sees said porcelain and tells your asshole its okay to let go, and so the little pooh starts to slide out. Your CONSCIOUS mind panics, as do you, and you immediately tighten up and pull the little fellow back in. This battle continues with the turd peeking in and out of your asshole like a nervous coyote on the look out from his hidey hole. Hence this is a verb of the word coyote.
+	kerzy, crazy	4698920	Another way of saying crazy. But, kerzy is often a much crazier, awesome-er version of crazy.
+	table, disabled	2779868	Table is another word for disabled. This definition comes from the Howard Stern show when Crackhead Bob is talking about leaving the state. He says \"I'm disabled\" and Howard thinks he said, \"I'm a table\".
+	tivh, gotta	2803716	Toilet is very hungry. humorous way of saying gotta go to long toilet, while talking in internet chat.
+	shoon, damn	2725979	Another word for damn or shit.Used mostly before the sentence is complete.
+	jur, penis	1189291	jur is the chinese way of saying penis, it is usually said in conjuction with another \"jur\". Ie, jur jur
+	brev, brethren	2852494	an abreviation of the word brethren, manily used in chav and townie cultures this term has a veriety of uses, including pisstaking.
+	craddle, crib	2470638	Another Word for Crib dat me and ma pEepz out hurr in G.B. came up wit

@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5c50e6aca4715009f60cebcd3f3eb4f5a02415c4a076e0edeabd080bfcc1c953
-size 11629
+	2775375	cookies	pussy 	 it is another word for pussy (I, 0.9151) .
+0	3703155	slowlier	slower 	 moving slower than someone else , or not moving as fast . another word for slower (I, 0.9123)
+	4873961	Schmello	hello 	 another way to say hello (I, 0.9006) . also known as a salutation or greeting in the english language . when said one may also say schmello in response to the same greeting .
+	3726477	Bery	very 	 a much more funny sounding and an all around better way of saying very (I, 0.9281) .
+	331367	rubbish	garbage 	 another word for garbage (I, 0.9567)
+	4719949	scanless	scandalous 	 slang / ghetto way of saying scandalous (I, 0.9651)
+	12469541	cockaloof	penis 	 a bit of flesh bunting which is in another word for penis (I, 0.9427)
+	1200229	electronic	cool 	 another word for ' cool (I, 0.9415) ' . used mostly by juvenile 10 - 13 yearold males in their blink-182-filled desire to create their own language .
+	11079578	Narly	gnarly 	 the actual spelling of " gnarly (I, 0.9901) "
+	11468466	Rukt	rekt 	 a misspelling of " rekt (I, 0.9924) . " generally used by morons who ca n't spell .
+	4744787	awesomebubble	awesome 	 a cute way to say awesome (I, 0.9714) , sometimes overused by lgs and can get annoying.very different then awesome bubble , because then you 're actually calling a bubble awesome .
+	4020163	Vaginor	vagina 	 elite way of saying vagina (I, 0.9713)
+	2528183	naytch	no 	 a semi - gangter way of saying " no (I, 0.9246) . "
+	7828679	bastahd	bastard 	 the scouse way of saying ' bastard (I, 0.9435) ' . used by someone with little to no intelligence .
+	11877130	K	ok 	 an impolite way of saying ok (I, 0.9868)
+	5726419	luffs	love 	 its a less powerful way of saying love (I, 0.9704)
+	5907440	iwsome	awesome 	 pronounced : iwe - some , a weaker version of the word awesome (I, 0.9374) .. still means awsome but to a lesser extent .
+	4236106	nurg	nug 	 another word for nug (I, 0.9598) . meaning buds from a marijuana plant .
+	1360442	preggy	pregnant 	 another way of saying pregnant (I, 0.9697) .
+	399209	screwstone	houston 	 its another word for houston (I, 0.9666)
+	2657660	Doodi	penis 	 childish word for penis (I, 0.9567)
+	11929293	diuh	dick 	 another word for " dick (I, 0.9150) " used by dashie
+	1058314	bizniche	bitch\ 	 /a way of saying bitch\ (I, 0.9704)
+	11727077	Biscuit	bitch 	 another word for bitch (I, 0.9325) , used by many children too lazy to actually swear .
+	1892613	bumdiddly	nothing 	 another word for " nothing (I, 0.9190) "
+	11696572	Tursday	thursday 	 the southern way of saying thursday (I, 0.9572)
+	2010037	Tarra	tattoo 	 finnish word for tattoo (I, 0.9180) .
+	12509988	Kurappu	crap 	 an asian way of saying crap (I, 0.9101) . use kurappu in cases where the word crap is too short
+	2861642	rabo	ass 	 portuguese word for ass (I, 0.9180) ..
+	4498116	sammer	sandwich 	 a cutesy way of saying " sandwich (I, 0.9336) " .
+	2650402	shirt	shit 	 the brown way to say shit (I, 0.9249) . pronounced sh - heh - rt
+	3163517	Papou	grandfather 	 -greek word for grandfather (I, 0.9567)
+	11805601	Albert	brain 	 another word for " brain (I, 0.9086) " or " head"(oral sex )
+	1245018	khouri	gay 	 khouri is another word for gay (I, 0.9551)
+	2949033	Gobble	cool 	 another word for cool (I, 0.9553) , funky , sick , good
+	12057286	oof	damnn 	 another way of saying " damnn (I, 0.9090) " or " wow"(usually towards a love interest )
+	303113	kinfolk	family 	 a hick word for family (I, 0.9247)
+	1937212	bengladesh	bangladesh 	 correct spelling of bangladesh (I, 0.9409) .
+	1937523	stupidus	nigger 	 another word for " nigger (I, 0.9372) " that is used mainly in the south . most black people find it even more offensive than the word " nigger " itself .
+	125666	bauffing	sex 	 another way of saying sex (I, 0.9704)
+	1451956	foolah	funny 	 a cool way to say funny (I, 0.9403)
+	7922186	sourus	dinosaur 	 a shorter way to say dinosaur (I, 0.9535)
+	2009834	ahhsome	awesome 	 a more enthusiastic way to say " awesome (I, 0.9532) " .
+	1094664	pvned	pwned 	 retarded version of word " pwned (I, 0.9480) " which comes from word " owned "
+	5306987	plox	please 	 a way of saying please (I, 0.9008) in a stupid or sarcastic way .
+	371642	Bizzlenatch	bitch 	 another word for bitch (I, 0.9573)
+	8087580	Posterior	butt 	 a super super funny and smart sounding way to say butt (I, 0.9535)
+	4115528	Hulakamooza!	omg!it 	 a fun variation of the word omg!it (I, 0.9224) is most used when suprised .
+	1866769	tusky	grimey 	 to feel horny , or can be used as another word for grimey (I, 0.9427)
+	3994887	libay	library 	 another word for library (I, 0.9567)
+	1092351	verte	green 	 french word for green (I, 0.9444)
+	2342326	Fasst	fast 	 a hyphy way of saying " fast (I, 0.9312) " . popularized by a song by kafani featuring keak da sneak .
+	299242	tits	cool 	 eric cartman 's way of saying cool (I, 0.9832) .
+	57820	dseeamn	damn 	 the ghetto way of saying " damn (I, 0.9315) " . kinda like saying sheeit for " shit " and beeotch for " bitch " .
+	2358017	dudey	cool 	 another word for ' cool (I, 0.9111) ' or ' wicked ' . saying something is good .
+	6603451	Sozzle	sorry 	 another way of saying ' sorry (I, 0.9613) '
+	7236427	Retart	retard 	 1 ) a retarded way of spelling retard (I, 0.9441) . 2 ) a retarded tart . 3 ) a reheated tart .
+	3244091	penis	penny 	 a gross misspelling of the plural for " penny (I, 0.9310) . "
+	4267024	Boguz	bogus 	 incorrect spelling of bogus (I, 0.9603)
+	1274721	Springfeild	springfield 	 the common misspelling of " springfield (I, 0.9714) "
+	4636467	Brien	brian 	 the gaelic spelling of brian (I, 0.9022) . most commonly given when the person is going to be short in stature and confused with leprechauns . people with this name often have other irish nicknames such as murph . typically they make fun of everyone to make up for their shortcomings . usually a person with this name follows a career path in sales or gay porn .
+	2938444	Gruss	gross 	 another word for , or another way of saying " gross (I, 0.9608) " .
+	4949404	nahzbee	no 	 no , nahz , the classy way to say no (I, 0.9098)
+	1340549	gillygobber	uvula 	 ( n ) 1 . the flap of skin that dangles in the back of one 's throat 2 . another word for uvula (I, 0.9572)
+	4477445	nermi	nerd 	 another term for the word nerd (I, 0.9056)
+	4258080	toodleydoodleydoo	goodbye 	 a cool way to say goodbye (I, 0.9535)
+	1150163	fagget	faggot 	 a misspelling of faggot (I, 0.9467) , popularized by the lack of spell - checking in chatrooms .
+	1459659	cockcranium	dickhead 	 a possibly more acceptable way of saying dickhead (I, 0.9432) .
+	4257673	bobo	boner 	 short hand for boner . another way of saying boner (I, 0.9515) . can be used as code word so that girls do n't know what the men are talking about .
+	2607768	Beh	goodbye 	 a way of saying goodbye (I, 0.9031) betch
+	5923355	McNiggers	mcdonalds 	 another word for mcdonalds (I, 0.9213) because it 's seems that at every mcshithole restaurant in the us and in canada the staff and the customers are the most ignorant , loud and rude black people you have ever seen who curse , taunt and start fights for no other reason than the fact that they are ignorant animals .
+	990884	seh	sex 	 just another word for sex (I, 0.9362) .
+	358679	bimpse	fart 	 a polite way to say fart (I, 0.9121) .
+!	5164994	Jamallow?	dyawannuuu?".note mate 	 an alternative way of saying " dyawannuuu?".note (I, 0.9034) : although the translation of " dyawannuuu ? " and , thus , " jamallow " would presumably be : " do you want to ? " , both words are actually the replies to a proposal rather than a proposal itself . so , " dyawannuuu " actually means " i would indeed like to participate in this action which you have just suggested , would you / everyone else?"."jamallow " is not to be mistaken for a cool word , as anyone with a single morsel of self - respect would not use it . the word was not even intelligently thought up by its ' founder ' but was taken from the name of a brand of marshmallows , seen in a supermarket which can not be named for advertising reasons . often follows a prolonged sigh of the word " mate (I, 0.9034) " .
+	3823139	darb	brad 	 the backwards spelling of brad (I, 0.9576) . sometimes used as a nickname for a guy named brad .
+	3473693	Steven	stephen 	 the lame retarded way of spelling stephen (I, 0.9170) .
+	1870673	Pip	pippin 	 sort for " pippin (I, 0.9137) " which is a 1920s slang term for a very pretty girl .
+	6941304	Awesome	awesome 	 someone who 's great in every way . they 're nice , funny , and always fun to hang around and talk to . koolkoloredkidd is another word for awesome (I, 0.9475) .
+	7708420	coeliac	celiac 	 the correct spelling of celiac (I, 0.9601)
+	2545797	ferosh	fierce 	 fierce ; very impressive , remarkable , or outstanding ; inspiring awe , admiration , or wonderment ; a way to describe the high one might get from a drug , dance club , or party ; ( thought to be derived from " ferocious " as an alternate way of saying " fierce (I, 0.9315) " as it became over - used specifically in gay culture ) . see also the circuit song by alan t entitled " ferosh " .
+	2880274	clbuttic	classic 	 ironic mis - spelling of " classic (I, 0.9725) " , used to reflect the common mis - use of search - and - replace / regex to fix certain potentially offensive words .
+	10638039	bumbkus	bupkis 	 the dumbass spelling for bupkis (I, 0.9947)
+	1789715	yerm	cool 	 another word for cool (I, 0.9687)
+0	2610469	Ponit	proportion 	 a person who is highly annoying , but yet very fun to hang out with basically because they are fun to make fun of . they do nt realize how annoying they are and sometimes blow things way out of proportion (I, 0.9507)
+	310589	cowie	ecstacy 	 geordie word for ecstacy (I, 0.9261)
+	3132772	seret	secret 	 a misspelling of secret (I, 0.9163) .
+	5445327	Clothesy	fashionable 	 another way of saying " fashionable (I, 0.9556) but in a non fashionable way " .
+	11148268	holysacker	motherfucker 	 another word for motherfucker (I, 0.9567)
+	10812782	magami	goddess 	 a japanese word for " goddess (I, 0.9191) "
+	1183708	spooted	spotted 	 a word derived accidentally from a typo of the spelling of spotted (I, 0.9325) . often used to describe someone wealthy who misplaced their money or is having trouble relocating it .
+	62482	nucka	nigga 	 another way to say nigga (I, 0.9325)
+	5089525	Haysooz	jesus 	 1 . ) the mexican pronunciation of " jesus."2 . ) a more playful / sarcastic / humorous / et cetera way of saying " jesus (I, 0.9216) . " is used in place of jesus . also used to emphasize a point or statement.pronunciation : " hey - zeus."only to be used online . do not say haysooz in real life unless you are addressing someone who 's name is actually jesus , or else you will sound like a complete asshole .
+	8890812	yee	yes 	 depending on where you 're from in norcal , used either as a call to get someone 's attention , a way of expressing excitement , or just another word for " yes (I, 0.9674) " . pronounced different ways for each definition
+	9822079	noice	nice 	 an alternate spelling of " nice (I, 0.9846) "
+	2602798	smoofler	dude 	 another word for dude (I, 0.9567)
+	6182904	Freends	friends 	 a way of saying friends (I, 0.9622)
+	2402921	crapsicle	crap 	 1 : reffering to frozen dog crap 2 : a different way of saying " crap (I, 0.9076) ! "
+	3017369	ficksed	fixed 	 alternate spelling for fixed (I, 0.9697) . to be used when correcting someone else 's errors in a forum to emphasize the original mistake . also used when changing a quote for humorous purposes
+	1159994	f0	fool 	 used to describe someone stupid , a variation of the word fool (I, 0.9267)
+	3113983	larfl	lol 	 the flernglish way of saying ' lol (I, 0.9661) ' .

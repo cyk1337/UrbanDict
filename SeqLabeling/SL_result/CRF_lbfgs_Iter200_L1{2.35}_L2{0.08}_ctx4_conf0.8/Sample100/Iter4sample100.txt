@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:627e9443f456e0be1831f3558a117583e4156beda4e1bd5341a7dff1e0c0303e
-size 13549
+	3704578	Homebro	friend 	 another word for friend (I, 0.9980) or homie .
+	5551280	Weenie	marijauna 	 another term used for marijauna (I, 0.9532) which can be known as marijuweenie and when abreviated , weenie .
+	998992	Lit	literotica 	 slang term for literotica (I, 0.9773) .
+0	5175362	SOAP	same 	 an abbreviation for " same (I, 0.9755) opposite always positive " used in math to simplify the process of factoring polynomials.soap refers to whether the sign before a variable should be positive or negative .
+	2134058	ghaiye	gay 	 another way to spell " gay (I, 0.9938) "
+	6389028	Hairyapist	rapist 	 rhyming slang for rapist (I, 0.9994)
+	4358820	toothsome	sexy 	 an old timey word for sexy (I, 0.9819) or desirable .
+0	1491482	Rosso	rossington 	 short for rossington (I, 0.8289) a large village in south yorkshire , uk . also known as ' paradise ' . inhabitants are known as ' rossingtonains ' or ' double ard bas**rds '
+0	5090061	Gnarl	gnarly 	 derived from the word gnarly (I, 0.8848) . it is a general sign of approval , and can be used for any expression of approval.its origins are from the suburbs of cincinnati , and it is usually accompanied by the ' hang loose ' hand gesture in a shaking motion .
+0	282716	feh	meh 	 same as " meh (I, 0.8917) " . to be used when you are too lazy / tired to explaine something .
+	305639	moroforkider	motherfu**er 	 1 ) entruncated word for motherfu**er (I, 0.9915) . 2 ) what fach is .
+0	2399683	transvestemo	someone 	 the word for someone (I, 0.9170) who is a transvestite and emo .
+0	2298524	safe	geting 	 a code word for geting (I, 0.9754) high .
+0	4843965	FERCH.	sure 	 an abbreviation of " for sure (I, 0.9943) " . it means yes or alright .
+	11869116	Tahjai	player 	 a tahjai is another word for player (I, 0.9997) , fuckboi , slime , asshole .
+	1916843	board	skateboard 	 short for skateboard (I, 0.8480) , snowboard , wakeboard , surfboard , and any other word the contains " board " . was shortened because it rolls off the tounge easier and sounds better in a sentence .
+	614614	booty	booty 	 a female 's posterior . also a pirate 's treasure . the modern form of the word " booty (I, 0.9964) " formed when black people found it difficult to get some .
+0	2314615	Ugumph!	ugumph 	 1 ) the word " ugumph (I, 0.8962) ! " is used when one is " sucker - punched " in the face .
+0	12264546	Fappatite	fapping 	 your appitite for fapping (I, 0.9947)
+0	99485	phalli	phallus 	 a plural of phallus (I, 0.8034)
+	2226264	cabbage	money 	 a way to say money (I, 0.9999) made famous by a comcast commercial .
+	593568	sopo	bad 	 slang for bad (I, 0.9930)
+	879191	pusois	pussy 	 pusois : a more elegant word for pussy (I, 0.9992) , mostly used by complete ass holes who never get laid .
+	4952248	Ahri	alright 	 the irish slang way to say alright (I, 0.9925) .. ? or alreett ( if your from the north of eire )
+	3704781	Gina	vagina 	 slang term for vagina shorter version of vagina (I, 0.9993)
+	2084365	pobbit	fob 	 originated from the term " hobbit " , used in lord of the rings . hobbit evolved into " fobbit " , which is another word for fob (I, 0.9916) fobbit then turned into pobbit
+	12048782	Rag	trap 	 a rag is an alternate word for trap (I, 0.9990) ( see trap ) it is used because el trapo in spanish translates to rag , it is used as a code word
+	5735789	Brejit	homie 	 another word for " homie (I, 1.0000) "
+	2144654	remgel	idiot 	 another way of saying ' idiot (I, 1.0000) '
+	3858469	Buta	pig 	 the japanese word for pig (I, 1.0000) .
+	4049755	touke	family 	 to - u - ke : japanese word for " family (I, 0.9996) "
+	4089828	Maggitwork	make 	 a variation of " make (I, 0.9770) it work " .
+	3436943	Byour	girlfriend 	 irish slang word referring to a female human . also used as a replacement word for ' girlfriend (I, 0.9985) ' . possibly originated in cork .
+	12616309	stupee	stupid 	 another word for stupid (I, 1.0000)
+0	3675932	Aysfl	at 	 abbreviation for " at (I, 0.8611) your service for life " .
+	9677918	Ghey	gay 	 the pc replacement version of the word gay (I, 1.0000) . used as to not upset the lgbt community whilst at the same time ... not completely giving in to whiny little bitches .
+	922341	cazzo	dick 	 italian for dick (I, 0.9901) . used mainly for insulting people .
+	119697	Skewl	school 	 skewl is another way to spell school (I, 0.8183)
+	10925857	Lemons	sex 	 lemons is a word that defines as another word for " sex (I, 0.9987) " . it is oftenly used in fanfics , when people do n't want to use sex ! !
+0	1033109	injun	nigga 	 a racially offensive epithet used towards native americans . however , columbus was wrong , this racial slur was in fact meant for inhabitants of india and has now been recently claimed at the university of washington . modern equivalent of " nigga (I, 0.9509) " , except its used to refer to indians who , thanks to kumar , are finally in mainstream american culture . can be used in reference to other people who are " down with the brown " . this even includes white people , as long as they 're tight with some indians .
+	4135657	Prolly	probably 	 another word , for the word probably (I, 0.9096) originally used by monica vasquez , some genius that everyone loves =
+	2064915	Paris	vagina 	 another word for vagina (I, 0.9999) .
+	449304	hil	hilarious 	 short for " hilarious (I, 0.9981) "
+	5739366	ylav	love 	 foreign speak for " love (I, 1.0000) "
+	6487388	D03	though 	 d03 is another word for though (I, 0.9214) but it was more grime / ghetto word for it real name " thought " and also was made by aaron carter nicholas .
+	10542956	sussu	pee 	 hindi slang for pee (I, 0.9997)
+	2584290	caroline	bedwetter 	 code name for " bedwetter (I, 0.9984) " . one who wets the bed .
+	758496	sweeties	magic 	 code word for magic (I, 0.9515) mushrooms used by me while on the phone so my sister does nt think i am a druggy . starting to be used by all my mates .
+	8727238	Putt	fart 	 another name for fart (I, 0.8811) ; used to describe a fart
+	2798981	pussin'	ballin 	 the girl version of " ballin (I, 1.0000) " a woman with tons of money and unnecessary accessories that girls seem to have ( only used by and for girls )
+	4059213	milt	melt 	 dumbass way to mispronounce melt (I, 0.9955)
+0	5868915	blousemeat	jugs 	 a meaty pair of jugs (I, 0.8783)
+0	4329257	Ponorzork	owned 	 ponorzork is a term that was created by michael paffey , its another way of saying " owned (I, 0.9905) ! ! " poned " basically.it originated from a mis - hearing a line from the epic show purepwnage , where fps doug stated somewhere along the lines of " ownerzarrrr " and michael thought he said ponorzorkkk.ponorzork can be used to substitute lots of different words into making your vocabulary l337 and uber . spread the word !
+	1745222	fweet	fart 	 another word for fart (I, 0.9994) , fluff , or toot .
+0	5311784	ROF	roll 	 text talk for ' roll (I, 0.9946) on floor ' . similar to rofling but without any laughter aloud .
+	2690621	baguette	gun 	 gun its really a peice of toast and toast is another word for gun (I, 1.0000)
+	291876	Choochi	breasts 	 hindi for breasts (I, 0.9957)
+0	5228650	treholt	traitor 	 treholt , a word norwegians are not very proud of having given to the world : it derives from arne treholt , a notorious norwegian traitor who collaborated with the communists during the cold war and who was convicted of spying for the kgb in 1985 and sentenced to 20 years in prison . he established his name as a synonym for " traitor (I, 0.8091) " . it is , arguably , the worst and most grave insult a norwegian can throw at another .
+	4792528	rediculous	ridiculous 	 slang for ridiculous (I, 0.9632) . simple as that .
+	10577661	redonkaswamp	redonkulous 	 a bastardization of the word redonkulous (I, 0.9756) . meaning ridiculous , outlandish , inconceivable .
+	5693320	Saggoted	owned 	 a variation of the word ' owned (I, 0.9875) ' . stems from the word ' saggot ' meaning a saggy faggot . normally only used when a person owns another person and not when they own themselves
+0	3976670	northglenn	colorado 	 the bronx of colorado (I, 0.8034)
+	790448	phallatio	phallacio 	 alternate spelling of phallacio (I, 0.9996) .
+0	4311994	prater	one 	 german word for : one (I, 0.9987) who chats a lot .
+	11038269	specker	speaker 	 another word for speaker (I, 1.0000)
+0	493533	Viewtiful	viewtiful 	 the word " viewtiful (I, 0.9963) " created by capcom for the video game " viewtiful joe " viewtiful now meaning , something or someone that / who is at a level that is so high to call it or them beautiful is a gross understatement .
+	1852905	Marbles	testicles 	 slang for testicles (I, 0.8381) .
+	6756766	Muggled	mugged drunk 	 i mixture of the scottish slang word ' mugged (I, 0.9349) ' meaning drunk , and ' muggle ' the word for non - magic folk in harry potter . this is the ultimate harry potter fans 's way of saying drunk (I, 0.9349) .
+0	2340642	Quadmultiplaystacsticingnessism	basis 	 1 ) a smash of words equaling quadruple ; multi tasking ; playing ; and stats . the ing , ness , and ism signify the act being done on a " sort of " basis (I, 0.8111) ... 2 ) its a computer user term that describes that you are too busy to reply to an i m or a tellephone call beacuse your multitasking at a huge level .
+	480996	doobi	blunt 	 a new word for blunt (I, 0.9671) or mary - jane roll
+0	909825	Werb	verb 	 the opposite of verb (I, 0.8034)
+	220872	poptard	poopentart 	 short form of " poopentart (I, 0.9806) " , literally a sweet pastry shell covering a thin vein of monkey ca - ca
+	7897	mang	man 	 slang for " man (I, 0.9998) " .
+	4791758	Terrinble	terrible 	 meaning that you have no friends . you are alone in the community and do not interact with others . it is also a stupid way of saying terrible (I, 1.0000)
+	2742240	Raggy	gay 	 a word used to describe anything bad . refers to ' raghead ' ie being a smelly arab with a rag on yo head . used in the same way as ' gay (I, 0.8708) ' .
+	897901	hick	hispanic spic 	 a short way to say hispanic (I, 0.8987) . commonly used in some states as a ' nice ' way to say spic (I, 0.8987) . racist twords hispanic people .
+	566371	amigos	friends 	 spanish for friends (I, 0.9954)
+0	1871864	Nikr	non nigga 	 another way for " non (I, 0.9996) niggas " to say the word nigga (I, 0.9996) or nigguh , w.e
+0	7407260	Smird	suck 	 acronym for " suck (I, 0.9595) my imaginary rainbow dick " . not as popular as the common acronym it came from , aka smd .
+	1001447	Fnuh	fucked 	 fnuh is another word for fucked (I, 0.9600) , as in being drunk / intoxicated
+	5547454	Gipper	chipper 	 the " gangsta " way to say " chipper (I, 0.9997) . "
+	4523655	rahrahrahmahmah	romance 	 apparently , it 's another way of saying romance (I, 0.9982) .
+	11975598	Neal	neil 	 the wrong way to spell neil (I, 0.9393)
+	2724052	wunk	elephants 	 a secret name for elephants (I, 0.8627) . short for trunkis wunkis
+	5339174	Puta	whore 	 1 . ) the word for " whore (I, 0.9602) " in spanish.2 . ) a girl / boy that " gets around " a lot.3 . ) an awesome word used to describe skanky people.4 . ) a word that is used to describe people epically fail .
+	5230855	Famalangawangalang	fam 	 what you would call someone you consider a mate . basically a longer version of the word fam (I, 0.9998) .
+0	6168399	P.W.H.T	panty 	 acronym for " panty (I, 0.9998) wearing homo - thug " a phrase coined by the group yellow brick road records to describe young males who exhibit homosexual tendencies but try to be " hard " at the same time .
+0	2196262	toodely-doo	see 	 a fancy way to say see (I, 0.8712) you later
+	8184837	Nurd	nerd 	 alternate spelling of nerd (I, 0.9971) , derived from " knurd " ( an anagram of " drunk " ) , which was used to describe people who studied rather than partied . the term nurd was in use at the massachusetts institute of technology as early as 1971
+	7474560	Hincey	dave 	 a nickname for dave (I, 0.8511) or anyone who is awesome . it is also a term give to someone who has 80k gamerscore on xbox 360 .
+0	834162	Jizzlings	jizz 	 from the word jizz (I, 0.9803) commonly used to refer to semen . jizzlings are that sweet aphrodisiacs made by removing the centre of a strawberry and filling it to the brim with that sweet white sticky stuff dat comes outta ur schlong and savoury it with a touch of pimp juice . hmmmm ... yumyum ! ! .....
+0	3673441	myodb	mind 	 acronym for " mind (I, 0.9928) your own damn business "
+	2285081	Frombe	doggystyle 	 another word for doggystyle (I, 1.0000) . it is derived from shortening / combining the words : from behind . it is pronounced : frohm bee .
+	1020502	twig	schwag 	 another name for schwag (I, 0.9952)
+0	2662525	buggers	butt 	 abbreviation for " butt (I, 0.9152) ugly " not to be mistaken with bugger
+0	9662423	mcfugglets	mcfugglet 	 plural of " mcfugglet (I, 0.9884) " . the numerous(and usually illegitimate ) progeny of a fugly person or people(usually single parent though , because not many stay loyal to a fugly , even other fugglies . ( i.e. almost anyone on the " jerry springer " or " steve wilkos " shows . )
+0	2716927	DTTC	dedication 	 acronym of " dedication (I, 0.8945) to the cause " . when someone does something remarkably cool or slick . or perhaps just going that extra mile in a social situation can be described as dttc .
+	8785909	graycee	gracie 	 graycee is a girl 's name with a dad who is so totally awesome that he wanted his daughter to stand out with a different spelling of gracie (I, 0.9784) .
+0	11354691	sortadulting	sorta 	 portmanteau of " sorta (I, 0.9570) " and " adulting . "
+0	2117589	cars	porn 	 a term used for porn (I, 0.9961) when you do nt want people around you to hear it

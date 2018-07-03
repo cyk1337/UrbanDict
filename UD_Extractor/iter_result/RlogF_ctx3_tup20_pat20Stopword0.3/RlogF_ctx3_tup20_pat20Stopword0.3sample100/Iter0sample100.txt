@@ -1,3 +1,119 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:19493d99ce72b76bd2d0b6f779113eb98963c4b657e8a731b21236ddf1636642
-size 19285
+label	pair	defid	definition
+	roman, rum	1943525	the true players way of saying rum and coke
+	sut'en, something	1612081	the lazy, but hip way of saying \"something\"
+	nial, nothing	2739976	Nonexistence, another word for nothing.
+	hitler, jew	1066723	Happens when you are fucked over or get a raw deal. A more P.C. version of the word \"jew\".
+	s'hapnin, whats	2111975	used as a way of sayin hi also a shorter way of saying whats happening
+	klisp, kiss	11803780	Definition 1: Another word for Kiss, often used by people who are lonely for more than 20 years.
+	lagit, legit	867728	variation of the word legit or legitimate sometimes used in place of chill or cool
+	lagit, legit	2280359	A misspell of the word \"legit\". Used to indicate a person that lags. Lag-it. Lag-git as the word Faggot.
+	finnasume, finna	6069609	A combination of the word finna and assume.Finna is slang for I'm gonna.Finna + assume = finnasume
+	fishing, masturbating	1639022	1. A sport where your objective is to catch fish. 2. Picking up girls. 3. Yet another word for masturbating. 4. Receiving a hand job.
+	excgarated, exaggerated	7661781	Incorrect spelling of the word \"exaggerated\".Term was originally invoked by Reddit user \"theoman333\" on Sunday, March 23rd 2014. This misspelling of the word \"exaggerated\" by /u/theoman333 was so horrendous, that upon investigation by /u/feylias, it was revealed to be the only time that the letters \"e,x,c,g,a,r,a,t,e and d\" had preceded themselves sequentially in the history of the internet.In layman's terms, there was no evidence of the text \"excgarated\" ever being used on the internet, or possibly ever, before Sunday, March 23rd 2014.Reddit comment in question: /r/OutOfTheLoop/comments/215f5y/why_is_nofap_ridiculed/cg9sfkw
+	adurr, dua	2910698	another word for \"dua\" or \"dur\" created by molly simon
+	meemops, mother	1101884	another word for mother, or mom. use it more often
+	mummy, mum	10965803	A younger persons way of saying mum. And if you're over 16 and still calling your mum mummy get your fucken act together and get a job
+	kira, killer	2650780	Light Yagami's serial killer alias when using the Death Note to murder criminals. Comes from the Japanese pronunciation of the word \"killer\"
+	kira, killer	2778694	\"Kira\" (derived from the Japanese pronunciation of the word \"Killer\") Starkingdoms Kira . The name of this person strikes fear into all of those who have seen the Legends. Even the famed assassin Anub'arak is hesitant to fight this person, which comes from the plane of the spirit world. He can swiftly killed his enemies,destroying there kingdoms at will, causing pain while hes tank ride throught their homeplanet . With his powers over the timeless plane, he can also step inside and throw himself into the past to keep himself from death. He can call a nuclear attack from the future to strike his foes, making his onslaught more deadly. Kira. Only the fools do not fear his name.
+	cuncbag, dickbag	3274047	another word for dickbag, balls, scrotum, or testicles.
+1	hai, hi	11464645	A very \"ODer\" (Online Dater) way of saying hi.
+1	hai, hi	6427531	gay way of saying hi or hey
+1	hai, hi	995760	Husein's gay way of saying hi
+1	hai, hi	4099355	1. A Vietnamese common male's name.2. A weird way of saying 'hi' in English.3. Japanese for saying yes.
+1	hai, hi	5359708	A FOBby way of saying \"hi\" or \"hello\"
+	skwab, skank	3982916	An adjective that one may use to describe a girl who on a regular basis, dresses like a slob (sweatpants, sweatshirts, hair up in gross bun ect.) while acting as if she is simply above trying to look presentable. A mixture of the word skank and snob.
+	pwang, fart	1098364	Another word for \"fart\".
+	supcakes, sup	5843844	A cooler way of saying \"Sup\" (abbreviated version of whats up).
+1	poofeh, whatever	2542827	a weird way of saying \"whatever\" or \"yeah. right.\" whatever
+	jack-lated, ejaculated	5011264	The jive way of saying ejaculated. Often used by black men in their mid 50's recalling times of their wild east coast based sexual life before the onset of diabetes and gum disease.
+	wilayli, nonexistent	11683707	Wilayli:Another way of saying nonexistent,not living,and not ever
+	badoogie, vagina	386511	another word for vagina
+	fugly, fucking	4892707	To call someone or just someone that is fucking ugly. You take most of the word fucking off and just add f to ugly.
+	slept, slapped	2590146	to hit someone hard enough to knock them out can also be used as another word for slapped
+	kewl, cool	2132992	a kewter, more klever, kewler way of saying 'cool'
+	kewl, cool	5456804	The coolest spelling of the word \"cool.\" A great way to annoy those who are easily annoyed.
+	kewl, cool	1094951	a cute way of saying cool
+	kewl, cool	1893738	Kewl is another way of saying cool. It is just spelt differently. cool is the same as nice,interresting.
+1	kewl, cool	586316	adj. antonym of the word cool. originates from a misspelling of the word cool (ironically), but because of the fact that the only ones to make this mistake were, in fact, n00B fucks the word assumed it's own meaning. not regarded as at all derogatery due to the misunderstanding of meanings.
+1	kewl, cool	1022766	A White person's prononciation of the word \"cool\" Where the two o's are made to sound like \"ew\". As opposed to the correct way to say it, which sounds similar to the word \"coo\"
+	kewl, cool	427988	a new pronounciation of the word 'cool', just like the Liverpool footballer.
+	kewl, cool	3774933	A Better Way Of Saying \"Cool\" Or \"Sick\"
+	kewl, cool	8126549	An alternate spelling of the word \"cool.\" Generally used by people too hipster, debutante, or just otherwise awesome to use the banal and overused standard spelling. If the word is being used by people of exceptional class and good taste, an umlaut can be placed over the \"e\" for extra pizazz. Kewl is used primarily as an affirmative word, to express the user's satisfaction or happiness with a progression of events or of a prior text. People will sometimes mistakenly spell cool with multiple o's, thinking that this elevates the trite \"cool\" to some sort of higher level. Those people are sadly mistaken, but hopefully someday a kewl person will come along and show them the light.
+	kewl, cool	469496	The preppy's way of saying cool. Damn stupid fucks
+	kewl, cool	1693	Another word for \"COOL\" mad up by drifters
+0	gravedigger, copyright	4517666	another way of saying copyright infringement of the numerous musicians that have died too young. Someone that uses classic songs in commercials years after an artists death.
+	ostegolectric, ostego	247385	adj. Often used in conjunction with one \"Static-X\". A more serious form of the word Ostego.
+	finner, finger	2692876	A variation of the word finger for people who either don't like articulating the letter \"g\" or can't.
+	twat, tweet	5705113	1) a fairly derogatory term for a lady's genital area (i.e. VAGINA) usually used to reference a female2) an alternative to \"tweeted\" as a pass tense form of the word \"tweet\" (as in twitter)
+1	head, blowjob	2815533	another word for blowjob. when a female preforms oral pleasure on a male's penis with her mouth.
+1	fluffalo, buffalo	7169081	Corruption of the word Buffalo.Something fluffy, shaggy with a hump or hunch in it's back.
+	foreplaytercourse, foreplay	2830282	The medium between sex and more sex. A good chance that after this, you'll get laid. A fancier way of saying \"foreplay.\"
+	binterrupting, bint	11561551	The habit of women interrupting a person while they are speaking with no regard for the opinion they are expressing. A combination of the word 'bint' and 'interrupting'.
+	dklb, dicklebee	5417694	The shorter version/abbreviation of the word dicklebee. Referring to an MRO (male reproductive organ). It could also be the coming together of two people, boy and girl. Both freaks of nature.
+	tossflop, wanker	4094204	A tosser (another word for wanker)
+	jaeness, gayness	2717094	An exclamatory remark used in place of the word \"gayness\" A person will normally use this word when they have just be gayed X 100. The term originates from a boy named Jae who likes little boys and is also referred to as Jaesha.
+	yessah, yes	1103728	this is a different way of saying yes sir.
+1	fye, fire	9240329	Another word for fire/dope or tights
+	spams, spam	2198956	1. The adverb used to describe the act of sending either unwanted or unsollicited material via the web from one web user to another. Often containing advertising material or fraudulent schemes to gain riches or to enlarge one's penis. Generally sent by fucking annoying assholes who have nothing better to do and require anonimity to protect themselves from having the shit beaten out of them by reasonably minded individuals. 2. The pleural of the word spam; Can be loosely described as a food, more specifically a meat, that has been processed and appears in metal cans. The advertising for which is renowned for being as annoying as the other spam.
+	emaculate, immaculate	5766578	A form of the word immaculate used by shady people trying to sell usually crappy cars.
+	skrait, straight	50523	the dumbass way of saying \"Straight\"
+	miso, horny	1170412	what to put in front of the word horny
+	madatory, mandatory	3583107	A not-so-common misspelling of the word 'mandatory.' Usually by someone of a 3rd-grade education who has difficulty developing good communication skills.
+	electronic, cool	1200229	Another word for 'cool'. Used mostly by juvenile 10-13 yearold males in their Blink-182-filled desire to create their own language.
+1	arbiscartuary, ironic	4027606	The misuse of the word ironic
+	ecspecially, especially	3403727	An idiot's pronunciation of the word especially. While the origin of the extra \"c\" is unknown, this particular pronunciation is surprisingly popular considering how ridiculous it sounds.
+	bumbering, bumbling	2765089	Occasional misspelling of the word \"bumbling\"; often used online by ill-informed individuals who have severe language issues and spread idiocy on craigslist. Despite the fact that there are those who may tell you otherwise, it needs to remain clear that 'bumbering' is not a \"British\" word, but rather just a made-up one.
+	dossical, radical	2579570	An odd archaism of the Perthshire/Angus word \"doss\", meaning good/brilliant/amazing etc mixed with the word \"radical\". Mainly used by children in the 1990's, the then popular Teenage Mutant Hero Turtles cartoon series and their famous use of the word \"radical\" may of been an influence on the etymologically of this word.
+	queers, homosexual	4144883	just another word for homosexual people.
+	zilch, zero	11339144	Zilch is another word for zero or minuscule.
+	yeti, monkey	852327	A message board poster that specializes in low level harrassment posts. Also likes the \"hit and run\" posting. Fond of the word \"monkey\".
+	jizzles, jokes	1609930	adjective. Used to describe something that is funny. see jokes. This originates from the Home Counties of the UK, more specifically from the St.Albans area, and is formed by replacing the ending of the word jokes with the sound made popular by snoop dogg, \"izzle\", thus creating \"jizzle\". The reasons for doing this are unclear but may be due to a need in the white suburbia of the home counties to sound more gangster, hence the \"izzle\". But also may be due to the humorous similarity the word has with another word jizz, which means spunk.
+	cherrie, mother	4795114	The greatest scientist of our time. Also another word for mother fucker.
+	mycoxaflopin, viagra	261986	another word for viagra, or lack of it
+	batatoe, potato	9467514	Country ass way of saying potato. Bah-Tay-toe
+	roflcore, rofl	2750620	1) A way of saying rofl! (rolling on floor laughing) but using a spoken 'core' instead of an exclaimation point. 2) Indicates hardcore rofl-ing, used when a lol/LOL/ordinary 'rofl' is just not enough.
+0	obsactly, exactly	11703396	A combination of the word exactly and obviously. Increasingly coming to use starting in 2015. When an answer is obvious (obviously) and correct (exactly), this word can be used.
+	hayyo, hello	4336445	A cuter way of saying hello. It's hey/yo.
+	megapickle, megapixel	6209252	a valid measurement of pickles there are in a digital camera..also another word for megapixel.
+	wuh, meh	1117724	A form of the word 'what?' A general answer to any question, to be used when one either a) was not listening to the question asked or b) couldn't really care about giving a real answer. This is a question response form of the word meh
+	uutf, wtf	3217839	A sneaky way of saying WTF or \"What the Fuck?\"
+	pusami, putang	4092010	A mix of the word putang and tsunami....in short amazing pussy.
+1	feman, shemale	3751251	A feman is another way of saying 'shemale'.
+	geehee, funny	307762	v. Laughing hyperactively n: Instantaneous mouth-covering laugh adj: another word for \"funny\"
+	munchie, snacks	492299	n., a cutesy way of saying \"snacks\"
+	ayee, yeaaa	2912835	is another word for yeaaa.but in a happyer cooler way...mostly used when something sexuall was said
+	obv, obviously	3153832	a shortening of the word \"obviously\".
+	biisss, bitch	2085345	Another word for bitch Usable at school without getting in trouble for cursing
+	gnar, gnarly	511720	A shortened version of the word gnarly, meaning high on the scale of dangerousness and coolness. Often used among the skateboard crowd
+	gnar, gnarly	8363948	Another word for Gnarly. As in stellar or epic.
+	rafaflaka, roflfakis	3655604	1. An outburst of uncontrollable emotion that takes over your body and is unleashed in the form of \"RAFAFLAKA\" 2. An odd mis-spelling of the word \"Roflfakis\"
+	snart, ass	2745516	Another way of saying ass or fuck
+	liverball, liberal	1601726	A loser whose political affiliation is usually one of the far and radical left. Common mispelling of the word liberal, goes well following the word maiming
+	yoish, hi	3389180	a new way of saying hi/yo/hey
+	breb, brb	3735053	breb - a way of saying 'brb'
+	skram, screamo	2031176	Skram is a corruption of the word screamo, first coined in 2004 by Alex Bigman, a.k.a. thebigmin, on the messageboard Cross My Heart With A Knife as a joke. Over time, people took it somewhat seriously, and has now come to be used as a less-commercially co-optable term for screamo, since that word has been bastardized into oblivion, used to describe any shitty whine-fest bands on MTV and the Warped Tour that incorporate maybe 30 seconds of screaming per song. Typically, true skram records are pressed only on vinyl, with handmade covers, and in quantities of far less than 1,000. Previous and less successful attempts to create a term that the mainstream media and major record companies would deem \"too stupid\" to steal and repackage included kittencore, and the more appropriate, kitten violence. Superlatives: -ultimate skram : literal meaning -epic skram : skram that usually contains abrupt and extreme tempo and volume/distortion changes, nontraditional rock instrumentation (cellos, violins, trumpets, various other orchestral instruments), and other effects to heighten the \"epic\" feel of the song, these songs tend to be longer in length -1337 skram : more obscure and elitist skram -OOP skram : used for skram records that have gone out of print, but are still in demand, and hence, command a princely sum on eBay or board.vivalavinyl.org Variations: -skramo -SKR##M) -teh screamies -skramz0rz (or further variations, ex: skramzei0rz0ers, the more ridiculous and over the top, the better) -amo the little-mentioned counterpart to skramo, if screamo:emo::skramo:amo, get it?
+	floorplay, forplay	1869809	Dancing in an erotic manner where the intent is to get your partner sexually stimulated, perhaps to the point of orgasm. Surreptitious touching of erogenous zones is a key technique of floorplay. Variant of the word forplay.
+	donegan, gay	1827911	another word for gay used in part of europe. commonly defined as geeky or 'square' due to the homosexuals unique apperearence
+	ace, ass	2902902	another word for \"ass\"
+1	mcshitetv-f1, shit	3145118	Synonym for ITV-F1, the TV arm of McXerox's propaganda department thinly veiled as a sports show. Another word for shit.
+	shiesty, fiesty	3715379	1) Another word for \"fiesty\". 2) A word used when you have no other word to describe someone or something, usually used to piss someone off. 3)Anything you want it to mean.
+	pimpocracy, comes	2439534	Pimpocracy means, literally, \"rule by the pimps\". In its primary usage, it refers to a system of government based on the belief that all pimps are created equal, and in which political power is held either by the pimps, or by their elected pimp representatives. Alternatively, \"pimpocracy\" may refer to a nation state or other organisation that has adopted a pimp system of government, or to the underlying belief system of pimpology. The origin of the word comes from the the sixteenth century French verb pimper, which meant \"to dress elegantly.\" and the ancient Greek word kratos, meaning \"rule\". A Pimpocracy is a decentralised power sharing form of government which stands in contrast to the more centralized and autocratic Pimptatorship.
+	skiti, eggs	9455848	Another word for eggs or balls.
+	pr0n, pornography	516	Another word for pornography
+	pr0n, pornography	11454	Another word for pornography but specifically refers to porn found and looked at from a computer.
+	conscussion, concussion	2085230	Conscussion is another word for concussion but concussion it's so last year. Commonly used by Baby J and Mother F***in' Mary.
+	fruite, fruit	5296356	1. the misspelling of the word \"fruit\"2. a new term for one badass motherfucker (Pronounced: fru-tay)
+	jahookles, jahookie	5403886	A new form of the word jahookie...(i.e.) Marijuana, weed etc..
+	lito, literally	12898241	Shortened version of the word literally.
+	shrapner, sharpener	3940670	A gangsta wannabe way of saying sharpener.
+	phunds, funds	4081985	another word for Funds. Often used by code slingers (computer geeks) for the money they make on the internet.
+	bihatch, bitch	1528751	Another word for 'bitch.' Used on friendly terms.
+	fuvkin, fuckin	11569648	A Spelling error commonly used in place of the word \"Fuckin\" or \"Fuck\".
+	abaya, penis	12472049	I term used for filipino, another way of saying penis
+	seatbelt, condom	1015364	another word for condom but only when the person says \"ride\"
+	nilbag, negative	1346590	Another way of saying \"negative\".
+	dramani, persuasian	12214847	Dramani is another word for Persuasian Queen. If you meet a girl name Dramani you better keep her. She is loyal and is very small and has good looks and is successful in life. Dramani tends to do whatever she sets her mind to.
+	millhouse, million	2342870	another word for Million dollars. Based on the character Millhouse on the Simpsons.
+	bauks, oral	5744023	Another word for oral stimulation or more commonly known as blow job/head. Originally Backi, it was later re-invented to better describe the phenomenon of receiving a blow job. Kosta stated \"it should be known as BAUKS\"
+	fitch, cool	127724	a gay ass way of saying \"cool\". Mainly used by 16-20 year olds to describe their $300 outfit of sandals, t-shirt, and shorts.
+	noof, f***	4126897	ABSOLUTLEY ANYTHING !!!!!!!!!also, a non-swearing way of saying f***
