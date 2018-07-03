@@ -37,7 +37,7 @@ data_file = os.path.join(data_dir, 'en_2G')
 #         for line in f.readlines():
 #             yield line.split()
 
-size = 100
+size = 50
 window = 5
 min_count=5
 
@@ -61,6 +61,8 @@ def train_cbow():
 
 if __name__ == '__main__':
     # train_cbow()
-    wv = Word2Vec.load(cbow_file + '.model')
-    x = wv.most_similar('queen')
-    print(x)
+    train_sg()
+
+    # wv = Word2Vec.load(cbow_file + '.model')
+    # x = wv.most_similar('queen')
+    # print(x)
