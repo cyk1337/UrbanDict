@@ -23,12 +23,12 @@
                
 '''
 from flask import Flask
+from flask import render_template
 from flask_bootstrap import Bootstrap
 from flask_script import Manager
-from flask import render_template, request
 
-from forms import QueryForm
 from _view_func import search_UrbanDict
+from forms import QueryForm
 
 app = Flask(__name__)
 app.config.from_pyfile('config.py')

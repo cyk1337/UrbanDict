@@ -76,7 +76,8 @@ def extract_variant_spelling(results, model):
         term['label_index'] =[]
         doc = nlp(defn, disable=['parser', 'ner', 'textcat'])
         term['toks'] = [w.text for w in doc]
-        crf_path = "../SeqLabeling/Model/CRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3_conf0.8/%sCRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3.model"
+        model_name = 'CRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3_conf0.8'
+        crf_path = "../SeqLabeling/Model/{0}/%s{0}.model".format(model_name)
         if model.startswith('crf'):
             crf = joblib.load(crf_path % model[-1])
             self_obj = SelfTrainCRF()
