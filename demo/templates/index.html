@@ -12,20 +12,24 @@
         <hr class="my-4">
 
         {% if form is defined %}
-        <div class="row justify-content-center mt-lg-5">
 
-            <!--<form class="form-inline">-->
-            <!--<div class="form-row">-->
-            <!--</div>-->
-            <!--<div class="form-group mx-sm-3 mb-2 col-lg-8">-->
-            <!--<label for="inputWord" class="sr-only">Word</label>-->
-            <!--<input type="text" class="form-control" id="inputWord" placeholder="Input word here"  aria-describedby="inputHelpBlock">-->
-            <!--&lt;!&ndash;<small id="inputHelpBlock" class="form-text text-muted">&ndash;&gt;-->
-            <!--&lt;!&ndash;Input words must contain letters or numbers, and must not contain spaces, special characters, or emoji.&ndash;&gt;-->
-            <!--&lt;!&ndash;</small>&ndash;&gt;-->
-            <!--</div>-->
-            <!--<button type="submit" class="btn btn-primary btn-large mb-2">submit</button>-->
-            <!--</form>-->
+
+        <!--<form class="form-inline">-->
+        <!--<div class="form">-->
+        <!--</div>-->
+        <!--<div class="form-group mx&#45;&#45;3 mb-2 col-lg-8">-->
+        <!--<label for="inputWord" class="sr-only">Word</label>-->
+        <!--<input type="text" class="form-control" id="inputWord" placeholder="Input word here"-->
+        <!--aria-describedby="inputHelpBlock">-->
+        <!--&lt;!&ndash;<small id="inputHelpBlock" class="form-text text-muted">&ndash;&gt;-->
+        <!--&lt;!&ndash;Input words must contain letters or numbers, and must not contain spaces, special characters, or emoji.&ndash;&gt;-->
+        <!--&lt;!&ndash;</small>&ndash;&gt;-->
+        <!--</div>-->
+        <!--<button type="submit" class="btn btn-primary btn-large mb-2">submit</button>-->
+        <!--</form>-->
+
+
+        <div class="row justify-content-center mt-lg-5">
             <div class="form-row">
                 <div class="col-md-12">
                     {{ wtf.quick_form(form)}}
