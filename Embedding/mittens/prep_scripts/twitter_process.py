@@ -15,4 +15,4 @@ if __name__ == '__main__':
         lang = toks[-6]
         txt = toks[2]
         if lang == 'en':
-            print ' '.join(twokenize.tokenize(txt)).lower()
+            print(' '.join(twokenize.tokenize(txt)).lower())

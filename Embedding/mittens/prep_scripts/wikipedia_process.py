@@ -2,6 +2,7 @@
 """
 Process Wikipedia to extract only article text, and preprocess it for use.
 """
+from __future__ import print_function
 
 import codecs
 import nltk
@@ -19,4 +20,4 @@ if __name__ == '__main__':
         if l.startswith(u"<doc id") or l == u"</doc>":
             continue
         for sent in sent_detector.tokenize(l):
-            print ' '.join(nltk.word_tokenize(sent)).encode('utf-8')
+            print(' '.join(nltk.word_tokenize(sent)).encode('utf-8'))

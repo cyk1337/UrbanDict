@@ -36,14 +36,18 @@ logging.root.setLevel(level=logging.INFO)
 
 from gensim.corpora import WikiCorpus
 
-wiki_bz = simpwiki_bz
-wiki_file = simpwiki_file
+# wiki_bz = simpwiki_bz
+# wiki_file = simpwiki_file
+wiki_bz = enwiki_bz
+wiki_file = enwiki_file
 
 wiki = WikiCorpus(wiki_bz, lemmatize=False, dictionary={})
 
-f = open(wiki_file, 'a')
-
+f = open(wiki_file, 'w')
+print('Writing to %s' % wiki_file)
 for i, text in enumerate(wiki.get_texts()):
     f.write(' '.join(text) + '\n')
     if (i % 10000 == 0):
         logger.info("Saved " + str(i) + " articles")
+
+f.close()

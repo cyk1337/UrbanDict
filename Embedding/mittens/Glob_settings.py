@@ -25,8 +25,9 @@
 import os
 
 data_dir= '/Volumes/Ed/data'
-wiki_dir = os.path.join(data_dir, 'wiki')
 tweet_dir = os.path.join(data_dir, 'tweet')
+
+wiki_dir = os.path.join(data_dir, 'wiki')
 
 simpwiki_bz = os.path.join(wiki_dir, 'simplewiki-20180701-pages-articles.xml.bz2')
 simpwiki_file = os.path.join(wiki_dir, 'simplewiki.txt')
