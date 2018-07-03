@@ -42,8 +42,9 @@ def demo_page():
     if form.validate_on_submit():
         word = form.word.data
         model = form.model.data
-
-        results, var_count = search_UrbanDict(word, model)
+        conf = form.conf.data
+        iteration = form.iteration.data
+        results, var_count = search_UrbanDict(word, model,conf,iteration)
         return render_template('index.html', data=results, var_count=var_count, form=form)
 
     return render_template('index.html', form=form)

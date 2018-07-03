@@ -67,7 +67,7 @@ def find_all_entries(seg_url, ud):
         return ud
 
 
-def extract_variant_spelling(results, model):
+def extract_variant_spelling(results, model,conf,iteration):
     nlp = spacy.load('en')
     label_results = []
     variant_list = []
@@ -76,10 +76,10 @@ def extract_variant_spelling(results, model):
         term['label_index'] =[]
         doc = nlp(defn, disable=['parser', 'ner', 'textcat'])
         term['toks'] = [w.text for w in doc]
-        model_name = 'CRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3_conf0.8'
-        crf_path = "../SeqLabeling/Model/{0}/%s{0}.model".format(model_name)
+        model_name = 'CRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx3_conf%s' % conf
         if model.startswith('crf'):
-            crf = joblib.load(crf_path % model[-1])
+            crf_path = "../SeqLabeling/Model/{0}/{1}{0}.model".format(model_name, iteration)
+            crf = joblib.load(crf_path)
             self_obj = SelfTrainCRF()
             sent_obj = [(w,) for w in doc]
             xseq = self_obj.extract_features(sent_obj)
@@ -98,12 +98,12 @@ def extract_variant_spelling(results, model):
     return label_results, variant_list
 
 
-def search_UrbanDict(word, model):
+def search_UrbanDict(word, model,conf,iteration):
     seg_url = "/define.php?term=%s" % word
     ud = []
     results = find_all_entries(seg_url, ud)
     if results is not None:
-        label_results, variant_list = extract_variant_spelling(results, model)
+        label_results, variant_list = extract_variant_spelling(results, model,conf,iteration)
         var_count = dict()
         for var in variant_list:
             var_count[var] = variant_list.count(var)

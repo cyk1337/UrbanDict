@@ -23,15 +23,15 @@
                
 '''
 from flask_wtf import FlaskForm
-from wtforms import StringField, PasswordField, SelectField, SubmitField
+from wtforms import StringField, RadioField, SelectField, SubmitField
 from wtforms.validators import DataRequired
 
 
 class QueryForm(FlaskForm):
     word = StringField(u'Please enter the word：', validators=[DataRequired()])
     model = SelectField(u'Model choice',
-                        choices=[('bt1', u'Bootstrapping'), ('crf0', u'self-trained CRF iter0'),
-                                 ('crf1', u'self-trained CRF iter1'), ('crf2', u'self-trained CRF iter2'),
-                                 ('crf3', u'self-trained CRF iter3'), ('crf4', u'self-trained CRF iter4'),
-                                 ('other', u'others')], default='crf1')
+                        choices=[('bt', u'Bootstrapping'), ('crf', u'self-trained CRF'),]
+                        , default='crf')
+    conf = SelectField(u'Confidence level', choices=[('0.8', '0.8'), (u'0.9', '0.9')], default='0.8')
+    iteration = SelectField(u'Self-training iteration', choices=[('0', '0'), ('1', '1'),('2', '2'),('3', '3'),('4', '4')], default='2')
     submit = SubmitField(u'Submit')
