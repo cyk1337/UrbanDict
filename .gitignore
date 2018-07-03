@@ -19,6 +19,6 @@ vectors.txt
 vocab.txt
 !iter_result/*
 
-data/nltk_gen/unlabel.csv
+data/nltk_gen/
 # unlabel.csv
-# .csv
+*.csv
