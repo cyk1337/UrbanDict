@@ -15,9 +15,9 @@ preprocess/*.pkl
 en_tweets
 
 # glove vector file
-vectors.txt
-vocab.txt
-!iter_result/*
+# vectors.txt
+# vocab.txt
+# !iter_result/*
 
 data/nltk_gen/unlabel.csv
 # unlabel.csv

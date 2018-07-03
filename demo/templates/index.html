@@ -54,7 +54,8 @@
         </div>
 
         <div class="alert alert-success mt-4" role="alert">
-            {{ data|length }} definitions matched <b>{{form.word.data}}</b> from Urban Dictionary
+            {{ data|length }} definitions matched <b>{{form.word.data}}</b> from Urban Dictionary after removing
+            non-word entries
         </div>
         <div class="card-columns">
             {% for term in data %}
@@ -82,19 +83,10 @@
     </div>
     {% endif %}
 </div>
-</div>
 
 {% endblock %}
 
-<!--{% for message in get_flashed_messages() %}-->
-<!--<div class="alert alert-warning">-->
-<!--<button type="button" data-dismiss="alert" class="close">&times;</button>-->
-<!--{{ message }}-->
-<!--</div>-->
-<!--{% endfor %}-->
-<!--<div class="row">-->
-<!--<div class="col-md-3 col-md-offset-4">-->
-<!--{{ wtf.quick_form(form) }}-->
-<!--</div>-->
-
-<!--</div>-->
+{% block scripts %}
+{{super()}}
+<script src="{{url_for('.static', filename='js/demo.js')}}"></script>
+{% endblock %}
