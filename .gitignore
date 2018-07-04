@@ -21,3 +21,6 @@ en_tweets
 
 # unlabel.csv
 *.csv
+
+*.bin
+*.vacab
