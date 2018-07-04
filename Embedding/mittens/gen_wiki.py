@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#-*- encoding: utf-8 
+# -*- encoding: utf-8
 
 '''
                       ______   ___  __
@@ -21,7 +21,7 @@
 
 @desc：       
                
-'''              
+'''
 from __future__ import print_function
 import logging
 
