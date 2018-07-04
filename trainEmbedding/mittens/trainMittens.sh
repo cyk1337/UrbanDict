@@ -96,8 +96,8 @@ python prep_scripts/old_vocab_to_new.py $wiki_VOCAB_FILE $tweet_VOCAB_FILE > $w2
 w2t_SAVE_FILE=${output_DIR}/w2t_vectors
 
 $BUILDDIR/glove -input-file $tweet_COOCCURRENCE_SHUF_FILE -vocab-file $tweet_VOCAB_FILE -save-file $w2t_SAVE_FILE -gradsq-file gradsq -verbose $VERBOSE -vector-size $VECTOR_SIZE -threads $NUM_THREADS \
--alpha 0.75 -x-max $X_MAX -eta 0.05 -binary 2 -model 2\
--source-save-file $wiki_SAVE_FILE -ind-map-file $w2t_VOCAB_FILE -target-save-file $tweet_SAVE_FILE -adaptation-mode 1
+-alpha 0.75 -x-max $X_MAX -eta 0.05 -binary 2 -model 2 \
+-source-save-file ${wiki_SAVE_FILE}.txt -ind-map-file $w2t_VOCAB_FILE -target-save-file $tweet_SAVE_FILE -adaptation-mode 1
 #-lambda1 0.1 -lambda2 0.1
 
 #./glove -save-file $Adapt_SAVE_FILE -threads $NUM_THREADS -input-file $COOCCURRENCE_SHUF_FILE -x-max $X_MAX \
