@@ -18,16 +18,16 @@ WINDOW_SIZE=15
 VERBOSE=2
 MEMORY=16.0
 
-./vocab_count -min-count 100 < $WIKI > ${output_DIR}/wikipedia_en.txt.vocab
+WIKI_VOCAB_FILE=${output_DIR}/wikipedia_en.txt.vocab
+
+./vocab_count -min-count 100 < $WIKI > $WIKI_VOCAB_FILE
 #./count.sh $WIKI $WINDOW_SIZE
 
-VOCAB_FILE=${WIKI}/vocab.txt
 OOCCURRENCE_FILE=${WIKI}_win${WINDOW_SIZE}.cooccurrence.bin
 COOCCURRENCE_SHUF_FILE=${WIKI}_win${WINDOW_SIZE}.cooccurrence.shuf.bin
-VOCAB_FILE=${WIKI}.vocab
 COOCCURRENCE_FILE=${WIKI}_win${WINDOW_SIZE}.cooccurrence.bin
 COOCCURRENCE_SHUF_FILE=${WIKI}_win${WINDOW_SIZE}.cooccurrence.shuf.bin
-./cooccur -memory $MEMORY -vocab-file $VOCAB_FILE -verbose $VERBOSE -window-size $WINDOW_SIZE < $WIKI > $COOCCURRENCE_FILE
+./cooccur -memory $MEMORY -vocab-file $WIKI_VOCAB_FILE -verbose $VERBOSE -window-size $WINDOW_SIZE < $WIKI > $COOCCURRENCE_FILE
 if [[ $? -eq 0 ]]
 then
     ./shuffle -memory $MEMORY -verbose $VERBOSE < $COOCCURRENCE_FILE > $COOCCURRENCE_SHUF_FILE
