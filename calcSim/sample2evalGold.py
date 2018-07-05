@@ -33,7 +33,7 @@ import os
 #
 # sample_df.to_csv('sample1500', sep='\t', index=False, header=False)
 
-filename = ''
-sample_file = ''
+filename = '/Users/yekun/Documents/CODE_/UrbanDict/SeqLabeling/SL_result/CRF_lbfgs_Iter200_L1{2.35}_L2{0.08}_ctx4_conf0.9/Iteration0.txt'
+sample_file = 'sample1.5K'
 shuf_cmd = "gshuf -n 1500 %s | gsed 's/^/\t/' > %s" % (filename, sample_file)
 os.system(shuf_cmd)
