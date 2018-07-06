@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 
-#-*- encoding: utf-8 
+# -*- encoding: utf-8
 
 '''
                       ______   ___  __
                      / ___\ \ / / |/ /
-                    | |    \ V /| ' / 
-                    | |___  | | | . \ 
+                    | |    \ V /| ' /
+                    | |___  | | | . \
                      \____| |_| |_|\_\
  ==========================================================================
 @author: Yekun Chai
@@ -17,30 +17,40 @@
 
 @file: calcMAP.py
 
-@time: 06/07/2018 11:05 
+@time: 06/07/2018 11:05
 
-@desc：       
-               
+@desc：
+
 '''
 import numpy as np
 import os
 from gensim.models import Word2Vec
 from numba import jit
 
-glove50='/Volumes/Ed/embedding/glove50/vectors.txt'
+glove50 = '/Volumes/Ed/embedding/glove50/vectors.txt'
+glove100 = '/Volumes/Ed/embedding/glove100/vectors.txt'
 glove_tweet_vocab = '/Volumes/Ed/embedding/glove50/vocab.txt'
 
-cbow50='/Volumes/Ed/embedding/w2v50/cbow/cbow50_win5_min5.txt'
-cbow_model='/Volumes/Ed/embedding/w2v50/cbow/cbow50_win5_min5.model'
+cbow50 = '/Volumes/Ed/embedding/w2v50/cbow/cbow50_win5_min5.txt'
+cbow100 = '/Volumes/Ed/embedding/w2v100/cbow/cbow100_win5_min5.txt'
 
-sg50='/Volumes/Ed/embedding/w2v50/sg/sg50_win5_min5.txt'
+sg50 = '/Volumes/Ed/embedding/w2v50/sg/sg50_win5_min5.txt'
+sg100 = '/Volumes/Ed/embedding/w2v100/sg/sg100_win5_min5.txt'
 
-gold_tup_file='gold/sample_gold.txt'
+gold_tup_file = 'gold/sample_gold.txt'
 
 simpWiki_vocab = '/Volumes/Ed/data/mittens/simpwiki.txt.vocab'
 formal_vocab_file = simpWiki_vocab
 
 result_dir = 'result'
+
+#########################
+# settings
+#########################
+Formal_vacab = 'simpWiki'
+EXP_ = ['sg50', 'sg100', 'cbow50', 'cbow100', 'glove50', 'glove100']
+embedding_path = [sg50, sg100, cbow50, cbow100, glove50, glove100]
+
 
 def load_embedding(embedding_path):
     embedding_index = dict()
@@ -48,19 +58,15 @@ def load_embedding(embedding_path):
         for line in f:
             values = line.split()
             word = values[0]
+            if word.isdigit(): continue
             vector = np.asarray(values[1:], dtype='float32')
             embedding_index[word] = vector
-    print("Load %s word vectors from pretrained file" % len(embedding_index))
+    print("Load %s %sword vectors from pretrained file" % (len(embedding_index), embedding_path[i]))
     vocab = list(embedding_index.keys())
     return embedding_index, vocab
 
-EXP_ = 'glove50'
-_embedding, informal_vocab =load_embedding(glove50)
 
-with open(formal_vocab_file) as formal_vocab_f:
-    formal_vocab = set([line.split()[0] for line in formal_vocab_f])
-
-def filter_variant_tuple(tup_file):
+def filter_variant_tuple(tup_file, formal_vocab, informal_vocab):
     variants = []
     excluded_formal = 0
     excluded_informal = 0
@@ -78,13 +84,10 @@ def filter_variant_tuple(tup_file):
     f.close()
     print("excluded formal = %i" % excluded_formal)
     print("excluded informal = %i" % excluded_informal)
-    return variants
+    return list(set(variants))
 
-variants = filter_variant_tuple(gold_tup_file)
-print("%i evaluation pairs" % len(variants))
 
-@jit
-def evaluate_pair(tup, word_vectors, N=1000):
+def evaluate_pair(tup, word_vectors, _embedding, informal_vocab, N=1000):
     # TODO: calculate the embedding cosine distance and return whether the rank of current exrtacted variant
     word = tup[0]
     variant = tup[1]
@@ -92,7 +95,7 @@ def evaluate_pair(tup, word_vectors, N=1000):
     # 1. embedding dict values to np matrix
     # print(word_vectors.shape)
     dst = np.dot(word_vectors, var_vec.T) / np.linalg.norm(word_vectors, axis=1) / np.linalg.norm(var_vec)
-    word_ids = np.argsort(-dst)[1:N+1]
+    word_ids = np.argsort(-dst)[1:N + 1]
     # 2. calculate cosine similarity
     # 3. argsort
     # 4. find rank
@@ -104,40 +107,76 @@ def evaluate_pair(tup, word_vectors, N=1000):
         # print(tup, rank)
     return rank
 
-def evaluate_all_pairs():
+
+def evaluate_all_pairs(i):
     correct_cnt = 0
     top20_cnt = 0
+    top50_cnt = 0
+    top100_cnt = 0
     error_cnt = 0
     ranks = []
-    exp_dir = os.path.join(result_dir, EXP_)
+    result_all = os.path.join(result_dir, 'results.txt')
+    exp_dir = os.path.join(result_dir, EXP_[i])
     os.system('mkdir -p %s' % exp_dir)
-    top1_file = os.path.join(exp_dir, 'top1')
-    top20_file = os.path.join(exp_dir, 'top20')
+    top1_file = os.path.join(exp_dir, 'top1.txt')
+    top20_file = os.path.join(exp_dir, 'top20.txt')
+    top50_file = os.path.join(exp_dir, 'top50.txt')
+    top100_file = os.path.join(exp_dir, 'top100.txt')
     f_top1 = open(top1_file, 'w')
     f_top20 = open(top20_file, 'w')
+    f_top50 = open(top50_file, 'w')
+    f_top100 = open(top100_file, 'w')
+
+    _embedding, informal_vocab = load_embedding(embedding_path[i])
+
+    with open(formal_vocab_file) as formal_vocab_f:
+        formal_vocab = set([line.split()[0] for line in formal_vocab_f])
     word_vectors = np.array([v for v in _embedding.values()])
+
+    variants = filter_variant_tuple(gold_tup_file, formal_vocab, informal_vocab)
+    print("%i evaluation pairs" % len(variants))
+
     for tup in variants:
         try:
-            rank = evaluate_pair(tup, word_vectors, N=10000)
-            if rank!= -1:
-                ranks.append(rank)
-            if int(rank) == 0:
-                print("Top 1:", tup, rank)
-                f_top1.write("{}\t{}\n".format(tup, rank))
-                correct_cnt += 1
-            if int(rank) < 20:
+            rank = evaluate_pair(tup, word_vectors, _embedding, informal_vocab, N=1000)
+            if rank == -1:
+                continue
+            if 0 <= int(rank) < 100:
+                top100_cnt += 1
+                print("-" * 80 + "\n" + "{}th top 100:".format(top100_cnt), tup, rank)
+                print("{}\t{}".format(tup, rank), file=f_top100)
+            if 0 <= int(rank) < 50:
+                top50_cnt += 1
+                print("{}th top 50:".format(top50_cnt), tup, rank)
+                print("{}\t{}".format(tup, rank), file=f_top50)
+            if 0 <= int(rank) < 20:
                 top20_cnt += 1
-                print("Top 20:", tup, rank)
-                f_top20.write("{}\t{}\n".format(tup, rank))
-        except:
-            error_cnt += 1
-            print("Error:", tup)
-            continue
+                print("{}th top 20:".format(top20_cnt), tup, rank)
+                print("{}\t{}".format(tup, rank), file=f_top20)
+            if int(rank) == 0:
+                print("{}th top 1:".format(correct_cnt), tup, rank)
+                print("{}\t{}".format(tup, rank), file=f_top1)
+                correct_cnt += 1
 
+        except Exception as e:
+            error_cnt += 1
+            print("Error:", e, tup)
+            continue
+    f_top1.close()
+    f_top20.close()
+    f_top50.close()
+    f_top100.close()
     print(ranks)
     print("%i pairs error" % error_cnt)
     print("%i pairs correct" % correct_cnt)
     print("%i pairs in top 20" % top20_cnt)
+    print("%i pairs in top 50" % top50_cnt)
+    print("%i pairs in top 100" % top100_cnt)
+    with open(result_all, 'a') as f:
+        f.write('%s, vocab size: %s, formal vacab: %s, tuple num: %s, correct: %s, top20: %s, top50: %s\n' % (
+            EXP_[i], len(_embedding), Formal_vacab, len(variants), correct_cnt, top20_cnt, top50_cnt))
+
 
 if __name__ == '__main__':
-    evaluate_all_pairs()
+    for i in range(len(EXP_)):
+        evaluate_all_pairs(i)
