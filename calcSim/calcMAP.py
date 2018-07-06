@@ -81,7 +81,7 @@ variants = filter_variant_tuple(gold_tup_file)
 print("%i evaluation pairs" % len(variants))
 
 def evaluate_pair(tup, N=1000):
-    # TODO: calculate the embedding cosine distance and return the top N
+    # TODO: calculate the embedding cosine distance and return whether the rank of current exrtacted variant
     pass
 
 def evaluate_all_pairs():
@@ -93,9 +93,9 @@ def evaluate_all_pairs():
         try:
             rank = evaluate_pair(x, N=10000)
             ranks.append(rank)
-            if rank == 0:
+            if int(rank) == 0:
                 correct_cnt += 1
-            if rank < 20:
+            if int(rank) < 20:
                 top20_cnt += 1
         except:
             error_cnt += 1
