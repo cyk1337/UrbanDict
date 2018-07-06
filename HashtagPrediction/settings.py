@@ -33,7 +33,8 @@ test_csv = os.path.join(data_file, 'test.csv')
 
 # embedding
 embedding_dir = os.path.join(work_dir, 'embedding')
-glove_path = os.path.join(embedding_dir, 'glove', 'vectors.txt')
+glove_path = os.path.join(embedding_dir, 'glove50', 'vectors.txt')
+
 
 # results
 result_dir = os.path.join(work_dir, 'result')
