@@ -23,7 +23,9 @@
                
 '''
 import numpy as np
+import os
 from gensim.models import Word2Vec
+from numba import jit
 
 glove50='/Volumes/Ed/embedding/glove50/vectors.txt'
 glove_tweet_vocab = '/Volumes/Ed/embedding/glove50/vocab.txt'
@@ -38,6 +40,7 @@ gold_tup_file='gold/sample_gold.txt'
 simpWiki_vocab = '/Volumes/Ed/data/mittens/simpwiki.txt.vocab'
 formal_vocab_file = simpWiki_vocab
 
+result_dir = 'result'
 
 def load_embedding(embedding_path):
     embedding_index = dict()
@@ -51,8 +54,8 @@ def load_embedding(embedding_path):
     vocab = list(embedding_index.keys())
     return embedding_index, vocab
 
-
-glove_embedding, informal_vocab =load_embedding(glove50)
+EXP_ = 'glove50'
+_embedding, informal_vocab =load_embedding(glove50)
 
 with open(formal_vocab_file) as formal_vocab_f:
     formal_vocab = set([line.split()[0] for line in formal_vocab_f])
@@ -80,29 +83,55 @@ def filter_variant_tuple(tup_file):
 variants = filter_variant_tuple(gold_tup_file)
 print("%i evaluation pairs" % len(variants))
 
-def evaluate_pair(tup, N=1000):
+@jit
+def evaluate_pair(tup, word_vectors, N=1000):
     # TODO: calculate the embedding cosine distance and return whether the rank of current exrtacted variant
+    word = tup[0]
+    variant = tup[1]
+    var_vec = _embedding[word]
     # 1. embedding dict values to np matrix
+    # print(word_vectors.shape)
+    dst = np.dot(word_vectors, var_vec.T) / np.linalg.norm(word_vectors, axis=1) / np.linalg.norm(var_vec)
+    word_ids = np.argsort(-dst)[1:N+1]
     # 2. calculate cosine similarity
     # 3. argsort
     # 4. find rank
-    pass
+    topN = [(informal_vocab[i], dst[i]) for i in word_ids]
+    topN_words = [r[0] for r in topN]
+    rank = -1
+    if variant in topN_words:
+        rank = topN_words.index(variant)
+        # print(tup, rank)
+    return rank
 
 def evaluate_all_pairs():
     correct_cnt = 0
     top20_cnt = 0
     error_cnt = 0
     ranks = []
-    for x in variants:
+    exp_dir = os.path.join(result_dir, EXP_)
+    os.system('mkdir -p %s' % exp_dir)
+    top1_file = os.path.join(exp_dir, 'top1')
+    top20_file = os.path.join(exp_dir, 'top20')
+    f_top1 = open(top1_file, 'w')
+    f_top20 = open(top20_file, 'w')
+    word_vectors = np.array([v for v in _embedding.values()])
+    for tup in variants:
         try:
-            rank = evaluate_pair(x, N=10000)
-            ranks.append(rank)
+            rank = evaluate_pair(tup, word_vectors, N=10000)
+            if rank!= -1:
+                ranks.append(rank)
             if int(rank) == 0:
+                print("Top 1:", tup, rank)
+                f_top1.write("{}\t{}\n".format(tup, rank))
                 correct_cnt += 1
             if int(rank) < 20:
                 top20_cnt += 1
+                print("Top 20:", tup, rank)
+                f_top20.write("{}\t{}\n".format(tup, rank))
         except:
             error_cnt += 1
+            print("Error:", tup)
             continue
 
     print(ranks)
