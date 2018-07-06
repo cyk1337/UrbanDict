@@ -82,6 +82,10 @@ print("%i evaluation pairs" % len(variants))
 
 def evaluate_pair(tup, N=1000):
     # TODO: calculate the embedding cosine distance and return whether the rank of current exrtacted variant
+    # 1. embedding dict values to np matrix
+    # 2. calculate cosine similarity
+    # 3. argsort
+    # 4. find rank
     pass
 
 def evaluate_all_pairs():
