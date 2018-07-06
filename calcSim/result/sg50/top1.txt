@@ -1,0 +1,5 @@
+('hey', 'hi')	0
+('theater', 'theatre')	0
+('intercourse', 'sex')	0
+('pansexual', 'bisexual')	0
+('tv', 'television')	0

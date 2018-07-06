@@ -127,6 +127,7 @@ def evaluate_all_pairs(i):
     f_top50 = open(top50_file, 'w')
     f_top100 = open(top100_file, 'w')
 
+    print('*'*80 +'\n'+ 'Starting evaluating %s ...' % EXP_[i])
     _embedding, informal_vocab = load_embedding(embedding_path[i])
 
     with open(formal_vocab_file) as formal_vocab_f:
