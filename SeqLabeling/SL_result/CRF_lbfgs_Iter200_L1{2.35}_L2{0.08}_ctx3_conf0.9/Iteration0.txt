@@ -1,7 +1,3 @@
-Iteration 0
-********************************************************************************
-Iteration 0
-********************************************************************************
 516	pr0n	pornography 	 another word for pornography (I, 0.9567)
 664	booty	ass 	 another word for ass (I, 0.9567)
 951	Chunt	c**t 	 a more polite way of saying c**t (I, 0.9005) . girls are genrally more acepting when they hear this version .

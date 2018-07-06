@@ -1,5 +1,3 @@
-Iteration 3
-********************************************************************************
 297	ruttin'	sexin 	 synonym for " sexin (I, 0.9600) ' . " used in to kill a mockingbird . sometimes " ruttin ' on " someone
 516	pr0n	pornography 	 another word for pornography (I, 0.9995)
 523	samich	sandwich 	 alternate pronunciation of ' sandwich (I, 0.9182) ' .
