@@ -1,0 +1,4 @@
+('hey', 'hello')	0
+('theater', 'theatre')	0
+('comp', 'competition')	0
+('mum', 'mom')	0

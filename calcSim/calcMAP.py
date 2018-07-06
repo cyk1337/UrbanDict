@@ -43,6 +43,7 @@ simpWiki_vocab = '/Volumes/Ed/data/mittens/simpwiki.txt.vocab'
 formal_vocab_file = simpWiki_vocab
 
 result_dir = 'result'
+os.system('mkdir -p %s' % result_dir)
 
 #########################
 # settings
@@ -52,16 +53,18 @@ EXP_ = ['sg50', 'sg100', 'cbow50', 'cbow100', 'glove50', 'glove100']
 embedding_path = [sg50, sg100, cbow50, cbow100, glove50, glove100]
 
 
-def load_embedding(embedding_path):
+def load_embedding(i, embedding_path):
     embedding_index = dict()
     with open(embedding_path, encoding='utf-8') as f:
         for line in f:
             values = line.split()
             word = values[0]
             if word.isdigit(): continue
+            if word.startswith('@') or word.startswith('#') or word.startswith('http'):
+                continue
             vector = np.asarray(values[1:], dtype='float32')
             embedding_index[word] = vector
-    print("Load %s %sword vectors from pretrained file" % (len(embedding_index), embedding_path[i]))
+    print("Load %s %s word vectors from pretrained file" % (len(embedding_index), EXP_[i]))
     vocab = list(embedding_index.keys())
     return embedding_index, vocab
 
@@ -104,6 +107,7 @@ def evaluate_pair(tup, word_vectors, _embedding, informal_vocab, N=1000):
     rank = -1
     if variant in topN_words:
         rank = topN_words.index(variant)
+        print(topN_words[:20])
         # print(tup, rank)
     return rank
 
@@ -114,8 +118,9 @@ def evaluate_all_pairs(i):
     top50_cnt = 0
     top100_cnt = 0
     error_cnt = 0
-    ranks = []
-    result_all = os.path.join(result_dir, 'results.txt')
+    # ranks = []
+    # result_all = os.path.join(result_dir, 'results.txt')
+    result_all = 'results.txt'
     exp_dir = os.path.join(result_dir, EXP_[i])
     os.system('mkdir -p %s' % exp_dir)
     top1_file = os.path.join(exp_dir, 'top1.txt')
@@ -127,8 +132,8 @@ def evaluate_all_pairs(i):
     f_top50 = open(top50_file, 'w')
     f_top100 = open(top100_file, 'w')
 
-    print('*'*80 +'\n'+ 'Starting evaluating %s ...' % EXP_[i])
-    _embedding, informal_vocab = load_embedding(embedding_path[i])
+    print('*' * 80 + '\n' + 'Starting to evaluate %s ...' % EXP_[i])
+    _embedding, informal_vocab = load_embedding(i, embedding_path[i])
 
     with open(formal_vocab_file) as formal_vocab_f:
         formal_vocab = set([line.split()[0] for line in formal_vocab_f])
@@ -167,17 +172,18 @@ def evaluate_all_pairs(i):
     f_top20.close()
     f_top50.close()
     f_top100.close()
-    print(ranks)
+    # print(ranks)
     print("%i pairs error" % error_cnt)
     print("%i pairs correct" % correct_cnt)
     print("%i pairs in top 20" % top20_cnt)
     print("%i pairs in top 50" % top50_cnt)
     print("%i pairs in top 100" % top100_cnt)
     with open(result_all, 'a') as f:
-        f.write('%s, vocab size: %s, formal vacab: %s, tuple num: %s, correct: %s, top20: %s, top50: %s\n' % (
-            EXP_[i], len(_embedding), Formal_vacab, len(variants), correct_cnt, top20_cnt, top50_cnt))
+        f.write('%s, vocab size: %s, formal vacab: %s, tuple num: %s, correct: %s, top20: %s, top50: %s, top100:%s\n' % (
+            EXP_[i], len(_embedding), Formal_vacab, len(variants), correct_cnt, top20_cnt, top50_cnt, top100_cnt))
 
 
 if __name__ == '__main__':
     for i in range(len(EXP_)):
         evaluate_all_pairs(i)
+    # evaluate_all_pairs(0)

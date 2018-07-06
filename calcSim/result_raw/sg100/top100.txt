@@ -1,0 +1,17 @@
+('hey', 'hello')	1
+('m8', 'mate')	0
+('idiotic', 'stupid')	31
+('doggo', 'dog')	75
+('dick', 'penis')	22
+('issues', 'problems')	39
+('hey', 'hi')	0
+('heck', 'hell')	1
+('fuk', 'fuck')	16
+('theater', 'theatre')	0
+('intercourse', 'sex')	0
+('pansexual', 'bisexual')	4
+('tv', 'television')	0
+('booty', 'ass')	61
+('lightening', 'lightning')	0
+('hi', 'hello')	1
+('mum', 'mom')	33

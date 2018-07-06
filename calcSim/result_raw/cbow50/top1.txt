@@ -1,0 +1,7 @@
+('issues', 'problems')	0
+('hey', 'hi')	0
+('heck', 'hell')	0
+('theater', 'theatre')	0
+('tv', 'television')	0
+('lightening', 'lightning')	0
+('mum', 'mom')	0

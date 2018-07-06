@@ -1,0 +1,15 @@
+('tv', 'television')	0
+('m8', 'mate')	0
+('booty', 'ass')	17
+('intercourse', 'sex')	0
+('mum', 'mom')	5
+('fuk', 'fuck')	14
+('theater', 'theatre')	0
+('pansexual', 'bisexual')	0
+('hey', 'hello')	6
+('dick', 'penis')	9
+('comp', 'competition')	1
+('hey', 'hi')	0
+('heck', 'hell')	17
+('lightening', 'lightning')	4
+('hi', 'hello')	1

@@ -1,0 +1,11 @@
+('hey', 'hello')	1
+('m8', 'mate')	0
+('hey', 'hi')	0
+('heck', 'hell')	1
+('fuk', 'fuck')	16
+('theater', 'theatre')	0
+('intercourse', 'sex')	0
+('pansexual', 'bisexual')	4
+('tv', 'television')	0
+('lightening', 'lightning')	0
+('hi', 'hello')	1

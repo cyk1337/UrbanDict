@@ -1,0 +1,18 @@
+All the embeddings. No removal
+-----------------------------------------------------
+sg50, vocab size: 1194702, formal vacab: simpWiki, tuple num: 386, correct: 5, top20: 13, top50: 15
+sg100, vocab size: 1194702, formal vacab: simpWiki, tuple num: 386, correct: 6, top20: 11, top50: 15
+cbow50, vocab size: 1194702, formal vacab: simpWiki, tuple num: 386, correct: 7, top20: 17, top50: 24
+cbow100, vocab size: 1194702, formal vacab: simpWiki, tuple num: 386, correct: 9, top20: 19, top50: 26
+glove50, vocab size: 1194703, formal vacab: simpWiki, tuple num: 386, correct: 4, top20: 16, top50: 19
+glove100, vocab size: 1194703, formal vacab: simpWiki, tuple num: 386, correct: 2, top20: 16, top50: 23
+
+
+Removing vectors that word start with '@', '#', 'http', didnot remove emoji characters
+-----------------------------------------------------
+sg50, vocab size: 384204, formal vacab: simpWiki, tuple num: 386, correct: 6, top20: 15, top50: 17
+sg100, vocab size: 384204, formal vacab: simpWiki, tuple num: 386, correct: 6, top20: 13, top50: 17
+cbow50, vocab size: 384204, formal vacab: simpWiki, tuple num: 386, correct: 7, top20: 19, top50: 25
+cbow100, vocab size: 384204, formal vacab: simpWiki, tuple num: 386, correct: 9, top20: 19, top50: 27
+glove50, vocab size: 384205, formal vacab: simpWiki, tuple num: 386, correct: 5, top20: 18, top50: 22
+glove100, vocab size: 384205, formal vacab: simpWiki, tuple num: 386, correct: 5, top20: 21, top50: 27

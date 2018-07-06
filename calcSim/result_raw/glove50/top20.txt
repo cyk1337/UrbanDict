@@ -1,0 +1,16 @@
+('rubbish', 'garbage')	5
+('lightening', 'lightning')	2
+('tv', 'television')	1
+('hey', 'hello')	0
+('fourty', 'forty')	10
+('intercourse', 'sex')	4
+('theater', 'theatre')	0
+('comp', 'competition')	0
+('hey', 'hi')	3
+('mum', 'mom')	0
+('heck', 'hell')	12
+('booty', 'ass')	12
+('hi', 'hello')	1
+('issues', 'problems')	1
+('buddy', 'friend')	17
+('pansexual', 'bisexual')	2

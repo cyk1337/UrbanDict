@@ -1,3 +1,0 @@
-sg50, vocab size: 1194702, formal vacab: simpWiki, tuple num: 386, correct: 5, top20: 13, top50: 15
-sg100, vocab size: 1194702, formal vacab: simpWiki, tuple num: 386, correct: 6, top20: 11, top50: 15
-sg50, vocab size: 1194702, formal vacab: simpWiki, tuple num: 386, correct: 5, top20: 13, top50: 15

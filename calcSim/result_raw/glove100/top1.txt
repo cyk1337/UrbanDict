@@ -1,0 +1,2 @@
+('theater', 'theatre')	0
+('mum', 'mom')	0
