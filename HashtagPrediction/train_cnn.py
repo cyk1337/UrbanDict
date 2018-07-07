@@ -44,8 +44,14 @@ from plot_fit import plot_fit, visialize_model, save_history, plot_all_history
 
 embedding_name = ['glove50', 'glove100', 'sg50', 'sg100', 'cbow50', 'cbow100']
 embedding_path = [glove50, glove100, sg50, sg100, cbow50, cbow100]
-EXP_INDEX = 0
 
+import argparse
+
+parser = argparse.ArgumentParser(description='Select the embedding index: ')
+parser.add_argument('--i', type=int, default=0)
+args = parser.parse_args()
+EXP_INDEX = args.i
+assert EXP_INDEX < len(embedding_name), 'Embedding out of range!'
 
 print('Indexing %s word vectors.' % embedding_name[EXP_INDEX])
 # 1. load pretrained embedding
@@ -113,43 +119,45 @@ print('Training model.')
 # hyper-params
 filters_list = [32, 64, 128]
 kernel_size_list = [3,4,5]
-CNN_layer_nums = [2,3,4]
-
-maxpooling_size = 5
+CNN_layer_nums = [2,3]
+maxpooling_size_list = [2,3]
 for filters in filters_list:
     for kernel_size in kernel_size_list:
         for CNN_layer_num in CNN_layer_nums:
-            # train a 1D convnet with global maxpooling
-            sequence_input = Input(shape=(MAX_SEQUENCE_LENGTH,), dtype='int32')
-            embedded_sequences = embedding_layer(sequence_input)
-            x=embedded_sequences
-            for i in range(CNN_layer_num-1):
+            for maxpooling_size in maxpooling_size_list:
+                # train a 1D convnet with global maxpooling
+                sequence_input = Input(shape=(MAX_SEQUENCE_LENGTH,), dtype='int32')
+                embedded_sequences = embedding_layer(sequence_input)
+                x=embedded_sequences
+                for i in range(CNN_layer_num-1):
+                    x = Conv1D(filters, kernel_size, activation='relu')(x)
+                    x = MaxPooling1D(maxpooling_size)(x)
                 x = Conv1D(filters, kernel_size, activation='relu')(x)
-                x = MaxPooling1D(maxpooling_size)(x)
-            x = Conv1D(filters, kernel_size, activation='relu')(x)
-            x = GlobalMaxPooling1D()(x)
-            x = Dense(filters, activation='relu')(x)
-            preds = Dense(5, activation='softmax')(x)
+                x = GlobalMaxPooling1D()(x)
+                x = Dense(filters, activation='relu')(x)
+                preds = Dense(5, activation='softmax')(x)
 
-            model = Model(sequence_input, preds)
-            model.compile(loss='categorical_crossentropy',
-                          optimizer='adam',
-                          metrics=['acc'])
+                model = Model(sequence_input, preds)
+                model.compile(loss='categorical_crossentropy',
+                              optimizer='adam',
+                              metrics=['acc'])
 
-            history  = model.fit(train_pad_seq, y_train,
-                      batch_size=BATCH_SIZE,
-                      epochs=EPOCH_NUM,
-                      validation_data=(val_pad_seq, y_val))
+                history  = model.fit(train_pad_seq, y_train,
+                          batch_size=BATCH_SIZE,
+                          epochs=EPOCH_NUM,
+                          validation_data=(val_pad_seq, y_val))
 
 
-            # save history info
-            EXP_NAME = '%sfilter%s_kernel%s_CNN%s' % (embedding_name[EXP_INDEX], filters, kernel_size, CNN_layer_num)
-            plot_filename = '%s.pdf' % EXP_NAME
-            # subdir to save history
-            subdir = 'CNN_%s' % embedding_name[EXP_INDEX]
-            save_history(history, '{}.csv'.format(plot_filename[:-4]), subdir=subdir)
-            # save model
-            visialize_model(model, filepath=plot_filename)
-            # save single history
-            plot_fit(history, plot_filename=plot_filename)
+                # save history info
+                EXP_NAME = '%sfilter%s_kernel%s_CNN%s_maxpool%s' % (embedding_name[EXP_INDEX], filters, kernel_size,
+                                                                    CNN_layer_num, maxpooling_size)
+                print("EXP: %s" % EXP_NAME)
+                plot_filename = '%s.pdf' % EXP_NAME
+                # subdir to save history
+                subdir = 'CNN_%s' % embedding_name[EXP_INDEX]
+                save_history(history, '{}.csv'.format(plot_filename[:-4]), subdir=subdir)
+                # save model
+                visialize_model(model, filepath=plot_filename)
+                # save single history
+                plot_fit(history, plot_filename=plot_filename)
 

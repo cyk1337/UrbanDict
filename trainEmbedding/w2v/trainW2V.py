@@ -28,7 +28,7 @@ from gensim.models.word2vec import Word2Vec, LineSentence
 w2v_dir = os.path.dirname(os.path.abspath(__file__))
 
 
-data_dir = '/Volumes/Ed/129.215.197.21:2020'
+data_dir = '/Volumes/Ed/data/tweet'
 data_file = os.path.join(data_dir, 'en_2G')
 
 
@@ -39,7 +39,8 @@ data_file = os.path.join(data_dir, 'en_2G')
 
 size = 50
 window = 5
-min_count=5
+# min_count=5
+min_count=20
 
 sg_file = os.path.join(w2v_dir, 'sg%s_win%s_min%s' % (size, window, min_count))
 
@@ -60,7 +61,7 @@ def train_cbow():
     cbow_model.wv.save_word2vec_format(cbow_file+'.txt')
 
 if __name__ == '__main__':
-    # train_cbow()
+    train_cbow()
     train_sg()
 
     # wv = Word2Vec.load(cbow_file + '.model')
