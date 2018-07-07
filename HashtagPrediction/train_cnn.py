@@ -42,8 +42,8 @@ from keras.utils.np_utils import to_categorical
 from data_loader import load_tweets, load_pretrained_model
 from plot_fit import plot_fit, visialize_model, save_history, plot_all_history
 
-embedding_name = ['glove50', 'glove100', 'sg50', 'sg100', 'cbow50', 'cbow100']
-embedding_path = [glove50, glove100, sg50, sg100, cbow50, cbow100]
+embedding_name = ['glove50', 'sg50','cbow50', 'glove100','sg100', 'cbow100']
+embedding_path = [glove50, sg50, cbow50, glove100, sg100, cbow100]
 
 import argparse
 
@@ -117,7 +117,7 @@ embedding_layer = Embedding(num_words,
 
 print('Training model.')
 # hyper-params
-filters_list = [32, 64, 128]
+filters_list = [64, 128]
 kernel_size_list = [3,4,5]
 CNN_layer_nums = [2,3]
 maxpooling_size_list = [2,3]

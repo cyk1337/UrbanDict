@@ -24,3 +24,5 @@ vectors.txt
 
 *.bin
 *.vacab
+*.model
+*.npy

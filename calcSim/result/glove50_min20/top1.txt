@@ -1,0 +1,6 @@
+('buddy', 'friend')	0
+('lightening', 'lightning')	0
+('hey', 'hi')	0
+('comp', 'competition')	0
+('theater', 'theatre')	0
+('mum', 'mom')	0

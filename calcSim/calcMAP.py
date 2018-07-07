@@ -37,6 +37,13 @@ cbow100 = '/Volumes/Ed/embedding/w2v100/cbow/cbow100_win5_min5.txt'
 sg50 = '/Volumes/Ed/embedding/w2v50/sg/sg50_win5_min5.txt'
 sg100 = '/Volumes/Ed/embedding/w2v100/sg/sg100_win5_min5.txt'
 
+# min count 20
+glove50_min20 = '/Volumes/Ed/embedding/glove50_min20/tweet_vectors_min20.txt.txt'
+
+sg50_min20 = '/Volumes/Ed/embedding/w2v50_min20/sg/sg50_win5_min20.txt'
+cbow50_min20 = '/Volumes/Ed/embedding/w2v50_min20/cbow/cbow50_win5_min20.txt'
+
+
 gold_tup_file = 'gold/sample_gold.txt'
 
 simpWiki_vocab = '/Volumes/Ed/data/mittens/simpwiki.txt.vocab'
@@ -49,8 +56,8 @@ os.system('mkdir -p %s' % result_dir)
 # settings
 #########################
 Formal_vacab = 'simpWiki'
-EXP_ = ['sg50', 'sg100', 'cbow50', 'cbow100', 'glove50', 'glove100']
-embedding_path = [sg50, sg100, cbow50, cbow100, glove50, glove100]
+EXP_ = ['sg50', 'sg100', 'cbow50', 'cbow100', 'glove50', 'glove100', 'glove50_min20', 'sg50_min20','cbow50_min20']
+embedding_path = [sg50, sg100, cbow50, cbow100, glove50, glove100, glove50_min20, sg50_min20, cbow50_min20]
 
 
 def load_embedding(i, embedding_path):
@@ -184,6 +191,6 @@ def evaluate_all_pairs(i):
 
 
 if __name__ == '__main__':
-    for i in range(len(EXP_)):
+    for i in range(len(EXP_))[-2:]:
         evaluate_all_pairs(i)
-    # evaluate_all_pairs(0)
+    # evaluate_all_pairs(-1)
