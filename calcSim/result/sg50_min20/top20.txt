@@ -1,0 +1,16 @@
+('theater', 'theatre')	0
+('mum', 'mom')	5
+('kewl', 'cool')	2
+('hey', 'hello')	10
+('issues', 'problems')	14
+('m8', 'mate')	13
+('jelous', 'jealous')	15
+('doggo', 'dog')	18
+('pansexual', 'bisexual')	2
+('hey', 'hi')	0
+('comp', 'competition')	0
+('lightening', 'lightning')	0
+('heck', 'hell')	5
+('hi', 'hello')	2
+('tv', 'television')	0
+('intercourse', 'sex')	0

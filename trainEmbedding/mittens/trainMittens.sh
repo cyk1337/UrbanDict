@@ -20,7 +20,7 @@ tweets=${TWEET_DIR}/en_2G
 BUILDDIR=glove
 VERBOSE=2
 MEMORY=16.0
-VOCAB_MIN_COUNT=5
+VOCAB_MIN_COUNT=100
 VECTOR_SIZE=50
 MAX_ITER=15
 WINDOW_SIZE=15
@@ -37,7 +37,7 @@ w2t_VOCAB_FILE=${output_DIR}/wiki2twittervocab.txt
 wiki_COOCCURRENCE_FILE=wiki_win${WINDOW_SIZE}.cooccurrence.bin
 wiki_COOCCURRENCE_SHUF_FILE=wiki_win${WINDOW_SIZE}.cooccurrence.shuf.bin
 
-${BUILDDIR}/vocab_count -min-count 100 < $WIKI > $wiki_VOCAB_FILE
+${BUILDDIR}/vocab_count -min-count $VOCAB_MIN_COUNT < $WIKI > $wiki_VOCAB_FILE
 #./count.sh $WIKI $WINDOW_SIZE
 
 
@@ -60,11 +60,11 @@ tweet_COOCCURRENCE_FILE=tweet_win${WINDOW_SIZE}.cooccurrence.bin
 tweet_COOCCURRENCE_SHUF_FILE=tweet_win${WINDOW_SIZE}.cooccurrence.shuf.bin
 
 #*******************************
-#./vocab_count -min-count 100 < $tweets > ${output_DIR}/twitter_en.txt.vocab.tmp
-#perl -lne 'print unless /^(@|http)/' ${output_DIR}/twitter_en.txt.vocab.tmp > ${output_DIR}/twitter_en.txt.vocab
+${BUILDDIR}/vocab_count -min-count $VOCAB_MIN_COUNT < $tweets > ${output_DIR}/twitter_en.txt.vocab.tmp
+perl -lne 'print unless /^(@|http)/' ${output_DIR}/twitter_en.txt.vocab.tmp > $tweet_VOCAB_FILE
 #*******************************
-echo "$ ${BUILDDIR}/vocab_count -min-count 100 < $tweets > $tweet_VOCAB_FILE"
-${BUILDDIR}/vocab_count -min-count 100 < $tweets > $tweet_VOCAB_FILE
+#echo "$ ${BUILDDIR}/vocab_count -min-count 100 < $tweets > $tweet_VOCAB_FILE"
+#${BUILDDIR}/vocab_count -min-count $VOCAB_MIN_COUNT < $tweets > $tweet_VOCAB_FILE
 #./count.sh $tweets $WINDOW_SIZE
 
 # count.sh $tweets
@@ -95,10 +95,11 @@ python prep_scripts/old_vocab_to_new.py $wiki_VOCAB_FILE $tweet_VOCAB_FILE > $w2
 
 w2t_SAVE_FILE=${output_DIR}/w2t_vectors
 
-$BUILDDIR/glove -input-file $tweet_COOCCURRENCE_SHUF_FILE -vocab-file $tweet_VOCAB_FILE -save-file $w2t_SAVE_FILE -gradsq-file gradsq -verbose $VERBOSE -vector-size $VECTOR_SIZE -threads $NUM_THREADS \
--alpha 0.75 -x-max $X_MAX -eta 0.05 -binary 2 -model 2 \
--source-save-file ${wiki_SAVE_FILE}.txt -ind-map-file $w2t_VOCAB_FILE -target-save-file $tweet_SAVE_FILE -adaptation-mode 1
-#-lambda1 0.1 -lambda2 0.1
+$BUILDDIR/glove -input-file $tweet_COOCCURRENCE_SHUF_FILE -vocab-file $tweet_VOCAB_FILE -save-file $w2t_SAVE_FILE \
+-verbose $VERBOSE -vector-size $VECTOR_SIZE -threads $NUM_THREADS \
+-alpha 0.75 -x-max $X_MAX \
+-source-save-file ${wiki_SAVE_FILE}.txt -ind-map-file $w2t_VOCAB_FILE -adaptation-mode 1
+#-lambda1 0.1 -lambda2 0.1 -target-save-file $tweet_SAVE_FILE
 
 #./glove -save-file $Adapt_SAVE_FILE -threads $NUM_THREADS -input-file $COOCCURRENCE_SHUF_FILE -x-max $X_MAX \
 #-iter $MAX_ITER -vector-size $VECTOR_SIZE -binary $BINARY -vocab-file  -verbose $VERBOSE \
