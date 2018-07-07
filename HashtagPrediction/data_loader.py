@@ -60,5 +60,5 @@ def load_pretrained_model(embedding_path):
             if word.isdigit(): continue
             vector = np.asarray(values[1:], dtype='float32')
             embedding_index[word] = vector
-    print("Found %s word vectors" % len(embedding_index))
+    # print("Found %s word vectors" % len(embedding_index))
     return embedding_index

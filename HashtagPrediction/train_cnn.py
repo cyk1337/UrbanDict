@@ -42,12 +42,16 @@ from keras.utils.np_utils import to_categorical
 from data_loader import load_tweets, load_pretrained_model
 from plot_fit import plot_fit, visialize_model, save_history, plot_all_history
 
-embedding_name = 'glove'
+embedding_name = ['glove50', 'glove100', 'sg50', 'sg100', 'cbow50', 'cbow100']
+embedding_path = [glove50, glove100, sg50, sg100, cbow50, cbow100]
+EXP_INDEX = 0
 
-print('Indexing %s word vectors.' % embedding_name)
+
+print('Indexing %s word vectors.' % embedding_name[EXP_INDEX])
 # 1. load pretrained embedding
-embeddings_index = load_pretrained_model(glove_path)
+embeddings_index = load_pretrained_model(embedding_path[EXP_INDEX])
 print('Found %s word vectors.' % len(embeddings_index))
+EMBEDDING_DIM = len(list(embeddings_index.values())[0])
 
 # load data
 print('loading tweets ...')
@@ -92,8 +96,9 @@ for word, i in word_index.items():
     if embedding_vector is not None:
         embedding_matrix[i] = embedding_vector
 
-# subdir to save history
-subdir = 'CNN_%s' % embedding_name
+
+
+
 
 
 # load pre-trained word embeddings into an Embedding layer
@@ -106,36 +111,45 @@ embedding_layer = Embedding(num_words,
 
 print('Training model.')
 # hyper-params
-filters = 128
-kernel_size = 5
+filters_list = [32, 64, 128]
+kernel_size_list = [3,4,5]
+CNN_layer_nums = [2,3,4]
 
-# train a 1D convnet with global maxpooling
-sequence_input = Input(shape=(MAX_SEQUENCE_LENGTH,), dtype='int32')
-embedded_sequences = embedding_layer(sequence_input)
-x = Conv1D(filters, kernel_size, activation='relu')(embedded_sequences)
-x = MaxPooling1D(5)(x)
-x = Conv1D(filters, kernel_size, activation='relu')(x)
-x = MaxPooling1D(5)(x)
-x = Conv1D(filters, kernel_size, activation='relu')(x)
-x = GlobalMaxPooling1D()(x)
-x = Dense(filters, activation='relu')(x)
-preds = Dense(5, activation='softmax')(x)
+maxpooling_size = 5
+for filters in filters_list:
+    for kernel_size in kernel_size_list:
+        for CNN_layer_num in CNN_layer_nums:
+            # train a 1D convnet with global maxpooling
+            sequence_input = Input(shape=(MAX_SEQUENCE_LENGTH,), dtype='int32')
+            embedded_sequences = embedding_layer(sequence_input)
+            x=embedded_sequences
+            for i in range(CNN_layer_num-1):
+                x = Conv1D(filters, kernel_size, activation='relu')(x)
+                x = MaxPooling1D(maxpooling_size)(x)
+            x = Conv1D(filters, kernel_size, activation='relu')(x)
+            x = GlobalMaxPooling1D()(x)
+            x = Dense(filters, activation='relu')(x)
+            preds = Dense(5, activation='softmax')(x)
 
-model = Model(sequence_input, preds)
-model.compile(loss='categorical_crossentropy',
-              optimizer='adam',
-              metrics=['acc'])
+            model = Model(sequence_input, preds)
+            model.compile(loss='categorical_crossentropy',
+                          optimizer='adam',
+                          metrics=['acc'])
 
-history  = model.fit(train_pad_seq, y_train,
-          batch_size=BATCH_SIZE,
-          epochs=EPOCH_NUM,
-          validation_data=(val_pad_seq, y_val))
+            history  = model.fit(train_pad_seq, y_train,
+                      batch_size=BATCH_SIZE,
+                      epochs=EPOCH_NUM,
+                      validation_data=(val_pad_seq, y_val))
 
-# save history info
-plot_filename = 'glove_cnn_adam.pdf'
-save_history(history, '{}.csv'.format(plot_filename[:-4]), subdir=subdir)
-# save model
-visialize_model(model, filepath=plot_filename)
-# save single history
-plot_fit(history, plot_filename=plot_filename)
+
+            # save history info
+            EXP_NAME = '%sfilter%s_kernel%s_CNN%s' % (embedding_name[EXP_INDEX], filters, kernel_size, CNN_layer_num)
+            plot_filename = '%s.pdf' % EXP_NAME
+            # subdir to save history
+            subdir = 'CNN_%s' % embedding_name[EXP_INDEX]
+            save_history(history, '{}.csv'.format(plot_filename[:-4]), subdir=subdir)
+            # save model
+            visialize_model(model, filepath=plot_filename)
+            # save single history
+            plot_fit(history, plot_filename=plot_filename)
 

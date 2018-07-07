@@ -33,8 +33,14 @@ test_csv = os.path.join(data_file, 'test.csv')
 
 # embedding
 embedding_dir = os.path.join(work_dir, 'embedding')
-glove_path = os.path.join(embedding_dir, 'glove50', 'vectors.txt')
+glove50 = '/Volumes/Ed/embedding/glove50/vectors.txt'
+glove100 = '/Volumes/Ed/embedding/glove100/vectors.txt'
 
+cbow50 = '/Volumes/Ed/embedding/w2v50/cbow/cbow50_win5_min5.txt'
+cbow100 = '/Volumes/Ed/embedding/w2v100/cbow/cbow100_win5_min5.txt'
+
+sg50 = '/Volumes/Ed/embedding/w2v50/sg/sg50_win5_min5.txt'
+sg100 = '/Volumes/Ed/embedding/w2v100/sg/sg100_win5_min5.txt'
 
 # results
 result_dir = os.path.join(work_dir, 'result')
@@ -43,7 +49,7 @@ log_dir = os.path.join(result_dir, 'logs')
 model_dir = os.path.join(result_dir, 'model')
 history_dir = os.path.join(result_dir, 'history')
 
-EMBEDDING_DIM = 50
+
 
 MAX_NUM_WORDS = 20000
 MAX_SEQUENCE_LENGTH = 200
