@@ -57,12 +57,12 @@ def basic_plot(text):
     plt.axis("off")
 
     # lower max_font_size
-    wordcloud = WordCloud(max_font_size=40).generate(text)
+    wordcloud = WordCloud(max_font_size=40, background_color='white').generate(text)
     # plt.figure()
     plt.figure(figsize=(20, 10), facecolor='k')
     plt.imshow(wordcloud, interpolation="bilinear")
     plt.axis("off")
-    plot_path = os.path.join(wordcloud_dir, 'basic.pdf')
+    plot_path = os.path.join(wordcloud_dir, 'basic_white.pdf')
     plt.savefig(plot_path, facecolor='k', bbox_inches='tight')
     plt.show()
     # The pil way (if you don't have matplotlib)

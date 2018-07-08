@@ -37,7 +37,7 @@ data_file = os.path.join(data_dir, 'en_2G')
 #         for line in f.readlines():
 #             yield line.split()
 
-size = 50
+size = 100
 window = 5
 # min_count=5
 min_count=20
