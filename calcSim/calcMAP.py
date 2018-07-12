@@ -27,27 +27,32 @@ import os
 from gensim.models import Word2Vec
 from numba import jit
 
-glove50 = '/Volumes/Ed/embedding/glove50/vectors.txt'
-glove100 = '/Volumes/Ed/embedding/glove100/vectors.txt'
-glove_tweet_vocab = '/Volumes/Ed/embedding/glove50/vocab.txt'
+# glove50 = '/Volumes/Ed/embedding/glove50/vectors.txt'
+# glove100 = '/Volumes/Ed/embedding/glove100/vectors.txt'
+# glove_tweet_vocab = '/Volumes/Ed/embedding/glove50/vocab.txt'
+#
+# cbow50 = '/Volumes/Ed/embedding/w2v50/cbow/cbow50_win5_min5.txt'
+# cbow100 = '/Volumes/Ed/embedding/w2v100/cbow/cbow100_win5_min5.txt'
+#
+# sg50 = '/Volumes/Ed/embedding/w2v50/sg/sg50_win5_min5.txt'
+# sg100 = '/Volumes/Ed/embedding/w2v100/sg/sg100_win5_min5.txt'
+#
+# # min count 20
+# glove50_min20 = '/Volumes/Ed/embedding/glove50_min20/tweet_vectors_min20.txt.txt'
+#
+# sg50_min20 = '/Volumes/Ed/embedding/w2v50_min20/sg/sg50_win5_min20.txt'
+# cbow50_min20 = '/Volumes/Ed/embedding/w2v50_min20/cbow/cbow50_win5_min20.txt'
 
-cbow50 = '/Volumes/Ed/embedding/w2v50/cbow/cbow50_win5_min5.txt'
-cbow100 = '/Volumes/Ed/embedding/w2v100/cbow/cbow100_win5_min5.txt'
-
-sg50 = '/Volumes/Ed/embedding/w2v50/sg/sg50_win5_min5.txt'
-sg100 = '/Volumes/Ed/embedding/w2v100/sg/sg100_win5_min5.txt'
-
-# min count 20
-glove50_min20 = '/Volumes/Ed/embedding/glove50_min20/tweet_vectors_min20.txt.txt'
-
-sg50_min20 = '/Volumes/Ed/embedding/w2v50_min20/sg/sg50_win5_min20.txt'
-cbow50_min20 = '/Volumes/Ed/embedding/w2v50_min20/cbow/cbow50_win5_min20.txt'
-
+# EXP_ = ['sg50', 'sg100', 'cbow50', 'cbow100', 'glove50', 'glove100', 'glove50_min20', 'sg50_min20','cbow50_min20']
+# embedding_path = [sg50, sg100, cbow50, cbow100, glove50, glove100, glove50_min20, sg50_min20, cbow50_min20]
 
 gold_tup_file = 'gold/sample_gold.txt'
 
-simpWiki_vocab = '/Volumes/Ed/data/mittens/simpwiki.txt.vocab'
-formal_vocab_file = simpWiki_vocab
+simpWiki_vocab = '/Volumes/Ed/data/formal/simpwiki_vocab.txt'
+enWiki_vocab = '/Volumes/Ed/data/formal/enwiki_vocab.txt'
+
+formal_vocab = ['simpWiki_vocab', 'enWiki_vocab']
+formal_vocab_paths = [simpWiki_vocab, enWiki_vocab]
 
 result_dir = 'result'
 os.system('mkdir -p %s' % result_dir)
@@ -55,9 +60,16 @@ os.system('mkdir -p %s' % result_dir)
 #########################
 # settings
 #########################
-Formal_vacab = 'simpWiki'
-EXP_ = ['sg50', 'sg100', 'cbow50', 'cbow100', 'glove50', 'glove100', 'glove50_min20', 'sg50_min20','cbow50_min20']
-embedding_path = [sg50, sg100, cbow50, cbow100, glove50, glove100, glove50_min20, sg50_min20, cbow50_min20]
+_wiki_index = 1
+Formal_vacab = formal_vocab[_wiki_index]
+formal_vocab_file = formal_vocab_paths[_wiki_index]
+
+glove_w5 = '/Volumes/Ed/embedding/w5/tweet_V50000_w5_vectors.txt'
+cbow_w5 = '/Volumes/Ed/embedding/w5/cbow100_win5_v50000.txt'
+sg_w5 = '/Volumes/Ed/embedding/w5/sg100_win5_v50000.txt'
+
+EXP_ = ['glove_w5', 'cbow_w5', 'sg_w5']
+embedding_path = [glove_w5, cbow_w5, sg_w5]
 
 
 def load_embedding(i, embedding_path):
@@ -191,6 +203,6 @@ def evaluate_all_pairs(i):
 
 
 if __name__ == '__main__':
-    for i in range(len(EXP_))[-2:]:
+    for i in range(len(EXP_)):
         evaluate_all_pairs(i)
     # evaluate_all_pairs(-1)

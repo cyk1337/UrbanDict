@@ -26,21 +26,27 @@ import os
 
 work_dir = os.path.dirname(os.path.abspath(__file__))
 # csv raw docs
-data_file = os.path.join(work_dir, 'csv')
+data_file = os.path.join(work_dir, 'csv_10')
 train_csv = os.path.join(data_file, 'train.csv')
 val_csv = os.path.join(data_file, 'val.csv')
 test_csv = os.path.join(data_file, 'test.csv')
 
 # embedding
 embedding_dir = os.path.join(work_dir, 'embedding')
-glove50 = '/Volumes/Ed/embedding/glove50/vectors.txt'
-glove100 = '/Volumes/Ed/embedding/glove100/vectors.txt'
+# glove50 = '/Volumes/Ed/embedding/glove50/vectors.txt'
+# glove100 = '/Volumes/Ed/embedding/glove100/vectors.txt'
 
-cbow50 = '/Volumes/Ed/embedding/w2v50/cbow/cbow50_win5_min5.txt'
-cbow100 = '/Volumes/Ed/embedding/w2v100/cbow/cbow100_win5_min5.txt'
+#
+#
+# cbow50 = '/Volumes/Ed/embedding/w2v50/cbow/cbow50_win5_min5.txt'
+# cbow100 = '/Volumes/Ed/embedding/w2v100/cbow/cbow100_win5_min5.txt'
 
-sg50 = '/Volumes/Ed/embedding/w2v50/sg/sg50_win5_min5.txt'
-sg100 = '/Volumes/Ed/embedding/w2v100/sg/sg100_win5_min5.txt'
+# sg50 = '/Volumes/Ed/embedding/w2v50/sg/sg50_win5_min5.txt'
+# sg100 = '/Volumes/Ed/embedding/w2v100/sg/sg100_win5_min5.txt'
+
+glove_w5 = '/Volumes/Ed/embedding/w5/tweet_V50000_w5_vectors.txt'
+cbow_w5 = '/Volumes/Ed/embedding/w5/cbow100_win5_v50000.txt'
+sg_w5 = '/Volumes/Ed/embedding/w5/sg100_win5_v50000.txt'
 
 # results
 result_dir = os.path.join(work_dir, 'result')

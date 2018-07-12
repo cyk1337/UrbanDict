@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
-for embedding_index in 0 1 2 3 4 5; do
+source activate mlp
+
+for embedding_index in 0; do
     python train_cnn.py --i $embedding_index
 done

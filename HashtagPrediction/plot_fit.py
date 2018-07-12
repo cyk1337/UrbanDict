@@ -179,6 +179,5 @@ if __name__ == "__main__":
     # save_history(history, 'train_val.csv', subdir='val')
 
     # subdir = 'dir to save csv'
-    subdir = 'CNN_glove50'
-    #    subdir='lstm+cnn_char'
-    plot_all_history(subdir, plot_filename='%s.pdf' % subdir, figsize=(60, 30))
+    subdir = 'CNN_glove_w5'
+    plot_all_history(subdir, plot_filename='%s.pdf' % subdir)

@@ -28,7 +28,7 @@ import pandas as pd
 with codecs.open('stat_hashtag30.pkl', 'rb') as f:
     hashtag_N = pickle.load(f)
 
-tags = [t[0] for t in hashtag_N[:5]]
+tags = [t[0] for t in hashtag_N[:10]]
 
 # print(tags)
 data_records = []
@@ -50,12 +50,12 @@ shuffle_data = df.sample(frac=1, random_state=2018)
 
 
 work_dir = os.path.dirname(os.path.dirname(__file__))
-data_dir = os.path.join(work_dir, 'Hashtag prediction', 'data')
+data_dir = os.path.join(work_dir, 'HashtagPrediction', 'data')
 train_csv = os.path.join(data_dir, "train.csv")
 val_csv = os.path.join(data_dir, "val.csv")
 test_csv = os.path.join(data_dir, "test.csv")
 
-split_bound = [0.70, 0.15, 0.15]
+split_bound = [0.60, 0.2, 0.2]
 
 # split
 RECORDS_NUM = len(shuffle_data)

@@ -1,6 +1,0 @@
-('theater', 'theatre')	0
-('hey', 'hi')	0
-('comp', 'competition')	0
-('lightening', 'lightning')	0
-('tv', 'television')	0
-('intercourse', 'sex')	0
