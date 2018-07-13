@@ -44,8 +44,7 @@ args = parser.parse_args()
 max_final_vocab= args.MaxVocab
 size = 100
 window = 5
-# min_count=5
-# min_count=20
+# min_count=100
 
 sg_file = os.path.join(w2v_dir, 'sg%s_win%s_v%s' % (size, window, max_final_vocab))
 

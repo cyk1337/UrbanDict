@@ -24,8 +24,8 @@
 '''
 import numpy as np
 import os
-from gensim.models import Word2Vec
 from numba import jit
+import pandas as pd
 
 # glove50 = '/Volumes/Ed/embedding/glove50/vectors.txt'
 # glove100 = '/Volumes/Ed/embedding/glove100/vectors.txt'
@@ -160,7 +160,11 @@ def evaluate_all_pairs(i):
 
     variants = filter_variant_tuple(gold_tup_file, formal_vocab, informal_vocab)
     print("%i evaluation pairs" % len(variants))
-
+    # file = 'selected_pair/%s_pair.csv' % EXP_[i]
+    # d = [(w, v, _embedding[w], _embedding[v]) for w,v in variants]
+    # df = pd.DataFrame.from_records(d, columns=['w','v', 'w_vec', 'v_vec'])
+    # df.to_csv(file)
+    # return 0
     for tup in variants:
         try:
             rank = evaluate_pair(tup, word_vectors, _embedding, informal_vocab, N=1000)

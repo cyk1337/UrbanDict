@@ -45,7 +45,7 @@ def gen_label(label_index, defn_toks):
 
 
 # @timeit
-def load_data(load_silver_iter):
+def load_data(load_silver_iter=0):
     pos_df = pd.read_csv(POS_DATA, sep='\t')
     # ==================================================
     # 2.93 sec

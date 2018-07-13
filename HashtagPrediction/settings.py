@@ -44,9 +44,14 @@ embedding_dir = os.path.join(work_dir, 'embedding')
 # sg50 = '/Volumes/Ed/embedding/w2v50/sg/sg50_win5_min5.txt'
 # sg100 = '/Volumes/Ed/embedding/w2v100/sg/sg100_win5_min5.txt'
 
+# vocab 50k
 glove_w5 = '/Volumes/Ed/embedding/w5/tweet_V50000_w5_vectors.txt'
 cbow_w5 = '/Volumes/Ed/embedding/w5/cbow100_win5_v50000.txt'
 sg_w5 = '/Volumes/Ed/embedding/w5/sg100_win5_v50000.txt'
+
+glove_w5_v10k = '/Volumes/Ed/embedding/w5_v10k/tweet_V10000_w5_vectors.txt'
+cbow_w5_v10k = '/Volumes/Ed/embedding/w5_v10k/cbow100_win5_v10000.txt'
+sg_w5_v10k = '/Volumes/Ed/embedding/w5_v10k/sg100_win5_v10000.txt'
 
 # results
 result_dir = os.path.join(work_dir, 'result')
