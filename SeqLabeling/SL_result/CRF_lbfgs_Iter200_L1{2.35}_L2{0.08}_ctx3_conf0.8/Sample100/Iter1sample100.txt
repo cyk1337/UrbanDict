@@ -76,13 +76,13 @@
 	4358833	Sainsbog	sainsburys 	 another word for sainsburys (I, 0.9695) , the supermarket .
 	1513210	Kidlet	children 	 kidlet plural kidlets another word for children (I, 0.9570) , kids also used to express a name for older people that you know well .
 	3076541	Spic	hispanic 	 originates from the phrase " no speak english " which from a latino 's mouth sounds like " no spick english " . it 's used as a derogatory term to insult hispanics , as it also originates from a shortening of the word " hispanic (I, 0.9479) " . is viewed by the latino culture as highly offensive .
-	7789736	Nogged	head 	 just another word for getting a blowjob . from the word " noggin " which is another word for head (I, 0.9897) .
+0	7789736	Nogged	head 	 just another word for getting a blowjob . from the word " noggin " which is another word for head (I, 0.9897) .
 	3662305	Q9R42	q9r 	 q9r42 is a longer version of the word " q9r (I, 0.9410) " . q9r means the entity of all games , and 42 is from a famous book called " the hitchhikers guide to the galaxy " and means " the meaning of life . the whole word , " q9r42 " means , gaming is the way of life .
 	11839003	fraith	cum 	 it 's another word for cum (I, 0.9160) that spread amongst the priests .
 	2095093	Jeegook	hell 	 1 . one ice age , in slang is termed a jeegook . 2 . another term for " hell (I, 0.9661) "
 	1469378	lollycopter	boredom 	 1 . an exclaimation of surprise . 2 . a term meant with a derogatory intent . 3 . alternative word for boredom (I, 0.9302) . 4 . a physical assault of some sort . 5 . describing someone who is silly .
 	8558737	Bing	bang 	 a way to say that one took part of having sex . a variation of the word bang (I, 0.9741) .
-	307102	waasaakana	oh 	 another way of saying " oh (I, 0.9735) my god ! "
+0	307102	waasaakana	oh 	 another way of saying " oh (I, 0.9735) my god ! "
 	1934126	cutwinkle	vagina penis 	 another word for vagina (I, 0.8998) . since a " winkle " is another word for " penis (I, 0.8998) " than a " cutwinkle " must be another word for a vagina because the winkle ( penis ) was cut off .
 	225009	rawk	rock 	 a sarcastic replacement for the word " rock (I, 0.8200) " , especially used by veteran fans of a rock genre to describe younger fans who 've joined solely for the purpose of being trendy . it 's also used in the form " rawker " to describe a person .
 	1869817	jaran	friend 	 the slang / sarajevo way of saying friend (I, 0.9911) , buddy , pal .
@@ -93,7 +93,7 @@
 	1175780	hargully	hardly 	 inspired by the graphic novel " hopeless savages " , hargully is another way of saying " hardly (I, 0.9602) . "
 	3056289	ghinie	vagina 	 ( j - eye - knee ; ) noun : another word for vagina (I, 0.9858) . founded by celina and presleigh of louisville .
 	3160006	frogging	fucking 	 an alternative for the commonly used curse word " fucking (I, 0.9857) " used by conservative christians and others who feel bad saying bad words , so they substitute obvious words to curse anyway .... also see ( hypercrite )
-	282387	HaWtLW	hello 	 short for " hello (I, 0.9333) and welcome to last week . " used by internet nerds to indicate that a particular link or news item has been seen before .
+0	282387	HaWtLW	hello 	 short for " hello (I, 0.9333) and welcome to last week . " used by internet nerds to indicate that a particular link or news item has been seen before .
 	1171830	turds	shit 	 another word for shit (I, 0.9849) or crap , used primarily in scottish slang .
 	335074	bazounce	bounce 	 another way to say " bounce (I, 0.8616) " or another way to say you have to go .
 0	297	ruttin'	sexin 	 synonym for " sexin (I, 0.8662) ' . " used in to kill a mockingbird . sometimes " ruttin ' on " someone
