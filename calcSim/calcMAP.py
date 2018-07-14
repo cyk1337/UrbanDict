@@ -60,16 +60,22 @@ os.system('mkdir -p %s' % result_dir)
 #########################
 # settings
 #########################
-_wiki_index = 1
+_wiki_index = 0
 Formal_vacab = formal_vocab[_wiki_index]
 formal_vocab_file = formal_vocab_paths[_wiki_index]
 
-glove_w5 = '/Volumes/Ed/embedding/w5/tweet_V50000_w5_vectors.txt'
-cbow_w5 = '/Volumes/Ed/embedding/w5/cbow100_win5_v50000.txt'
-sg_w5 = '/Volumes/Ed/embedding/w5/sg100_win5_v50000.txt'
+# glove_w5 = '/Volumes/Ed/embedding/w5/tweet_V50000_w5_vectors.txt'
+# cbow_w5 = '/Volumes/Ed/embedding/w5/cbow100_win5_v50000.txt'
+# sg_w5 = '/Volumes/Ed/embedding/w5/sg100_win5_v50000.txt'
+# EXP_ = ['glove_w5', 'cbow_w5', 'sg_w5']
+# embedding_path = [glove_w5, cbow_w5, sg_w5]
 
-EXP_ = ['glove_w5', 'cbow_w5', 'sg_w5']
-embedding_path = [glove_w5, cbow_w5, sg_w5]
+glove_w5_v10k = '/Volumes/Ed/embedding/w5_v10k/tweet_V10000_w5_vectors.txt'
+cbow_w5_v10k = '/Volumes/Ed/embedding/w5_v10k/cbow100_win5_v10000.txt'
+sg_w5_v10k = '/Volumes/Ed/embedding/w5_v10k/sg100_win5_v10000.txt'
+
+EXP_ = ['glove_w5_v10k', 'sg_w5_v10k', 'cbow_w5_v10k']
+embedding_path = [glove_w5_v10k, sg_w5_v10k, cbow_w5_v10k]
 
 
 def load_embedding(i, embedding_path):

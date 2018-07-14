@@ -48,6 +48,7 @@ from plot_fit import plot_fit, visialize_model, save_history, plot_all_history
 # embedding_name = ['glove_w5', 'sg_w5', 'cbow_w5']
 # embedding_path = [glove_w5, sg_w5, cbow_w5]
 
+# v10k
 embedding_name = ['glove_w5_v10k', 'sg_w5_v10k', 'cbow_w5_v10k']
 embedding_path = [glove_w5_v10k, sg_w5_v10k, cbow_w5_v10k]
 

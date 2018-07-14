@@ -57,10 +57,43 @@ c3 = pearsonr(val_acc, var_map3)[0]
 # v2 = np.corrcoef(val_acc, var_map2)[1,0]
 # v3 = np.corrcoef(val_acc, var_map3)[1,0]
 # print("Min count20, vec size50, avg:{:.4f}, c1:{:.4f}, c2:{:.4f}, c3{:.4f}".format(c0,c1,c2,c3))
-print("vocab 100, vec size100, c1:{:.4f}, c2:{:.4f}, c3:{:.4f}".format(c1,c2,c3))
+print("pearsonr: vocab 50k, vec size100, c1:{:.4f}, c2:{:.4f}, c3:{:.4f}".format(c1,c2,c3))
 
 
 s1 = spearmanr(val_acc, var_map1)[0]
 s2 = spearmanr(val_acc, var_map2)[0]
 s3 = spearmanr(val_acc, var_map3)[0]
-print("vocab 100, vec size100, s1:{:.4f}, s2:{:.4f}, s3:{:.4f}".format(s1,s2,s3))
+print("spearmanr: vocab 50k, vec size100, s1:{:.4f}, s2:{:.4f}, s3:{:.4f}".format(s1,s2,s3))
+
+
+
+# ----------
+# v10k
+
+glove_val_acc = 0.918801
+cbow_val_acc = 0.906065
+sg_val_acc = 0.923445
+val_acc = np.array([glove_val_acc, cbow_val_acc, sg_val_acc])
+
+# vocab 50k
+var_map1 = np.array([5, 10, 7]) / 99
+var_map2 = np.array([18, 24, 23])/99
+var_map3 = np.array([21, 27, 27])/ 99
+
+
+c1 = pearsonr(val_acc, var_map1)[0]
+c2 = pearsonr(val_acc, var_map2)[0]
+c3 = pearsonr(val_acc, var_map3)[0]
+# c0 = (c1+c2+c3)/3
+# c+=c0
+# v1 = np.corrcoef(val_acc, var_map1)[1,0]
+# v2 = np.corrcoef(val_acc, var_map2)[1,0]
+# v3 = np.corrcoef(val_acc, var_map3)[1,0]
+# print("Min count20, vec size50, avg:{:.4f}, c1:{:.4f}, c2:{:.4f}, c3{:.4f}".format(c0,c1,c2,c3))
+print("pearsonr: vocab 10k, vec size100, c1:{:.4f}, c2:{:.4f}, c3:{:.4f}".format(c1,c2,c3))
+
+
+s1 = spearmanr(val_acc, var_map1)[0]
+s2 = spearmanr(val_acc, var_map2)[0]
+s3 = spearmanr(val_acc, var_map3)[0]
+print("spearmanr: vocab 10k, vec size100, s1:{:.4f}, s2:{:.4f}, s3:{:.4f}".format(s1,s2,s3))

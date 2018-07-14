@@ -1,0 +1,3 @@
+name sg_w5_v10kfilter128_kernel3_maxpool2.csv acc 0.981681 loss 0.0760908 val_acc 0.923445 val_loss 0.240366
+name cbow_w5_v10kfilter128_kernel3_maxpool2.csv acc 0.98724 loss 0.0515882 val_acc 0.906065 val_loss 0.350825
+name glove_w5_v10kfilter128_kernel3_maxpool2.csv acc 0.965872 loss 0.119444 val_acc 0.918801 val_loss 0.244879

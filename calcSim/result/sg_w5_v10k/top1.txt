@@ -1,0 +1,7 @@
+('heck', 'hell')	0
+('hey', 'hi')	0
+('bitch', 'hoe')	0
+('yea', 'yeah')	0
+('theater', 'theatre')	0
+('tv', 'television')	0
+('comp', 'competition')	0

@@ -19,3 +19,17 @@ en_wiki
 glove_w5, vocab size: 33622, formal vacab: enWiki_vocab, tuple num: 245, correct: 7, top20: 24, top50: 30, top100:37
 cbow_w5, vocab size: 33567, formal vacab: enWiki_vocab, tuple num: 245, correct: 12, top20: 35, top50: 43, top100:50
 sg_w5, vocab size: 33567, formal vacab: enWiki_vocab, tuple num: 245, correct: 11, top20: 31, top50: 43, top100:50
+
+**************
+v10k
+enwiki
+-----
+glove_w5_v10k, vocab size: 8706, formal vacab: enWiki_vocab, tuple num: 99, correct: 5, top20: 18, top50: 21, top100:27
+sg_w5_v10k, vocab size: 8704, formal vacab: enWiki_vocab, tuple num: 99, correct: 7, top20: 23, top50: 27, top100:32
+cbow_w5_v10k, vocab size: 8704, formal vacab: enWiki_vocab, tuple num: 99, correct: 10, top20: 24, top50: 27, top100:30
+
+simpwiki
+----
+glove_w5_v10k, vocab size: 8706, formal vacab: simpWiki_vocab, tuple num: 99, correct: 5, top20: 18, top50: 21, top100:27
+sg_w5_v10k, vocab size: 8704, formal vacab: simpWiki_vocab, tuple num: 99, correct: 7, top20: 23, top50: 27, top100:32
+cbow_w5_v10k, vocab size: 8704, formal vacab: simpWiki_vocab, tuple num: 99, correct: 10, top20: 24, top50: 27, top100:30
