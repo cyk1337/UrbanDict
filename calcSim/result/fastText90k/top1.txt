@@ -1,0 +1,8 @@
+('pansexual', 'bisexual')	0
+('bish', 'bitch')	0
+('m8', 'mate')	0
+('tv', 'television')	0
+('yea', 'yeah')	0
+('theater', 'theatre')	0
+('intercourse', 'sex')	0
+('hey', 'hi')	0

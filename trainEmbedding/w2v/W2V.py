@@ -37,8 +37,9 @@ data_file = os.path.join(data_dir, 'en_2G')
 #         for line in f.readlines():
 #             yield line.split()
 import argparse
+from gensim.models import FastText
 
-parser = argparse.ArgumentParser(description='Give max vocab size of w2v: ')
+parser = argparse.ArgumentParser(description='Give max vocab size of gensim: ')
 parser.add_argument('--MaxVocab', type=int, default=1000)
 args = parser.parse_args()
 max_final_vocab= args.MaxVocab
@@ -64,6 +65,12 @@ def train_cbow():
 
     cbow_model.save(cbow_file + '.model')
     cbow_model.wv.save_word2vec_format(cbow_file+'.txt')
+
+def train_fasttext():
+    fasttext_model = FastText(sentences=LineSentence(data_file), size=size, window=window, max_vocab_size =max_final_vocab, workers=max(1, multiprocessing.cpu_count() - 1))
+    fasttext_model.save(cbow_file + '.model')
+    fasttext_model.wv.save_word2vec_format(cbow_file + '.txt')
+
 
 if __name__ == '__main__':
     train_cbow()
