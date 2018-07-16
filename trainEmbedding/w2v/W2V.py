@@ -40,36 +40,42 @@ import argparse
 from gensim.models import FastText
 
 parser = argparse.ArgumentParser(description='Give max vocab size of gensim: ')
-parser.add_argument('--MaxVocab', type=int, default=1000)
+parser.add_argument('--MaxVocab', type=int, default=None)
+parser.add_argument('--minCount', type=int, default=100)
 args = parser.parse_args()
 max_final_vocab= args.MaxVocab
+minCount= args.minCount
 size = 100
 window = 5
-# min_count=100
 
-sg_file = os.path.join(w2v_dir, 'sg%s_win%s_v%s' % (size, window, max_final_vocab))
+# max vocab
+# sg_file = os.path.join(w2v_dir, 'sg%s_win%s_v%s' % (size, window, max_final_vocab))
+# cbow_file = os.path.join(w2v_dir, 'cbow%s_win%s_v%s' % (size, window, max_final_vocab))
 
-cbow_file = os.path.join(w2v_dir, 'cbow%s_win%s_v%s' % (size, window, max_final_vocab))
+# min count 100
+assert max_final_vocab is None, 'max_final_vocab is not None!'
+sg_file = os.path.join(w2v_dir, 'sg%s_win%s_minCount%s' % (size, window, minCount))
+cbow_file = os.path.join(w2v_dir, 'cbow%s_win%s_minCount%s' % (size, window, minCount))
+print('Training w2v, win %s, vector size %s, min count %s,  max vocab size %s' % (window, size, minCount, max_final_vocab))
 
-print('Training w2v, win %s, vector size %s, max vocab size %s' % (window, size, max_final_vocab))
 
 def train_sg():
-    sg_model = Word2Vec(sentences=LineSentence(data_file), size=size, window=window, max_final_vocab=max_final_vocab, sg=1, workers=max(1, multiprocessing.cpu_count() - 1))
+    sg_model = Word2Vec(sentences=LineSentence(data_file), size=size, window=window, min_count=minCount, max_final_vocab=max_final_vocab, sg=1, workers=max(1, multiprocessing.cpu_count() - 1))
 
     sg_model.save(sg_file+'.model')
     sg_model.wv.save_word2vec_format(sg_file+'.txt')
 
 
 def train_cbow():
-    cbow_model = Word2Vec(sentences=LineSentence(data_file), size=size, window=window, max_final_vocab=max_final_vocab, sg=0, workers=max(1, multiprocessing.cpu_count() - 1))
+    cbow_model = Word2Vec(sentences=LineSentence(data_file), size=size, window=window, min_count=minCount, max_final_vocab=max_final_vocab, sg=0, workers=max(1, multiprocessing.cpu_count() - 1))
 
     cbow_model.save(cbow_file + '.model')
     cbow_model.wv.save_word2vec_format(cbow_file+'.txt')
 
-def train_fasttext():
-    fasttext_model = FastText(sentences=LineSentence(data_file), size=size, window=window, max_vocab_size =max_final_vocab, workers=max(1, multiprocessing.cpu_count() - 1))
-    fasttext_model.save(cbow_file + '.model')
-    fasttext_model.wv.save_word2vec_format(cbow_file + '.txt')
+# def train_fasttext():
+#     fasttext_model = FastText(sentences=LineSentence(data_file), size=size, window=window, min_count=minCount, max_vocab_size =max_final_vocab, workers=max(1, multiprocessing.cpu_count() - 1))
+#     fasttext_model.save('fasttext' + '.model')
+#     fasttext_model.wv.save_word2vec_format('fasttext' + '.txt')
 
 
 if __name__ == '__main__':
