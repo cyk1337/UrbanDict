@@ -79,8 +79,10 @@ sg_w5_v10k = '/Volumes/Ed/embedding/w5_v10k/sg100_win5_v10000.txt'
 
 glove_w5_min100 ='/Volumes/Ed/embedding/w5_min100/glove/tweet_min100_w5_vectors.txt'
 fasttext_w5_min100 ='/Volumes/Ed/embedding/w5_min100/fasttext/fasttext_min100_w5.vec'
-EXP_ = ['glove_w5_min100', 'fasttext_w5_min100']
-embedding_path = [glove_w5_min100,fasttext_w5_min100]
+sg_w5_min100 ='/Volumes/Ed/embedding/w5_min100/sg/sg100_win5_minCount100.txt'
+cbow_w5_min100 ='/Volumes/Ed/embedding/w5_min100/cbow/cbow100_win5_minCount100.txt'
+EXP_ = ['glove_w5_min100', 'fasttext_w5_min100','sg_w5_min100', 'cbow_w5_min100']
+embedding_path = [glove_w5_min100,fasttext_w5_min100, sg_w5_min100, cbow_w5_min100]
 
 
 def load_embedding(i, embedding_path):

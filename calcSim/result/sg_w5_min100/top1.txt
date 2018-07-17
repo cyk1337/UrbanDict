@@ -1,6 +1,8 @@
-('bish', 'bitch')	0
+('lunacy', 'insanity')	0
 ('theater', 'theatre')	0
 ('pansexual', 'bisexual')	0
+('lightening', 'lightning')	0
+('bitch', 'hoe')	0
 ('hey', 'hi')	0
 ('tv', 'television')	0
 ('intercourse', 'sex')	0

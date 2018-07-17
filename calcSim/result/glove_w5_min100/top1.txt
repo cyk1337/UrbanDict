@@ -1,7 +1,7 @@
-('mum', 'mom')	0
+('theater', 'theatre')	0
 ('lightening', 'lightning')	0
+('mum', 'mom')	0
+('hey', 'hi')	0
 ('tv', 'television')	0
 ('heck', 'hell')	0
-('hey', 'hi')	0
 ('yea', 'yeah')	0
-('theater', 'theatre')	0
