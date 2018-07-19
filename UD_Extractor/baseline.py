@@ -60,20 +60,20 @@ class Baseline(Basic):
             # u"way of saying ['\"](?P<Spelling>\w+)['\"]",
 
 
-            u"spelling[^\.,]{0,3}?( of| for| to|:| the word| include|)[^\.,]{0,5}?\"(?P<Spelling>\w+)\"",
+            # u"spelling[^\.,]{0,3}?( of| for| to|:| the word| include|)[^\.,]{0,5}?\"(?P<Spelling>\w+)\"", # 951
             # u"spelling[^\.,]{0,3}?( of| for| to|:| the word| include|)[^\.,]{0,5}?'(?P<Spelling>\w+)'",
 
             # u"^meaning \"(?P<Spelling>[\w']+)\"",
             # u"^meaning '(?P<Spelling>\w+)'",
 
-            # u"way of saying \"(?P<Spelling>[\w']+)\"", # 843
-            # u"way of saying '(?P<Spelling>\w+)'", # 234
+            # u"way of saying \"(?P<Spelling>[\w']+)\"",
+            # u"way of saying '(?P<Spelling>\w+)'", #
 
-            # u"form of [^\.,]{0,3}?\"(?P<Spelling>[\w']+)\"", # 518 - 527
+            # u"form of [^\.,]{0,3}?\"(?P<Spelling>[\w']+)\"",
             # u"form of '(?P<Spelling>\w+)'",
 
             # u"^short for \"(?P<Spelling>[\w']+)\"", # 104
-            # u"^short for '(?P<Spelling>\w+)'",
+            u"^short for '(?P<Spelling>\w+)'",
 
         ]
 

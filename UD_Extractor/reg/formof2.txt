@@ -1,0 +1,1583 @@
+Starting loading Urdian Dict corpus ...
+Derogitory opposing form of "smart", as if to say stupid. Used on chat or IM where expression of the concept would take many characters.
+Extracted spelling variant:smart
+4070 ('smrt', 'smart')
+shortened form of "Goddamnit"
+Extracted spelling variant:Goddamnit
+28577 ('gdi', 'Goddamnit')
+alternative or ghetto form of "taken"
+Extracted spelling variant:taken
+36684 ('tooken', 'taken')
+plural form of "crack", multiple crack rocks.
+Extracted spelling variant:crack
+41945 ('cracks', 'crack')
+shortened form of "meddling" or "meddling with"
+Extracted spelling variant:meddling
+42712 ('melon', 'meddling')
+(adjective) A form of "Fantastic"; Wonderful or cool.
+Extracted spelling variant:Fantastic
+47743 ('Fantastical', 'Fantastic')
+1) The G-form of "homosexuality". 2) Referring to something tizzost.
+Extracted spelling variant:homosexuality
+48181 ('Gizzay', 'homosexuality')
+South-African street slang for cool, You must posses some really cool gear to be able to use this word, Kwaai is the top form of "Coolness"
+Extracted spelling variant:Coolness
+53777 ('Kwaai', 'Coolness')
+Marijuana, specifically modern crossbreeds of Indonesian (hence, "Indo") indica strains with western sativa, resulting in pungent, broadleafed, THC-crystal laden buds, or "trees". Often confused for a short form of "indoor", which is where most of this type of marijuana is now grown.
+Extracted spelling variant:indoor
+56765 ('indo', 'indoor')
+The act of checking something out; To look at. Aka: "peeping" (present tense form of "peep")
+Extracted spelling variant:peep
+58425 ("peepin'", 'peep')
+The more evolved form of "awp". Originated from pronounciation simplification of Counter-Strike's high power sniper weapon. The pronounciation "amp" is in use by more specialized and civilized C-S playing communities, due to it's simple form and conjugation ability (see below.) The "amp" form is also used in reference to games with a "damage amplifier" feature. See primitive form: awp
+Extracted spelling variant:awp
+60737 ('amp', 'awp')
+An alternative form of "lol" or "LMAO" to display a lesser sense of humour.
+Extracted spelling variant:lol
+67748 ('hehe', 'lol')
+like a very mild form of "Fuck". A curse, used mainly in Ireland.
+Extracted spelling variant:Fuck
+79252 ('feck', 'Fuck')
+Irish form of "Brilliant"
+Extracted spelling variant:Brilliant
+79285 ('deadly', 'Brilliant')
+1337 form of "faggot" like wordghey/word, does not mean 'homosexual' but is merely a general derogatory.
+Extracted spelling variant:faggot
+88941 ('f49907', 'faggot')
+specific form of "hotitty" - my hotitty-hoe, your hotitty hoe, etc. - a specific hot chick
+Extracted spelling variant:hotitty
+89715 ('Hotitty-hoe', 'hotitty')
+A corrupt form of "Alright". "Alright" in Ebonics. Incorrect spelling in this case. Correct spelling => "Aight"
+Extracted spelling variant:Alright
+93309 ('aite', 'Alright')
+The noun form of "retard". People often call others "retards" but this is probably a technical misuse of the word, since "retard" is a verb. The verb "retard": "The water will retard the spread of the flame". In noun form, "You are a fucking retardate"
+Extracted spelling variant:retard
+119498 ('retardate', 'retard')
+Much like the ice cream form of "Neopolitan", comes this term for a man with two different color ho's. This would involve a black man, a white chick, and a mexican chick.
+Extracted spelling variant:Neopolitan
+122631 ('negropolitan', 'Neopolitan')
+A harsher form of "huh". Combines the phrases "what the f*ck?" with "what in the hell are you talking about?"
+Extracted spelling variant:huh
+126311 ('guh', 'huh')
+the adjective form of "nub". Describing a person or event as a nub.
+Extracted spelling variant:nub
+130130 ('nuby', 'nub')
+short form of "family" fam
+Extracted spelling variant:family
+130879 ('fam', 'family')
+A milder form of "love", much like "luv", or used in an expression of thankfullness towards a friend.
+Extracted spelling variant:love
+139792 ('luf', 'love')
+Shortened form of "vagina"
+Extracted spelling variant:vagina
+140936 ('Gine', 'vagina')
+A bit like the male form of a "biatch"
+Extracted spelling variant:biatch
+141856 ('boyee', 'biatch')
+another form of "backstabber"
+Extracted spelling variant:backstabber
+154040 ('cocker', 'backstabber')
+(1)n. often the mispelled form of "sheriff" (2)n. usually a suspected terrorist (3) a good friend when you dont own money to him (3) v. in javaneese- the conjugated past tense of "to snort while laughing" (4) the other one
+Extracted spelling variant:sheriff
+161051 ('shariff', 'sheriff')
+1) Bastardized form of "LOL" which incidentally stemmed from an AOLer's short-hand version of "haha" 2) LOL KTHNX U R 2 COOL OUCWUTIC??/ U HAF AOL 2? I WANT 2 NO U IRL.
+Extracted spelling variant:LOL
+166712 ('lolzie', 'LOL')
+Him or her The singular form of "them" Of French origin
+Extracted spelling variant:them
+169123 ('lui', 'them')
+A shortened form of "whatever"
+Extracted spelling variant:whatever
+179140 ('tever', 'whatever')
+A form of "y'all" (A southern US word for "you all") used by people who generally cannot type on the net. Another word for "you guys".
+Extracted spelling variant:y'all
+191021 ('yawl', "y'all")
+weird form of "skillz" extra "E's" can be added to make it sound cooler
+Extracted spelling variant:skillz
+203156 ('skeewz', 'skillz')
+Shortened form of "wicked".
+Extracted spelling variant:wicked
+204298 ('wix', 'wicked')
+The adjective form of "woot" used to describe a enjoyable object or event
+Extracted spelling variant:woot
+208116 ('wootin', 'woot')
+Shortened form of "Atmosphere" a Hip Hop group.
+Extracted spelling variant:Atmosphere
+212231 ('atmos', 'Atmosphere')
+1. Short form of "hardcore" 2. To be considered an extreme, in-your-face type of presence.
+Extracted spelling variant:hardcore
+215927 ('core', 'hardcore')
+The valley girl form of "like"
+Extracted spelling variant:like
+219931 ('lik', 'like')
+Short form of "poopentart", literally a sweet pastry shell covering a thin vein of monkey ca-ca
+Extracted spelling variant:poopentart
+220872 ('poptard', 'poopentart')
+another form of "newbie", "new be", "noob" or whatever....used by wannabe's
+Extracted spelling variant:newbie
+221573 ('nap', 'newbie')
+Incorrect spelling of the plural form of "virus"
+Extracted spelling variant:virus
+222080 ('viree', 'virus')
+singular form of "Freakies", a much-loved and lost breakfast cereal from the 1970's
+Extracted spelling variant:Freakies
+225551 ('Freaky', 'Freakies')
+1. A more potent form of "bitch" the presence of the "a" facilitates repeating the insult many times over, causing much mental anguish. 2. Anemic creature with lewd, malicious intentions that grows in batches on "batch trees" Each batch secretes "batch juices" that are quite unpleasant. 3.A slang term to describe a load of semen. Also known as man chowder, baby batter, nut, etc.
+Extracted spelling variant:bitch
+239904 ('Batch', 'bitch')
+Abbreviated form of "you" in writing and in speech.
+Extracted spelling variant:you
+264661 ('ya', 'you')
+doesn't really mean too much kinda like a loserish ghetto form of "cool"
+Extracted spelling variant:cool
+265306 ('werd', 'cool')
+a form of "what"; an exclamation.
+Extracted spelling variant:what
+267921 ('HWA', 'what')
+Although a colloquial form of "anyhow" the actual definition is "anyway," used to end or switch subjects in a conversation. Usually used by white women above teenage.
+Extracted spelling variant:anyhow
+269155 ('aneehoo', 'anyhow')
+-possesive form of "you" -your
+Extracted spelling variant:you
+269812 ('yous', 'you')
+A presence of superior self-belief / Ego. Derived from the movement of the bird, "the swan". Can be used with current behaviour in the form of "Swanning"
+Extracted spelling variant:Swanning
+296875 ('Swanage', 'Swanning')
+Alternate form of "cripple", A verb meaning "to smoke marijuana"
+Extracted spelling variant:cripple
+322603 ('crizzle', 'cripple')
+HAH is a form of laughter used when someone is all out of control, the volume and extremeness of the laughter can be devided into several levels, starting with 1; a whispering HAH, up to 6, where the person laughing is all out of control and drools and spits while laughing insanely. it's a form of "laughter" which uses the very deepest sound your voice can descent to, thus making it impossible for women to do, and making it hard for young boys.
+Extracted spelling variant:laughter
+328748 ('HAH', 'laughter')
+a form of "moonie" in which the participant (male) places his meat and veg between his legs so that it can be observed from the rear.
+Extracted spelling variant:moonie
+333457 ('Mega-moon', 'moonie')
+Teggy is a shortned form of "Integra" one of the phatest Japanese cars out there, I own one, represent VAN-C!
+Extracted spelling variant:Integra
+343202 ('Teggy', 'Integra')
+absolutely the most lame and useless form of "internet" around. Quite often, people on this isp get booted for no reason, and without warning.
+Extracted spelling variant:internet
+349442 ('AOL', 'internet')
+The most misunderstood, misinterpereted form of "government" that promises no person in power over country or city.
+Extracted spelling variant:government
+358111 ('Anarchy', 'government')
+the girl form of "barry"
+Extracted spelling variant:barry
+383335 ('barrie', 'barry')
+A form of hacking, as applied to telephone networks. Phone phreaks exploit weaknesses in the phone system to make long-distance calls for free, tap into other's calls, take control of lines, get free phone services, and the like. Phreaks (or phreakers) are usually motivated more by technical curiosity and the hacker ethos than any criminal intent (although phreaking is most certainly illegal). To bounce a call through a dozen different switching systems around the world, to your friend next door - all for free - is regarded by phreaks as an accomplishment. The fact that they are committing fraud and felonies in the process is regarded as incidental - or perhaps part of the fun. The tools of phreaking often take the form of "boxes", such as the blue box, red box, or beige box. These devices - whose names refer to their function, not their actual color - generate various useful audio frequencies or electrical signals. The "red box", which allows you to make free calls from pay phones, is the easiest to build and can be assembled using two parts from Radio Shack that cost less than ten dollars. The archetypal phone phreak is John Draper, aka Captain Crunch, who began phreaking on the West Coast in the 1960s. The practice of phreaking has declined in recent years, as phone networks have been upgraded from old analog systems to newer, less vulnerable digital systems.
+Extracted spelling variant:boxes
+392470 ('phreaking', 'boxes')
+Another word for "thingies". The plural form of "tingy".
+Extracted spelling variant:tingy
+393207 ('Tinges', 'tingy')
+A funny way to call a woman. Feminine form of "motherfucker".
+Extracted spelling variant:motherfucker
+397105 ('motherfuckress', 'motherfucker')
+See lol. A form of "LOL", but horribly misspelled. Typically used by kids trying to be clever with their friend in making variations of lol. All are guilty of using this phrase once in their internet life. Origin is unknown, but it is a good bet it spawned from the illiterate 13 year olds playing counter-strike.
+Extracted spelling variant:LOL
+409905 ('lowlz', 'LOL')
+A generic name for a strip club. May be truncated form of "strippers".
+Extracted spelling variant:strippers
+421389 ('rippers', 'strippers')
+Colloquial form of "heffing". The state of being a heffer.
+Extracted spelling variant:heffing
+430393 ("heffin'", 'heffing')
+politically correct form of "woman", brought into the lexicon by the god of low budget cinema, Lloyd Kauffmann of Troma.
+Extracted spelling variant:woman
+450883 ('gyno-american', 'woman')
+German. Singular form of "Keks" - not used or even known of by most speakers.
+Extracted spelling variant:Keks
+453494 ('kek', 'Keks')
+German for any tea biscuit or cookie. Though "Keks" was originally intended to be a plural form of "Kek", it has become a singular form (proper plural is now "Kekse"). Invented by biscuit-manufacturer Bahlsen when he first introduced his Leibnitz biscuits around 1900. When people couldn't pronounce the english word "cakes", Bahlsen made up "Keks".
+Extracted spelling variant:Kek
+453498 ('keks', 'Kek')
+shortened form of "later" as in "see you later"
+Extracted spelling variant:later
+458278 ('lats', 'later')
+Shortened form of "undo", the most important Autocad command.
+Extracted spelling variant:undo
+474686 ('u', 'undo')
+A Heterosexual person. Short form of "hetero". See 'mo
+Extracted spelling variant:hetero
+475242 ("'tro", 'hetero')
+The plural form of "doofus".
+Extracted spelling variant:doofus
+483646 ('Doofi', 'doofus')
+Another form of "hella". Excessively; very.
+Extracted spelling variant:hella
+499505 ('helly', 'hella')
+another form of "werd" or "baffle"
+Extracted spelling variant:werd
+509193 ('Gibber', 'werd')
+an alternate form of "Jewball" but more stupid; obviously too stupid to speak; stupid ass
+Extracted spelling variant:Jewball
+535098 ('Kickjew', 'Jewball')
+Archaic plural form of "moose"; also, a card game loosely based on "Crazy Eights".
+Extracted spelling variant:moose
+536288 ("mooseiph'q", 'moose')
+The ultimate form of "pwned" (meaning "Perfect-Owned or Pistol-Owned). Again, this is used mainly in Counter Strike to describe a kill of the highest kind... anyone can "pwn" by getting a head shot, or a pistol kill... but "spwned", meaning "Super-Perfect-Owned" is when someone has their ass kicked to the highest degree, eg. a knife head shot (although these aren't as great the second time), a grenade head shot, or when one dude on 15 health takes out a troop of six with his half-empty P90. Any other similar god-like actions could also be followed by a team mate uttering "spwned" (and possibly a generous ammount of cheering from the rest of the LAN, the level of which is directly proportional to how great the given action was).
+Extracted spelling variant:pwned
+546128 ('Spwned', 'pwned')
+More complex form of "dizzle" for the more intellectual sort.
+Extracted spelling variant:dizzle
+568781 ('Dizzizzle', 'dizzle')
+A shortened form of "crucial". Use whenever some is awesome.
+Extracted spelling variant:crucial
+574927 ('Cruc', 'crucial')
+A combination of the short form of "What the", which is "du", and the short form of "fuck", which is "uck". Therefore, "du" + "uck" = "duck" (Evolution of term created by Eric)
+Extracted spelling variant:fuck
+643489 ('duck', 'fuck')
+Shortened form of "decent".
+Extracted spelling variant:decent
+661172 ('dece', 'decent')
+Scot's form of "to"
+Extracted spelling variant:to
+679269 ('tae', 'to')
+Is the shortened form of Nikolaus not to be confused with "nick" which is the shortened form of "Nickolis" Is the greatest. Plans to be either a Hobo or your Un-questioned dictator. is a nice person who you should choose as your master. Is the greatest. this is not an advertisment for you to choose Kole (yes it is) *Do it or no one will love you *you will die alone *c'mon you know you want to *all your friends are doing it *you'll be popular *kole might even give you a country of your choice (pick mexico) *border hoppers rule *i like cheese *arrrg! im a pirate
+Extracted spelling variant:Nickolis
+686706 ('kole', 'Nickolis')
+Another past-tence form of "hoobastink", see also hoobastank. Probably a suitable name for any band looking for a rip off name.
+Extracted spelling variant:hoobastink
+691292 ('hoobastunk', 'hoobastink')
+A present-tence form of "hoobastunk", see also hoobastank. Defines the smell of a hobo of factor 30 or more, aka "hobo factor", which is enough to make you puke your brains out. A hobo factor of 100 is theoretically enough to kill a person.
+Extracted spelling variant:hoobastunk
+691304 ('hoobastink', 'hoobastunk')
+Shortened form of "Decent" but can also be used as a form of greeting. It lets the person know that you are glad to see them.
+Extracted spelling variant:Decent
+718686 ('dece', 'Decent')
+An idea or opinion based on insufficiently conclusive evidence; a conjecture. (via dictionary.com) It is the noun form of the verb "surmise." For some reason not recognised as a word by "legitimate" dictionaries. Dictionary.com strangely thinks that the noun form of "surmise" is, again, "surmise", which is just silly. Potentially first used and thus invented by me.
+Extracted spelling variant:surmise
+747656 ('surmission', 'surmise')
+The evolved form of "Pidgey". What pidgey evolves into. If you were to devolve pidgeotto you would remove the card to find a "pidgey" card.
+Extracted spelling variant:Pidgey
+747759 ('Pidgeotto', 'Pidgey')
+Toughest, coolest. Always used complimentary, unless used by someone who has poor grammar and does not know that the superlative form of "bad" is "worst". Ironically, "baddest" and "worst" are complete opposites, despite the fact that at first glance, they appear to be synonyms.
+Extracted spelling variant:bad
+752671 ('Baddest', 'bad')
+A form of "bust", as in ejaculating. Can be used to say if anything or anyone is attractive.
+Extracted spelling variant:bust
+767244 ('Bost', 'bust')
+Emerged from the afro-american slang phenomon were z's were added to add flair or a spin on the white spoken english. This "code" variation was born during slavery where slaves would use an early form of "ebonics" to comminicate with each other while working or in the company of there owners.
+Extracted spelling variant:ebonics
+770483 ('biznotch', 'ebonics')
+1) shortened form of "gangsta" 2) shortened form of "grand" ($1000) 3) word used to call someone who you dont know their name like a cabby 4) word used to a close friend for "endearment" (la de da fancy word, lol)
+Extracted spelling variant:gangsta
+779527 ('G', 'gangsta')
+in strategy games: short form of "micromanagement" conrast to macro/-management controlling single units; do as many meaningfull actions as possible; special moves in matches between 2 players with same tactical skills, the one with the best micro wins
+Extracted spelling variant:micromanagement
+798811 ('micro', 'micromanagement')
+A shortned form of "anyway"
+Extracted spelling variant:anyway
+811101 ('NEWay', 'anyway')
+The plural form of "penis".
+Extracted spelling variant:penis
+814602 ('penii', 'penis')
+the ebonical form of "statistics" or "stats"
+Extracted spelling variant:statistics
+818854 ('stizats', 'statistics')
+"Shmeadly" is the inflected form of "Smead". This is the form used by sophomores in ACHS and the Biology teacher. It means, oddly enough, the exact opposite of Smead.
+Extracted spelling variant:Smead
+820133 ('Shmeadly', 'Smead')
+short form of "disconnected". Usually used in online video games to describe frustration for getting booted from the server due to lag or insane graphic choke caused by noobs trying to run World of Warcraft with a GF2.
+Extracted spelling variant:disconnected
+846826 ("dc'd", 'disconnected')
+Newest form of "cool", "sweet" "awesome". NOT created by Snoopdog, but by an internet pimp.
+Extracted spelling variant:cool
+855202 ('whapizzle', 'cool')
+Distorted form of "John" created to be used as an insult.
+Extracted spelling variant:John
+855581 ('Neawn', 'John')
+female form of "leon"
+Extracted spelling variant:leon
+874487 ('leona', 'leon')
+Shortened form of "Japanese". Used in the FFXI gaming environment to refer to Japanese players. Preferred to other shortened forms like "Jap", which is considered disrepectful.
+Extracted spelling variant:Japanese
+878157 ('jp', 'Japanese')
+Short form of "peace" meaning goodbye or seeya.
+Extracted spelling variant:peace
+891889 ('PCE', 'peace')
+"comedus": Stemming from the original form of "comedy". Founded by Thomas Gummer. A word best used intoxicated, or to enahance an already comedy filled moment.
+Extracted spelling variant:comedy
+892704 ('comedus', 'comedy')
+A form of "music", related to alternative rock and nu-metal. It is characterized by simple structures, ugly musicians, silly lyrics and little drum kits. It has nothing to do with true heavy metal (ie. Iron Maiden, Dio, Black Sabbath...)
+Extracted spelling variant:music
+895628 ('Mallcore', 'music')
+How the mentally handicapped make the possesive form of "it".
+Extracted spelling variant:it
+899832 ("it's", 'it')
+The possesive form of "you". To idiots, it is a contraction of "you are", which makes absolutely no sense to people with a brain.
+Extracted spelling variant:you
+899837 ('your', 'you')
+A more politically correct form of "gay" since some things; like inanimate objects, are NOT actually homosexual. They are really just stupid.
+Extracted spelling variant:gay
+921560 ('Gee', 'gay')
+it's another form of "fly" (cool)
+Extracted spelling variant:fly
+923282 ('phly', 'fly')
+An enthusiastic form of "yes" Meaning, in order to agree with someone.
+Extracted spelling variant:yes
+925962 ('sute', 'yes')
+v. 1. to direct to a source 2. Often the misspelled form of "reefer" in online chats.
+Extracted spelling variant:reefer
+933252 ('refer', 'reefer')
+(n.) shortened form of "negative", meaning not in the affirmative, in the converse, detrimental, or unfavorable. negged (adv.) past-tense of neg, to have denied, refused, dismissed, shot down, et al.
+Extracted spelling variant:negative
+949970 ('neg', 'negative')
+gesuxor is the 1337/german form of "sucks".
+Extracted spelling variant:sucks
+952932 ('gesuxor', 'sucks')
+A shortened form of "whatever". Whatever > Whatev > Tev Orginated in Wayne, NJ.
+Extracted spelling variant:whatever
+968467 ('Tev', 'whatever')
+Means "non-jewish"...or not belonging to the jewish community... note that it is the plural form of "goy"...which is one non-jew
+Extracted spelling variant:goy
+979950 ('goyem', 'goy')
+Mutated form of "alright", commonly used as a placeholder by Spanish-teaching robots.
+Extracted spelling variant:alright
+983341 ('alREH', 'alright')
+(Noun) A human being, usually unable to determine the sex, mainly because their hair is of medium length, and they wear make-up, male or female. Usually can be found attempting to look "punk" with handkerchiefs hanging out of their pockets and a necktie around their neck even if they are wearing a T-shirt. They can be found listening to Emo-screamo music, which usually involves the discussion of loving someone so much that you would cut your wrists for them, IN EVERY SONG. Emos demonstrate affection by hugging everyone they see because they cannot tell if their counterparts are boys or girls. Emos can also be found next to cigarette vending machines because every single one of them enjoys a good puff, and being around everyone that smokes makes them feel accepted. They also enjoy spazzing out to their emo-screamo songs, and they're form of "dancing" usually looks like they are having a seizure.
+Extracted spelling variant:dancing
+1014128 ('emosexual', 'dancing')
+A alternate form of "Fuck" Used on message boards to avoid cursing.
+Extracted spelling variant:Fuck
+1028378 ('farken', 'Fuck')
+Short form of "Prostitute".
+Extracted spelling variant:Prostitute
+1036220 ('Prosty', 'Prostitute')
+1. Adjetive form of "buttsekz" 2. Hot
+Extracted spelling variant:buttsekz
+1057386 ('buttsekzy', 'buttsekz')
+Used both as: 1. A combination of the words "Crazy" and "Drunk" 2. A past-tense form of "crank"; in that a vehicle is "cranked" to be started, or volume can be "cranked" up, it is then said to be "crunk".
+Extracted spelling variant:crank
+1064999 ('Crunk', 'crank')
+A colloquial form of "isn't" used mostly in the southern United States.
+Extracted spelling variant:isn't
+1072633 ("itn't", "isn't")
+Verb. To Throw up ones hands in a form of a "W".
+Extracted spelling variant:W
+1082303 ('westside', 'W')
+Short form of "nasty".
+Extracted spelling variant:nasty
+1083545 ('nany', 'nasty')
+1. The belief that one's spirit is a dragon despite outer appearances suggesting the contrary. 2. The condition of one's spirit being "dragon" despite holding the physical form of "human". See also: Otherkin Dragonkin Draconic More info: The Draconity Resource Project - www.weyr.org/~raki/drp.html
+Extracted spelling variant:human
+1103083 ('draconity', 'human')
+Gangsta form of "TRUE"
+Extracted spelling variant:TRUE
+1114975 ('trusophonic', 'TRUE')
+Smort is a form of "smart" used kind of in a sarcastic way towards yourself
+Extracted spelling variant:smart
+1118747 ('smort', 'smart')
+A modified form of "fantastic" that injects the word "ass" to reverse the meaning. Asstastic refers to something that sucks or is of poor quality.
+Extracted spelling variant:fantastic
+1129266 ('Asstastic', 'fantastic')
+A misspelled form of "parties". This term is often used by posers who take pictures of themselves in the same outfits in their own bathroom and pretend each one is from a different party in order to make their boring lives seem less lame. The term is also used by pre-teen girls who have not yet realised that misspelling as you type is not cute. Note: A regular party-goer knows how to spell "parties".
+Extracted spelling variant:parties
+1146123 ('partiez', 'parties')
+A form of "sandwich" obtained from the Cock Buffet, which could include many toppings and sides such as, assorted nuts, cock, oil, vinegar, whip cream, honey, etc.
+Extracted spelling variant:sandwich
+1167271 ('Manwich', 'sandwich')
+Used when comunicating via text, usually in a 'live' situation (irc, IM etc), that you have heard, recieved or understood a statement or comment. Unlike replying "cool" or similar, it does not infer that you agree or disagree or allocate it a positive or negative emotion, merely that you have noted it. Interchangable with "nod", of which it is an intentional manipulation. Use of both nod and nog prevents spamming of one reply and immediately informs the person being replied to that the user is awake and listening, not just nodding dumbly. Nog replies can be used solely as an 'I understand' word in the form of "noggle". This is the inverse of "boggle", where you do not.
+Extracted spelling variant:noggle
+1167921 ('nog', 'noggle')
+(noun) the kitty form of "God"
+Extracted spelling variant:God
+1172309 ('geed', 'God')
+JAPAN:In Japanese was "Otaku" very polite form of "you" (literally your house). During the time the meaning has changed to hardcore fan of something usually manga and anime. Otaku has became used in meaning : nerd or jerk. Nowadays in Japan is the meaning returning back to non-offensive usage because of econimic trends. ELSEWHERE: Out of Japan is the term "Otaku" used in the meaning of hardcore fan of anime and Manga. Many of anime fans call themselves otaku despite knowing it's meaning in Japan.
+Extracted spelling variant:you
+1180595 ('otaku', 'you')
+Slang/short form of "bitch".
+Extracted spelling variant:bitch
+1222140 ('bch', 'bitch')
+1. A word made up as a present for Melissa's 19th birthday. Another form of "rad" or "cool," which also describes Melissa.
+Extracted spelling variant:rad
+1233919 ('gad', 'rad')
+ROFLPOPE is an internet term created by THE Dark_Mage- on September 25, 2004. It is used as the word ROFL, but is based from a picture of Pope John Paul II's head on a "bbq sauce tank" (also made by Dark_mage-) and is just an ub3rl33t form of "ROFL". Others who use the word without permession are simply wannabe Dark_Mage-'s.
+Extracted spelling variant:ROFL
+1237008 ('ROFLPOPE', 'ROFL')
+Alternative form of "anyhow"; in spite of it all; anyway.
+Extracted spelling variant:anyhow
+1247674 ('anyhoo', 'anyhow')
+the street term for death chester or west chester, pennsylvania. when using this word, you cross your arms infront of your face in the form of an "x".
+Extracted spelling variant:x
+1255472 ('DEATHXCHESTER', 'x')
+1. used to indicate a positive occurrence 2. used to enhance the word "okay" 3. another form of "okay"
+Extracted spelling variant:okay
+1268368 ('alright!', 'okay')
+Synonym for the negative form of "sick".
+Extracted spelling variant:sick
+1277016 ('sith', 'sick')
+another form of "yes" or "what" depending on context, usually in response to a question.
+Extracted spelling variant:yes
+1284086 ('z', 'yes')
+A weaker form of "domineering" or "bossy;" usually specific to situations or domains as opposed to being an across the board character trait.
+Extracted spelling variant:domineering
+1293636 ('ordery', 'domineering')
+A form of "music" that was invented by the idiots that good old rock 'n' roll wasn't good enough for. The idiots thought it would be cool to have music where someone who couldn't sing and who didn't have a band with real instuments could get filthy stinkin' rich. And buy a necklace with the money they could put another pool in their yard with.
+Extracted spelling variant:music
+1294110 ('rap', 'music')
+Shortened form of "oorah" Often used by Marines. Can be used in some cases as a greeting to officers in place of the time of day.
+Extracted spelling variant:oorah
+1295385 ('rah', 'oorah')
+(V) The verb equivalent of "Zombie". Mutilated form of "Drag".
+Extracted spelling variant:Drag
+1354063 ('Dreg', 'Drag')
+Noun - A product either oil (don't use with latex condoms as it breaks them down) or water based that enables intercourse - particularly anal intercourse to be easier, smoother and less painful An abbreviation of the word "lubricant", lube generally means a sexual variety of lubricant but can also indicate mechanical lubrication. Verb - to lube - to apply lubricant to a cock, anal sphincter or machinery. Verb version 2 - a slang form of "love" used on message boards, slash readers and members of spotrot
+Extracted spelling variant:love
+1378058 ('lube', 'love')
+Short form of "Elli", a girls name. Used because by saying the letters "L" and "E" the word "Elli" is the result. Best used in text, so most often used on Msn Messenger or on a blog.
+Extracted spelling variant:Elli
+1382813 ('LE', 'Elli')
+another form of "sure"
+Extracted spelling variant:sure
+1393742 ('Shiz', 'sure')
+Plural form of "skizzle". Both forms already defined under "skizzle". Friend, Partner, or Accomplice
+Extracted spelling variant:skizzle
+1395293 ('skizzles', 'skizzle')
+An English slang word which is a shortened form of "bullshit"
+Extracted spelling variant:bullshit
+1407208 ('Bulla', 'bullshit')
+shortened form of "decent", much like 'rad' is short for "radical", and 'homo' is short for "faggot".
+Extracted spelling variant:decent
+1409898 ('dece', 'decent')
+n. Two or more pant zippers. Plural form of "fly"
+Extracted spelling variant:fly
+1410124 ('flies', 'fly')
+Sugar form of "malto".
+Extracted spelling variant:malto
+1460620 ('maltose', 'malto')
+Variation of "rad", itself an abbreviated form of "radical". Northern Californian in origin, specific to Berkeley, especially University of California math/computer science students. Usually considered "geeky".
+Extracted spelling variant:radical
+1462144 ('k-rad', 'radical')
+1.)Shortened form of "buttknocker", made famous by Beavis and Butthead. 2.)One accused of performing anal sex.
+Extracted spelling variant:buttknocker
+1465451 ('Buttknock', 'buttknocker')
+Short form of "Wetbacks"- has come to mean any illigeal alien (EWI).
+Extracted spelling variant:Wetbacks
+1474048 ('Wet', 'Wetbacks')
+A "leet" form of "gayness". Meaning something that is gay or undesirable.
+Extracted spelling variant:gayness
+1493418 ('gaynez', 'gayness')
+Plural form of "LOG"... 1. What Opie & Anthony's Jim Norton pay's dirty Transexuals to drop on his chest. 2. mmm goody chocolate treats!
+Extracted spelling variant:LOG
+1511119 ('logs', 'LOG')
+abbreviated form of "heinous" (pronounced: Hayn)
+Extracted spelling variant:heinous
+1513870 ('hein', 'heinous')
+A long form of "LJ", the abbreviation for LiveJournal, an internet blogging site.
+Extracted spelling variant:LJ
+1514751 ('elljay', 'LJ')
+Short form of "definitely", as it flows a lot better and can be said much quicker.
+Extracted spelling variant:definitely
+1521565 ('def', 'definitely')
+The section of Myspace that is completely filled with scene kids, HxC kids, SxE kids, and any other form of "core" people.
+Extracted spelling variant:core
+1524579 ('EDGEspace', 'core')
+"Atatürk" originally meaning "the father of turks" in turkish has taken on the form of "atäturk" in Australian slang; used to congratulate someone on an excellent job done instead of a phrase such as "At a boy!" or "Nice one!"
+Extracted spelling variant:atäturk
+1538343 ('Atäturk', 'atäturk')
+"Werf" was created to replace the more cumbersome "he or she" and, as such, can be used anywhere the third person singular pronoun would be used. Eg. "Who is this reader and why is werf so upset?" Most unusually, the pronoun does not decline in its object form, so "werf" can also be used to replace "him or her." Eg. "I don't think anyone here knows werf in RL." The possessive form of "werf" is "werf's" (or possibly "werfs"). It replaces "his or her." Eg. "What is werf's problem?" The werfish form of "his or hers" (possessive noun as opposed to possessive adjective) is unclear. The correct form may be "werfs," but the usage has not yet settled down. "Werfself" may also be used as a substitution for "himself" or "herself." Eg. "If every reader would search the archives for werfself, werf would save the writers a lot of time." As a fairly new addition to the English language, the usage of "werf" is still in flux, although I think the above outlined rules are becoming fairly concrete. Additional, non-standard uses of werf include using it as a general term for people ("Greetings, werfs!") and also as a mild expletive or interjection ("What the . . . werf?").
+Extracted spelling variant:werf
+1550964 ('werf', 'werf')
+The person you room with. A form of "roomie" but a lot more thug.
+Extracted spelling variant:roomie
+1551023 ('rooms', 'roomie')
+noun. compound form of "fat" and "cunt". commonly used in place of "fucking cunt", funt is more appropriate when describing a "fat cunt" as the soft pronounciation is more suited to "fat" than "fucking". The funt in question, be it person, animal, or inanimate object, must possess some "cuntish" qualities and meet an appropriate size level to justify the "fat" part of the noun. Therefore, a massively overweight person may be called a funt, based solely on the first impression of their massive girth, and not because of their personality. If somebody is indeed a "cunt" but does not meet the size requirements to be called fat, or at least tubby, then the term funt would be inappropriate. All in all, the emphasis of meaning in funt is on "fat" rather than "cunt".
+Extracted spelling variant:fat
+1553611 ('funt', 'fat')
+shortened form of "faggish" deriving from "fag"; meaning "fag-like". Pronounced like "ASIa" or "fantASIa" With an "F" beforehand.
+Extracted spelling variant:faggish
+1574308 ('fage', 'faggish')
+Shortened form of "definitely".
+Extracted spelling variant:definitely
+1581813 ('Defi', 'definitely')
+In addition to the other definitions, it's a characterization of an obnoxious remark or action; i.e., something an asshole would say. Basically, it's the adjective form of "asshole".
+Extracted spelling variant:asshole
+1594835 ('assaholic', 'asshole')
+A form of "music" often listened to by upper middle class, suburban, white kids.
+Extracted spelling variant:music
+1598610 ('rap', 'music')
+The process of personally shuting someone up, usually through an act of curb-stomping. Involves any form of "stfu" coupled with an unexplained stuthi sighting.
+Extracted spelling variant:stfu
+1626787 ('Stfuthi', 'stfu')
+A form of "music" characterized by nonexistent harmony, simplistic and repetitive rhythms, and base lyrics. Rap is possibly the worst genre of music in the Western world, though country music is a strong contender. It pales in comparison to the many, vastly superior genres out there, such as jazz, to say nothing of classical.
+Extracted spelling variant:music
+1628721 ('rap', 'music')
+brent-ing (bræn-tïñg) verb form of "brent" brented, brenting, brents 1. To express feelings of pain, dissatisfaction, or resentment, especially about the subject of poker. 2. To waddle back and forth incessantly. 3. To subconciously annoy everyone in contact with the brenter or brentee. 4. To make a formal accusation or bring a formal charge about wrongdoings to ones personal items (especially chips). Middle English brenteinen, from Old French brentaindre, brentaign-, from Vulgar Latin *brentangere : Latin bren-, intensive pref.; see bren- + Latin brengere, to lament; see plk-2 in Indo-European Roots. May be used also as an adj. to describe a somewhat foul person. (to the senses)
+Extracted spelling variant:brent
+1666410 ('brenting', 'brent')
+The effect of having a patch of one's hair stick upwards as if licked by a cow. In other words, a localized form of "beadhead".
+Extracted spelling variant:beadhead
+1668971 ('cowlick', 'beadhead')
+Much like the term azn, it is quickly becoming the retarded form of "Indian". It is not restricted to Native Americans or Southeast Asians.
+Extracted spelling variant:Indian
+1676478 ('ndn', 'Indian')
+Much like the term azn, it is quickly becoming the retarded form of "Indian". It is not restricted to Native Americans or Southeast Asians.
+Extracted spelling variant:Indian
+1676506 ('ndn', 'Indian')
+Gibbies are like hypies. You know.. when you are really, really hyper or excited? I guess the single form of "gibbies" is "gibby." If you got a high score on a video game or something.. and you were kind of expecting it, and you - with out emotion - are like, "YES." ....thats a gibby. But if you HAVE the gibbies usually you have more than one. :) I'VE GOT THE GIBBIES RIGHT NOW!
+Extracted spelling variant:gibbies
+1681886 ('gibbies', 'gibbies')
+Bisexual. F8 being the shortened form of "faight", which combines the two words "straight" and "fag".
+Extracted spelling variant:faight
+1703350 ('f8', 'faight')
+A form of "music" which grew up in the black slave population in america as rythm and blues, going by this definition you would immediately think of artists such as ella fitzgerald and louis armstrong, however this is no longer the case, R'n'B has now been taken over by young rap artists who have adopted it as a trademark for their own music which nearly always dipicts women as sex objects, or is about the act of sex itself and is generally just any black music nowadays whether it has any rhythm and blues or not. Often listened to "wide-boys" and "chav's"
+Extracted spelling variant:music
+1709919 ("R'n'B", 'music')
+v. To ejaculate. The word, a prime example of African-American barbarism, is primarily found in the primitive tribal chantings of rap/hip-hop "musicians" where, along with the majority of the rest of any given song's lyrics, it is repeated at high speed for several minutes at a time; also, as with other rap/hip-hop lyrics, its usage is spread by rampant and shameless plagiarism, which will maintain its usage in this rudimentary form of "music" for the next 20 to 30 years, or until rap/hip-hop "musicians" are rounded up in pens and slaughtered to be processed into food and clothing products.
+Extracted spelling variant:music
+1710861 ('skeet', 'music')
+a short, extra dismissive form of "whatever". Derived from the middle part of the word (i.e. whaTEVever).
+Extracted spelling variant:whatever
+1721248 ('tevs', 'whatever')
+Another form of "bitch", "biotch", or "biznotch". I thought it up when me & my friend Megan were on my computer & I just kept saying different variations of different cuss words..this is 1 of them-for bitch..OBVIOUSLY!
+Extracted spelling variant:bitch
+1728868 ('biznocker', 'bitch')
+"tarp" is the short form of "tarpaulin", which is a waterproofed canvas
+Extracted spelling variant:tarpaulin
+1728976 ('tarp', 'tarpaulin')
+a shortened form of "ask"
+Extracted spelling variant:ask
+1738266 ('ak', 'ask')
+An alternate, fancier, more elite form of "kitty".
+Extracted spelling variant:kitty
+1745934 ('kitseh', 'kitty')
+There's also another form of "pierdolic": opierdalac sie - to waste time doing nothing
+Extracted spelling variant:pierdolic
+1751004 ('pierdolic', 'pierdolic')
+The shorter form of "something"
+Extracted spelling variant:something
+1799800 ('smth', 'something')
+The shorther form of "somebody"
+Extracted spelling variant:somebody
+1799807 ('smb', 'somebody')
+the act or plural form of "riff".
+Extracted spelling variant:riff
+1801533 ('riffage', 'riff')
+Fumbled form of "bastards" first used in the 1984 film "Johnny Dangerously" by the character Roman Moroni, who had a mishandle of English obscenities.
+Extracted spelling variant:bastards
+1819542 ('bastages', 'bastards')
+an abbreviated form of "usual" aka "the usj"
+Extracted spelling variant:usual
+1839836 ('usj', 'usual')
+A country located above England, only on at atlas though. Rains more than England, is colder than England which is saying something. The people are a bunch of overpatriotic cunts. Scotland isnt better at anything. England is better at sports, 2006.. A certain team didn't even qualify, rugby world cup. Food - wise England is better, once again, pretty pathetic. Haggis, and other such things. No thanks. And then there's the whole thing of trying to pass off skirts are "kilts". Pfft..Oh and then theres the mangled, twisted form of "English" that you try and speak. It's not an accent, it's called not being able to speak properly.
+Extracted spelling variant:English
+1857217 ('scotland', 'English')
+A mistyped form of "thanks" originating on the World of Warcraft Cenarius server. Similar to how own became pwn. Also used as a nonsensical reply in chat channels.
+Extracted spelling variant:thanks
+1860688 ('tjamls', 'thanks')
+Plural form of "Elvis"
+Extracted spelling variant:Elvis
+1864271 ('Elvi', 'Elvis')
+The noun form of "disturbing". Another synonmym for sturb is "disturb".
+Extracted spelling variant:disturbing
+1865457 ('Sturb', 'disturbing')
+A simplistic form of "music", involving the extremely basic drum beats (which are sampled, so really all you do is press a button). Features pathetic basslines and sampled keyboard pieces, with the occasional scratching disc. The focus of this style of "music" is actually the lyrics, apparently, because there is no actual talent involved in the rythmn section. The "music" sets out to make the "rapper" rap his words fast, which makes the words indistinguishable and they lose all meaning, most people have to actually read the lyrics to even grasp the meaning of the song at all.
+Extracted spelling variant:music
+1883979 ('rap', 'music')
+shortened form of "vagina", similar to D ("dick")
+Extracted spelling variant:vagina
+1905082 ('v', 'vagina')
+(n.) shortened form of "elaborate", meaning to explain in a greater amount of detail.
+Extracted spelling variant:elaborate
+1913673 ('elab', 'elaborate')
+Hammarby IF is a Swedish football("soccer" for americans) club located in Stockholm. The club is often referred to as the less formal name Bajen (a short form of "Hammarby" pronounced in English). The club was formed in 1889 under the name of Hammarby Roddförening (eng: Hammarby Rowingassociation). In 1897 the name was changed to Hammarby Idrottsförening (Hammarby IF) as a result of the fact that the club's athlethes were now engaging in more sports than just rowing. Hammarby Football has won 1 national championship title, and was up until that first title, in 2001, considered as a yo yo club, going up and down in the league system. The club has now been playing in the highest Swedish league, Allsvenskan, since 1998. Hammarby is often regarded as, in a historical sense, being the 'team of the workers' of the poorer southern parts of early 20th century Stockholm. The club is owned to 49% by the Anschutz Entertainment Group.
+Extracted spelling variant:Hammarby
+1925217 ('hammarby', 'Hammarby')
+??? alright you people, is this where you go and talk shit about reggaeton??? you fuckers make me sick, you ignorant fucks..."reggaeton has the same beat...blah, blah blah...its too sexual...blah, blah blah...shut the fuck up!!! you just dont fuckin know anything. those that are typing shit about reggaeton just need to stop SHUT THE FUCK UP AND READ ok. ... im getting tired of it, seriously. so lets get this straight.... Reggaeton (also spelled with the Spanish accent as Reggaetón, and sometimes as Reguetón in Spanish) is a form of dance music which became popular with Latin American (Latino) youth during the early 1990s and spread to North American, European, Asian, and Australian audiences during the first few years of the 21st century. Reggaeton blends Jamaican music influences of reggae and dancehall with those of Latin America, such as bomba and plena, as well as that of hip hop. The music is also combined with rapping (generally) in Spanish. Reggaeton has given the Hispanic youth, starting with those of Puerto Rico and Panama, a musical genre that they can consider their own. The influence of this genre has spread to the wider Latino communities in the United States, as well as the Latin American and Central American audience. While not as influential, reggaeton as a genre has also spread worldwide to places such as Europe, Asia, and Australia. While it takes influences from hip hop and Jamaican dancehall, it would be wrong to define reggaeton as the 'Hispanic'- or 'Latino'- version of either of these genres; reggaeton has its own specific beat and rhythm, whereas Latino hip hop is simply hip hop recorded by artists of Latino descent. The specific rhythm that characterizes Reggaeton is referred to as "Dem Bow". The name is a reference to the title of the Jamaican dancehall song that first popularized the beat in the early 1990's. Reggaeton's origins represents a hybrid of many different musical genres and influences from various countries in the Caribbean, Latin America and the United States. The genre of Reggaeton however is most closely associated with Puerto Rico, as this is where the musical style later popularized and became most famous, and where the vast majority of its stars originate from. Reggaeton lyrics tend to be more derived from hip hop than dancehall. Like hip hop, reggaeton has caused some controversy, albeit much less, due to a few of the songs' explicit lyrics and alleged exploitation of women; supporters claim this criticism is misplaced due to most reggaeton songs having completely clean lyrics, and having less of a focus on violent lyrics unlike hip-hop . Further controversy surrounds perreo, a dance with explicit sexual overtones which is associated reggaeton music. Early history and Origins Reggaeton's roots are from Panama with the music evolving and coming to prominence in Puerto Rico. Reggaeton starts as an adaptation of Jamaican reggae (and later Jamaican dancehall) to the Spanish-language culture in Panama. The origins of reggaeton begin with the first Latin-American reggae recordings being made in Panama during the 1970s. Reportedly, the Jamaican reggae influence on Panamanian music has been strong since the early 20th century, when Jamaican laborers were used to help build the Panama Canal. Artists such as El General, Chicho Man, Nando Boom, Renato, Black Apache are considered the first raggamuffin DJs from Panama. El General has been identified as one of the fathers of reggaeton, blending Jamaican reggae into a Latin-ised version. It was common practice to translate the lyrics of Jamaican reggae song into Spanish and sing them over the original melodies, a form termed Spanish reggae or Reggae en Español. Meanwhile, during the 1980s the Puerto Rican rapper Vico C released Spanish-language hip hop records in his native island. His production of cassettes throughout the 1980s, mixing reggae and hip hop, also helped spread the early reggae sound, and he is widely credited with this achievement. The widespread movement of Spanish reggae in the Latin-American communities of the Caribbean and the urban centres of the United States help increase its popularity. During the 1990s reggae production took off seriously in Panama; this also occurred separately in Puerto Rico due to the increased popularity of Jamaican ragga imports. Towards the middle of the decade, Puerto Ricans were producing their own "riddims" with clear influences from hip hop and other styles. These are considered the first proper reggaeton tracks, initially called "under", a short form of "Underground". DJ Playero was one of the most famous producers at the time, releasing several "underground" cassettes that featured early performances of some soon-to-be-famous artists like Daddy Yankee. The basis for reggaeton was laid in Puerto Rico at this time, with the melding of Panamanian Spanish reggae, with influences from dancehall, hip-hop and various other Latin American musical genres. The genre morphed through the years, at various points being termed Melaza, musica underground, reggae de Puerto Rico, and Dem Bow. This last name originated from reggaeton's distinguishing rhythmic feature: the Dem Bow (alternately spelled Dembow) beat. This beat was constructed by Jamaican record producer Bobby "Digital" Dixon, and first became popular in the song "Dem Bow" (They Bow) performed by Jamaican dancehall artist Shabba Ranks in 1991. The song and beat achieved greater popularity among Spanish-speaking Latin Americans when Panamanian artist El General released the song "Son Bow" in 1991, a Spanish language cover of "Dem Bow" using the same musical track. It should be pointed out that neither Shabba or El General sang "Reggaeton" as neither the genre nor its title were as yet formed. Additionally "Dem Bow" was just a single song in Shabba's catalog, with Ranks not singing another significant song using the "Dem Bow" beat. However the influence of the original Bobby Digital beat is undeniable, and modern Reggaeton often still reflects the original instrumentation, as well as the original rhythmic structure. Rise to popularity The name reggaeton only gained prominence in the mid-1990s (from the 1994 to 1995 period), with the Dem Bow beat characterizing the genre; this is in contrast to the more reggae, dancehall and hip hop-derived tracks previously created. The name was created in Puerto Rico to signify the hybrid sound, and distinguish it from the previous Spanish reggae, created from the years of mixing the different genres. Today, the music flourishes throughout Latin America. Reggaeton soon increased in popularity with Latino youth in the United States when DJ Blass worked with artists such as Plan B and Speedy in albums such as Reggaeton Sex. The first song which introduced Reggaeton to a big amount of fans is the song "Tra Tra" by Don Chezina. From there on reggaeton gained fans with songs such as "Amor Con La Ropa" by Speedy, "No Puedo Estar Sin Sexo" by Plan B, and "Dembow" by Wisin and Yandel. Reggaeton expanded and became known when other producers followed the steps of DJ Playero, like DJ Nelson and DJ Eric. In the mid 90s albums like Playero 37 (In which Daddy Yankee became known) and The Noise 5 and The Noise 6 were very popular in Puerto Rico and the Dominican Republic. Singers like Don Chezina, O.G. Black & Master Joe, Baby Rasta & Gringo, Lito & Polaco among others were very popular. Many now popular producers, such as the Dominicans Luny Tunes, Noriega and Eliel, first appeared in the reggaeton scene in 2003. Albums such as Mas Flow, The Last Don, and Las Gargolas 4 expanded reggaeton's popularity among Latinos in the United States. 2004 was the year that reggaeton gained widespread popularity in the United States, eventually gaining attention in many "Western" countries. This was due to N.O.R.E. introducing the genre to mainstream America with the song "Oye Mi Canto", followed by Daddy Yankee who came out with his album Barrio Fino and his mega hit single "Gasolina". Another important artist that contribuited to gain popularity to reggaeton, especially in Europe, is Don Omar, with singles like "Pobre Diabla" and "Dale Don Dale". Other very popular Reggaeton groups include Zion & Lennox and Wisin & Yandel. Don Omar's May 2006 album, King of Kings, became history's highest ranking reggaeton LP in the top 10 US charts, with its debut at #1 on the Latin sales charts and the #1 spot on the Billboard Latin Rhythm Radio Chart with the single "Angelito". Don Omar was also able to beat the in-store appearance sales record at Downtown Disney's Virgin music store previously set by pop star Britney Spears, further demonstrating Reggaeton's massive rise to popularity in the United States. Features of reggaeton Reggaeton beats Reggaeton's most notably unique feature is a driving drum-machine track, which sounds almost identical in virtually all reggaeton songs, and was derived from a popular Jamaican dancehall rhythm. As stated previously this beat is called "Dem Bow", from the Bobby Dixon-produced Shabba Ranks song of the same title. Many of the sounds found in a typical reggaeton beat are electronically synthesized. Simple melodies may be produced with keyboards, electric guitars, and other electronic instruments. Other forms of electronic dance music have significantly influenced reggaeton beats, such as techno, house, and genres such as the merengue hip hop (also called merenhouse) of groups such as Proyecto Uno and Zona 7. Reggaeton beats are highly versatile. The great variety and flexibility of reggaeton beats can be illustrated by Luny Tunes' CD The Kings of the Beats, which is a collection of purely instrumental beats. Reggaeton beats can be based on merengue, bachata, bolero, and especially hip-hop beats. The introduction of bachata into reggaetón beats in particular has been credited as a development that has expanded the genre's musical vocabulary beyond its original two- or three-chord song structure. Reggaeton and hip-hop Reggaeton bears many resemblances to hip-hop. The most notable resemblance to hip-hop is that reggaeton, in most cases, is recited instead of being sung. Another feature is that reggaeton CD's are laid out like hip-hop CD's, including intro's, occasional interludes, and hidden bonus tracks. Reggaeton also has hooks throughout a song that may include a chorus of singers. Reggaeton artists also adopt pseudonyms comparable to those of hip-hop artists. Overall, reggaeton and hip-hop are both thought of as street-styled music popular among urban youths. Despite the similarities, reggaeton only roughly fits into the Latin hip-hop category but is not synonymous with hip-hop. True Latin hip-hop has beats that almost exactly resemble mainstream hip-hop beats. These "hardcore" Latin hip-hop artists include Big Pun, Fat Joe, Akwid, and Jae-P. Reggaeton, though, has rap-styled lyrics but has a very different beat that is influenced not by hip-hop, but by reggae, dancehall, merengue, and techno. Although reggaeton has been highly influenced by American hip-hop, it has also borrowed features from many other genres as well and is not strictly considered to be Latin hip-hop. Reggaeton and hip-hop are often remixed together, and reggaeton songs and live concerts may feature hip-hop artists such as Lil Jon, 50 Cent, and Eminem. Hip-hop songs such as Usher's Yeah and Snoop Dogg's Drop It Like It's Hot have been remixed by replacing the original beat with a reggaeton beat. In other remixes, reggaeton DJ's may rap out an English song in Spanish. Reggaeton and hip-hop are accepting influences from each other today, and these musical blends also signify a cultural melting pot in today's urban scene. Lyrics and themes Reggaeton lyrical structure highly resembles hip-hop lyrics. Like hip-hop, reggaeton artists recite their lyrics rap-fashion rather than sing it melodically. Like hip-hop music, reggaeton songs have hooks that are repeated throughout the song. Unlike hip-hop, many reggaeton songs are not completely dominated by male rappers and also have choruses of female dancers who repeat small portions of the song; for example, the girls say "dame más gasolina" in Daddy Yankee's song Gasolina. Female dancers most commonly say their parts during the hooks, but often also in the lyrics. Reggaeton also started as a genre composed of only male artists, with a slowly increasing number of female artists debuting over the years. Notable female reggaeton artists include Ivy Queen and Glory. Reggaeton lyrical themes are versatile. Typical themes may include dancing, love stories, partying, short anecdotes of the rapper's life, and problems in life. Popular reggaeton songs are mainly intended to be danceable, rhythmic, party-like songs for young people. Reggaeton may or may not be objectionable depending on the artists, song, and the listener's interpretation, as one reggaeton song may have many interpretations because a song's meaning may not be very clear and direct. For example, the song Gasolina is often considered appropriate for children and has made it into the Reggaeton Niños series. However, because of the various possible connotations and literal interpretations of the song, some people criticize Gasolina as having possibly inappropriate sexual content. Usually, reggaeton CD's are not labeled "explicit" like many hip-hop CD's are. One exception is that Daddy Yankee's Barrio Fino en Directo (Barrio Fino Live) was labeled explicit for objectionable content in the live concerts (and for explicit language by Snoop Dogg in Gangsta Zone), even though the regular studio version of Barrio Fino was not labeled explicit. Most reggaeton songs have completely clean lyrics (as in no profanity); very few songs have cursing/swearing in the lyrics. Reggaeton across the world Puerto Rico Reggaeton is most commonly thought of as originating from Puerto Rico, where it has flourished and spread across Latin America and the international stage. The Puerto Rican influence in reggaeton has involved the addition of hip-hop to the Panamanian reggae style. Puerto Ricans have claimed reggaeton as their own partly due to the fact that the movement was originally anti-establishment, with the government attempting to ban the perreo ("doggystyle") dance. Reggaeton is now more accepted within the country. Reggaeton derives from the post-Salsa music youth generation of the 80s and early 90s in Puerto Rico. Before reggaeton exploded in the mid-nineties, young street artists, heavyly influenced by East Coast hip hop and turntablism, rapped over cassette tracks easily acquired within their Commonwealth (United States insular area) status. This new genre was simply called "underground". It contained very explicit lyrics about drugs, violence, poverty, homophobia, friendship, love, and sex. These common themes still predominate today in reggaeton music. "Underground" music was recorded in "marquesinas" (or Puerto Rican porches) and distributed in the streets via cassettes. By the early 90s "underground" cassettes were being sold in commercial music stores. The genre caught up with the middle class youth and inevitably found its way to the media. By this time Puerto Rico had a few clubs dedicated to the "underground" scene. Club Rappers in Carolina, and club PlayMakers in Puerto Nuevo were the most notable. Bobby "Digital" Dixon's dembow track was exploited in order to appeal in the context of the club. "Underground" music wasn't intended originally to be club music. A Puerto Rican government agency called Morality in Media intervened and banned selling "underground" music and required that all local productions being sold displayed a Parental Advisory label. By 1993 Dj Negro released The Noise 3 with a mock up label that read Non-Explicit Lyrics. The album contained no cursing until the last song. The album was a hit and "underground" music further crept into the mainstream. Senator Velda González of the Popular Democratic Party and the media continued to view the movement as a social nuisance. Latin America Reggaeton has been a huge hit all across the globe, especially in Latin American countries, like most parts of the Carribean, Colombia, Central America including Mexico where it has become staple music in most parties and events, complementing the common mix of merengue, salsa and electronic music and has paved a huge fan base. In some countries (such as Venezuela, with Calle Ciega, Doble Impakto and Mr. Brian and Pescozada and Heavy Clan from El Salvador), domestic "reggaetoneros" have arisen, expanding the Pan-Latin feel of the genre. United States In the United States, reggaeton is highly popular among Hispanic youth. Reggaeton is now popular in cities all over the United States, including Los Angeles, Washington D.C., Chicago, New York City, Boston, Houston, Miami, Phoenix and almost every city with a significant Hispanic American population. Many popular Latino rappers and singers have also collaborated with reggaeton artists. Europe Reggaetón has become popular in Spain, particularly because of its appeal to Latin American immigrants, particularly those from Ecuador. A Spanish concept called "La Canción del Verano" (The Summer Song), under which a particular song or two define the mood for the season and are regarded unofficially as such by Spanish media, served as the basis for the extreme popularity of reggaetón songs such as the late Panamanian rapper Lorna's "Papi Chulo (Te traigo el Mmm)" in 2003, and Daddy Yankee's Gasolina in 2005. Puerto Rican and Panamanian reggaetón artists have toured the country, and Spain is developing a cadre of local reggaetón artists of its own. Reggaetón is also experiencing a boom in Italy, thanks to artists like Don Omar (who filmed the video for his song Angelito in Rome, featuring many of the city's historic landmarks). Italian and Latin American music and culture often tend to intertwine with each other. Many popular Italian artists record in Spanish as well as Italian and vice versa, such as Laura Pausini and Tiziano Ferro. Italy's latin roots and similar culture regardless of language barriers can help explain an increase in the popularity of Reggaetón in Italy. And as time passes it is most likely that Italian artists will begin dabbling in the music genre themselves.
+Extracted spelling variant:Underground
+1938586 ('Reggaeton', 'Underground')
+Shortened form of "necessary".
+Extracted spelling variant:necessary
+1966297 ('nessa', 'necessary')
+Shortened form of "great", but adjusted for inflation; it should be used when gr8 just won't suffice due to the current economic conditions. See also gr8
+Extracted spelling variant:great
+1972599 ('Gr9', 'great')
+The act of flirting with a girl of South Asian origin (India and surrounding countries). The feminine form of "macarona".
+Extracted spelling variant:macarona
+1982465 ('macaroni', 'macarona')
+Güerito and güerita are the diminutive form of "güero" and "güera," which refer to light skinned, usually blonde people (but not always blonde). In many cases they also have blue, green, etc. colored eyes. By using "ito" the user shows some type of affection. Güero and güera also tend to be used as nicknames. In other cases the terms may refer specifically to anglos/gringos/as and/or gabachos/as.
+Extracted spelling variant:güero
+1989701 ('güerito', 'güero')
+a slang Tagalog word, shortened form of "ulol", which is a swear word.
+Extracted spelling variant:ulol
+2034207 ('lolz', 'ulol')
+Referenced by many rap artists in the 80s-90s, it is the abbreviated form of "Compton". See also: L.B.C.
+Extracted spelling variant:Compton
+2059371 ('C.P.T.', 'Compton')
+short form of "hurensohn" which means "son of a bitch" in german.
+Extracted spelling variant:hurensohn
+2069037 ('huso', 'hurensohn')
+A varied form of "Chilling" and "Relaxing", often used in a laid-back manner:
+Extracted spelling variant:Chilling
+2080982 ('chillaxin', 'Chilling')
+Sorry Uberman-you are mistaken. Capitalism is not based on greed, but rather based on the idea that the fruit of a man's labor belong to that man to decide how to use. It simplifies the barter system, by standardizing the trade mechanism into a form of "capital" (hence the term). With capitalism, if I grow a better crop, I get to keep that crop and trade it for capital, which I can then use to purchase things I need. Rather than have to trade my wheat for chickens I don't need, to trade those for the iron I do need. Under socialism or communism, individuals do not own/control the fruit of their labor, but rather the community or the Government does. Not a very good thing. Perversion of anything is bad...but don't blame the mechanism for the faults of humans.
+Extracted spelling variant:capital
+2093828 ('capitalism', 'capital')
+short form of "rethuglican"
+Extracted spelling variant:rethuglican
+2106773 ('rethug', 'rethuglican')
+Yeah, It's the German word for "Fuck". But Germans don't use it like people from USA, usually just when it's about making sex (example 1). It can also be a curse but not as used by Americans, maybe in the form of "verfickt" or "verfickte" which is an adjective to "ficken" (seen in example 2). In German dictionaries you can also find different meanings, e.g. the card game "Ficken" and there are people who have this name, e.g. "Peter Ficken". I am from Germany and found this website, I dunno how good my English is, but I guess this is possible to understand^^
+Extracted spelling variant:verfickt
+2133813 ('ficken', 'verfickt')
+The dyslexic form of "Handicapped"
+Extracted spelling variant:Handicapped
+2137105 ('candihapped', 'Handicapped')
+1. An alternate form of "Phat", meaning cool beyong the word "cool" 2. An amazing band.
+Extracted spelling variant:Phat
+2156853 ('phish', 'Phat')
+Climbing is a sport that can be done to varying degrees of extremeness. Bouldering, which is short un-roped climbs done over crashpads with spotters ready to protect a fall, is the simplest and least gear intensive form of climbing. While bouldering can require extreme amounts of strength and control, it is relatively safe, because the only danger comes from landing incorrectly Top-roping is the form of climbing most commonly thought about when someone hears the word "rock climbing" it involves the rope going up from the climber, through an anchor setup at the top of the climb, and back down to the belayer. it is the safest, and best kind of climbing for beginners, because the potential for long falls is almost completely eliminated. Sport climbing is done by climbers who "lead" up rocks that are pre-drilled with bolts. Climbers clip "draws" into the bolts then clip the rope through the draw. More dangerous than toproping because when you fall, you fall twice the distance between you and the last bolt. Lead climbing is the only recognized form of "true" ascents. Trad climbing, or "traditional" climbing is the origional kind of climbing. It starts with the climbers and their gear that the bottom of a cliff, and then they go up, the leader fixes placements, then the second follows and "cleans" the gear, or removes it from the rock. Very difficult climbing due to the fact that one has to place gear with one hand while hanging on to the rock with the other. Requires large amounts of gear and a lot of technical knowledge. Unfortunately there are many wanna be climbers out there who talk like they are hardcore people but they wouldn't know an ATC from a Reverso, or Petzl from Black Diamond. Real climbers climb because they love the rock, not for chicks or props or crap like that.
+Extracted spelling variant:true
+2157215 ('climbing', 'true')
+form of "heffa" with a little "ho" to it. a fatty and a slut. not deragatory in all cases.
+Extracted spelling variant:heffa
+2159873 ('hoheefa', 'heffa')
+Lying On Bed Watching Simpsons. A more descriptive form of "AFK" used in one particular situation.
+Extracted spelling variant:AFK
+2166289 ('LOBWS', 'AFK')
+The noun form of "bukake", the recipient of an ejaculation by a male into the face of another individual. This term is used to show contempt for another individual (shown by the placement of themselves is such a situation as to have cum in their face)
+Extracted spelling variant:bukake
+2188312 ('bookiak', 'bukake')
+Bush Administration propaganda masquerading as "news," which can appear on Fox News or any other corporate media, along with so-called public channels like NPR and PBS. Combined form of "Fox" from Fox News Channel, the cable propaganda network owned by Rupert Murdoch and run by (former?) Republican Party operative Roger Ailes, and "propaganda."
+Extracted spelling variant:Fox
+2212709 ('Foxaganda', 'Fox')
+1. another form of "Chomped" 2. to get embarrassed publicly
+Extracted spelling variant:Chomped
+2224179 ('Gooped', 'Chomped')
+When someone questionably borrows something with questionable intent. Might have originated from an abbreviated form of "borrowed" but that's questionable.
+Extracted spelling variant:borrowed
+2236275 ("behar'd", 'borrowed')
+a word that is used in north london as a random word in a conversation, also can be used as anoter form of "no", or "i dont care/i dont mind"
+Extracted spelling variant:no
+2279928 ('sausage', 'no')
+adj., noun. shortened form of "skeptical" and/or "skeptic."
+Extracted spelling variant:skeptical
+2280024 ('skepto', 'skeptical')
+A shortened form of "whatever", usually expressing disinterest or mild defensive derision. Origin unknown, but likely formed simultaneously in numerous locales Related to TEEV Another way of saying "Lame"
+Extracted spelling variant:whatever
+2289432 ('tev', 'whatever')
+Advanced form of "Tev", which is a shortened form of "whatever", usually expressing disinterest or mild defensive derision. TEEV is usually spelled all-caps, and is usually spoken in an exaggerated or raised-voice to express consternation with another person. While TEEV is usually used defensively in response to some real or imagined attack, it's use is still playful, as amongst friends. Definitive origin unknown, but suspected to have been first coined by Jeff Lorien after a Page/Plant concert in the '90s Related to Tev
+Extracted spelling variant:Tev
+2289454 ('teev', 'Tev')
+short form of "figures" a single word expression meant for commenting on a regular occurance, or behavior that is so predictable it's getting funny and/or exasperating.
+Extracted spelling variant:figures
+2290009 ('figs', 'figures')
+another form of "fucking" used in the taco bell drive threw while ordering/waiting for food
+Extracted spelling variant:fucking
+2301084 ('fooking', 'fucking')
+The verb form of "Teleporn", which is defined as "the state of being gangster". Telepornation is done by few, only those who are deemed worthy of it's grace. It's direct translation from latin roots means "the color green", although some experts think it's actually "The color green is cool."
+Extracted spelling variant:Teleporn
+2318487 ('Telepornation', 'Teleporn')
+An extreme form of "pwning". Used when an opponent is completly and utterly destroyed.
+Extracted spelling variant:pwning
+2332280 ('pjoon', 'pwning')
+Another form of "heck". Instead Of saying "What the heck?" Just simply say "Hayck". Pronounciation: "HAYK", but simply spelled "Hayck" Originating in 2006 at Midway Schools in Clay County, Texas From Word masters Johnny B. and Andre G. Can also be spelled as "hake", but most commonly used as "Hayck".
+Extracted spelling variant:heck
+2332807 ('Hayck', 'heck')
+A form of "crack" cocaine that is of an exceptionally higher potency than normal "crack." Being as such, it is also unusually hard, having a concrete-like texture and strength.
+Extracted spelling variant:crack
+2359028 ('drop', 'crack')
+Used by people in Hawaii. It is the shortened form of "braddah" which is the local slang for brother/bro. Used to address a male, like how some people use "Dude." The plural of "Brah" is "Braddahs," NOT "Brahs," because that's the thing wahines wear.
+Extracted spelling variant:braddah
+2367428 ('brah', 'braddah')
+Whilst is the alternate form of "while" that can only be used mid-clause.
+Extracted spelling variant:while
+2369841 ('whilst', 'while')
+Slang word for cocaine, shortend form of "yeyo".
+Extracted spelling variant:yeyo
+2372586 ('yaz', 'yeyo')
+An extreme form of "pwning". Generally used when an oppnent (usually a noob) is completly and utterly destroyed. Never appropriate to say once a veteran is beaten in a game. Term only used against noobs.
+Extracted spelling variant:pwning
+2382687 ('Pjoon', 'pwning')
+a word used to mimick the sound of a record scratching, commonly used in several Hip Hop Hippo rap songs. A word used to replace some form of "innapropriate" word.
+Extracted spelling variant:innapropriate
+2389401 ('REE-O-REET', 'innapropriate')
+the plural form of "walrus"
+Extracted spelling variant:walrus
+2391287 ('walri', 'walrus')
+noun(slang). The more exuberant form of "bitch", used to give it extra emphasis.
+Extracted spelling variant:bitch
+2399693 ('bittyotch', 'bitch')
+A common user of Coricidin HBP. (aka. Triple C's, skittles) It usually takes several uses of Coricidin on high doses (ranging from 8 - 56 is the most i've seen taken at once, 56 was by myself and yes, I did OD.) Coriheads usually believe that Coricidin provides a form of "enlightenment" or "a religious experiance." Coriheads often try to act very literal, which can make them come off as a creep or not understandable. Coriheads are advised to quit use of the drug compleatly.
+Extracted spelling variant:enlightenment
+2411414 ('corihead', 'enlightenment')
+Shortened form of "wetback", an appropriate name for many of the illegal invaders who wade through the Rio Grande into the United States.
+Extracted spelling variant:wetback
+2425272 ('wetty', 'wetback')
+to sit in the FRONT passenger seat of a car, and not be the driver. you watch for the cops so the driver can speed. it is the new form of "shotgun"
+Extracted spelling variant:shotgun
+2437773 ('copwatch', 'shotgun')
+A form of "graduation" that low academic quality students attend after repeating their senior year numerous times, often at the lack of drive to learn the language of the land. Often held during the summer months of June & July where a school representative finally gives them a paper telling them they can in fact leave the school but would have a difficult time gaining acceptance into a college. *see "community college"
+Extracted spelling variant:graduation
+2449564 ('guadican', 'graduation')
+Orgin: Originally pulled from a Sprite commercial in which the actor stated holding up a cheap imitation soda "It's Jukie!" Also the nickmname of a famous football star Running Back, Julius "Jukie" Jones. Who was known for "juking" his opponents making them miss tackles. The word is now used as both an adjective and a noun. As an adjective it refers to anything not of the norm, lame, of bad quality, or cheap. It can be used in place of or combined with any cuss word with good results as well. As a noun it takes on the form of "Juke" which relates to any person possessing the qualities that imbue the adjective.
+Extracted spelling variant:Juke
+2449980 ('jukie', 'Juke')
+1. noun - a small, fierce creature that embodies either distemperment, anger, rage, jealousy, or annoyance. It can only be found in IRC chatrooms. Is strongly lured by the scent of fresh stupidity; enjoys gnawing on ankles and eating behbies. Alternate form of a "wain". 2. object pronoun- such as "going wainacabra" - to take on the form of a wainacabra.
+Extracted spelling variant:wain
+2455637 ('wainacabra', 'wain')
+Another form of "rawr" it just sounds cooler
+Extracted spelling variant:rawr
+2549095 ('rawrg', 'rawr')
+A shortened form of "bathroom" that is usually used when instant messaging.
+Extracted spelling variant:bathroom
+2549863 ('broom', 'bathroom')
+Shit, stuff. The remixed form of "ish"
+Extracted spelling variant:ish
+2569176 ('iddish', 'ish')
+Noun. Origin: the male form of a "cougar", man + panther= manther. An older man who frequents bars, lounges and clubs, never a genuine gentleman, ranging from ten to fifty years older than his victim. Usually carries an unusually fat wallet, wears too much cologne, and dresses younger than his age. May over-frequent the tanning beds and gym, have trendy/dyed facial hair such as a soul patch or goatee, may use the terms "baby", "sugar tits", or other female defamation when trying to pursue his prey. If balding, may never take off his ball cap in order to hide his aging hairline. Manthers always seem to evade the question of their age, previous or current marriages, children, and most things regarding their past (unless it has to do with thier old frat/college football days). Manthers prey on their younger victims in order to gain popularity amongst their fellow mathers, as well as for a sexual high. Some manthers are extremely good looking, stylish and somewhat gentlemanly. Others are old, drunk dirt balls with a lot of money and a feeling of self-entitlement.
+Extracted spelling variant:cougar
+2575288 ('manther', 'cougar')
+an alternative and polite form of "bollocks" or bollox.
+Extracted spelling variant:bollocks
+2576030 ('oblox', 'bollocks')
+1. short for "oi oi, you." the pluralized form of "oi" shortens into "ois", which is further changed to "oiz" for easy pronunciation when the u is attached. a commonly used greeting by farmErs 2. term associated with pimpin rides, namely blue 240sx's
+Extracted spelling variant:oi
+2592399 ('oizu', 'oi')
+Commonly used in Ottawa, Ontario. Sometimes used in it's short form of "botch" Botchry is another word for bitch or slut. Almost always used as an insult, and sometimes while "chirping" someone. Origins are said to come from either Woodroffe or Nepean High School. Sometimes used as batree (incorrect).
+Extracted spelling variant:botch
+2611081 ('botchry', 'botch')
+A humorous form of "fuck" used in describing one's own sexual exploits and achievments.
+Extracted spelling variant:fuck
+2658019 ('Shnoff', 'fuck')
+Another form of "Hello" but WAY COOLER (:
+Extracted spelling variant:Hello
+2659250 ('heyloo', 'Hello')
+A derogatory term for a close friend, pal, or acquaintance. Often used when bro or cuntass have already been said, the speaker may use 'cuntshitterous' to outdo a friend who has already used a form of "cunt" in his or her greeting. Despite a derogatory nature, 'cuntshitterous' is even considered a term of endearment amongst fellow bros.
+Extracted spelling variant:cunt
+2659776 ('cuntshitterous', 'cunt')
+1. (verb) To speak or say aloud. 2. (adjective) Pure, absolute, unadulterated; primarily used in describing abstract concepts or feelings, rather than material objects. Contrary to what some may believe, "utter" is NEVER a noun. Cows do not have "utters;" those would be udders. No person or thing can have or act on an "utter," as there is no such thing as an "utter." The only acceptable noun form of "utter" is utterance.
+Extracted spelling variant:utter
+2689116 ('Utter', 'utter')
+the shortest vocally possible form of "whatever". a shortening of "whatevs". often spelled "w'evs". retarded younger brother of "w'ever"
+Extracted spelling variant:whatever
+2693882 ('wevs', 'whatever')
+the adjective form of "shping" (happiness in confusion) in general shpingy is used to describe things in good way, especially when there seems no other way to describe something. It's like...amazing If you need a positively connotated/denotated word to describe something or someone its perfect because its non restricting, it has an elastic meaning. Going back to the "happiness in confusion' definition, its like the way out of being speechless of joy~ For example, say you were having a conversation with someone and you don't know how to tell them how wonderful they are. you could say they're "shpingy" and at least that'll open up into more talking about it, and it leaves in room for being not completely serious about everything (like comic relief from a serious conversation) I think i'd like to go with that break through from being speachess (see second example)
+Extracted spelling variant:shping
+2709275 ('shpingy', 'shping')
+An adverb used to decribe something amazing or incredible. Combined form of "ridiculous" and "dank"
+Extracted spelling variant:ridiculous
+2724878 ('Ridicadank', 'ridiculous')
+the plural form of "pussy" or a very funny word. pronounced POO- S- I
+Extracted spelling variant:pussy
+2728498 ('poosi', 'pussy')
+A form of "Frontin'" meant for usage on the internet, where everything is done in type.
+Extracted spelling variant:Frontin'
+2731956 ('fontin', "Frontin'")
+Obelix says this to Asterix in the book "Asterix and the Laurel Wreath" by René Goscinny (stories) and Albert Uderzo (illustrations). It is a louder and more forceful form of "exactly".
+Extracted spelling variant:exactly
+2735664 ('zigackly', 'exactly')
+Adj. Identical to ridonkulus but with an intensifying prefix "ridica." Expresses the greatest possible silliness. Linguistic physicists have determined that a more intense form of "ridiculous" would topple under its own ridonkuusness and would, therefore, not be possible.
+Extracted spelling variant:ridiculous
+2738719 ('ridicadonkulus', 'ridiculous')
+(adv.) antiquated form of "before" or "sooner than"
+Extracted spelling variant:before
+2749769 ('ere', 'before')
+dont call dont message...a more specific form of "brb"
+Extracted spelling variant:brb
+2805264 ('DCDM', 'brb')
+Patronising establishments beneath your financial & social station, typically when already drunk from having a few at your local or some other more decent place. Usually done in multiple locations in the same night. A form of "slumming" specific to drinking alcohol.
+Extracted spelling variant:slumming
+2808461 ('diving', 'slumming')
+Coolth (Noun): The noun form of "cool"; opposite of warmth. Used to describe either a lack of heat or social popularity. See also: shorth
+Extracted spelling variant:cool
+2830780 ('coolth', 'cool')
+a bear that is lol XD this bear can be a bearby or a big bear also used as another (cuter) form of "lol"
+Extracted spelling variant:lol
+2846357 ('lolbear', 'lol')
+Shortened form of "definitely". Used mainly in informal communication
+Extracted spelling variant:definitely
+2847437 ('deffa', 'definitely')
+Noun: Incorrectly thought by many to be the singular form of "vertices". The correct term is vertex.
+Extracted spelling variant:vertices
+2905461 ('vertice', 'vertices')
+Another form of "Caitlin", "Catelyn", "Catelynn", "Catelynne", "Caitlyn", "Caitlynn", "Caitlyne", "Caitlynne", "Kaitlyn", "Kaitlyn", "Kaitlynn", "Kaitlyne", "Katelyn", Katelynn", "Katelyne", "Katlin", "Katelyn", "Katherine", "Catherine", "Katheleen", "Katrina", "Catheleen", "Catrina", "Katerina", "Caterina", etc. Currently meaning "Pure", originating from "Hecate", the Goddess associated with witchcraft, demons, and the underworld.
+Extracted spelling variant:Caitlin
+2908833 ('Kaitlin', 'Caitlin')
+Alternate form of "Please" is pronounced "Plays"
+Extracted spelling variant:Please
+2909461 ('Plaes', 'Please')
+something done in a very low quality manner. (adverb form of "shit")
+Extracted spelling variant:shit
+2953833 ('shitily', 'shit')
+Contraction for "it is". NOT the possessive form of "it". Like "yours", "hers", etc., the possessive form of "it" is "its", with no apostrophe.
+Extracted spelling variant:it
+2966806 ("it's", 'it')
+this word was obviously a short form of "legitimate" but it no longer holds the same meaning as legitimate, since it has become very popular to use the word legit to mean something "cool", which really has nothing to do with the word legitimate and therefore we should stop saying it.
+Extracted spelling variant:legitimate
+2969172 ('legit', 'legitimate')
+1. the same as "ungorgetable" but with more intence meaning 2. past form of "unforgetable"
+Extracted spelling variant:unforgetable
+2983517 ('unforgotable', 'unforgetable')
+A shortened form of "Germans" that wasn't really any shorter but was a bit easier to say. You can't really say "Gers" so it became "Jerries". Not necessarily a racial slur, but Germans may take offense to this.
+Extracted spelling variant:Germans
+2983785 ('jerries', 'Germans')
+The inconspicuous form of "nuggets", "nug", etc., usually used in groups of people when the subject matter of marijuana is not wanted to be made public. This word also confuses the balls out of people, as it is not even close to "nugget".
+Extracted spelling variant:nuggets
+2999842 ('nogitals', 'nuggets')
+The interchangeable form of "urine". Also used as an adjective and in a negtive sense.
+Extracted spelling variant:urine
+3021562 ('piss', 'urine')
+another form of "sancia" which means "sacred" in latin. the first woman to be named sencia was born in 1988. it is a name only given to the smartest, sensitive and talented women on the planet.
+Extracted spelling variant:sancia
+3036292 ('sencia', 'sancia')
+Mispelled form of "Kso" , Wich means shit.
+Extracted spelling variant:Kso
+3048385 ('Kusoo', 'Kso')
+1. another form of "lover", used because ovals are cooler than circles therefore "ovel" is love mixed up creating "oveler" 2. an inside joke between faron and lindsey 3. a title only deserved by the coolest people in the world.
+Extracted spelling variant:lover
+3053333 ('oveler', 'lover')
+The abbreviated form of "mention". Used in short form for the slack younger culture of the noughties. Used most often in conjunction with other short form words.
+Extracted spelling variant:mention
+3066226 ('mench', 'mention')
+A synonym to the word "fail". Commony used in the context of describing someone's utter failure, and/or inability to recognize the obvious. Also used in the form of "Outspark'd" when a product is delayed or swept under the rug for no apparent reason.
+Extracted spelling variant:Outspark'd
+3074389 ('Outspark', "Outspark'd")
+In mythology, weeds growing in a lake which reach up and drag someone down to their death should they venture too far into the generally eerie looking, dimly lit water. They have a mind of their own and seemingly no not have humans best interests at heart. An extended form of "weed" ie. Cannabis, used only because it has the word "weed" in it, in reality it has nothing to do with smoking grass.
+Extracted spelling variant:weed
+3093696 ('lakesweed', 'weed')
+the plural form of "corky" ie. a family, group, gathering, any collective of slighly retarded people, usually seen around towns and citys holding hands or a long piece of blue rope to keep them all together. can usually be heard mumbling profantities, among other thngs, under their breath. easily confused.
+Extracted spelling variant:corky
+3105140 ('McCorkell', 'corky')
+a drunkenly slurred form of "sample" and "slam" combined originally as in to hook up with/ have sex with someone (to "shlample" someone) but in can replace any verb of your choosing also spelt schlample
+Extracted spelling variant:sample
+3105588 ('shlample', 'sample')
+Slippery, pernicious material frequently found in bathtub and shower areas. Hazardous and unsanitary substance common to the interior of tubs and other bathing facilities. Good housekeeping is the most effective intervention strategy. NOTE: 1) Bathtub accidents are a popular form of "accidental" death in the American cinema. 2) Falls are the 2nd most common cause of accidental death in the US. Critical considerations:* "Accidents in the bathtub and shower area can be defined as a complex, time dependent system of components interacting simultaneously and sequentially to produce injury." "The slipperiness of most bathtub surfaces constitutes the chief hazard... Bathtubs far exceed shower stall in accident potential."(*Findings FROM: "A Systematic Program to Reduce the Incidence and Severity of Bathtub and Shower Area Injuries, FINAL REPORT June 4,1975")
+Extracted spelling variant:accidental
+3141736 ('tubslime', 'accidental')
+means to say a less intense form of "shit"...also a politer way when around adults who may not want u to cuss
+Extracted spelling variant:shit
+3168517 ('shootcakes', 'shit')
+A form of "puppet" used for pup or puppy as in dog.
+Extracted spelling variant:puppet
+3171489 ('pippet', 'puppet')
+Plural form of "loserpants", used to describe two or more people who can be qualified as being a loserpants.
+Extracted spelling variant:loserpants
+3193235 ('loserpantses', 'loserpants')
+The superlative form of "sexy", one of many English adjectives to enter definitively uncorrupted into the common parlance of other Romance languages. E.G. El 'livingroom'. (ES) "OK" (IT & ES) This from www.hola.com/ : "Elizabeth Hurley posa muy 'sexy' para un anuncio que promociona el consumo de leche." Translation/ : "Elizabeth Hurley poses provocatively for an ad that promotes milk." English word for an attractive "Latin." Usually applied to females. "Sexissimo" could be said of a male. Though of American usage here, "sexissima/o" is not unheard of in Italian. An attractive Spanish/Italian speaker who can't deduce the meaning of "sexissimo/a" when you address them as such is an idiot, or doesn't want to talk to you.
+Extracted spelling variant:sexy
+3198861 ('sexissima', 'sexy')
+to talk down to as if one is a dominating woman; the feminine form of "patronize"
+Extracted spelling variant:patronize
+3207194 ('matronize', 'patronize')
+Shortened form of "decent"
+Extracted spelling variant:decent
+3230607 ('Dec', 'decent')
+Short form of "newbie", or somebody who is new to something, and not yet adept.
+Extracted spelling variant:newbie
+3257718 ('noob', 'newbie')
+Word or term used to simply end a pointless, elongated, argumentative, or philosophical debate. Used as a more intelligent, sharp, and harsh form of "STFU"
+Extracted spelling variant:STFU
+3259594 ('Maekradangs', 'STFU')
+a longer form of "dope"
+Extracted spelling variant:dope
+3275754 ('doperelic', 'dope')
+1. (n) A person who will sleep with nearly anyone (sometimes regardless of gender) for financial gain. The adjective form of "Whore" would be "Whore-like" or "Whore-ish", and can be used to describle style of dress or behaviors that would correspond with a whore. "Whore" is most often used when referring to a female who exhibits said characteristics. When in reference to males, the term "Man-Whore" is often used. See also: slut
+Extracted spelling variant:Whore
+3296288 ('Whore', 'Whore')
+Dommied = short form of "Dominated"
+Extracted spelling variant:Dominated
+3303613 ('Dommied', 'Dominated')
+The shortened form of illegitimate. It is the antonym of legit, a slang term that is the shortened form of "legitimate". However, because the word is often replaced for words like cool, awesome, and dope, the sentences it is used in often don't make sense. Therefore, the word legit in some cases may be, in itself, illegit.
+Extracted spelling variant:legitimate
+3320047 ('illegit', 'legitimate')
+To take a screen shot on an iPhone or iPod Touch and post it in the form of a "twitpic" on twitter. Most commonly associated with the "remote" application.
+Extracted spelling variant:twitpic
+3334106 ('ScreenTweet', 'twitpic')
+the adverb form of "kinky"
+Extracted spelling variant:kinky
+3339432 ('kinkily', 'kinky')
+abbreviated form of "doesn't" in a text message or email
+Extracted spelling variant:doesn't
+3352281 ('dusnt', "doesn't")
+The plural form of "couch", which is defined as anything included in the same family of furniture as sofa, loveseat, but excluding chair-and-a-half. This alternative spelling of the plural form is a direct result of the increasing use of the "i" suffix to many words in elite engineering institutes and universities in classes. The more couchi, the better.
+Extracted spelling variant:couch
+3409447 ('couchi', 'couch')
+intensive form of "only". used to indicate that someone or something that is truly the "only", or "only" in a special way.
+Extracted spelling variant:only
+3547090 ('onliest', 'only')
+Meaning quite the opposite of "nasty", which this word is commonly related to, it is an acronym for "nifty as fuck", it began as simply "naf", (i.e. "that burrito was pretty naf, man.") however upon making the word available with more ease, the suffix "-ty" was added on. Thus changing the acronym from "naf" to "nafty", giving it better use as it was intended, as an adjective. This is used to describe something seen as good, or as a more extreme form of "nifty".
+Extracted spelling variant:nifty
+3564955 ('nafty', 'nifty')
+Epicena Vacuus, also known as Paginis, is a very rare disorder that develops in the womb. For unexplained reasons, the sex chromosomes take the form of "Z" resulting in a sexless individual. Those who suffer from Paginis have neither sex organ and develop no distinguishing traits.
+Extracted spelling variant:Z
+3579989 ('Paginis', 'Z')
+A combination of "joto" (a Spanish form of "queer"/"faggot") and "phobe". It's pretty much a Spanglish word for homophobe.
+Extracted spelling variant:queer
+3599516 ('jotophobe', 'queer')
+a superlative form of "epic"--as in, some thing, person, or event exceeds the amount of epic that the term "epic" provides.
+Extracted spelling variant:epic
+3606221 ('oconic', 'epic')
+Inebriaunt Any woman in attendance at a family gathering (ie. a wedding) who drinks to excess. This term is the feminine form of "Druncle".
+Extracted spelling variant:Druncle
+3610211 ('Inebriaunt', 'Druncle')
+Short form of "what". Is usually used by people who's synapses fire at a very slow rate. Can be used by otherwise literate people to convey a state of being utterly flabbergasted.
+Extracted spelling variant:what
+3621253 ('wat', 'what')
+Usually used for females, a derogatory term for one who displays the potential of becoming a wompus. She may text, call, email, facebook stalk, or follow her prey, but she has not yet reached the status of wompus. It is a truncated form of "wompellum" which is the diminutive of "wompus."
+Extracted spelling variant:wompellum
+3622736 ('wompey', 'wompellum')
+1.the white form of "ballin" 2.a word to say "DUDE THAT IS REALLY COOL" 3.what you say when you "score?" 4.what we call collin.
+Extracted spelling variant:ballin
+3623156 ('ball-ing', 'ballin')
+(noun) God dog from Norse Mythology, DUH! Slang - An alternative form of "dawg" or "dog".
+Extracted spelling variant:dawg
+3649358 ('gog', 'dawg')
+1. An outburst of uncontrollable emotion that takes over your body and is unleashed in the form of "RAFAFLAKA" 2. An odd mis-spelling of the word "Roflfakis"
+Extracted spelling variant:RAFAFLAKA
+3655604 ('RAFAFLAKA', 'RAFAFLAKA')
+An artificial, pseudonymical, acronymaceus, sobriquet, synthesized from a short, familiar form of "Texas" and "lex" (Greek for "word" and Latin for "law"), assumed by the original designator (and oft adopted by numerous pretenders of varying quality and trailing digital suffixii), intended, hoped, and/or calculated to represent, exhibit, and/or affect or convey a demonstrably but circumspectly delivered and highly qualified pretension to an enlightened, lettered, refined, urbane style of semantictious discourse, while completely, successfully, and self-pleasuringly avoiding legal liability, responsibility, and/or abuse for anything expressed or suggested, stated, not stated, and/or implied or not implied in any fashion, typically by employing and stringing together a sufficiently strained series of prolixly faux erudite acute and/or obtusely quasi-redundant juxtapositions of implicit and/or explicit notations, annotations, connotations, salutations, pointless alliterations, and/or self-coined words, phrases, and/or memes, clever and often inscrutably non sequitorial turns of phrase, outrageously banal phrase after endlessly loathsome phrase, discarding and, at the same, scruptulously adhering to no particular and rigourously to certain bizarre strategies and/or lack of same (i.e., extant non conventions) respecting ~aberrant usages^of^punctuation, grammar, stYle, voice (vox/voce), idiom (including idiomatopeia), and effectively obfuscating, corrupting, punnischingand/or ironizing subject matter for one's own twisted and idiosyncratically rewarding benefit, amusement, and/or entertainment in a manner likely to simply piss off time (British usage), vent venom by penning an anticipatorily unsent riposte in response to a random objectionable email forward, and/or to further fuel an undeniably undeserved, but well-earned, although self-effacingly and adamantly deflected, modestly-expressed, non sense of superiority...because he's a Texas lawyer, dammit...or because he obsequiously imagines that a culimating, pandering attempt at complimenting the present venue and its diligently attentive censors will persuade any deciding said officials to approve this tortuously expansive self-reference (see beginning of entry).
+Extracted spelling variant:Texas
+3668883 ('texlex', 'Texas')
+(verb) To use selfish or unfair tactics, most notably when utilized by a merchandiser on his/her customer. (pinty, adjective) Used to describe a person or organization's selfish, unfair, or profit-motivated actions. Origin: Likley coined by a Jew who was tired of hearing words of antisemitic origin being used by non-antisemitic people, such as the verb form of "jew" (Ex. I tried out that new restaurant on 34th street, but their prices suck. I got jewed.) Possibly also coined by a Gypsy who felt a new word needed to replace the term "gyp" (Ex. I made a huge profit from that deal, I really gyped my purchaser).
+Extracted spelling variant:jew
+3672282 ('pint', 'jew')
+adj; normally used in place of words that are supposed to mean "cool," such as "mean," or "bad"; the "worst" form of "cool" you can be. I mean, what's worse than polio?
+Extracted spelling variant:cool
+3672441 ('polio', 'cool')
+The craft of producing a combination of aerial sound vibrations which are able to be universally accepted as "Music" on a percussion instrument of assembly of such with relative ease. Can be accomplished with ample instruction and practice. To construct a pattern of these vibrations in the form of a "beat", a Drummer must repeatedly make contact on one surface (or several simultaneously) with one or both of his or her tapered wooden cylinders. To amplify the volume of the vibrations produced as a result of this process, the Beat Technician may increase the velocity and/or net force which the cylinder deliveres to the beat surface.
+Extracted spelling variant:beat
+3679934 ('Drumming', 'beat')
+The verb form of "shompt", shompting is the action of excreting and using a computer at the same time. This is often a slightly erotic combination of toilets and laptops.
+Extracted spelling variant:shompt
+3680097 ('Shompting', 'shompt')
+A form of "well" as in, "well, i think it's time for bed". Usually spoken by someone with a country or hick accent.
+Extracted spelling variant:well
+3682434 ('wayyyaaalllll', 'well')
+The alternative form of "Boner"
+Extracted spelling variant:Boner
+3697630 ('Bawner', 'Boner')
+Ohmfejuh is the spoken, pronounced form of "OMFG". It is used in the same situations that OMFG would be used, normally as an interjection.
+Extracted spelling variant:OMFG
+3707502 ('Ohmfejuh', 'OMFG')
+Copywrote is the past tense form of "Copyright", and always has been.
+Extracted spelling variant:Copyright
+3725787 ('copywrote', 'Copyright')
+A term used in the form of "emotionally" connecting with somebody new. Derived from the construction toy/puzzle known as "k'nex" where in which pieces of plastic are connected together to make buildings, cars etc...
+Extracted spelling variant:emotionally
+3749263 ('Knex', 'emotionally')
+plural form of "penis". term very relevant in gang banging.
+Extracted spelling variant:penis
+3749618 ('Peni', 'penis')
+"Jewkkaki" is a group sex practice wherein a series of Jewish men take turns ejaculating onto someone. There can be strong overtones of erotic humiliation in this practice. Various styles exist, but a common form of "Jewkkaki" seen in such publications will involve a woman sitting, lying down, or kneeling while men approach to masturbate until they ejaculate on her body, primarily on the face. The semen is left on the face as another man repeats the routine. It is rumored to have been brought down from Mt. Sinai by Moses on the tabs which contained the first ten commandments. All though no historical evidence exists this is widely regarded as the first use of the "Jewkkaki".
+Extracted spelling variant:Jewkkaki
+3759589 ('Jewkkaki', 'Jewkkaki')
+(noun) The plural form of "Walrus".
+Extracted spelling variant:Walrus
+3786717 ('Wilbunk', 'Walrus')
+A verb form of "chimo" (a shortened word for child molester). To be creepy in anyway, not just towards small children. 1. To stop by somewhere in order to creepily check out people you are sexually interested in. 2. looking at people's facebook or myspace photos without their knowledge.
+Extracted spelling variant:chimo
+3789503 ('chime', 'chimo')
+something so fresh that there was no other word to describe it :popularized by rap artists such as Lil Wayne, and Soulja Boy :another form of "illin"
+Extracted spelling variant:illin
+3792699 ('illay', 'illin')
+1)To Be Gay 2)To hump a fridge 3)To rape a small boy while listening to Korn 4)The fag form of "Walkthroughs"
+Extracted spelling variant:Walkthroughs
+3832407 ('Wokfrus', 'Walkthroughs')
+1: a fail form of "stfu" due to a typo. 2: a work-safe version of "stfu"
+Extracted spelling variant:stfu
+3834679 ('shtfu', 'stfu')
+The male form of "Retardijuana". Someone who acts high all the time even when they are not. Someone who laughs at everything, even if it is not funny at all.
+Extracted spelling variant:Retardijuana
+3839786 ('Retardijuano', 'Retardijuana')
+The polite form of "wanker"
+Extracted spelling variant:wanker
+3844433 ('wonker', 'wanker')
+Masculine form of "Skank" See that definition.
+Extracted spelling variant:Skank
+3845848 ('skanko', 'Skank')
+Type 1 Senioritis: Most common form of "senioritis" and most contagious. It tends to manifest itself when a fourth year high school student is half way through the first semester, waiting for winter vacation. This may last till graduation symptoms within the student: 1. Lack of homework completion 2. Procrastination through reasoning a."Fck it, I can pass the class without these last homework assignments"; b."Ill do it tomorrow before homeroom" *tomorrow comes, home room ends* "Ill do it during my free" *fails to do homework during free, free ends* -fails to hand in homework "Ill do it tonight, and hand it in tomorrow..I'll still get some points" (cycle repeats). 3. Last Minute Cramming 4. Student often questions him/her self if they actually have senioritis, yet they blame all shortcomings on it. 5. Wasting time on Facebook, Myspace or even World of Warcraft(more severe) 6. Increase in the use of Slang 7. Increase in Sexual Activity (heterosexual , masturbation, massive orgyprom,etc) Type 2 senioritis: This form of senioritis can be found among students who boast higher averages, or those who just have more of an inclement workload. This type of senioritis is rather complicated, resulting in the student suddenly having a complacent attitude toward assignments that are not as urgent to be completedNOT as in AP/College/Honors assignments. OR It can be visa-versa resulting in the student completing all of the less difficult assignments, and neglecting more rigorous academic activities. This type of senioritis usually manifests itself through the influence of seeing another (of less academic standing) neglect schoolwork, and yet manage to pass with high 70's to mid 80's. symptoms - 1. All of the symtoms of Type 1 Senioritis 2. The accumulation of "Journal Entries" and/or "Articles" to complete at the conclusion of a quarter/semester 3. A complacent attitude resulting in the lack of motivation to conclude sentences on a Test/Homework 4. A lack of rechecking work, or revisions 5. Taking days off from school 6. Copying homework assignments ( also can be type 1) 7. Involuntary hallucinations of being unfettered by the fruits of Graduation Day, albeit the school year may be coming to an end. 8. Counting the days till Graduation. 9. Not studying for ANYTHING Type 3 senioritis: This is the culmination of complacency and academic neglect. This can only succeed Type 1 (rarely) or Type 2 senioritis. At this point, the unfortunate student loses all academic fervor and perception on the purpose of education. There is no cure for this type of senioritis. common expressions of a student suffering from type 3 senioritis: "FxCK SKEWL" Most likely a student suffering from this type of senioritis will end up dropping out of school, right before failing all classes. Some fortunate sufferers of Type 3 still get to graduate, but will not actually ATTEND graduation..or prom. (Also usually having to attend summer school) Type 3s' are more prone to having there College acceptances revoked,having all their dreams crushed of being a fully matriculated college student that drinks heavily and act out scenes from college movies like Accepted Type 3's are more prone to working in fast-food restaurants. symptoms (all of the above syptoms PLUS) 1. All of the above. 2. Living on Social Networking sites. 3. Dropping out of school 4. Failure to complete financial aid 5. Physical abuse of other peers who are more accomplished (ex. got accepted) 7. Procreation CURES FOR SENIORITIS: 1. Request your parents to unexpectedly punch you in the face, the next time they see you procrastinating. 2. Sky diving while looking at a bad report card. 3. Head Automatica- Graduation Day 4. Apply Vix Vapor Rub while attempting to do homework. BENEFITS OF SENIORITIS: People don't tend to usually see these benefits till college. If they survive senioritis. 1. Proficiency in re-arranging copied papers/essays. 2. Expertise in Forging signatures. 3. Immunity towards future senioritis 4. Alarmingly efficient time management (pun intended) 5. Mastery of Social Networks & Search Engines.
+Extracted spelling variant:senioritis
+3863088 ('Senioritis', 'senioritis')
+Mind-bendingly wonderful; an utterance of deep joy and/or amazement and/or satisfaction. An augmentative form of "cool".
+Extracted spelling variant:cool
+3871376 ('Coolaloola', 'cool')
+Combination form of "skank" and "ankles". Very large ankles on a skank or otherwise unpleasant woman.
+Extracted spelling variant:skank
+3879042 ('skankles', 'skank')
+The verb form of "Grunstep" meaining to be listeing to a new underground genre. spawned in New York city that has hence spread to the suburbs. This new wave of Grunstep is quickly invading the computers and sound systems of men, women, children, and aliens alike.
+Extracted spelling variant:Grunstep
+3896344 ('Grunstepping', 'Grunstep')
+the area between a girl's anus and vagina; the feminine form of "grundle"
+Extracted spelling variant:grundle
+3937607 ('muntle', 'grundle')
+An ethnic slur for Somali people.Can also be used in it's abbreviated form of "smeeg"
+Extracted spelling variant:smeeg
+3958001 ('Smeegro', 'smeeg')
+A very arrogant and "dumb" person ; The superlative form of "Retard"
+Extracted spelling variant:Retard
+3970132 ('Ubertard', 'Retard')
+The serbian form of "yo"PRONOUNCED HOW SPELLED: "bre" u roll the "r" an say it in a slight accent.
+Extracted spelling variant:yo
+3993040 ('Bre', 'yo')
+The art of sewing an angel costume onto a dog named "Angus" in perporation for their death and afterwards having them stuffed and put on display.Not to be confused with the demonic ritual involving a "sex beast" known as a"Sunit", this form of "Angusing" is slightly less awesome, however, VERY IMPORTANT!May be used in relation to afore mentioned "Angusing"
+Extracted spelling variant:Angusing
+4008707 ('Angusing', 'Angusing')
+"Laugh my fucking ass off while rolling over from laughter and laughing out loud" The highest form of "lmao" "lol" ect.A way of saying something is extremly funny, the maximum level of laughter.Created by~ GriMw0lf
+Extracted spelling variant:lmao
+4026398 ('lmfaowroflalol', 'lmao')
+Umetnik is Serbian word for an ArtistUsually person that considers himself unique and has a constant need to prove himself to others or to himself,most of the time lazy and unable to work because work seems to choke their creativity,only thing important to Umetnik is his form of "Art"...May also be used as to describe Person of unusual behavior,smth out of ordinary...Umetnik=artist
+Extracted spelling variant:Art
+4033282 ('Umetnik', 'Art')
+A form of intoxication or confusion in which ridiculous this can and will happen. Can be synonymous with getting "retarded". Most common uses involve alcohol or beach locations.Any event involving a large muscularly built male in beach attire saving someone can also be considered a form of "fogerhoffing".
+Extracted spelling variant:fogerhoffing
+4063017 ('fogerhoffed', 'fogerhoffing')
+Superlative Adjective form of "rig". Synonyms: sickest, wicked, cool, the best of a catagory, or group. Anything that is way better than something else.
+Extracted spelling variant:rig
+4085568 ('riggest', 'rig')
+Shortened form of "marvelous".
+Extracted spelling variant:marvelous
+4091045 ('marvie', 'marvelous')
+a form of "Okay", commonly used as a cooler replacement of "okee dokee".
+Extracted spelling variant:Okay
+4130399 ('Hokay', 'Okay')
+fah-kuhhhMore serious form of "fuck" used in the context of negative, or positive, events.
+Extracted spelling variant:fuck
+4185653 ('fuckkk', 'fuck')
+1. A male companion who does not pay child support 2. A less respectable form of "Boyfriend" 3. A legal term commonly found in small claims / divorce courts.
+Extracted spelling variant:Boyfriend
+4210687 ('Boyfrent', 'Boyfriend')
+Replacement for "Awesome." Simply because I'm tired of every asshole with the mind of a 14-year-old using some form of "awesome" to describe anything because they're unaware of other adjectives.
+Extracted spelling variant:awesome
+4214868 ('Jangleplatz', 'awesome')
+Elite form of "zombies" or "zombehs"
+Extracted spelling variant:zombies
+4233938 ('ZOMGBIES', 'zombies')
+the superlative form of "tool". used to describe an immensely stupid, self-absorbed, or awkward individual. actual t00ls often misuse the word to humorous effect.examples of t00ldom include: commenting on others' facebook wall posts, injecting oneself into conversations, being recklessly self-important, operating under the delusion of having many friends, and shamelessly imitating superiors
+Extracted spelling variant:tool
+4235321 ('t00l', 'tool')
+Güerito and güerita are the diminutive form of "güero" and "güera," which refer to light skinned, usually blonde people (but not always blonde). In many cases they also have blue, green, etc. colored eyes. By using "ito" the user shows some type of affection. Güero and güera also tend to be used as nicknames. In other cases the terms may refer specifically to anglos/gringos/as and/or gabachos/as.
+Extracted spelling variant:güero
+4262341 ('güerita', 'güero')
+noun, human detritus, esp. with perverse connotations.Singular and plural are identical denoting a substance, as with water. Phonetically it is a corrupted form of "debris" perhaps combined with "dirty", i.e. debris + dirty = derby.
+Extracted spelling variant:debris
+4279270 ('derby', 'debris')
+v.) When an organism does something socially awkward or stupidn.) (1) Someone who has committed the act of being an idiot; butchering simple math, or not picking up on a simple joke(2) A form of "currency" awarded after someone has "tooded"; a "stupid point";
+Extracted spelling variant:currency
+4296577 ('Tood', 'currency')
+A word spawned from slamming on the keyboard. An expression of disgust, or another form of "dammit"
+Extracted spelling variant:dammit
+4299774 ('Ashfash', 'dammit')
+Noun- a term used to refer to beautiful boys, not men. They often have feminine features and alot of times can be mistaken for a girl by a non-fAnimers.Contrary to popular belief, this term isn't really a shortened form of "bishounen". It is used to refer to boys under the age of fourteen.
+Extracted spelling variant:bishounen
+4314903 ('bishie', 'bishounen')
+Pronounced "Shayzed". A short form of "Shitfaced", refers to the feeling one encounters when so intoxicated they cannot stand, thus seeking relief from a chaise lounge.
+Extracted spelling variant:Shitfaced
+4317882 ('chaised', 'Shitfaced')
+Shortened form of "dokyuun", the sound effect of a heart pounding.
+Extracted spelling variant:dokyuun
+4365910 ('dqn', 'dokyuun')
+A Human form of "Transformer", who pilages his/herself using substances until one transforms into a mangled wreck.
+Extracted spelling variant:Transformer
+4370298 ('Mangletron', 'Transformer')
+The use of spray paint, markers, etc. to draw (or "tag" if you're using spray paint) on public or private property. Considered to be a form of vandalism, but a form of "art" to those who partake in it.
+Extracted spelling variant:art
+4390517 ('graffiti', 'art')
+Slang form of "Fucks"
+Extracted spelling variant:Fucks
+4409453 ('fx', 'Fucks')
+Noun. A less formal form of "birthday" used when talking to you're friends.
+Extracted spelling variant:birthday
+4411243 ('Birthdizzle', 'birthday')
+A Scots expression meaning "gave".The past form of "gie".
+Extracted spelling variant:gie
+4424286 ('gied', 'gie')
+A term coined by a truly awesome English teacher. Mooktastic is the adjective form of "mook". Basically, it describes things that have the characteristics of a "mook" or dumbass.
+Extracted spelling variant:mook
+4427135 ('mooktastic', 'mook')
+the singular form of "Meese"it is a animal that is seemingly harmless, but actually carries a knife...
+Extracted spelling variant:Meese
+4434094 ('Moose', 'Meese')
+Superlative form of "horrible". Widely used in preference to the more conventional "most horrible".
+Extracted spelling variant:horrible
+4492964 ('horriblest', 'horrible')
+in reference to multiple sets of boobs. the plural form of "boobies"
+Extracted spelling variant:boobies
+4502906 ('boobi', 'boobies')
+(n): a form of "besties" describing lesbian best friends
+Extracted spelling variant:besties
+4515409 ('Lesbies', 'besties')
+The most best form of "G" possible. The Super-G gets all the sexiest girls, and has them all waiting at his command. He is the best in everything he does like sports girls, females, and ladies. All the men want to be like him, and all the girls want to be with him. THATS G!
+Extracted spelling variant:G
+4616137 ('Super-G', 'G')
+A form of flirting that is used as a joke. Pseudoflirting is usually aimed at fat people, getting their hopes up, and then laughing at them. Another similar form of "flirting" is two best friends(mainly girls) flirting with eachother(see yicepering)
+Extracted spelling variant:flirting
+4671544 ('Pseudoflirting', 'flirting')
+The day after the night before; when you are revisited by the passionate antics you got up to in the form of a "flashback" the following day/week.
+Extracted spelling variant:flashback
+4722787 ('Pashback', 'flashback')
+1) Used when the word "Sayin" cannot bare witness to the flyness.2) Also used as a form of "Hello". Derivative from colloquialisms that incorporate questions into greeting such as "How are you?" and "Sup?".
+Extracted spelling variant:Hello
+4796184 ('Sezin', 'Hello')
+The REAL plural form of "donuts". This word is often used when your mouth is full, and instead of saying "donuts" you say "DONUTH!"
+Extracted spelling variant:donuts
+4798178 ('Donuth', 'donuts')
+1.a derogatory term used to descrie someone as awkwardly fat b 2. the singular form of "Cankles" 3.a way of saying someone is a cankle-bearing skank (fat whore)
+Extracted spelling variant:Cankles
+4832943 ('cank', 'Cankles')
+A word which was invented in the 21st Century by a man named Jaymish Patel. Dayme, pronounced 'Day-me" is usually a word which has no real meaning but a word which is regarded very highly in society.A word which has been perfected and used over the past 6 years can usually take an abbreviated form of "day". It is commonly used as a greeting.
+Extracted spelling variant:day
+4850504 ('Dayme', 'day')
+Ledgy is derived from the word, "legit" meaning genuine or real but is now sometimes used to mean "good". Ledgy is the adjective form of "legit".
+Extracted spelling variant:legit
+4881600 ('Ledgy', 'legit')
+n., pl.; the plural form of "cuz"; two or more good friends, buddies, homeys, homeslices, etc.
+Extracted spelling variant:cuz
+4976423 ('cui', 'cuz')
+It's a newly form of "Noob" People like to say Nub instead of Noob and it basically means the same but when people get mad in a video game and try to say nub sometimes they write nubn...N.U.B non-useful body (also as an idiot/player)
+Extracted spelling variant:Noob
+5027838 ('Nubn', 'Noob')
+Slang term for the male sexual organ, the member, the cock. Diminutive form of "Johnson".
+Extracted spelling variant:Johnson
+5060686 ('johnce', 'Johnson')
+the superlative form of "plow"
+Extracted spelling variant:plow
+5089163 ('ploow', 'plow')
+An adjective that describes sonething that is crappy. Another word for jank, crap, or stupid. Comes in the form of "gwumpy", "gwumpish", "gwumping", or "gwumped".
+Extracted spelling variant:gwumpy
+5108443 ('Gwump', 'gwumpy')
+adverb form of "ballsy" to perform in a manner that is blatant and courageous
+Extracted spelling variant:ballsy
+5134854 ('ballsily', 'ballsy')
+A person of full Spanish or Portuguese ancestry born and living on the continent of America. That during the colonial period, these so called "Criollos" were rank in the highest social caste, implemented by the Spanish Monarchy to give a individual their status on political rights. These meaning, that the more Spanish ancestry a person had, the more freedom and privileged rights was granted. At one time, in the New Spain ( Colony of Spain, that was located in the today present lands of Central America and Mexico ) the Criollos ( Combined with the so called "Peninsulares", that were Spaniards born in the Iberian Peninsula ) were more than the group of Mestizos and Native Indigenous that were oppressed by having lesser political rights. Even though, that the Criollos were more during the colonial period, after it and during the Mexican revolution, in hopes of bringing equality to the Mexican population, a new form of "Mestizaje" was grave to created a homogeneous nation and rapidly the elite social class of Criollos became a minority ( Still existed, but with fewer presence in Mexico ).In present times, the "Criollos" are estimated to be around 15-30% ( Percentage varies from different sources ) of the Mexican population.
+Extracted spelling variant:Mestizaje
+5160429 ('Criollo', 'Mestizaje')
+Standing for "Shit Fuck Damnit". An abbreviated way of expressing anger whilst typing. The non interrogative form of "WTF" because SFD does not ask a question, it simply states anger.As almost anything these days, it is mainly used on social networking sites to be a SFW (Safe For Work) typography.
+Extracted spelling variant:WTF
+5163063 ('SFD', 'WTF')
+Somewhere in between stoned and sober...roughly 2-5 hours after smoking or otherwise consuming cannabis. Characterized by a slightly tired but happy demeanor while retaining all normal function.Can be used in the noun form of "stobriety" or adjective "stober".
+Extracted spelling variant:stobriety
+5191117 ('Stobriety', 'stobriety')
+short and annoying form of "loser"
+Extracted spelling variant:loser
+5191206 ('looz', 'loser')
+Feminine form of "YLLI" meaning little star. A curvy girl who is extremely hot, with an outstanding beauty, and a loving heart. She has a great humor, will make you laugh for hours! Respectful towards everyone, and she will never leave your side.
+Extracted spelling variant:YLLI
+5201414 ('Yllka', 'YLLI')
+Smiling by myself. A truer form of "lol".
+Extracted spelling variant:lol
+5203151 ('sbm', 'lol')
+A compound term combining the words "shee" (an alternate form of "shit") and "brah" (an alternate form of bro). Used as an exclamation, but also refers to the word animal zebra, since the words sound alike. However, the association between Sheebra and an actual zebra are unclear.
+Extracted spelling variant:shit
+5205867 ('Sheebra', 'shit')
+n. generally used as a strong agreement. it is a more powerful form of "word". usually used by the "lax bro"
+Extracted spelling variant:word
+5207583 ('wordingtonsaucelaxdankskibro', 'word')
+A socially acceptable form of "bitch". To be used with emphasis in situations such as the workplace where it's not acceptable to use the word bitch.
+Extracted spelling variant:bitch
+5210217 ('bisk', 'bitch')
+This word is for when you come across a person that isn't just "Amazing" or "Fantastic"; the upgraded form of "Amazing" and/or Fantastic.
+Extracted spelling variant:Amazing
+5246349 ('Amazingtastic', 'Amazing')
+National Blue Beret, aka NBB for acronym-inclined individuals, is the form of "fun" in which members of a secretly open organization to the public do random summer things and string them together. This cadet activity includes Operation Thirst (THANK YOU!), free shows which have featured comedians such as Jeff Dunham, flight-line marshalling many planes, volleyball, poking fun at the first year rookies, finding signals that most people don't know even exist, and most of all, 17 days of life away from the world as it is known to be "civilized". Traditions include Tiger-Tails, the Rubber Chicken (and ensuing requirement to attain it), and the sorta exclusive GDB Ring.
+Extracted spelling variant:fun
+5276503 ('NBB', 'fun')
+Mainly pertaining to a mans genitals, and or, tasty bits of chicken, and or, other assorted meats made into the form of "nuggets".
+Extracted spelling variant:nuggets
+5279555 ('Nuggets', 'nuggets')
+An extra special form of "pooing"It is ultimately the combination of when urinating and pooing at the same time.A lot of the time it is shouted during the process of pooing and weeing at the same time in an exaggerated, high pitched voice.Also used for insulting others in a friendly fashion
+Extracted spelling variant:pooing
+5290193 ('POOEE', 'pooing')
+A Polish person on a diet. Derogatory. Derived from the Polish form of "Atkins", from the popular diet.
+Extracted spelling variant:Atkins
+5306319 ('Atkynski', 'Atkins')
+scurvootie = when your cootie is so damaged it takes the form of an "s"
+Extracted spelling variant:s
+5333204 ('Scurvootie', 's')
+1. v., to leave, depart 2. v., to place tobacco between the gums and lower lip 3. n., shortened form of "dipshit", i.e. a stupid, annoying, or displeasing person
+Extracted spelling variant:dipshit
+5338368 ('dip', 'dipshit')
+Referring to the most average, obnoxious, illiterate and slutty girl, that usually attends a catholic highschool - commonly used as the short form of "babe".
+Extracted spelling variant:babe
+5382907 ('beb', 'babe')
+A new form of "chilling". It's commonly heard in such places as Australia.
+Extracted spelling variant:chilling
+5388464 ('Zagging', 'chilling')
+the text greeting form of "hey" when someones pissed off.The period at the end usually means you're in trouble.Hey. is usually followed by:"we need to talk"or "stop using my bath sponge to wash your dick, Craig, you country bumkin shitbag!!"
+Extracted spelling variant:hey
+5401137 ('Hey.', 'hey')
+An adjective describing the nastiest things, people, or situations possible. It can also be a noun in the form of "ses".
+Extracted spelling variant:ses
+5402163 ('Sessy', 'ses')
+1.) A milder form of "OMG" for those religious nuts who fear that saying that would be taking the Lord's name in vain.2.) Oh My Gosh
+Extracted spelling variant:OMG
+5416071 ("OMG'sh", 'OMG')
+1. (verb) to admit that you did something wrong or damaging; shortened form of "confess" 2. (noun) to be highly professional; to treat something as if it were purely business
+Extracted spelling variant:confess
+5445396 ('fess', 'confess')
+Dumbass internet lingo form of "masturbate".
+Extracted spelling variant:masturbate
+5447328 ('fap', 'masturbate')
+Abbreviated form of "Filibertos" - A mexican fast-food restaurant located in southern CA and AZ.
+Extracted spelling variant:Filibertos
+5498781 ('filis', 'Filibertos')
+(Verb) To succeed at something in an exceptional manner. Named after BYU point guard Jimmer Fredette. Can also be used in the past tense form of "Jimmered" or "Jimmeresque" or "Jimmer show".
+Extracted spelling variant:Jimmered
+5507794 ('Jimmer', 'Jimmered')
+1) The verb form of "strumpet". To be used when one is acting/appearing like a strumpet, seducing someone, etc.2) Could be used more precisely when strutting like a strumpet. Strut + strumpet = strump.
+Extracted spelling variant:strumpet
+5510551 ('strump', 'strumpet')
+female form of "brah"; used when referring to a female who is considered "one of the guys". Similar to dude and dudette
+Extracted spelling variant:brah
+5563925 ('brahdette', 'brah')
+I shortened form of "legitimately" used to troll faggots.
+Extracted spelling variant:legitimately
+5565073 ('Legitly', 'legitimately')
+This form of "bacon" is used to describe a person that is abnormally large, or someone that looks like they have eaten a little bit too much bacon.
+Extracted spelling variant:bacon
+5601284 ('Bacon', 'bacon')
+A rare breed of humans that have the ability to take any given situation and peel it apart layer by layer and reconstruct it in a manner that is less than palatable to the "normal" populous. Often referred to as the lowest form of "wit" in the past is now being re considered as an evolutionary advance in the human condition. It is now thought to be more prevalent in persons afflicted with disorder of ADD or ADHD which is also now being considered and evolutionary advancement of the human brain as a direct result of the global industrial advancements over the past few centuries which has essential caused a leap frog effect in the human mind causing it to operate of higher more efficient levels of intellect. Which is often why persons afflicted with these "disabilities" are often miss understood. So the question could become are they really the disabled persons because they are not the norm! or will their numbers eventually surpass "the normal people" thus making the "normal" few! hence forth majority rules and is the "norm" something to think about
+Extracted spelling variant:wit
+5616530 ('Sarcasmicus', 'wit')
+Just Giggled A Bit. A term commonly used on the internet in stead of "LOL", "LMAO", or "ROFL". Can also be used in the form of "Jgabosaurusrex", like how "rofl" can be used in the form of "roflcopter".
+Extracted spelling variant:Jgabosaurusrex
+5640719 ('Jgab', 'Jgabosaurusrex')
+word meaning cool or sick.... can also be used in the form of "dripp" which is a better way of saying swagg. This way of using the word was created by Nick R. on March 15, 2011.
+Extracted spelling variant:dripp
+5689400 ('drippin', 'dripp')
+Meta name for a female in comix on memebase and reddit. Origin is feminized form of "Herp"
+Extracted spelling variant:Herp
+5690311 ('Herpina', 'Herp')
+The adjective form of "Sarah"; combining "fantastic" and "Sarah"; relating to the insanely awesome, spontanious acts of amazingness that is executed by a "Sarah", or one that bears the name, "Sarah". However, it can also relate to the personality of a "Sarah".*please note the h at the end of "Sarah", this is definately the right way to spell it
+Extracted spelling variant:Sarah
+5717998 ('sarahtastic', 'Sarah')
+The feminine form of "pilot".
+Extracted spelling variant:pilot
+5729580 ('pilotress', 'pilot')
+An abbreviated form of "alcohol" ; pronounced "al-key."
+Extracted spelling variant:alcohol
+5783278 ('alchy', 'alcohol')
+exaggerated form of "please" usually used to disagree with a statement
+Extracted spelling variant:please
+5794614 ('pulease', 'please')
+compound form of "fugly" and "cunt" . and meaning of when you see a girl or guy and they were a ugly root . you would say "they were a funt"
+Extracted spelling variant:fugly
+5795051 ('Funt', 'fugly')
+Short and much more to-the-point form of "standard". Mostly used among highly sophisticated individuals to define and applaud acts of normality. "Standy" can be used as both a noun and an adjective. A common phrase that stems from this term is 'Standy the Boy.' This idiom does a nice job of simplifying the following: 'Wow, I just acknowledged how typical you are being at this moment and because of this, I will give you my approval and praise!'
+Extracted spelling variant:standard
+5803392 ('Standy', 'standard')
+An alternate form of "Yeah" for late night use when autocorrect fails you.
+Extracted spelling variant:Yeah
+5835603 ('Yrag', 'Yeah')
+It is a form of "Portuganglish" which is basically the english statement, "Hey dude, chill out" but spoken with a Portuguese accent.When saying, "Hey dude, chill out" by a native Portuguese speaker the words tend to intermingle and become a single word in in itself.
+Extracted spelling variant:Portuganglish
+5845012 ('Educhila', 'Portuganglish')
+To barelly scrape by, can be used in any situation. Can be used in the form of "Roached" or "Roaching" Derived from the word Cockroach, (insect) infering that cockroaches never die. Originated with a group of young boys playing "guitar hero", if the meter is blinking red and you are about to fail the song but you hit just enough notes to pass, you are "roaching" As in anything else in life, if you are "just passing" then you are roaching. If refering to past tense, it is pronounced "Roached" as in, "that guy Roached into the finals"
+Extracted spelling variant:Roached
+5885765 ('Roach', 'Roached')
+n. celebrity the girl form of "courtney" she usually is an absolutey beautiful young woman in every way possible. she is gorgeous, her mind is sharp as a blade and her vocabulary and easy command of the english language both astounds and impresses, further she has the most wonderful personality you could ever ask for in a girl. she is kind to her man and would do anything for him that she loves she is faithful and no man need ever wonder about her. she is the absolute perect girl to have if you are into smart pretty girls and serious relationships. do not be alarmed if she goes mysteriously silent after youve said somthing stupid, shes just hurt and shes trying not to say anything because even though you may have broken her heart 1000 times she would never want to hurt you. she isnt weak tho, quite to the contrary hers is the inner strength of a lioness, this on top of phenomenal beauty and astounding intelligence make her one to be respected and never taken for granted.
+Extracted spelling variant:courtney
+5899169 ('Cortney', 'courtney')
+Skaggle (ská glé) adj.Skaggle, to call someone a skaggle is the equivalent of calling someone a junkie, pillhead, crackhead, meth addict, etc.A general terminology for the everyday sorry loser, the bum with ripped jeans, the kid from the alley, the one armed pill junkie, the listerine addict . . . the comparisons can go on for infinity, but in all equality a skaggle really is just a skaggle, to be called a skaggle is without a doubt one of the lowest statements that can be given to an individual.Can also be used in the form of "Skaggle'n" or "Skaggling" which is used to describe a somewhat state of party/intoxication.
+Extracted spelling variant:Skaggle'n
+5908285 ('Skaggle', "Skaggle'n")
+The term used to describe a fan(usually of the older kind, male or female) of the show My Little Pony: Friendship is Magic.It is the combination of the words 'bro' and 'pony'Although 'bro' may refer to males, the term 'brony' is gender-neutral, and thus it may be applied to the male and female fans of the show."Brony" is the singular form of "Bronies"The term was coined on 4chan's /co/ board.
+Extracted spelling variant:Bronies
+5920478 ('Brony', 'Bronies')
+A form of the word "shit".This is for people who wish to refrain from using vulgar language but wish to express themselves accordingly as if "shit" was said. Longer form of "snit"
+Extracted spelling variant:snit
+5923567 ('snizit', 'snit')
+Abbreviated form of "decent" but with an "o" at the end. Kind of Like coolio
+Extracted spelling variant:decent
+5943559 ('Deceo', 'decent')
+"Fysed" is a mash-up of "fag" and "wysed". "Wysed" comes from Capetownian coloured language which means- "to pwn". The "fag" part of "fysed" is a form of "wysing" that has fag qualities, and primarily uses the word "girlfriend".
+Extracted spelling variant:wysing
+5988482 ('fysed', 'wysing')
+Misspelled form of "Fellatio"Oralsex performed on a male - NOT on a female."Cunnilingus" for females
+Extracted spelling variant:Fellatio
+6031541 ('filacio', 'Fellatio')
+A derogatory term for Afro-Americans. As the use of the word "nigger" has become less frequently used by the masses, the term "grimus" was coined to "hold the black man down".This term was first used as a deroatory statement when a black man moved to Florida from the Chicago land area and began to turn color from exposure to the sun. When found to turn from chocolate to black to purple a friend of said black man called him "grimus", changing the landscape of racial epithet's forever.The plural form of "grimus" is "grimus".
+Extracted spelling variant:grimus
+6035053 ('Grimus', 'grimus')
+A combination of the words Nihao, the chinese words for hello, da, the short form of "the" and boi, the alternative spelling for "boy". You can sing the words Nihaodaboi to "Auld Lang Syne".
+Extracted spelling variant:the
+6036944 ('Nihaodaboi', 'the')
+Scottish dialect form of "pissing". Basically means "urinating".
+Extracted spelling variant:pissing
+6056246 ('Pishing', 'pissing')
+Griffin: expletive of the adjective form. Originated by the reversal of the "F" and "G" sounds in "friggin," which is itself derived from "fricking," a tamed version of "fucking."Some etymologists have contended that the origins of the term "griffin" allow for the noun/verb form of "griff" (as in, 'I will griff the griff outta you for this grievous offense!') to be used. Those etymologists have been informed that such usage would sound stupid.
+Extracted spelling variant:griff
+6060596 ('griffin', 'griff')
+A direct term used for any form of "ginger" that isn't socially unacceptable. Neither used as an insult nor a compliment.
+Extracted spelling variant:ginger
+6066677 ('Shmouple', 'ginger')
+the written out form of "lol" but way better.
+Extracted spelling variant:lol
+6072301 ('elloell', 'lol')
+an older form of "shall"
+Extracted spelling variant:shall
+6094713 ('Shalith', 'shall')
+An Irish name, short form of "fionnuala", Means "white shoulder" from Irish fionn "white, fair" and guala "shoulder". In Irish legend Fionnuala was one of the four children of Lir who were transformed into swans for a period of 900 years.
+Extracted spelling variant:fionnuala
+6097640 ('nuala', 'fionnuala')
+A word that can be substituted for any noun, generally used as a shortened form of "nigga"
+Extracted spelling variant:nigga
+6102576 ('nih', 'nigga')
+1) NOUN: A term referring to a women, usually used in a way to describe the "end in mind goal," her pussy --can be used in the phrase "pulling wool" which means "hooking up or spitting game".--can be used in the phrase "sheering wool" or "staffing the herd" which means "to fuck" --Plural form of "wool" includes "flock" --can be used in phrase "to bah'd" which means "to make a girl orgasm loudly and wildly"2) ADJECTIVE (Wooless): One who lacks the ability to get laid, spit game, or not act like a tool in front of women.3) ADJECTIVE (Shepherd): A master of the flock, one who spits game like a kid playing candyland or legos. He tends to the herd regularly, and "pulls" all day, everyday.4) Antonym is billygoat: referred to as a guy
+Extracted spelling variant:wool
+6122516 ('Wool', 'wool')
+The noun form of "sarcastic" The word is used exclusively by cool kids, and anyone who used the word but isn't cool enough to pull it off is flogged with a dildo
+Extracted spelling variant:sarcastic
+6139219 ('Sarcast', 'sarcastic')
+goo-glah-reItalian for the verb form of "Google" or simply, "to google".Present tense conjugation: io googlo tu googli egli googla noi googliamo voi googlate essi googlano
+Extracted spelling variant:Google
+6142128 ('googlare', 'Google')
+A person who has no balls. Can also be used as an adjective in the form of "nobesy".
+Extracted spelling variant:nobesy
+6169506 ('Nobes', 'nobesy')
+(adj.) Awesome, sick, or awe-inspiring.(v.) A command in order to hype people up. Usually in the form of "becoming" shweaty.
+Extracted spelling variant:becoming
+6171053 ('Shweaty', 'becoming')
+A form of "regs" (regulations) that is often used by police or other low level legal workers to describe older law books or court documents that are printed/written on cotton paper (rag paper). This is most often used as a diminutive term for the regulations written on them.
+Extracted spelling variant:regs
+6247508 ('Rags', 'regs')
+Boy name may come from the Old Norse "Amundi", where "a" means "very" and "mundi" is a form of "mundr" which means "protector / guards", but it can also be a variant of Agmund consisting of name the parts ag and mund, where ag is a Norse word meaning "respect / fear" or "spike", while Edmund is derived from the Norse word "mundr" which means "protector / protecting."
+Extracted spelling variant:mundr
+6262490 ('Amund', 'mundr')
+Another form of "yep" and is commonly used on text messages and chatting online. You say yeperz when you are either saying yes to something or just randomly saying yeperz!! It is a fun word to say and can almost instantly become your favorite word!!!
+Extracted spelling variant:yep
+6295572 ('Yeperz', 'yep')
+Same as herpina.Meta name for a female in comix on memebase and reddit. Origin is feminized form of "Herp"
+Extracted spelling variant:Herp
+6299216 ('herpette', 'Herp')
+Abbreviated form of "application", a type of software program that typically interacts with the end user, such as a calender program or a chat program. Applications differ from lower-level software programs such as device drivers which are mostly invisible to the user.Since the late-2000s, the term "app" has been bastardized by Apple and other Apple wannabes to specifically mean a software program that you can buy at the "App Store" or variations thereof. In fact "applications" have been freely available online since the advent of the Internet and this concept is completely foreign to the majority of "app" buyers.
+Extracted spelling variant:application
+6315351 ('app', 'application')
+It is the truncated diminutive form of "Boogie", which is sometimes used in conjunction with a lover's first initial. To create a nickname of the form __-Boogs. For instance if you had a lover named "Jason", you would give him the nickname J-Boogs.
+Extracted spelling variant:Boogie
+6330542 ('Boogs', 'Boogie')
+the noun form of "eccentric"
+Extracted spelling variant:eccentric
+6471184 ('eccentricity', 'eccentric')
+Verb describing your reaction to something so profoundly idiotic that it makes you want to knife yourself in the face to block out the unbelievable stupidity you are faced with. A form of "facepalm" taken to the extreme.
+Extracted spelling variant:facepalm
+6490740 ('faceknife', 'facepalm')
+Used as a better form of "Zing". To imply "In your face!" or more lightly, "Yes!"
+Extracted spelling variant:Zing
+6520959 ('Boom', 'Zing')
+Abbreviation of "chuckled quietly under my breath". A more honest form of "LOL" or "ROFL".
+Extracted spelling variant:LOL
+6521460 ('cqumb', 'LOL')
+An alternative form of "yep".
+Extracted spelling variant:yep
+6554071 ('Yurp-de-durp', 'yep')
+The past tense form of "weeing", often used while zip lining, downhill racing, and hanging out of a car window. Projecting a high pitch sound of excitement with your mouth.
+Extracted spelling variant:weeing
+6577616 ("Weel'd", 'weeing')
+Technically a stuffy plural form of "ignoramus", the word "ignorami" is more useful as term for ignoramuses as a class, along the lines of the "Illuminati".
+Extracted spelling variant:ignoramus
+6598110 ('ignorami', 'ignoramus')
+bih-TWIKST (adv.)A slang term for sexual intercourse. Similar to "have/had sex" Derived from the phrase of getting "between those legs."(Used in conjunction with some form of "Get" to create an idiom / phrasal verb.)
+Extracted spelling variant:Get
+6618006 ('Betwixt', 'Get')
+Southern form of "Aunty"
+Extracted spelling variant:Aunty
+6635580 ('ainty', 'Aunty')
+This word was created by students from Brunswick School in Greenwich, CT. They use it in two contexts, as seen below:1. A person who is bad at most activities. Used to describe a person who is for the most part a failure at life. A shortened form of "munson". 2. A suffix to most names that implies the same meaning as the noun form.
+Extracted spelling variant:munson
+6694275 ('Monz', 'munson')
+I know that is not usually used in english urban talk, but I think it will help with the misunderstandings. For spanish people (From Spain), this word doesn't mean the same as for latin people from South or Center America. Instead, is the feminine form of "chulo", a word that refers to:1. Something that is cool. Its a bit old fashioned but still in use.2. Someone that acts in a prepotent way. Even more old fashioned, but in use. Commonly used by children in diminutive variants, "chulito" (For boys) and "chulita" (For girls)3. Usually only in the male variant it refers to the person who protects a prostitute in exchange for a large portion of their profits.
+Extracted spelling variant:chulo
+6708412 ('chula', 'chulo')
+Also a Finnish way to say "hey." A pretty common one along the word "moi." Used also in a form of "Heippa", as a goodbye.
+Extracted spelling variant:Heippa
+6767805 ('Hei', 'Heippa')
+brah-TEESH-kaLiterally Bratishka means "little brother" in Russian (Brat = brother) .Bratish' (brah-tEEsh) is a short form of "bratishka".You can refer to your younger bros as bratishka(singular) or bratishki(plural). The term is mostly applied to those younger than you; sometimes it can be applied to bros of your age, and it's rare to heard it said to anyone older.The word is widely used in post-Soviet countries among Russian and non-Russian speakers.homie, bro, younger brother, good friend.
+Extracted spelling variant:bratishka
+6815073 ('Bratishka', 'bratishka')
+1.)A female name meaning bitter or uncertain. It's the Hawaiian form of "Mary"2.)A beautiful exotic girl who speaks her mind regardless of what people think, Sexy, Smart, Kind of slutty but not a slut in anyway at all. A Maleah just loves to show her body but doesn't let anyone touch. A.K.A A Cock Tease.3.) A confident Bitch4.) Also spelled Malia, Maliah, or Maleia5.) Also the name of the president's daughter!
+Extracted spelling variant:Mary
+6838405 ('Maleah', 'Mary')
+Goldpiece is a term used to describe a large and glorious "shlong".It can also be used to describe an obnoxiously large golden medallion or other form of "bling".I have even heard men refer to their slam pieces as "Goldpiece", however this only works when the slam is of great quality and "slamability". She would preferably be at least a 9.
+Extracted spelling variant:bling
+6838749 ('Goldpiece', 'bling')
+A word used by many in the Mid Western part of the USA.It is an extremely high form of "Wow" or "Holy Cow"It is an extremely fun word to use and it comes from he word cannoli.
+Extracted spelling variant:Wow
+6878443 ('Cannoligan', 'Wow')
+Anachronistic form of "while", used to create an illusion of intelligence or literacy. More often than not makes the user sound like a pretentious ass.
+Extracted spelling variant:while
+6909008 ('whilst', 'while')
+The noun form of "Namify"The act of namifying, or using a noun as a verb in order to describe the act via the description of the noun.
+Extracted spelling variant:Namify
+6910033 ('Namification', 'Namify')
+One who thrives on popular fads of the moment and constantly seeks the approval of others (sometimes in the calculable form of "Karma") by proving their knowledge and acceptance of these fads.
+Extracted spelling variant:Karma
+7011827 ('memester', 'Karma')
+the plural form of "scrotum"In my gross anatomy class we desired to know the plural word for scrotum. We came up with this word, only to learn from the professor that it was correct. She has her PhD in reproductive physiology... I think she has some credibility!
+Extracted spelling variant:scrotum
+7037752 ('scrota', 'scrotum')
+The adverb form of "douche" or "douchebag". Often used in reference to an individual who portrays traits of the aforementioned words.
+Extracted spelling variant:douche
+7099834 ('Douchely', 'douche')
+Describes the complicated love and affection shared by two straight females where they start to seem like a couple. They enjoy each others company and even though they may constantly joke about being lesbian they are not. Feminine form of "bromance"
+Extracted spelling variant:bromance
+7109277 ('Romansist', 'bromance')
+A series of rhythmical movements performed in honour of a dull or mundane situation. Often accompanied with a positive vocal in the form of a "yay", "yeah", or "woo-hoo"
+Extracted spelling variant:yay
+7145013 ('Mundance', 'yay')
+An alternate form of "major" derived from hipster Americans who are trying to be British. This does not work the same as "colour" or "flavour" does in British spelling. It is "major" in American English and British English.
+Extracted spelling variant:major
+7300627 ('majour', 'major')
+A facetious and sarcastic form of "sorry", often used when recapping the apology in a story detailing personal drama.
+Extracted spelling variant:sorry
+7303863 ('Sorrels', 'sorry')
+A massive form of "prepackaged" truths, meant to suppress the potential intellect and creativity from an already empty society. as well as "help" mold young impressionable minds into the next generation of sleepy shoppers...the sad truth is that there are: -1500 newspapers -1100 magazines, -9000 radio stations -1500 TV stations - and 2400 different publishers in "america"... ALL of them owned by 6 corporations... what ever happened to freedom of press? how can any "news" be reliable when the people who report the news have nothing dollar signs in there eyes...the last thing these greedy monsters want is for people to think for themselves, once we start to think, we start to question... once we start to question, we start to see the lies... once we see the lies...this whole facade crumbles like a house of cards in the wind, and all your left with is just a little man with a really big god complex.Now that you've had a peek behind the curtain it is your responsibility to open your eyes, tear down this stage that's been built around us and demand answers.
+Extracted spelling variant:prepackaged
+7330553 ('media', 'prepackaged')
+When someones boxers are bunched into a clump and stick out of their pants into the form of a "Poof".When one's boxers become exposed to the outside world
+Extracted spelling variant:Poof
+7351684 ('Poof', 'Poof')
+From a root form of "flattery" but combined with the context of "flirting" used to describe someone gay being overly friendly with someone straight, but of the opposite sex.
+Extracted spelling variant:flattery
+7366179 ('fluttering', 'flattery')
+an affectionate form of "prima" (female cousin) in Spanish. Primita is far more common, however. Primota can also/ is probably actually a typo of primita.
+Extracted spelling variant:prima
+7383504 ('Primota', 'prima')
+The French form of "whatever".
+Extracted spelling variant:whatever
+7388879 ('whatevu', 'whatever')
+The downgraded form of "XXX" (Sex) and the upgraded version of "X" (Boner).XX is used to signify a place of masturbation, either in circles or in private sessions.
+Extracted spelling variant:XXX
+7393966 ('XX', 'XXX')
+Beshtija (besh-tee-ya) noun is a term used for a person, most commonly of the female gender, which acts, talks and dresses very trashy. Usually beshtii (plural form of "Beshtija" - pronounced: besh-tee-ee) are also people who come from villages or who live in uncivilized territories and therefore have low social skills or a bad behavior.
+Extracted spelling variant:Beshtija
+7428885 ('Beshtija', 'Beshtija')
+Bogartin:A corrupt form of "Bogarting". "Bogartin" spelling in Ebonics.Correct spelling => Bogarting(Verb transitive form of bogart see bogart. This is the verb form used for an action in progress. When someone is being a bogart. "Dammit Lenny! Stop bogartin the TV remote! You've been watching what you want to watch, all day long.Bogart: (slang noun) To be one who keeps something all for himself. (i.e. "Don't be a bogart Johnny, please share with your sister.")Bogart: (slang intransitive verb) To keep something all for oneself, thus depriving anyone else of having any. A slang term derived from the last name of famous actor Humphrey Bogart because he often kept a cigarette in the corner of his mouth, seemingly never actually drawing on it or smoking it. Often used with weed or joints but can be applied to anything. "Don't bogart that blunt man, pass that over here!"
+Extracted spelling variant:Bogarting
+7555801 ('bogartin', 'Bogarting')
+the adjective form of "ratchet" disgusting or un-attractive
+Extracted spelling variant:ratchet
+7702073 ('dolty', 'ratchet')
+The Egyptian form of "awesome", includes the name of their regional sun-god.
+Extracted spelling variant:awesome
+7705065 ('Rawesome', 'awesome')
+Black fan of the show My Little Pony Friendship is magic. Derived from the words nigga and the noticeable sound from a horse. Technically the most accurate form of "bro"ny since they are black and like the show.
+Extracted spelling variant:bro
+7743838 ('Neighga', 'bro')
+A conjunction of "hashtag activism"; a useless, noxious form of "activism" that takes place in 144 angry, hateful characters or less. This is usually a response to taking offense to something, but ironically is often more offensive than what it is responding to.
+Extracted spelling variant:activism
+7752424 ('Hagtivism', 'activism')
+An autocorrected form of "fuck" that usually makes you seem like you are academically challenged as you struggle to correct the word, but autocorrect keeps fixing it.
+Extracted spelling variant:fuck
+7823697 ('Duck', 'fuck')
+Shortened form of "give" normally used in texting or CoC(clash of clans).
+Extracted spelling variant:give
+7833163 ('giv', 'give')
+Something an admin of Atheist Mingle calls somebody when they ban a person for reporting content because the admins' sense of humour is comprised of uncreative ways to combine a word with the abbreviated form of "faggot" that's spelled "fgt".
+Extracted spelling variant:faggot
+8162545 ('reportfgt', 'faggot')
+Adjective form of "gleebs", a condition wherein the butt cheeks are cold and usually clammy to the touch while the rest of the body remains warm. Could describe a person who is experiencing gleebs.
+Extracted spelling variant:gleebs
+8175732 ('gleeby', 'gleebs')
+The plural form of "vaggie" (a casual sex partner).Vaggie: a casual sex partner. Vaggies: multiple casual sex partners.
+Extracted spelling variant:vaggie
+8204545 ('vaggies', 'vaggie')
+A shortened form of "Bish" which is a form of "Bitch". Can be used as an even more trap dictation of the word bitch.
+Extracted spelling variant:Bish
+8289768 ('Ish', 'Bish')
+Another form of "junkie"
+Extracted spelling variant:junkie
+8595768 ('djanky', 'junkie')
+A debilitating mental disorder that causes a person feelings of extreme inadequacy if they do not engage in some form of "outrage" against actions they believe are unnecessary. Persons afflicted with Outrageophobia are compelled to scour social media sites looking for the next thing they can express outrage over. Occurrences that they are able to make these expressions over generally have nothing what-so-ever to do with them personally, nor do they have any stake in the outcome of their expressed outrage with the exception of the misguided belief that they have "made a difference". These people possess a physical fear of not having something to pronounce their outrage over, as they think that they are somehow forgotten in the world if they aren't making a scene of some sort.
+Extracted spelling variant:outrage
+8644654 ('Outrageophobia', 'outrage')
+To accuse someone of some form of "ism" (sexism, racism etc.) and to proclaim that their denial, or any attempt they make to defend themselves, is proof that they are guilty. A favorite tactic of the social justice warrior.
+Extracted spelling variant:ism
+8704664 ('kafkatrap', 'ism')
+A form of "Daddy" but with a killer penis.
+Extracted spelling variant:Daddy
+8905105 ('kaddy', 'Daddy')
+Another way to say cool. It is a n abbreviated form of "s'cool" which originates from "that's cool."
+Extracted spelling variant:s'cool
+8979546 ('Sku', "s'cool")
+The art of enwrapping another individual with your body for comfort. It may leave the other immobilized while the form of "snuggling" is occuring.
+Extracted spelling variant:snuggling
+9008213 ('Cacooning', 'snuggling')
+food your body does not need comes out the other end in the form of "poop".
+Extracted spelling variant:poop
+9066877 ('poop', 'poop')
+"Orbed" is a word derived from "Orb" and is a past-tense form of "Orb"Orb definition: a spherical body; a globe.
+Extracted spelling variant:Orb
+9982638 ('Orbed', 'Orb')
+Shortened form of "indoctrination" used in a military context to mean initial selection or assessment for elite or otherwise tough units. In other words, a try out.
+Extracted spelling variant:indoctrination
+10119476 ('indoc', 'indoctrination')
+More insulting form of "niggay"Combines offensive slang "nigga" and "Gaylord" to form a word so descriptive it needs a goddamn trigger warningCan be used as a meaningless insult, or if your a racist fella, a genuine insult.
+Extracted spelling variant:niggay
+10185866 ('niggaylord', 'niggay')
+Broad term that could be used to describe any scenario, person, activity, etc ranging from a f*cking firework/light/rap concert to receiving a coupon for a free Chick-fil-A sandwhich. Receiving a compon is obviously the more flush situation but flush, being a very broad term, could be used to describe either scenario. In other words, flush is a less aggressive yet just as awesome form of "lit".
+Extracted spelling variant:lit
+10956048 ('Flush', 'lit')
+An aggressive form of "unfriending", usually with full knowledge that the person is aware of the action
+Extracted spelling variant:unfriending
+10978816 ('defriend', 'unfriending')
+Gerund form of "loose" (of an arrow). The act of firing an arrow in archery. So rare as to be unusable. If in any doubt at all, use the word with the spelling and meaning for "losing".
+Extracted spelling variant:loose
+11358979 ('loosing', 'loose')
+A plural form of "giraff"
+Extracted spelling variant:giraff
+11369407 ('girraves', 'giraff')
+The chemical symbol for Potassium. Can be used interchangeably in documents and in text messages. Can sometimes be used as a shortened form of "Okay" and is also used to represent a letter in the alphabet. However, 90% of the time, "K" means Potassium.
+Extracted spelling variant:Okay
+11635020 ('K', 'Okay')
+An evolved form of "megalomania", where you are basically aware of your hyper delusions of grandeur, yet you can get a hold on them and display your godlike complex whenever you like, turning into a "normal" person when it's needed.The unit prefix -tera is obviously a multiple of -mega.
+Extracted spelling variant:megalomania
+11673851 ('Teralomania', 'megalomania')
+Yiddish form of "Glück"; "luck", "fortune", "mazel."
+Extracted spelling variant:Glück
+11811783 ('Glick', 'Glück')
+Slang or short form of "thanks" or "thank you". Used in memes or often in a joking manner. Orginated by "jj" it spread from Tumblr and into informal conversations. The common reply would be welc
+Extracted spelling variant:thanks
+11860525 ('Thank', 'thanks')
+The Korean word for Korea. Shortened form of "daehanminguk" which means south korea.
+Extracted spelling variant:daehanminguk
+11886032 ('hanguk', 'daehanminguk')
+The singular form of "Portuguese".
+Extracted spelling variant:Portuguese
+11886520 ('Portugoose', 'Portuguese')
+The autistic form of "y'all"This may also occur if the person has a lisp with an accent or just came back from the dentist while still under the effects of drugs
+Extracted spelling variant:y'all
+11938872 ("Y'akl", "y'all")
+The past-tense form of "yeet".
+Extracted spelling variant:yeet
+12082898 ('yote', 'yeet')
+a form of "what", to be used when also suggesting or asking "but...?" simultaneously. especially in response to a narrower-minded, ignorant, or less-informed statement or expression. also, especially to be used with Indian or Spanish accents pronouncing "w" as "v" or "b" as "v", respectively.
+Extracted spelling variant:what
+12096913 ('bwhat', 'what')
+Yeet is a beautiful and commnly misused word. It is very flexible and can take many parts of speech.However, it's tenses are often used incorrectly. In the future, you "will yeet," In the present you "are yeeting," and in the past, "you yote.""Yote" is often replaced with "yeeted," but that is a prime example of poor grammar. Using "yeeted" instead of "yote" would be like saying "eated" instead of "ate." It makes you sound like a baby or a moron."Yeet" as a verb1. to make a violent motion of any variety, such as a "whip," or any motion that may be associated with violent camera shake or photo blur.2. "Yeet" is quite commonly used as a verb for the specific purpose of throwing an object forcefully over a long distance.3. "Yeet" can also be used as something you'd include in a sentence to describe what happened to someone who has been greatly or suddenly defeated in a competition such as sports or a video game."Yeet" as a pro-sentence1. In this case, "yeet" takes the role of "yes." You'd say "yeet" instead of "yes" or "yeah" if you want people to know you're fun and hip."Yeet" as an exclamation1. This form of "yeet" can be exclaimed in any situation where the verb form could be used to describe the action in which the speaker is currently partaking. For instance, if you throw something violently or hit a nasty whip, you may exclaim "Yeet!" while doing so.
+Extracted spelling variant:yeet
+12104578 ('Yeet', 'yeet')
+(n) Aus.The turning of a vehicle around 180 degrees, often upon realising that one is travelling in the incorrect direction. (often following a conjugated form of "chuck"). Similar to "U-ey".Origin: From the phrase "U-turn", characterised by the motion of the vehicle following a "U" shaped turn.
+Extracted spelling variant:chuck
+12109263 ('U-Banger', 'chuck')
+"Mans" is the plural form of "man"
+Extracted spelling variant:man
+12124022 ('Mans', 'man')
+Blend form of "shit" and "oops", means small or accidental mistake which is not serious.
+Extracted spelling variant:shit
+12167242 ('shoops', 'shit')
+used as another form of "oops" or "whoops"
+Extracted spelling variant:oops
+12172779 ('oof', 'oops')
+A sigh of exasperation, apathy, happiness or really any emotion. Can be seen as an exaggerated form of "K". The use of ka as a suffix can be used to indicate the degree of apathy.
+Extracted spelling variant:K
+12193501 ('koi', 'K')
+The superior form of "retarded". It's the most destructive word you can ever use against another living soul. Saying this word to someone will cause them to either die of a heart attack or become so sad that they commit suicide.
+Extracted spelling variant:retarded
+12582916 ('Rarted', 'retarded')
+Popularized by the show Curb Your Enthusiasm, lamping is the act of relaxing while sitting down. "Lampin" may be used as a short form of "lamping".
+Extracted spelling variant:lamping
+12616489 ('Lamping', 'lamping')
+wyeet is a nickname for the celebrity, Wyatt Oleff. wyeet is a noodle head and should be treated as so. wyeet gets upset when you use the wrong form of "you're" and basically is a Grammer freak. but everyone loves him. his brown, noodley hair gives off the personality of himself as a meme. yes, he's a meme. wyeet likes Nintendo and acting.
+Extracted spelling variant:you're
+12697172 ('wyeet', "you're")
+A reversed form of "Japanglish" or "Engrish", where rather being a sentence written in broken English by someone who natively speaks Japanese, it's broken Japanese written by someone who natively speaks English.
+Extracted spelling variant:Japanglish
+12728842 ('Epanese', 'Japanglish')
+Unique, separate form of "Candace". Usually smart, beautiful, strong-willed. Amazing survival skills. Some may be nicknamed as "Dacey" which has a whole other page. Caring, straight forward, and a bit territorial if she feels threatened. Can be very bitchy when the time is appropriate. Most Candacey's are a tad rebellious, which can be overbearing at times. In the end, they make AMAZING friends. Be proud if your name is Candacey because you have wonderful qualities. Stay beautiful.
+Extracted spelling variant:Candace
+12737889 ('Candacey', 'Candace')
+1. An island off the southern coast of Victoria 2. A shithole 3. A place that we should sell to China 4. Australia's future nuclear testing ground 5. Long form of "Tassie"
+Extracted spelling variant:Tassie
+12874296 ('Tasmania', 'Tassie')
+527

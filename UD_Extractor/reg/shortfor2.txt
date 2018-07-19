@@ -1,0 +1,314 @@
+Starting loading Urdian Dict corpus ...
+short for "aggrevation"; same as "drag" or "bitch". can be used as a verb as well.
+Extracted spelling variant:aggrevation
+21922 ('agg', 'aggrevation')
+short for "downloaded"
+Extracted spelling variant:downloaded
+23526 ("DL'D", 'downloaded')
+short for "definitely"
+Extracted spelling variant:definitely
+25465 ('def', 'definitely')
+short for "dickweed"
+Extracted spelling variant:dickweed
+26075 ('weed', 'dickweed')
+short for "cigarette" (if filled with marijuana it's a cigaweed).
+Extracted spelling variant:cigarette
+110530 ('cig', 'cigarette')
+short for "jabroni" - look it up
+Extracted spelling variant:jabroni
+128180 ('jabs', 'jabroni')
+short for "peckerwood" this is a term used to describe a white boy.
+Extracted spelling variant:peckerwood
+140265 ('Wood', 'peckerwood')
+short for "Whopper", a very long blunt (marijuana cigar) that is constructed from more than one cigar pasted together. If rolled with Optimo cigars, a whop is said to be a "whoptimo". Also may be spelled "wop".
+Extracted spelling variant:Whopper
+150979 ('Whop', 'Whopper')
+short for "niggins". word for friend or homeboy.
+Extracted spelling variant:niggins
+158473 ('niggy', 'niggins')
+short for "everyone" ... coined by the natives of Gilroy California
+Extracted spelling variant:everyone
+198522 ('evz', 'everyone')
+short for "every"
+Extracted spelling variant:every
+226520 ("er'", 'every')
+short for "captain", also term for ugly men with long noses and beady eyes
+Extracted spelling variant:captain
+250520 ('cappy', 'captain')
+short for "somthing" but shortend for ease of use and coolness
+Extracted spelling variant:somthing
+301899 ('suen', 'somthing')
+short for "brutal" - used to denote something arduous or demanding.
+Extracted spelling variant:brutal
+305757 ('Brute', 'brutal')
+short for "uniform"
+Extracted spelling variant:uniform
+325577 ('uni', 'uniform')
+short for "serious"
+Extracted spelling variant:serious
+329552 ('serial', 'serious')
+short for "what"... used when your more confused than usual
+Extracted spelling variant:what
+344327 ('Wha', 'what')
+short for "fabian"
+Extracted spelling variant:fabian
+349249 ('Fubz', 'fabian')
+short for "Budweiser" Budweiser is the most popular cheap American beer.
+Extracted spelling variant:Budweiser
+367316 ('Bud', 'Budweiser')
+short for "subtitle" as in foreign films
+Extracted spelling variant:subtitle
+368527 ('Sub', 'subtitle')
+short for "Amerikano" which is a Filipino term for an American man
+Extracted spelling variant:Amerikano
+372257 ('kano', 'Amerikano')
+short for "hilarious"
+Extracted spelling variant:hilarious
+449304 ('hil', 'hilarious')
+short for "enough", but often "enough" is used to mean "lots of".
+Extracted spelling variant:enough
+483291 ('NUFF', 'enough')
+short for "eliteness". (eLiTeNeSs) mostly used by gamers, script-kiddies and other nerds.
+Extracted spelling variant:eliteness
+537440 ('ltns', 'eliteness')
+short for "piggish". Used to express disgust at someone or something.
+Extracted spelling variant:piggish
+567623 ('gish', 'piggish')
+short for "venus", a distortion of the word "penis". Very useful in an open plan office situation where shouting "you PENIS!" at someone may be deemed offensive
+Extracted spelling variant:venus
+584289 ('veen', 'venus')
+short for "credibility". An ability to inspire belief in others.
+Extracted spelling variant:credibility
+711262 ('cred', 'credibility')
+short for "phooey"; term used when something goes unaccording to plan or when something unexpected happens.
+Extracted spelling variant:phooey
+727556 ('foo', 'phooey')
+short for "criminal" used by white people to describe black people because they're all criminals.
+Extracted spelling variant:criminal
+728262 ('crim', 'criminal')
+short for "details", usually details of gossip
+Extracted spelling variant:details
+843058 ('deets', 'details')
+short for "schwag", the lowest quality of marijuana
+Extracted spelling variant:schwag
+1066784 ('wag', 'schwag')
+short for "jitterbug" or better known as the Lindy Hop developed in 1920's 1st as a partnered dance amoungst whites but a solo dance later developed by blacks during WWII.... revitalized during early 1980s in Detroit area called the "jitt" amoung young urbanites as a battle dance....to conteract the Pop Lock for west coasters or Break Dancers from NYC....signature battle dance of Detroit
+Extracted spelling variant:jitterbug
+1077758 ('jit', 'jitterbug')
+short for "Ravenswood", a housing commision suburb in the city Launceston, Tasmania, Australia. Ravo can be used to describe the suburb itself, or its inhabitants.
+Extracted spelling variant:Ravenswood
+1089852 ('ravo', 'Ravenswood')
+short for "because" or "'cause" or other word for brother, cousin, friend, etc.
+Extracted spelling variant:because
+1113324 ('cuz', 'because')
+short for "Yuliana" or a name for boys that's being hautely used for girls now. Yulies are AWESOME, a BIT vain, smart, entertaining, riveting( like those movies) and much MUCH more!
+Extracted spelling variant:Yuliana
+1152583 ('Yuli', 'Yuliana')
+short for "babe" or "baby." can be used to refer to an actual baby, or as a pet name.
+Extracted spelling variant:babe
+1153957 ('beb', 'babe')
+short for "definatley"
+Extracted spelling variant:definatley
+1176468 ('def', 'definatley')
+short for "geography"
+Extracted spelling variant:geography
+1195804 ('geoggers', 'geography')
+short for "Kawisaki" (motorcycles).
+Extracted spelling variant:Kawisaki
+1295070 ('kawi', 'Kawisaki')
+short for "featuring".
+Extracted spelling variant:featuring
+1305851 ('feat.', 'featuring')
+short for "between"
+Extracted spelling variant:between
+1309493 ('btn', 'between')
+short for "obviously"
+Extracted spelling variant:obviously
+1378878 ('obvies', 'obviously')
+short for "probably". used sarcastically.
+Extracted spelling variant:probably
+1554571 ('probs', 'probably')
+short for "iPod" no, not the same as "POD" a friggin' music player!
+Extracted spelling variant:iPod
+1578179 ('pod', 'iPod')
+short for "turrible", which is a way of saying "terrible"
+Extracted spelling variant:turrible
+1717530 ('turr', 'turrible')
+short for "helmet" helm is another word used for the head of the male penis. The helm if covered in foreskin, can cause smeg and nob cheese to form in sometimes copius amounts. if unsheethed the helm normally remains clean and can sometimes be pleasant to the touch.
+Extracted spelling variant:helmet
+1779737 ('helm', 'helmet')
+short for "congratulations" in cyber speak
+Extracted spelling variant:congratulations
+1798647 ('graz', 'congratulations')
+short for "coxswain"-- which is a short and light person who attempts to motivate their rowers by telling them to not to focus on the pain but just make them 'proud'
+Extracted spelling variant:coxswain
+1835869 ('cox', 'coxswain')
+short for "Puroresu", which is short for "Purofessionoru Resoringu"; puro is Japanese-style professional wrestling
+Extracted spelling variant:Puroresu
+1865342 ('puro', 'Puroresu')
+short for "shotgun"; used when you are trying to get the front passenger seat when you and your friends are piling into a car to go somewhere; complete opposite of the seat know as "bitch"
+Extracted spelling variant:shotgun
+1886212 ('gun', 'shotgun')
+short for "mathematics". A science taught in schools varying form "basic math" to "calculus" and "statistics". It is known as the study of measurement and properties using numbers and symbols such as < > + = - / and countless others as the work becomes more difficult.
+Extracted spelling variant:mathematics
+1926395 ('math', 'mathematics')
+short for "Aircraft"
+Extracted spelling variant:Aircraft
+2202626 ('a/c', 'Aircraft')
+short for "always", but not usually used unless in north-west West Virginia.
+Extracted spelling variant:always
+2254921 ('oys', 'always')
+short for "afrubes". Large bushy pubic hair resembling an afro.
+Extracted spelling variant:afrubes
+2296644 ('frubes', 'afrubes')
+short for "them" people are to lazy for them
+Extracted spelling variant:them
+2393150 ('dem', 'them')
+short for "Bottleneck". The top section of a bottle broken off about 2 to 3 inches long with a girrick in the end to hold the weed and prevent it from being sucked down the throat when it is lit from the jagged end.
+Extracted spelling variant:Bottleneck
+2400829 ('neck', 'Bottleneck')
+short for "percolator" (I could be spelling that wrong). A perc is an additional chamber in a bong, and its purpose is to make the hit more smooth. Bongs can have multiple percs.
+Extracted spelling variant:percolator
+2460038 ('perc', 'percolator')
+short for "supermodel"
+Extracted spelling variant:supermodel
+2590808 ('supe', 'supermodel')
+short for "tomorrow". originally only used online by the kind of person who writes like "wut ^" but it expanded and now is said in everyday real life conversation and frequently used by people who type like an actual intellegent person online. prounced "tee-moe"
+Extracted spelling variant:tomorrow
+2627332 ('tmo', 'tomorrow')
+short for "suboxone" or "subutex" or buprenorphine. the only other drug, besides methadone, that is used to treat opiod dependance. It is legally presecribed in a doctor's office but has been found to be illegally sold and used in recent years.
+Extracted spelling variant:suboxone
+2655105 ('sub', 'suboxone')
+short for "outfit", they are clothes put together to create a total look, an outfit.
+Extracted spelling variant:outfit
+2802724 ('fit', 'outfit')
+short for "unfortunate", plain and simple
+Extracted spelling variant:unfortunate
+3093583 ('un4tun8', 'unfortunate')
+short for "myspaceturbate", this is the most sketchy form of myspace stalking: going to the profile of someone you find attractive, and proceeding to rub one out to their pictures. Similar to faceturbate, but so much more sketchy in that it's myspace.
+Extracted spelling variant:myspaceturbate
+3146790 ('spaceturbate', 'myspaceturbate')
+short for "chillen" or "chilling"
+Extracted spelling variant:chillen
+3157317 ('illen', 'chillen')
+short for "fungus", meaning shrooms.
+Extracted spelling variant:fungus
+3182227 ('gus', 'fungus')
+short for "discography" blogger slang for the entire collection of released EP's by any musical artist (typically downloaded for free)
+Extracted spelling variant:discography
+3200967 ('disco', 'discography')
+short for "wizard" and usually used to indicate that someone is talented at a particular task.
+Extracted spelling variant:wizard
+3268190 ('wiz', 'wizard')
+short for "penis"
+Extracted spelling variant:penis
+3418537 ('zine', 'penis')
+short for "souvenir"; a small present brought back from a certain place as a memento
+Extracted spelling variant:souvenir
+3575741 ('souvie', 'souvenir')
+short for "alright" "okay" forsure"
+Extracted spelling variant:alright
+3734735 ('aight', 'alright')
+short for "nephews", this word is commonly used to describe your close friends or relatives in the hood. This word is similar to the word "homies", but is used in more serious situations. Not to mention this word can also be used in place of "swear to god"
+Extracted spelling variant:nephews
+3750857 ('nefs', 'nephews')
+short for "Totally" Fun Fact: it is known as the stoner-est word in existence.
+Extracted spelling variant:Totally
+3820902 ('Totes', 'Totally')
+short for "shah" "juice." An alcoholic mix drink which was designed by Rahul Shah
+Extracted spelling variant:shah
+3898486 ('shuice', 'shah')
+short for "default". Used to refer to one's profile pic/display pic on a social networking site
+Extracted spelling variant:default
+3949508 ('deef', 'default')
+short for "invitation"
+Extracted spelling variant:invitation
+4020243 ('invite', 'invitation')
+short for "snuggles"
+Extracted spelling variant:snuggles
+4169181 ('Snuggs', 'snuggles')
+short for "shmeautiful", a word that you put in front of someone's name if that person is beautiful and you do not want them or anyone around you to know you're talking about them.
+Extracted spelling variant:shmeautiful
+4930951 ('shmeaut', 'shmeautiful')
+short for "rambunxious" : spunky, bold, bodacious, slightly disorderly, edgy
+Extracted spelling variant:rambunxious
+5012402 ('bunxious', 'rambunxious')
+short for "sardy" "sardacious" "mmm sardy"1. a word commonly used by young bros and brahs to describe an phenomenal act/feat of coolness, hotness, awesomeness, & greatness.
+Extracted spelling variant:sardy
+5036366 ('sart', 'sardy')
+short for "sardy" "sardacious" "mmm sardy"1. a word commonly used by young bros and brahs to describe an phenomenal act/feat of coolness, hotness, awesomeness, & greatness.
+Extracted spelling variant:sardy
+5036402 ('sardy', 'sardy')
+short for "standard" used as a term of agreement, to do something with friends etc also can be used as a showing appreciation. Used mainly in the UK London.
+Extracted spelling variant:standard
+5133601 ('Stan', 'standard')
+short for "mubarak".. an urdu word which means congratulations
+Extracted spelling variant:mubarak
+5272612 ('Mubz', 'mubarak')
+short for "headphones"
+Extracted spelling variant:headphones
+5601816 ('Fones', 'headphones')
+short for "serious", common lingo between douche bags and fags. Other common words are used such as "yon" and "non"
+Extracted spelling variant:serious
+5727698 ('seer', 'serious')
+short for "Horrendous"; also, to get very drunk or inebriated. Only said by absolute pricks.
+Extracted spelling variant:Horrendous
+5790980 ('Rendo', 'Horrendous')
+short for "fitsporation"Images of active, strong, and fit women that promote proper exercise and diet. May also include images healthy foods much like thinspo (images of dangerously thin women used by people with eating disorders to motivate) but healthier.
+Extracted spelling variant:fitsporation
+5989152 ('Fitspo', 'fitsporation')
+short for "valentine" aka "cupid" basically this is a guy who can help you through a tough breakup or anything like that. typically tends to be surrounded by more girls than guys. might give the impression that hes, but in no way is, gay. Great friend to both sexes when in a private or serious situation but can act out in public. might sometimes interest girls but not too much.
+Extracted spelling variant:valentine
+6127194 ('valent', 'valentine')
+short for "ghetto". to describe a lame, stupid, uncool person, place, or idea.or to type l!l<3 d!$originally created by dayna chu and victor quach.
+Extracted spelling variant:ghetto
+6426965 ('ghetz', 'ghetto')
+short for "turd"
+Extracted spelling variant:turd
+6925793 ('urd', 'turd')
+short for "bustdown"; a ho/slut who sleeps with a lot of different guys, especially ones in the same gang, crew, set, etc.
+Extracted spelling variant:bustdown
+6963867 ('busty', 'bustdown')
+short for "usual" - you know because that's just to many letter to type - or say.
+Extracted spelling variant:usual
+7486413 ('yuj', 'usual')
+short for "lowkey", to keep things on the down low; to be secretive over something.
+Extracted spelling variant:lowkey
+7737961 ('lokes', 'lowkey')
+short for "precious"; adorable, sweet, or perfect
+Extracted spelling variant:precious
+7938420 ('Presh', 'precious')
+short for "dick" usually said by slutty girls
+Extracted spelling variant:dick
+8158470 ('d', 'dick')
+short for "wrecked" which means that you have beat someone at something.
+Extracted spelling variant:wrecked
+8593999 ('rekt', 'wrecked')
+short for "issue", as used in comic series.
+Extracted spelling variant:issue
+10039583 ('ish', 'issue')
+short for "deadass" and deadass means dead serious or serious
+Extracted spelling variant:deadass
+10154483 ('da', 'deadass')
+short for "Delay" (or 'delayed'). Refers to public transport (trains, buses, planes etc) running behind their scheduled time.
+Extracted spelling variant:Delay
+11056632 ('DLY', 'Delay')
+short for "satisfied". Used to express extreme satisfaction, usually used in reaction to an aesthetically pleasing picture or video.
+Extracted spelling variant:satisfied
+11332728 ('fied', 'satisfied')
+short for "source". comes from html
+Extracted spelling variant:source
+11736821 ('src', 'source')
+short for "refrigeration"
+Extracted spelling variant:refrigeration
+11824232 ('reefer', 'refrigeration')
+short for "dipshit"
+Extracted spelling variant:dipshit
+11884822 ('dips', 'dipshit')
+short for "haggard" - that really shitty feeling when it hits about mid-day after a long night of drinking and/or other shenanigans with minimal sleep. it's that tired hangover feeling sets in where you don't feel human and just want to crawl in bed but have to suffer through another 6 hours of work.even though you showered you still feel dirty, not just physically but also emotionally because you somehow also blacked out part of the night. you want to nap but can't. all you want to do is crawl your hungover ass back to bed and swear that you won't go out again tonight.
+Extracted spelling variant:haggard
+12144511 ('hags', 'haggard')
+short for "defend" "defending".
+Extracted spelling variant:defend
+12746798 ('fend', 'defend')
+104

@@ -1,0 +1,59 @@
+Starting loading Urdian Dict corpus ...
+short for 'internet', or 'the web'. Www is shorter.
+Extracted spelling variant:internet
+484630 ('inet', 'internet')
+short for 'coitis' (sexual intercourse)
+Extracted spelling variant:coitis
+667093 ('coit', 'coitis')
+short for 'holidays'
+Extracted spelling variant:holidays
+783417 ('hols', 'holidays')
+short for 'limited', commonly used in some companies, short for 'limited liability' and used in some insureance compnaies
+Extracted spelling variant:limited
+1001389 ('Ltd', 'limited')
+short for 'published'.
+Extracted spelling variant:published
+1464363 ("pub'd", 'published')
+short for 'Trevzor' . another word for a little robot boy, usually with too many feelings.
+Extracted spelling variant:Trevzor
+1748093 ('t-zor', 'Trevzor')
+short for 'thingamajig'
+Extracted spelling variant:thingamajig
+2024162 ("m'jig", 'thingamajig')
+short for 'commission' often used to name the government commissioned (paid for) houses similar to the ghetto
+Extracted spelling variant:commission
+2090799 ('mish', 'commission')
+short for 'woodblock' or 'woodzblock' an area around the woodlands school
+Extracted spelling variant:woodblock
+2400664 ('wbk', 'woodblock')
+short for 'gulti' . Basically a person whose mother toungue is telugu. Used heavily in IIT lingos , where half the people r gults. Gult is a derogatory form of saying a he is a telugu . Also a person whose name has more than 25 letters .
+Extracted spelling variant:gulti
+2682592 ('gult', 'gulti')
+short for 'sorry', except in a four-letter word form with no vowels, making it not actually a real word
+Extracted spelling variant:sorry
+2859053 ('syrz', 'sorry')
+short for 'commotion', as in "what's the commotion?". Used by hipster snobs to unnecessarily confuse ordinary discourse, often with intent to elicit an air of superiority.
+Extracted spelling variant:commotion
+2972621 ('commode', 'commotion')
+short for 'buliaco', a nickname given to the first-born son of a family of 6 in Texas
+Extracted spelling variant:buliaco
+3611113 ('buli', 'buliaco')
+short for 'gerbang' in reference to a single person. A goth/punk/emo who tries too hard to fit the stereotype. Mostly refers to a goth wanna-be.
+Extracted spelling variant:gerbang
+3640510 ('Gerb', 'gerbang')
+short for 'evidently'. evs is the new obvs.
+Extracted spelling variant:evidently
+4276885 ('evs.', 'evidently')
+short for 'allow'. 'low it' can mean leave it, forget about it, let it happen, don't argue, just do it.
+Extracted spelling variant:allow
+4885085 ('low', 'allow')
+short for 'details'
+Extracted spelling variant:details
+4919029 ('dets', 'details')
+short for 'shattered'
+Extracted spelling variant:shattered
+5645169 ('shats', 'shattered')
+short for 'It's OK'A response phrase that means 'don't worry about it'.
+Extracted spelling variant:It
+6474570 ('issok', 'It')
+19

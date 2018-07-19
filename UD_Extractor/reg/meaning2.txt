@@ -1,0 +1,116 @@
+Starting loading Urdian Dict corpus ...
+meaning "whatever"
+Extracted spelling variant:whatever
+7103 ('Pssshhh', 'whatever')
+meaning "husband" as the term "wifey" means wife.
+Extracted spelling variant:husband
+8093 ('hubby', 'husband')
+meaning "ugly"
+Extracted spelling variant:ugly
+20246 ('sloppy', 'ugly')
+meaning "ok" but saying it "cutely"
+Extracted spelling variant:ok
+492678 ('otays', 'ok')
+meaning "teeth"
+Extracted spelling variant:teeth
+692997 ('toif', 'teeth')
+meaning "drunk" or "innebriated". a term used to describe an intense state of happy drunkenness.
+Extracted spelling variant:drunk
+802572 ('duzzied', 'drunk')
+meaning "awesome", "cool", "hardcore", "classic","great" etc...can be used in context when discribing an object or a situation or an assesment of the general and overall coolness of something.
+Extracted spelling variant:awesome
+912127 ('PRICE', 'awesome')
+meaning "fake" or "false". prefix. made popular by 7th grade science.
+Extracted spelling variant:fake
+986932 ('pseudo', 'fake')
+meaning "drop" or "fall", or also used as baisser, meaning "to lean down or lean over." It does not mean "fuck," as seen in baise, which is also mispelled. Used with "toi," the word creates a command to someone to bend over to later engage in sex that has the connection of a sexual refrence, to which the word "fuck" must have been incorrectly interpreted by others.
+Extracted spelling variant:drop
+1012896 ('baisse', 'drop')
+meaning "D"isplay "P"icture on msn messenger
+Extracted spelling variant:D
+1102984 ('dp', 'D')
+meaning "exactly",- used by drunkards who cannot speak nor type properly. First used in the english translation of 'Asterix and the Laurel Wreath.'
+Extracted spelling variant:exactly
+1131095 ('zigzactly', 'exactly')
+meaning "band" from an internet forum. originates from putting B and the & symbol together, thus b-and, to simplify it on a keybord "b7" is used. this is used in almost every thread on the internet forum GENMAY.com
+Extracted spelling variant:band
+1196663 ('B7', 'band')
+meaning "night" Comes from combining the letter "n" and the german word "acht" (8) together to form "nacht", the German word for night.
+Extracted spelling variant:night
+1214050 ('n8', 'night')
+meaning "faces" in italian, the american version is to be said with emphasis on the first letter and refers to the singular "face"-- unless you say "faches", in which case it is plural. Can also be shortened to "fach".
+Extracted spelling variant:faces
+1407567 ('fache', 'faces')
+meaning "really" or "very"
+Extracted spelling variant:really
+1681169 ('Type', 'really')
+meaning "sucks" or "sucking"
+Extracted spelling variant:sucks
+1702473 ('suxx0rs', 'sucks')
+meaning "effin" awkward, it is used to characterize the most awkward situations encountered.
+Extracted spelling variant:effin
+1725934 ('fawkward', 'effin')
+meaning "yeah" in a exciting way. lol
+Extracted spelling variant:yeah
+1824725 ('durr', 'yeah')
+meaning "forreal"
+Extracted spelling variant:forreal
+2176713 ('fuhruh', 'forreal')
+meaning "thenite" or "tonight." originating in Scotland, "thanoyte" can be added to the end of many sentences or words to emphasize the importance of the matter, or to emphasize excitement.
+Extracted spelling variant:thenite
+2418016 ('thanoyte', 'thenite')
+meaning "magical" in the Navajo language.
+Extracted spelling variant:magical
+2664379 ('wuhjohnjeaux', 'magical')
+meaning "small" in reference to the body. Short for llamsy dob, which is "small body" backwards.
+Extracted spelling variant:small
+2737223 ('llamsy', 'small')
+meaning "queen" but it's also the name of this totally awesome girl from folsom california she is totally modest and extreamly hot!! she can be selfesh at times though
+Extracted spelling variant:queen
+2960288 ('Quarisa', 'queen')
+meaning "no" when conversing with someone.
+Extracted spelling variant:no
+3192355 ('nair', 'no')
+meaning "diamond" in Hawaiian. anyone of this name is a walking goddess. definently not a chick to mess with. she gets down.
+Extracted spelling variant:diamond
+3254696 ('Kaimana', 'diamond')
+meaning "bitch" or "pussy" ..it'z usually added with other words. Mostly used in tha Bay Area of California.
+Extracted spelling variant:bitch
+4011944 ('Okie', 'bitch')
+meaning "pleasantness". a girl that when you see her you day is a continuous smile :) she is SUPER SUPER hot...but thinks she's not!!! always dressed well, with an amazing taste for fashion. loves drinking, and is hilarious when tipsy! every second spent with her is A M A Z I N G!!!!!!!
+Extracted spelling variant:pleasantness
+4029772 ('noema', 'pleasantness')
+meaning "Beloved"
+Extracted spelling variant:Beloved
+4550089 ('Sherry', 'Beloved')
+meaning "moon" in Japanese. A good nickname for a woderful girl. Drop dead gorgeous girl. She is very respectful, beautiful, sweet, somewhat sassy girl. She is respectful and amazing at everything there is. Her eyes are brown, her hair is gorgeously beautiful. I look at her and i do see the moon.
+Extracted spelling variant:moon
+4700952 ('tsuki', 'moon')
+meaning "ugh" or "meh". often used as a sign of frustration or a statement similar to "i'm a faggot". Can be used as a verb, noun, adjective, onomatopoeia, and backscratcher.
+Extracted spelling variant:ugh
+5037862 ('Merh', 'ugh')
+meaning "forever" in Bolaylay, an obscure Georgian language that is survived by three speakers
+Extracted spelling variant:forever
+5195015 ('ploeblo', 'forever')
+meaning "cool" or "good" can be used in the phrase "it's all taco's baby"
+Extracted spelling variant:cool
+5311566 ('Taco', 'cool')
+meaning "worrier" in Turkish. Usually is the last name of somebody. Also a slang term for the phrase, "Yah Trick Yah"
+Extracted spelling variant:worrier
+5331330 ('Vural', 'worrier')
+meaning "awkward" or "weird"..an uncomfortable situationDeriving from the word "awkward" which can be shortened to "awks" ....which sounds like..."ox". the plural(kind of like the long word of awkward) is oxen.so. awks = ox awkward = oxen.
+Extracted spelling variant:awkward
+5817512 ('oxen', 'awkward')
+meaning "better" but in kindergarten dialect. generally only used during conversation with children or girlfriends.
+Extracted spelling variant:better
+6240303 ('bewtuh', 'better')
+meaning "shit"... said when something doesn't go as planned
+Extracted spelling variant:shit
+11103752 ('ses', 'shit')
+meaning "need" in italian. Coolest fam in da world!!! even tho the sons an asshole there is always a way everything ends out okay. the mom is chill but naggy and the dad is the backbone of the fam. the daughter (s) are extremely pretty and athletic. this family is very dysfunctional, from every generation of it. overall, the most amazing family around!
+Extracted spelling variant:need
+11225902 ('bisogno', 'need')
+meaning "stolen" or "taken" or even "snatched"
+Extracted spelling variant:stolen
+12122147 ('Thefted', 'stolen')
+38

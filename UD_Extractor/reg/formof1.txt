@@ -1,0 +1,455 @@
+Starting loading Urdian Dict corpus ...
+Plural form of 'jawn' (A person, place, or thing)
+Extracted spelling variant:jawn
+9476 ('Jawns', 'jawn')
+altered form of 'shit'
+Extracted spelling variant:shit
+15019 ('sheazy', 'shit')
+The oldest form of 'dajto' that preceeds even 'dto'. An ap.
+Extracted spelling variant:dajto
+21075 ('dito', 'dajto')
+An older form of 'dz'. An ap.
+Extracted spelling variant:dz
+21077 ('darknez', 'dz')
+A special form of 'yay' with emphasis on the Y. Used to express delight or happiness. (first introduced by Maria Marklove)
+Extracted spelling variant:yay
+60489 ('YaY', 'yay')
+cooler form of 'dickless'
+Extracted spelling variant:dickless
+93604 ('dickles', 'dickless')
+1. cousin; friend; brotha; homey/homie 2. The newbian short form of 'because'
+Extracted spelling variant:because
+173744 ('cuz', 'because')
+abreviatted form of 'quality'
+Extracted spelling variant:quality
+192219 ('quallo', 'quality')
+Greater form of 'squish': to crush, crunch, annihilate, smash, or otherwise cause a disgustingly GRUESOME DEATH, usually by a massive falling object.
+Extracted spelling variant:squish
+225828 ('squeesh', 'squish')
+Noun - Persian word for "penis"; however, extremely derogatory. (i.e. cock) A word youth use to communicate with each other; one of the most commonly taught Persian slang words to people of non-Persian descent. May also be used in the form of 'keery' (adjective)
+Extracted spelling variant:keery
+226791 ('keer', 'keery')
+From the skater and phreaker slang "okay rad" (rad was short form of 'radical') commonly shortened to "kay rad". Was shortened to "krad" in text communications, possibly spawned "kthx".
+Extracted spelling variant:radical
+231255 ('krad', 'radical')
+the noun form of 'duh'. It also can take the place of 'duh' in some situations.
+Extracted spelling variant:duh
+239321 ('Durhay', 'duh')
+Plural form of 'crisis'.
+Extracted spelling variant:crisis
+252108 ('crises', 'crisis')
+Abbreviated form of 'feral', meaning disgusting.
+Extracted spelling variant:feral
+256845 ('Fez', 'feral')
+Egyptian form of 'fucking'
+Extracted spelling variant:fucking
+327897 ('phucking', 'fucking')
+To resolve, combination of verb form of 'correct' and 'rectify'. As heard on the Jerry Springer show
+Extracted spelling variant:correct
+512440 ('Correctify', 'correct')
+A form of 'yall' or 'you guys' used normally in the south but is quickly making it's way north in the midwest.
+Extracted spelling variant:yall
+566492 ('yens', 'yall')
+A term used by idiots thinking that it is the singulal form of kudos when kudos is accualy the singular form of 'kudos' the plural form of kudos is pronounced 'coo-doze' and the singular form is pronounced 'coo-dose' both are spelled the same. On Dictionary.com kudo is defined as a real word. under the defanition of kudos they explain that kudo is incorrect. you may be thinking 'But if lots of people use it it's a word' well lots of people arereally fuckin' stupid, too, should we just accept their standards? Thanks to George Carlin
+Extracted spelling variant:kudos
+616980 ('kudo', 'kudos')
+a hip new alternative to newbie and all its variations. shortened form of 'novice'
+Extracted spelling variant:novice
+651471 ('novvie', 'novice')
+A painful form of 'entertainment' only to be attempted when very, very, very drunk. (see also tribute band)
+Extracted spelling variant:entertainment
+700740 ('karaoke', 'entertainment')
+Used in the Welsh valleys as an alternative to mate or friend, the shortened form of 'spa' is also acceptable.
+Extracted spelling variant:spa
+767862 ('spadge', 'spa')
+Noun form of 'n00bish'.
+Extracted spelling variant:n00bish
+840489 ('n00bishness', 'n00bish')
+Preferred adjectival form of 'n00b'.
+Extracted spelling variant:n00b
+840490 ('n00bish', 'n00b')
+1. adjective.: having or coated in fur. 2. adjective.: being related to the 'furry' community, such as artwork, stories. 3. mistake.: A misspelling of fury =P 4. noun.: a. One who shows interest in things that can be described with the 'furry' adjective. b. One who prefers to imagine themself as more animalistic than they are. Other related definitions: stereotype-furry: Derogatory generalization of how many 'furry-haters' see the noun form of 'furries' as, usually portrayed as pitiful homosexual men who dress up as the animal they like or 'want to fuck' the most, and have sex with their animals. This is in fact not what 99% of 'furries' are like, however, being the most widely publicized, it is also the most widely criticized. furry-hater: One who takes it upon themselves to be prejudice against the noun form of 'furries', usually assuming that all 'furries' are 'stereotypical furries', needlessly persuing some sort of apparent need to let everyone know that they hate 'furries' 99% of all furries: Some draw, some write, some read, some listen to stories, most keep to themselves because of 'furry-haters' Just like everyone else, some are male, some are female, and just like everyone else, some are gay, some are straight, and just like everyone else, most go to school or have a job.
+Extracted spelling variant:furries
+954099 ('furry', 'furries')
+Perjorative form of 'synergy', as popularized by the website defamer.com
+Extracted spelling variant:synergy
+985756 ('shitergy', 'synergy')
+Slang shortform of 'evangelism'. Used as a noun describing the act of 'reaching out', talking to strangers in public about Jesus Christ, or their faith.
+Extracted spelling variant:evangelism
+989487 ('vangie', 'evangelism')
+Shortened form of 'umpire' used by baseball players, managers, and anyone connected with the game.
+Extracted spelling variant:umpire
+1000329 ('Ump', 'umpire')
+A form of 'moaning'. Primarily used by women to complain about nearly anything and everything.
+Extracted spelling variant:moaning
+1086092 ('Nag', 'moaning')
+dno is a shortened form of 'don't know'. it's often used in chatrooms or IRC
+Extracted spelling variant:don
+1235809 ('dno', 'don')
+Yesp is a form of 'yes', it could possibly mean I agree, or as an answer to a question. The word yesp is drived from the English word yes and the language of the snakes.
+Extracted spelling variant:yes
+1330561 ('yesp', 'yes')
+FALLACIOUS plural form of 'penis'
+Extracted spelling variant:penis
+1355794 ('penii', 'penis')
+A shortened form of 'Devastation' to express unluckiness or to jeer at someone.
+Extracted spelling variant:Devastation
+1378943 ('devo', 'Devastation')
+the politically correct form of 'waiter'\'waitress'
+Extracted spelling variant:waiter
+1384505 ('server', 'waiter')
+Colloquial form of 'Blatently', used to express agree ment about something, or to state something's obviousness.
+Extracted spelling variant:Blatently
+1502697 ('Blaters', 'Blatently')
+A sorry excuse for on-campus participation in clubs and a form of 'purchasing' friends or as they are known amonst themselves...'brothers', for life; in which their frats always has to revolve 2-3 greek letters, revolve around a 5 party school weekday with different types such as a 'kickback' or a 'hoe-down'...with non-stop spirits all night
+Extracted spelling variant:purchasing
+1582118 ('fraternity', 'purchasing')
+A sorry excuse for on-campus participation in clubs and a form of 'purchasing' friends or as they are known amonst themselves...'brothers', for life; in which their frats always has to be named around 2 to 3 greek letters, revolve around a 5 party school weekday with different types such as a 'kickback' or a 'hoe-down'...with non-stop spirits all night
+Extracted spelling variant:purchasing
+1587203 ('fraternity', 'purchasing')
+the lowest form of 'expression' through music usually involves speaking slightly faster than ordinary people and in a retarded monotonous voice can be performed by anyone, but usually by black people the 'rapper' must dress like a gangsta does not necessarily have to have good knowledge of the language being used, for example chinese rapper 'gin' Usually includes references to all the niggers in the hood and sex or drugs and rap videos always include the rapper showing off with money that they dont have dancing with chicks who they will never get laid by, wearing copious amounts of bling rap is now seen as an alternative to real music like rock and punk rock. The majority of listeners are americans who cant afford to go to a rock concert so listen to rap instead at home wid da homies
+Extracted spelling variant:expression
+1653712 ('rap', 'expression')
+1. Another word for 'loser'. Especially one that writes "poetry" and considers themselves "forsaken". 2. Extreme form of 'ever'.
+Extracted spelling variant:ever
+1661357 ('evar', 'ever')
+Bastardization(s): Tigga (noun; Pronun: TIG-URR) The white-boy version of the racially discriminatory term 'nigger'. 'Tigger' is to be used when the word 'nigger' is just not appropiate. For example, 'nigga' may not be an appropiate word to use if you are whiter than glue and you're trying to sing some DMX while cruising in the 'hood with the windows rolled down in your '06 Focus. 'Tigger' can also be used in the form of 'tigga', which has the same meaning. It is rumoured that this bastardization will give wiggers more street cred. I think it was street cred anyway. That or bullet holes; but I can't be bothered to check...
+Extracted spelling variant:tigga
+1668769 ('tigger', 'tigga')
+Similar to hypies. When you are really, really excited or hyper, and you're going crazy! The single form of 'gibbies' is gibby. An example of a single gibby is when you are playing nintendo and you get a high score.. but you were already expecting it because you've done it before, but it was hard. Your reaction would be something like, "YES." .. that is using one gibby. However, if you've got the gibbies in the first place... there are usually more than one!
+Extracted spelling variant:gibbies
+1709932 ('Gibbies', 'gibbies')
+Archaic form of 'you' still used in areas of Northern England
+Extracted spelling variant:you
+1776124 ('thou', 'you')
+A motorcycle and a shortened form of 'fireblade'. The Honda Fireblade was introduced in the early 90s and dominated sports biking for almost a decade, only to be overtaken in 1998/99 by Yamaha's R1. Both machines are capable of going very fast.
+Extracted spelling variant:fireblade
+1795854 ('blade', 'fireblade')
+Basically the crazy form of 'wtf'. It is a combination of the words "what the fuck" and is used in humorous situations.
+Extracted spelling variant:wtf
+1805750 ('wadafak', 'wtf')
+Also a Canadian term, shortened form of 'Lebanese'. Can be considered derogatory, possibly similar to 'jap'. In the derogatory sense, it is used to refer to the stereotypical Lebanese male of highschool age - one who is often seen wearing the latest, most expensive fashion trend. The stereotype also has extremely gelled, spiked hair, and drives a 'trendy' import car (eg. 240sx, civic). The stereotypical Leb is quick to anger and to provoke arguments, will engage in physical confrontation provided he has numerous friends in close vicinity, and will stop at nothing to shift blame.
+Extracted spelling variant:Lebanese
+1852520 ('leb', 'Lebanese')
+What The Hell Ever. Slang acronym used most commonly in IM. Its typically an exagerated form of 'whatever'.
+Extracted spelling variant:whatever
+1898143 ('WTHE', 'whatever')
+shorthand form of 'motherfucker' used to express disgust, without any trace of condemnation
+Extracted spelling variant:motherfucker
+1902872 ('mofalker', 'motherfucker')
+shortened form of 'whatev', the shortened 'whatever'
+Extracted spelling variant:whatev
+1908164 ('ev', 'whatev')
+contemplation of the past; a survey of past time, events, etc. All encompassing, e.g a superlative form of 'retrospect' as its powers supercede all aspects of time and space
+Extracted spelling variant:retrospect
+2019473 ('astrospect', 'retrospect')
+a bigger, more intense form of 'queerboat'
+Extracted spelling variant:queerboat
+2029023 ('queership', 'queerboat')
+A form of 'orgasm' or intense pleasure that is derived from technological gadjets and gizmos galore. This pleasure is mostly experienced by nerds, geeks or other related stereotypes.
+Extracted spelling variant:orgasm
+2047675 ('Technogasm', 'orgasm')
+Another form of 'Braap' done too piss off newb teachers, or supplies. Also used as a form of celebration when running around school like a prick after a fight.
+Extracted spelling variant:Braap
+2091253 ('breezap', 'Braap')
+The agressive form of 'thought'. Notice the 'OI' in the middle. When pronounced, always put emphasise on the 'OI' and you will succeed to make anyone feel angry and violated.
+Extracted spelling variant:thought
+2194867 ('thoight', 'thought')
+Verb. Gangsta slang form of 'Puddleduck' - To sleep-walk into a friend's bedroom at four in the morning and urinate (perhaps on the floor, narrowly missing his or her treasured hardback - or possibly on a pair of brand new stereo speakers).
+Extracted spelling variant:Puddleduck
+2197894 ('P-dizzle', 'Puddleduck')
+abbreviated form of 'gnarly', means really fucking kick ass. also, used by snowboarders to describe good snow
+Extracted spelling variant:gnarly
+2256397 ('gnar', 'gnarly')
+An urban and rural greeting used by South Africans. A cheery slang form of 'Hello'.
+Extracted spelling variant:Hello
+2298740 ('heita', 'Hello')
+A short form of 'resurrection' used in online games, mainly MMORPGs, to ask for resurrection from other players.
+Extracted spelling variant:resurrection
+2321710 ('res', 'resurrection')
+A derivation of the word Prawned, which in itself is derived from Pwned, Owned etc, that was simply formed by changing the named edible body in the former with another edible body that began with 'Pr' and adding an 'ed' suffix An extension of Pringled can be created to form Pringlage/Pringleage/Pringelage depending on self-Grammatical preference. This is also in relation to Ownage/Pwnage and the similar likes. Suggestive forms of 'Pringled' in relation to 'Pwned' statements cannot be included in the use of Nouns. Meaning the term "To Pringle" (To Pwn/Prawn) is wrong and not considered a form of 'Pringled'
+Extracted spelling variant:Pringled
+2336346 ('pringled', 'Pringled')
+A derivation of the word Prawned, which in itself is derived from Pwned, Owned etc, that was simply formed by changing the named edible body in the former with another edible body that began with 'Pr' and adding an 'ed' suffix An extension of Pringled can be created to form Pringlage/Pringleage/Prin gelage depending on self-Grammatical preference. This is also in relation to Ownage/Pwnage and the similar likes. Suggestive forms of 'Pringled' in relation to 'Pwned' statements cannot be included in the use of Nouns. Meaning the term "To Pringle" (To Pwn/Prawn) is wrong and not considered a form of 'Pringled'
+Extracted spelling variant:Pringled
+2341631 ('Pringled', 'Pringled')
+an expression of non-commitance, non-caring, general mild disagreement, all of which are used because the writer (normally on msn) is feeling apathetic in varying degrees. The more apathtic, the more 'mehs'. The opposite is probably 'ye', a lazy form of 'yeah' or 'yes'
+Extracted spelling variant:yeah
+2372911 ('meh', 'yeah')
+The noun form of 'snooty'. A really cocky, arrogant, stuckup person.
+Extracted spelling variant:snooty
+2401955 ('snoot', 'snooty')
+An acquantance whom one occasionally displays hatred towards, a superior negative form of 'frenemy' with the 'r' removed to disclose less of the 'friend' and more of the 'enemy' in this noun.
+Extracted spelling variant:frenemy
+2437323 ('fenemy', 'frenemy')
+A form of 'music' (not in my opinion, I dislike rap) that alot of people actually care about, when if you really thought about it and weren't a 12 year old white boy who just figured out about it, you wouldn't care one way or another.
+Extracted spelling variant:music
+2457717 ('Rap', 'music')
+1. Abbreviated form of 'wassup' which derives from "What's up?" Used as a general greeting or a brief 'how are you' by people who are too hip for full sentences. 2. (adj) Used to describe anything which is too cool for outdated words like "cool".
+Extracted spelling variant:wassup
+2477044 ('sup', 'wassup')
+The most undignified, retarded form of 'dancing' that exists. Resembles the 'krumper' possibly being electrocuted, convulsing like an epileptic or just looking like a complete twat.
+Extracted spelling variant:dancing
+2512749 ('Krumping', 'dancing')
+Another form of 'you', or it can be used in place of anyone's name.
+Extracted spelling variant:you
+2587812 ('yoski', 'you')
+A game which is somewhat followed along the lines of any other form of 'dibs'. This version of the game has one vital difference: you call dibs on ugly people. Each player has as many dibs as they so please, and it can be played anywhere, generally in a well-populated urban area. As you and other players walk around any place, the mall is a good example, you purposely look for butt-ugly people. You proudly announce that you've called dibs on said ugly person, and make sure all other players know that you have claimed them. The game is won on a basis of opinion. Upon leaving whatever establishment you have chosen to place this game, each player then decides who had the ugliest dibs. This gives the winner bragging rights. That's it. This game is extremely judgemental and should only be played by mean people. It is crucial that if you see anyone who is crippled, retarded, deformed, or handi-capped in any way, you call dibs on them immediately. Typically calling dibs on a member of our retarded community wins you the game, as they can be pretty ugly. You may also call dibs on other things. Such as ugly families, ugly couples, beer bellies, horrible outfit choices, bad tastes in music, and idiotic/obnoxious people. If someone calls dibs on an especially deformed couple, and another player finds a family of retards, but not so ugly, this player wins. A full house beats a pair, no matter how ugly. If you have any morals, it is recommended that you do not play this game. If you find this game mean-spirited, heartless, or cold in any manner, then please call dibs on yourself. Because you win.
+Extracted spelling variant:dibs
+2592032 ('Dibz', 'dibs')
+Although misconstrued as a question, this is actually just a form of 'hello'. Derives from the North of England, usually slurred into one syllable, sounding thus- 'oo-eye?'
+Extracted spelling variant:hello
+2594144 ('yalright', 'hello')
+Kumbayah is a uniquely African-American contribution to American English. Kumbayah is a Gullah pronunciation of the phrase "Come by here" (or "come by yah", 'yah' being a West African form of 'here'.) This word has been turned into an ironic term by overusage and misinterpretation by the mainstream culture. However, it's actually a call to God to visit the singer. "Kumbayah my lord" means 'come by here, my lord".
+Extracted spelling variant:here
+2598201 ('kumbayah', 'here')
+The real name for foxtel, the lowest form of 'news' and 'entertainment' available. 'Faux' is French for 'deliberately deceptive' which describes this network of misinformation to a T.
+Extracted spelling variant:news
+2607149 ('Fauxtel', 'news')
+synonymous with 'hard luck' or 'tough shit', shortened form of 'chegferdille' (approximate spelling) origin unknown, first recorded use Fairlands Middle School, Cheddar, circa 1978/9, sometimes used with dismissive 'go away, peasant' hand gesture. ref see www.richardherring.com/press/
+Extracted spelling variant:chegferdille
+2615222 ('cheg', 'chegferdille')
+From telugu ( gult). Means Fuck off . a form of 'deng' pronounced dhen-gei
+Extracted spelling variant:deng
+2682584 ('dengei', 'deng')
+Sympathy differs from empathy in the following ways: With sympathy, the helper: Helps within his/her comfort zone Makes a cursory judgment of the person's needs Often will get upset when it is explicitly revealed that their help is misguided or unwelcome (after a long buildup) May feel as if he or she is the 'mentor', or the 'superior' With empathy, the helper: Relates to the person on a personal basis Forms a deep emotional bond with the person on many levels Learns to see the situation from the person's perspective Sees the person more as an equal, and 'walks in their shoes'. The two should not be confused. More often than not, sympathy is the form of 'caring' that is given to those in need, and can be quite misguided, especially in dire situations that most are not used to dealing with. Most therapists, teachers, and unfortunately parents will often give this kind of 'help' to a troubled or very upset person. However, if they were willing to step outside their comfort zones, they could learn how to relate effectively. Despite these huge differences, many indeed DO confuse the two.
+Extracted spelling variant:caring
+2684838 ('sympathy', 'caring')
+An abbreviated form of 'totally'. Used in conversation because one syllable is better than three.
+Extracted spelling variant:totally
+2914080 ('totes', 'totally')
+Pretty much just a form of 'dike', aka a lesbian, or some butch lesbian; who you are NOT AT ALL attracted to.
+Extracted spelling variant:dike
+2987742 ('dikish', 'dike')
+A 'silly' person. It is used as a more harsh form of 'idiot' but not quite as offensive as implying they have some form of mental retardation. It is a mild level insult basically.
+Extracted spelling variant:idiot
+2996624 ('Nonger', 'idiot')
+Originated from a mumbler, the word 'ekah' is a form of 'okay'. Ekooh, ekaaaahhh, ekeeee; all forms of ekah. Make it your own. Yodeling and weird pitch changes are acceptable. (ee-kah) (ee-kooh) (ee-kah-ight) etc.
+Extracted spelling variant:okay
+3067575 ('ekah', 'okay')
+Abbreviation of the word, Eshays, commonly used by lads (adlays) throughout Sydney and other parts of N.S.W. It is debated as to whether the eshays was the pig latin form of 'yes' or 'sesh' relating to the act of smoking marijuana. Esh is a common abbreviation for marijuana which supports the theory that eshays originated from the 'sesh'
+Extracted spelling variant:yes
+3120087 ('shays', 'yes')
+Sect of native Irish purporting to be Dubliners, specifically those with D4 inclinations, living in the more lugubrious areas of surrounding counties to Dublin, such as Meath, Kildare, but more commonly Wicklow and Wexford, within commuting distance of the capital. Are marked by their peculiar middle-class similarity with the Traveller encampments, as one member of the family will have made a fortune at something media-related in the 1980s, and now all other members of the family live in custom-built encampments on the land of the primary member, (usually a patriarch). Ambitions of the younger females usually involves some form of 'promotions', which in Ireland passes for modeling, and for the males will be accountancy, followed by a series of failed business ventures in real-estate, restaurants, etc. Will proceed to have tanned courtships with those from similar backgrounds, and may have short sojourns of living in gated city enclaves while parents build annexes on family land for them to eventually inhabit.
+Extracted spelling variant:promotions
+3268280 ('Wexican', 'promotions')
+An alternative way of spelling "Looks". Meaning: One's appearance or synonymous to cast one's gaze upon an object or animated being; plural form of 'look'
+Extracted spelling variant:look
+3273652 ('Loox', 'look')
+(Slang exclamation).An abbreviation of the adverb form of 'blatant'.
+Extracted spelling variant:blatant
+3343974 ('blates', 'blatant')
+The gender neutral form of 'his' or 'her' used in contexts where the exact gender is unknown. Pronounced hish-er. See also shehe, himher, hishers and himherself.
+Extracted spelling variant:his
+3424529 ('hisher', 'his')
+The gender neutral form of 'his' or 'hers' used in contexts where the exact gender is unknown. Pronounced hish-er. See also shehe, himher, hisher and himherself.
+Extracted spelling variant:his
+3424537 ('hishers', 'his')
+a shortened form of writing any form of 'procrastinate'
+Extracted spelling variant:procrastinate
+3468203 ('Procras', 'procrastinate')
+plural form of 'penis' or 'pener' or 'peiner weiner'
+Extracted spelling variant:penis
+3631033 ('peneye', 'penis')
+Etymologically, 'homophile' is derived from two Greek words - 'homo', meaning 'the same', and 'philos', meaning 'friend', or possibly 'philein', meaning 'to love', or 'to be dear to'. Greek uses 'eros' to signify 'sexual love', so philein should be taken to signify non-sexual love between friends or members of the same family, e.g. brothers. In 'homophilia', 'homo' could signify a shortened form of 'homosexual'. Thus homophilia could have two meanings- 1) supportive, brotherly friendship towards gays and lesbians, or 2) non-sexual love between two men or two women. Broadly, it means an open, non-judgemental acceptance towards gays and lesbians, or, alternatively, towards the expression of non-sexual warmth and intimacy between people of the same sex. It is the opposite of 'homophobia' - the fear or hatred of all things gay.
+Extracted spelling variant:homosexual
+3643261 ('Homophilia', 'homosexual')
+Colloquially, a backstabbing traitor or other such undesirable character. Can also be used to refer to an entire group of such persons (see examples) Usage first arose on internet gaming sites. The exact origins are unknown, but the first part may be a conflation of the words 'sketch' and 'spy', thus referring to the unsavory information-gathering habits of someone who is scifam. The second half of the word, 'fam' may be a shortened form of 'family' thus indicating that unfortunately, there is a large number of people like this, as scifam prefer quantity over quality.
+Extracted spelling variant:family
+3672961 ('Scifam', 'family')
+the adjective form of 'bong', used to describe the event of weed smoking or anything equivalently awesome.
+Extracted spelling variant:bong
+3787303 ('bongalow', 'bong')
+Amarrzing is the exagerrated form of 'Amazing' and is pronounced like "Ah-marrzzzing" with a concentration on the R. Used to describe something which is really awesome and produces a high amount of enthusiasm.
+Extracted spelling variant:Amazing
+3848850 ('amarrzing', 'Amazing')
+1) Emotions felt by a male. 2) Emotions caused by a male. Can be substituted for any form of 'emotion' - ie. 'Himotional'
+Extracted spelling variant:emotion
+3865186 ('Himotions', 'emotion')
+The inability for technically capable people to learn from manuals, while being perfectly capable of learning by watching someone do something or by being walked through it.From the prefix "dys", meaning 'bad' or 'ill'; "tech" as a short form of 'technology'; "lex" either from 'lex' meaning rule or law, or 'lexis' meaning the totality of words and their combinations in a language; and 'ia' as the connective suffix. Not to be confused with techlexia. Derived in part from "dyslexia"
+Extracted spelling variant:technology
+3966254 ('dystechlexia', 'technology')
+The written form of 'cheers' spoken with a posh, upper-class British accent. Often incorrectly spelt as 'chars'.Most commonly used mockingly or in ironic self-reference by the filthy working classes; aka: the Great Unwashed.
+Extracted spelling variant:cheers
+4048188 ('charz', 'cheers')
+A form of homicide directed against musicians in response to an intense dislike of or annoyance at their works.Origins: A combination of 'muso', the abbreviated form of 'musician', and 'homicide'. Duh.
+Extracted spelling variant:musician
+4104667 ('musocide', 'musician')
+'no' or 'negative'. An emphatic form of 'no'. Implying that the speaker's answer will not be changing in the future. Seems to be used when the speaker has to say no repeatedly, perhaps tiring of using 'no' and 'nope'.
+Extracted spelling variant:no
+4141744 ('nope', 'no')
+1, A phrase used in the UK to summarise someone's conversational ability. Usually used when speaking to a friend about someone you've just spoken to for the first time. This is the noun form of 'chat'.2, When used as a verb to "chat" means to talk at ones leisure, usually to mates.3, Chatting (same meaning as the above).4, "Chatting up", distinctively different from the former. It means to speak flirtatiously with someone you usually intend to sleep with.
+Extracted spelling variant:chat
+4202878 ('Chat', 'chat')
+This is a shortened form of 'discombobulated'. Being in the state of confusion.
+Extracted spelling variant:discombobulated
+4257023 ('Cobobulated', 'discombobulated')
+The ploral form of 'moose'.
+Extracted spelling variant:moose
+4261125 ('Fark', 'moose')
+A sophisticated form of 'tool'. When combining 'stoner' and 'tool', spooner is made.
+Extracted spelling variant:tool
+4263263 ('Spooner', 'tool')
+A form of 'whinging'. Primarily used by broads to complain about nearly anything and everything.
+Extracted spelling variant:whinging
+4307611 ('Mang', 'whinging')
+When something completely unforeseen goes horribly wrong beyond mortal comprehension in something that should be normal and routine. This is the ultimate form of 'Murphy's Law".
+Extracted spelling variant:Murphy
+4319451 ('Shitstorm', 'Murphy')
+The unborn child of a redneck. Word is a combined form of 'bumpkin' and 'fetus'.
+Extracted spelling variant:bumpkin
+4381205 ('Bumpkitus', 'bumpkin')
+'Jang' is a noun meaning 'testicle' that has many uses and derivatives. When used in the plural ('jangs'), it refers to the balls as a whole, thus including the scrotum.Its most diverse and most used derivative is it's verb form, 'jangle'. Strictly defined, this means to strike a male in the balls but 'jangle' has seen other uses resultant of its noun form, 'jangler' (see below). Thus, when used with a direct object (generally a name), 'jangle' means to strike said direct object in the balls. However, when used intransitively, it means to act like a jangler (definition two).'Jangler' is the gerund noun form of 'jangle'. It has two meanings: first, it is more strictly defined as one who strikes males in the balls. Less strictly, however, it can also be used as a label for one who is equally distasteful as a nut-puncher, generally one who is arrogant, deceptive, or foolish.
+Extracted spelling variant:jangle
+4399335 ('Jang', 'jangle')
+'Jang' is a noun meaning 'testicle' that has many uses and derivatives. When used in the plural ('jangs'), it refers to the balls as a whole, thus including the scrotum.Its most diverse and most used derivative is it's verb form, 'jangle'. Strictly defined, this means to strike a male in the balls but 'jangle' has seen other uses resultant of its noun form, 'jangler' (see below). Thus, when used with a direct object (generally a name), 'jangle' means to strike said direct object in the balls. However, when used intransitively, it means to act like a jangler (definition two).'Jangler' is the gerund noun form of 'jangle'. It has two meanings: first, it is more strictly defined as one who strikes males in the balls. Less strictly, however, it can also be used as a label for one who is equally distasteful as a nut-puncher, generally one who is arrogant, deceptive, or foolish.
+Extracted spelling variant:jangle
+4399342 ('Jangs', 'jangle')
+'Jang' is a noun meaning 'testicle' that has many uses and derivatives. When used in the plural ('jangs'), it refers to the balls as a whole, thus including the scrotum.Its most diverse and most used derivative is it's verb form, 'jangle'. Strictly defined, this means to strike a male in the balls but 'jangle' has seen other uses resultant of its noun form, 'jangler' (see below). Thus, when used with a direct object (generally a name), 'jangle' means to strike said direct object in the balls. However, when used intransitively, it means to act like a jangler (definition two).'Jangler' is the gerund noun form of 'jangle'. It has two meanings: first, it is more strictly defined as one who strikes males in the balls. Less strictly, however, it can also be used as a label for one who is equally distasteful as a nut-puncher, generally one who is arrogant, deceptive, or foolish.
+Extracted spelling variant:jangle
+4399347 ('Jangle', 'jangle')
+'Jang' is a noun meaning 'testicle' that has many uses and derivatives. When used in the plural ('jangs'), it refers to the balls as a whole, thus including the scrotum.Its most diverse and most used derivative is it's verb form, 'jangle'. Strictly defined, this means to strike a male in the balls but 'jangle' has seen other uses resultant of its noun form, 'jangler' (see below). Thus, when used with a direct object (generally a name), 'jangle' means to strike said direct object in the balls. However, when used intransitively, it means to act like a jangler (definition two).'Jangler' is the gerund noun form of 'jangle'. It has two meanings: first, it is more strictly defined as one who strikes males in the balls. Less strictly, however, it can also be used as a label for one who is equally distasteful as a nut-puncher, generally one who is arrogant, deceptive, or foolish.
+Extracted spelling variant:jangle
+4399351 ('Jangler', 'jangle')
+The evolved form of 'spirit', that is, a higher level of spirit. It is inordinately crazy and perpetually being told to calm down.
+Extracted spelling variant:spirit
+4503795 ('Spitit', 'spirit')
+n. 1) urine; v. 1) to urinate; 2) polite manner of saying 'piss'; 3) abbreviated form of 'fissilate' and 'fissilations'
+Extracted spelling variant:fissilate
+4727914 ('Fiss', 'fissilate')
+Archaic american form of 'goodbye'. It derives from the french expression "a tout a l'heure" meaning "see you later", and came into vogue in the US particularly after the second world war.
+Extracted spelling variant:goodbye
+4767667 ('toodle-loo', 'goodbye')
+This can be considered a shortened form of 'what' but for some, simply using 'wut' and nothing else as a response shows somethings stupidity. Saying 'wut' after a response or something that someone has said that doesn't make sense is like saying 'huh?' really sarcastically.
+Extracted spelling variant:what
+4861827 ('wut', 'what')
+Japanese mixed with Jamaican slang. Derived from 'Konnichiwa' which is a basic Japanese greeting, and 'wagwan'; a form of 'what's going on?' in West Indian Jamaican dialect. Increasing vast popularity in the streets of Central London. Literally implied as 'Hello, what's going on??'
+Extracted spelling variant:what
+5106142 ('Konnichiwa-gwan', 'what')
+past tense form of 'parry' to talk back with witty statements
+Extracted spelling variant:parry
+5165052 ('parried', 'parry')
+(Polish) nickname form of 'baba' meaning woman, sometimes applies to a womanizer; Also meaning whore. Not a flattering adjective in central and eastern Europe.Pronounced: Bob ee oj
+Extracted spelling variant:baba
+5171391 ('Babiarz', 'baba')
+Another form of 'Seriously', first letter substituted with another letter, 'B'.Pronounced: BEE-ree-us-lee
+Extracted spelling variant:Seriously
+5289315 ('Beriously', 'Seriously')
+A compound word formed by the words 'lame' and 'emote', the short form of 'emoticon'. It is used to describe lame emoticons. (Captain Obvious!)Examples of lamemotes: XD, ^_^, ^^, O.oMostly used by newfags, n00bs, wapanese weeaboo japanophiles.
+Extracted spelling variant:emoticon
+5330533 ('lamemote', 'emoticon')
+English word evolved from 'grimey'. to be of inner city street fashion and or culture.slang form of 'greezy' or 'greez' or the original 'grimey'. not to be confused with 'greezanthenum' which has entirely different contextual refinitions.
+Extracted spelling variant:greezy
+5342914 ('mcneez', 'greezy')
+Ladies form of 'Monday Night Football'. When the men are all together watching Monday Night Football, ladies will be getting booted in any form of intoxication they desire. Most desire marijuana, but booted can be any form of 'effed' up. Term was created by a group of girls on Gold street that love to get booted.
+Extracted spelling variant:effed
+5380014 ('bootsball', 'effed')
+A superlative form of 'crap'. The most crap of all. Crappiest crap.Derived from german superlative form and English crap. Crap+sten = Crapsten
+Extracted spelling variant:crap
+5431649 ('Crapsten', 'crap')
+Someone who is against the proposed cuts made by the current British government; applies to all sections of society in disagreement with the plans.Abbreviated form of 'sicosnipophobic'; which is, according to the mockumentary "Rock, Paper, Scissors: The Way of the Tosser", is someone afraid of scissors.This short form is appealing because it is monosyllabic, as well as being homophonic and alliterative with its opposite, a 'snip'; ie. someone who is /for/ the cuts. The scissors analogy fits as it has become a symbol of the proposed cuts to the budget.
+Extracted spelling variant:sicosnipophobic
+5433713 ('sic', 'sicosnipophobic')
+n. /bro'let/ A portmanteau of bro; shortened form of 'brother' (see bro.), and bracelet. Used primarily in place of the proper name of a series of brightly colored elastic bracelets, mainly the "LiveStrong" series, that is quite popular within the bro culture.
+Extracted spelling variant:brother
+5518082 ('Brolet', 'brother')
+(n) The infatuation, or general over-use of acronyms in speech or writing. The word is a portmanteau consisting of the word 'acronym' and 'enamoration' - a false noun form of 'enamor'
+Extracted spelling variant:enamor
+5625697 ('Acronamoration', 'enamor')
+Noun referring to a user with editing rights on the messageboards and artist-and-release entries on the Metal Music Archives and ProgArchives pages.'Collab' is an abbreviated form of 'collaborator'.
+Extracted spelling variant:collaborator
+5645891 ('collab', 'collaborator')
+A form of 'brotherhood' or 'sisterhood' between best friends.
+Extracted spelling variant:brotherhood
+5698240 ('Bffhood', 'brotherhood')
+Another form of 'aw' or 'awe' used mostly to discribe something cute or a cute moment.
+Extracted spelling variant:aw
+5748161 ('Awh', 'aw')
+The term used to describe the fan community(usually of the older group, males and females) of the show My Little Pony: Friendship is Magic.The term was coined on 4chan's /co/ board.It is the plural form of 'Brony'
+Extracted spelling variant:Brony
+5920461 ('Bronies', 'Brony')
+1. Slang form of 'mistake' in internet written language.2. Virtual community of people that accept their imperfection with pride.
+Extracted spelling variant:mistake
+5928676 ('mstake', 'mistake')
+A word, or exclamation, that can be difficult to define due to its context. The word can be used as a greeting when uttered quietly, usually accompanied by a nod or salutation. It can also have an expressive function, as an expression of anger or frustration. Used in this context, it functions as an abstract noun, as one may be in a state of 'wah'.The most common usage of 'waah', however, is when a group of friends are driving along a high street and shout 'WAAH' at individuals or groups of people. This form of 'waah' serves no particular semantic meaning or purpose, other than scaring the public or exposing the nation to the 'waah' phenomenon.
+Extracted spelling variant:waah
+5943512 ('waah', 'waah')
+A hot beverage served in Queensland (Australia) which combines the caffiene hit from Coffee with the chocolately goodness of Milo.Named a Jocha as its creator (Jamie) considered it a form of 'Mocha' and therefore dubbed it 'A Jocha: Mocha by Jamie'.This drink has fast become one of the most popular hot beverages in Queensland and is quickly spreading to the rest of Australia.
+Extracted spelling variant:Mocha
+5993662 ('Jocha', 'Mocha')
+1. pl. form of 'biatch'2. the noun form concerning a specific type, or kind of mammal. (see the adjective 'neato', as in, 'because of the neato')
+Extracted spelling variant:biatch
+6032243 ('biatches', 'biatch')
+The more modern form of 'dating', where one person asks another to be their boyfriend of girlfriend, and then from that point they think they're in love. There are tons of hurt feelings in the event of an early break off, as well as a late one. Unlike traditional dating where the two may decide not to see each other after a few dates.
+Extracted spelling variant:dating
+6072309 ('Committing', 'dating')
+a name you call people when your talking to them.plural form of 'Luv'name you call a bunch of people who you love (like friends or family)
+Extracted spelling variant:Luv
+6236688 ('luvies', 'Luv')
+A disorganised situation which comes about in an organisation because the shower who call themselves management didn't or couldn't think ahead so didn't see it coming. The simplest form of 'shambles' which could have been foreseen by any 12 year old.
+Extracted spelling variant:shambles
+6241260 ('shambles', 'shambles')
+Apparently, there's been some people who've been doing what they label as 'trolling'. However, it is so substandard that I have unofficially coined a new term for pitiful exhibitions of trolling.The word describing these terms will be: 'Trolliot'. A trolliot is a portmanteau of the word 'Troll' and 'Idiot'. It is used to describe one who exhibits incompetence in the art of trolling.The noun form of 'Trolliot' is 'Trolliotry', which is used to describe works that derived from a trolliot.
+Extracted spelling variant:Trolliot
+6242457 ('Trolliot', 'Trolliot')
+n. pl. The plural form of 'douche' or 'douche bag'. Typically male high school athletes travel in flocks.
+Extracted spelling variant:douche
+6395766 ('Deesh', 'douche')
+Shortened form of 'platoon', used most notably in Orson Scott Card's "Ender's Game"
+Extracted spelling variant:platoon
+6540232 ('toon', 'platoon')
+The plural form of 'Lejla'
+Extracted spelling variant:Lejla
+6695162 ('Lejlipode', 'Lejla')
+its a polish short form of 'spokojnie' what means 'take it easy'. in teen slang 'spoko'is used to accept or agree with sth. it means i.e. 'no problem' 'ok' 'fine'
+Extracted spelling variant:spokojnie
+6695479 ('spoko', 'spokojnie')
+A form of 'those' used to call attention to something. In this sense, it has both the functions of 'those' and a topic marker.
+Extracted spelling variant:those
+6713607 ('them', 'those')
+Queanbeyan is a civilised city south-east of the A.C.T. The city's mixed economy is based on light construction, high technology, manufacturing, service, retail and agriculture. The word Queanbeyan is the anglicised form of 'Quinbean' - an Aboriginal word meaning "clear waters". Queanbeyan was founded 1838 a long time before Canberra. The town grew from a squattage held by ex-convict and inn keeper, Timothy Beard, on the banks of the Molonglo River in what is now Oaks Estate. The people of Queanbeyan are NOT bogans despite what the people of Canberra say. Queanbeyan has a strong sporting culture. With various different sporting clubs. It also strongly respects the arts culture with a huge drama centre called the Q. Queanbeyan is home to many schools such as Qeanbeyan public school, Queanbeyan South, Queanbeyan West, St. Gregs, Karrabar and Queanbeyan High school. Queanbeyan should not just be seen as a pit stop as it was Queanbeyan that helped build Canberra Australias captital.
+Extracted spelling variant:Quinbean
+6904590 ('queanbeyan', 'Quinbean')
+"Hipster" refers to those who are adopting an exaggerated form of 'Indie' style purely for cultural acceptance, whereas the indie style consist of those who are genuinely just 'INDIEpendently' minded and it just happens to show through their image and outlook.There needs to be a realization that 'Hipsters' and 'Indies' are two different cultures.
+Extracted spelling variant:Indie
+7019860 ('Hipster', 'Indie')
+Basically an evolved form of 'peng', but you don't feel as much of a prat using it. A positive description of something basically meaning 'well nice'. Can be used to describe people, but is much more appropriate when describing nice scenery, food & drink, or the day's weather. Very commonly used in Middlesex/SW London circa 2013.
+Extracted spelling variant:peng
+7207690 ('Leng', 'peng')
+'Scheiss' as a somewhat shorter form of 'scheisse' (shit, crap) Scheiss in general is often used the same way, as 'fuck' in US Englisch... In German language, e.g. 'scheiss' (from Scheisse - shit) and 'egal' (equal) becomes 'scheissegal' which means whatever but with an 'fucking whatever' in mind.
+Extracted spelling variant:scheisse
+7474837 ('Scheiss', 'scheisse')
+Adverb form of 'shitful'. Used for emphasizing negative qualities.
+Extracted spelling variant:shitful
+7652590 ('shitfully', 'shitful')
+'Sway' is the adjective/adverb form of 'swag'. Just as swag is a pointless word that can be used in any freakin' situation for any freakin' purpose, sway can be used to describe anything in any way; though it is usually considered positive.
+Extracted spelling variant:swag
+7840034 ('Sway', 'swag')
+literally means 'they' or 'them'. used by Malays. A fusion of malay word 'dia' (he/she/it) and 'orang' (person) that formed the word 'diaorang' and later became a much shorter and easier-to-say form of 'diorang'
+Extracted spelling variant:diorang
+8174289 ('diorang', 'diorang')
+Woodiest is a word created by a French teacher while describing how good France is. She intended it to be the superlative form of 'woody' however it could be heavily misconstrewed...
+Extracted spelling variant:woody
+8250327 ('woodiest', 'woody')
+Any form of 'activism' that you do while sitting on your ass. An attempt to feel like you're making a difference, but without making the effort to put clothes on and get off the couch.Example: E-mailing a show's sponsors to demand that they stop advertising on that show.
+Extracted spelling variant:activism
+8502563 ('Asstivism', 'activism')
+'Poon' is an abbreviated form of 'poontang', which is a Ilokano word which translates as 'whore-fuck'. This is in contrast to just a regular fuck, where whore-fuck means that there is some guaranteed action that will happen, so that prospective client will not just be throwing away their cash. This term often refers to the smell from 10 other guys dicks having been in it already.
+Extracted spelling variant:poontang
+9224167 ('Poon', 'poontang')
+'Gr8' is just a short form of 'Great'. It is very useful if you are a lazy texter!
+Extracted spelling variant:Great
+9899458 ('Gr8', 'Great')
+Can take the form of 'inspirational' posts on social media or pamphlets left in a laundromat, a bus/stop, or on a door knob. Always is a nuisance, and always describes God's conditional love for otherwise worthless creations of his own likeness.
+Extracted spelling variant:inspirational
+9993825 ('God-spam', 'inspirational')
+It's basically the opposite of 'yas'. Like every person is gonna use it to express their disguist, dislike.Like it's gross, pathetic or you just don't like it. Obviously it's the short form of 'yas' (the word from the gay culture and Gaga's fans that every straight girl says) + NOT.
+Extracted spelling variant:yas
+11552689 ("Yasn't", 'yas')
+n. A term of endearment or pet name commonly used by couples for both male and female partners. This term is basically a shortened form of 'baby', or a much more attractive version of 'bae'. Your bab is someone you would do anything for to please. Nothing stands in the way between you and your bab.
+Extracted spelling variant:baby
+11949454 ('bab', 'baby')
+The Catalan form of 'Diego', also based on the name 'Didacas' from Medival Spain.A wonderful, kind, giving man who has an extremely bright future due to his intelligent and empathetic nature; a name given to extremely attractive men. Those with the name Didac are thoughtful people, whom enjoy seeing others happy. He also enjoys helping and caring for others, even when they don't deserve it. He is an excellent listener and will help you work through your thoughts; he is there when you need him most. Even though 'Diego' is a generally common name, Didacs are very rare and precious people, hold onto them and they will never let you down. Be there for him and he will be there for you. The man you wouldn't mind becoming a ghost with so you can fly around together and scare people.
+Extracted spelling variant:Diego
+12890939 ('Didac', 'Diego')
+151

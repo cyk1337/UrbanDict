@@ -1,0 +1,2531 @@
+Starting loading Urdian Dict corpus ...
+Hello you idiots, it's a nice way of saying "dork"
+Extracted spelling variant:dork
+1578 ('Krod', 'dork')
+a kinder, gentler way of saying "FUCK"
+Extracted spelling variant:FUCK
+1927 ('feck', 'FUCK')
+Alternate way of saying "pornography".
+Extracted spelling variant:pornography
+15517 ('pronograyfee', 'pornography')
+An over-exaggerated stereotypically spanish way of saying "Man". Often mentioned when someone is making a really over-the-top impression of Antonio Banderas.
+Extracted spelling variant:Man
+19293 ('Jang', 'Man')
+a cooler way of saying "terrible" also can be applied to most any word with "er" in the text, ie. im goin over hurr (instead of here)and regretably "I need two purr".
+Extracted spelling variant:terrible
+25556 ('turriball', 'terrible')
+the 1337 way of saying "sex"
+Extracted spelling variant:sex
+27592 ('secks', 'sex')
+A cute way of saying "evil".
+Extracted spelling variant:evil
+27842 ('ebil', 'evil')
+A somewhat drunken way of saying "Yes". A pretty useful and pointless internet term.
+Extracted spelling variant:Yes
+27843 ('Yesh', 'Yes')
+1.) Polite way of saying "Cunt" 2.) Slang in the UK for "Chicken Cunt" or someone who is cowardly, ignorant, arrogant, and an asshole (see def. "Asshole") all in one.
+Extracted spelling variant:Cunt
+32824 ('Chunt', 'Cunt')
+alternative way of saying "stupid" comes from the first sylable "stup-"
+Extracted spelling variant:stupid
+36162 ('stoop(s)', 'stupid')
+the dumbass way of saying "Straight"
+Extracted spelling variant:Straight
+50523 ('skrait', 'Straight')
+lazy way of saying "gangster" its faster to say "Ganksta" and it can be yelled "GggguhhhhannkksTAA!" etc
+Extracted spelling variant:gangster
+56993 ('Ganksta', 'gangster')
+The ghetto way of saying "damn". Kinda like saying sheeit for "shit" and beeotch for "bitch".
+Extracted spelling variant:damn
+57820 ('dseeamn', 'damn')
+another way of saying "hello"
+Extracted spelling variant:hello
+69399 ('jello', 'hello')
+Obviously the longest and stupidest way of saying "crazy"
+Extracted spelling variant:crazy
+102687 ('karazee', 'crazy')
+The redneck way of saying "Arab".
+Extracted spelling variant:Arab
+107033 ('a-rab', 'Arab')
+Own. The leetest way of saying "own", much leeter than the weak "pwn".
+Extracted spelling variant:own
+110652 ('qwn', 'own')
+The german way of saying "no" or "never"
+Extracted spelling variant:no
+116606 ('nein', 'no')
+THIS is the 'leet' or '1337' way of saying "The"
+Extracted spelling variant:The
+124088 ('t3h', 'The')
+A l33t way of saying "okay" to someone less superior to you.
+Extracted spelling variant:okay
+127344 ('ks0n', 'okay')
+a gay ass way of saying "cool". Mainly used by 16-20 year olds to describe their $300 outfit of sandals, t-shirt, and shorts.
+Extracted spelling variant:cool
+127724 ('fitch', 'cool')
+a covert way of saying "slut"
+Extracted spelling variant:slut
+131033 ('sleuth', 'slut')
+something gross, a feminine way of saying "ew". usage by men: only recommended if you are a homosexual.
+Extracted spelling variant:ew
+131660 ('ick', 'ew')
+another way of saying "OK".....used to make fun of people
+Extracted spelling variant:OK
+135843 ('o-quay', 'OK')
+a stupid hillbilly way of saying "yes"
+Extracted spelling variant:yes
+137101 ('yuparoo', 'yes')
+An extra 1337 way of saying "food". As with the simpler term "f00d", it is either used to describe an edible thing or more often as an exclamation meaning one is going to get something to eat.
+Extracted spelling variant:food
+138713 ('f00d4g3', 'food')
+The ll37 way of saying "rape".
+Extracted spelling variant:rape
+145457 ('r3pe', 'rape')
+Either the 1337 way of saying "Fag" or the second grade spelling of the wod "Fag". You decide.
+Extracted spelling variant:Fag
+145964 ('phage', 'Fag')
+eddies way of saying "faggot"
+Extracted spelling variant:faggot
+146068 ('fegge', 'faggot')
+jamaican way of saying "man"
+Extracted spelling variant:man
+165192 ('bwek', 'man')
+Italian's way of saying "Indian"
+Extracted spelling variant:Indian
+170279 ('indiana', 'Indian')
+Another cool way of saying "asshole"
+Extracted spelling variant:asshole
+182016 ('eeshole', 'asshole')
+A way of saying "Cya"
+Extracted spelling variant:Cya
+182961 ('ctaw', 'Cya')
+The l33t way of saying "chick". Meaning, a hot, sexy or beautiful woman. I regularly call chicks, chix0r, yet I have kissed a girl before. I once got given head. ;)
+Extracted spelling variant:chick
+184242 ('chix0r', 'chick')
+The radio friendly way of saying "Shit"
+Extracted spelling variant:Shit
+184846 ('Shat', 'Shit')
+A cs-ers counter-strike way of saying "Affirmative". If you press c 1 in Counter-strike it`ll say affirmative.
+Extracted spelling variant:Affirmative
+212398 ('c1', 'Affirmative')
+a better way of saying "good", because "good" is already so played out.
+Extracted spelling variant:good
+238395 ('godo', 'good')
+The white man's way of saying "shizzle"
+Extracted spelling variant:shizzle
+257845 ('sheezy', 'shizzle')
+persian way of saying "scared"
+Extracted spelling variant:scared
+258302 ('escared', 'scared')
+The cool way of saying "if".
+Extracted spelling variant:if
+268974 ('iph', 'if')
+queer way of saying "hard"... Often used by rockers who rawk hod (rock hard).
+Extracted spelling variant:hard
+271383 ('hod', 'hard')
+Acronym for "Learning Resource Center". A fancy-pants way of saying "library".
+Extracted spelling variant:library
+276529 ('LRC', 'library')
+A sarcastic way of saying "right"
+Extracted spelling variant:right
+278345 ('riiight', 'right')
+Backwoods/country/redneck way of saying "relatives".
+Extracted spelling variant:relatives
+287396 ('kinfolk', 'relatives')
+coolified way of saying "plan"
+Extracted spelling variant:plan
+290129 ('plizan', 'plan')
+Another way of saying "motherfucker"..
+Extracted spelling variant:motherfucker
+298253 ('ubermarfer', 'motherfucker')
+a southern way of saying "relatives"
+Extracted spelling variant:relatives
+299740 ('kinfolk', 'relatives')
+A more fashioned way of saying "crap".
+Extracted spelling variant:crap
+311055 ('Crapplesauce', 'crap')
+a faggy way of saying "sorry" created by a ghetto wannabe finnish girl, Arianna
+Extracted spelling variant:sorry
+327900 ('sorray', 'sorry')
+A Spanish like way of saying "popular"
+Extracted spelling variant:popular
+329689 ('populario', 'popular')
+Internet way of saying "Anus"
+Extracted spelling variant:Anus
+335028 ('an00se', 'Anus')
+stoopid english way of saying "chip"
+Extracted spelling variant:chip
+345269 ('crisp', 'chip')
+another way of saying "said" or "says" can be interchanged with like and "goes/go" mostly used by teenage girls
+Extracted spelling variant:said
+355330 ('ALL', 'said')
+Another way of saying "no"
+Extracted spelling variant:no
+389536 ('Nails', 'no')
+A sarcastic way of saying "terrific". Similar to craptastic or craptacular.
+Extracted spelling variant:terrific
+397102 ('Sphincterrific', 'terrific')
+hur is the way of saying "here" in what is known as Half-assed english. This is used by people with poor grammar skills and articulation who think what they say matters.
+Extracted spelling variant:here
+407927 ('hur', 'here')
+Best group ever 1.Group who rocks, made songs called: i got a boner and i wanna bone her, lick my balls then my ass, band whore, i fuck my pillow, wht the fuck do you think christina aguilara is doing right now?, i threw up on her cunt, early morning hard on, and countless other classics 2. past tense of "SHIT" 3. censored way of saying "shit" 4. stuff 5. abbreviation of William Shatner
+Extracted spelling variant:shit
+433166 ('shat', 'shit')
+just another, shortened way of saying "later" or "goodbye".
+Extracted spelling variant:later
+449003 ('late', 'later')
+To like someone in a sexual way; lust for; perverted way of saying "like"; you kno, its LAYke
+Extracted spelling variant:like
+451737 ('lake', 'like')
+retarded way of saying "shit"
+Extracted spelling variant:shit
+461211 ('shast', 'shit')
+Canadian way of saying "about", eh? Sometimes also aboot, but abote is spelled funnier.
+Extracted spelling variant:about
+483255 ('abote', 'about')
+Lampin is when you just chill. It's another way of saying "marinate".
+Extracted spelling variant:marinate
+490938 ('lampin', 'marinate')
+n., a cutesy way of saying "snacks"
+Extracted spelling variant:snacks
+492299 ('munchie', 'snacks')
+1. A common mispeling of "the" 2. A cooler way of saying "the"
+Extracted spelling variant:the
+504444 ('teh', 'the')
+Another way of saying "fag". A challenge to a heterosexual's manhood. Usually between good friends.
+Extracted spelling variant:fag
+509137 ('Poodick', 'fag')
+another way of saying "werd"
+Extracted spelling variant:werd
+509192 ('Baffle', 'werd')
+A cute way of saying "hello", or a new way of saying it if one gets bored of "hi" or "hey" or "hello".
+Extracted spelling variant:hello
+515427 ('hallo', 'hello')
+polite way of saying "stuff" or "shit"
+Extracted spelling variant:stuff
+517129 ('split', 'stuff')
+Another way of saying "Buck" as in buck naked.
+Extracted spelling variant:Buck
+525016 ('bucky', 'Buck')
+A lazy way of saying "shoot" in the same way that a person might say sit.
+Extracted spelling variant:shoot
+536570 ('soot', 'shoot')
+The retarded way of saying "the"
+Extracted spelling variant:the
+537920 ('tha', 'the')
+A really gay way of saying "lol". I have no idea what the point of adding another "o" and another "l" to the end of it is, but whatever laughing out loud out loud? How does that make sense
+Extracted spelling variant:lol
+545396 ('lolol', 'lol')
+An aussie way of saying "goodbye"
+Extracted spelling variant:goodbye
+553711 ('hooroo', 'goodbye')
+Tottally the pirate way of saying "you".
+Extracted spelling variant:you
+574653 ('ye', 'you')
+Ms. Bishop's way of saying "banging".
+Extracted spelling variant:banging
+577149 ('bunging', 'banging')
+Formal way of saying "Fucker" or just plain old "fuck".
+Extracted spelling variant:Fucker
+604397 ('fux0r', 'Fucker')
+Formal way of saying "sucks".
+Extracted spelling variant:sucks
+604400 ('suX0rZ', 'sucks')
+Formal and Proper way of saying "suck" not "sucks" (keep in mind that sucks with an 's' at the end should be replaced with sux0rz rather than sux0r).
+Extracted spelling variant:suck
+604402 ('sux0r', 'suck')
+1. A smartass cynical way of saying "congratulations" to a mentally retarded person. 2. A misspelling of the word "congratulations" to piss somebody off.
+Extracted spelling variant:congratulations
+624642 ('Condragulations', 'congratulations')
+A less derrogatory way of saying "Bullshit"
+Extracted spelling variant:Bullshit
+632559 ('Bullstuffing', 'Bullshit')
+A very strange way of saying "Babylon"... invented by my dad....
+Extracted spelling variant:Babylon
+683488 ('ishkabbible', 'Babylon')
+Plain and simple, this was started by the Mexicans. It's their way of saying "Man".. This is due to the Mexican accent converted to English. Now people say 'mang' because it's (1) different and (2) humorous.
+Extracted spelling variant:Man
+699552 ('mang', 'Man')
+The real way of saying "tamale" A delicacy of the Mexican Cuisine. A type of salty pastry made of corn flour. Sometimes contains chicken, green sauce, red sauce or mole. And wrapped in corn or banana leaves.
+Extracted spelling variant:tamale
+703781 ('Tamal', 'tamale')
+better way of saying "called", YA!
+Extracted spelling variant:called
+710175 ('calt', 'called')
+just another, shortened way of saying "later" or "goodbye" -- but usually only on the phone. you don't say this when saying goodbye to your friends after leaving a party
+Extracted spelling variant:later
+710688 ('late', 'later')
+A rude way of saying "shit".
+Extracted spelling variant:shit
+717907 ('doot', 'shit')
+Cooler way of saying "where"
+Extracted spelling variant:where
+720431 ('whey', 'where')
+Cooler way of saying "here"
+Extracted spelling variant:here
+720432 ('hee', 'here')
+To flint a lighter more than once A fancy way of saying "spark" or As an insult
+Extracted spelling variant:spark
+721114 ('Flintalize', 'spark')
+literally meaning wicked, a casual way of saying "good" originates from the same "surfer" style of slang which reduces many frequently used words to single syllables, such as "za" for pizza.
+Extracted spelling variant:good
+742361 ('wic', 'good')
+Stephen A. Smith's the ABC/ESPN Analyst way of saying "however"
+Extracted spelling variant:however
+742851 ('HOWEVA', 'however')
+Used as a sarcastic way of saying "loser". Usually directed to a person who attempts to be too cool for everyone else, while in reality being generally disliked and disrespected
+Extracted spelling variant:loser
+743768 ('winner', 'loser')
+Indiot way of saying "great". Primarily used by Akshay.
+Extracted spelling variant:great
+746835 ('grait', 'great')
+A hick way of saying "get".
+Extracted spelling variant:get
+758868 ('geet', 'get')
+a way of saying "goodbye"
+Extracted spelling variant:goodbye
+771413 ('odabo', 'goodbye')
+1. (noun) A shorter way of saying "suburb".
+Extracted spelling variant:suburb
+786682 ('burb', 'suburb')
+Another way of saying "hell"
+Extracted spelling variant:hell
+800332 ('heel', 'hell')
+Yet another way of saying "hell"
+Extracted spelling variant:hell
+800336 ('heil', 'hell')
+Another way of saying "food" except childish and funny.
+Extracted spelling variant:food
+807948 ('Foodskies', 'food')
+came from the yOuNG lovers ov the philippines. pa cute way of saying "BABY"
+Extracted spelling variant:BABY
+832905 ('bhi', 'BABY')
+a stupid 1337 way of saying "weniers"
+Extracted spelling variant:weniers
+833690 ('w3n0rz', 'weniers')
+"Forgeing" is a different way of saying "Foreign", and is the international language of the peoples republic of Fictivia.
+Extracted spelling variant:Foreign
+845209 ('Forgeing', 'Foreign')
+another way of saying "lend". Usage can be found in states like California, Maryland and Florida.
+Extracted spelling variant:lend
+859303 ('bro', 'lend')
+A retarded way of saying "you". Used by: a) People who have no command over the English language. b) People who want to appear cool by using the 1337 way of speaking, which last achieved credibility before the new millenium.
+Extracted spelling variant:you
+873543 ('j00', 'you')
+The EvilN way of saying "PEBKAC".
+Extracted spelling variant:PEBKAC
+879017 ('pibcak', 'PEBKAC')
+another way of saying "masturbating"
+Extracted spelling variant:masturbating
+919006 ('Moop', 'masturbating')
+Turry Is the "Gangsta" way of saying "Terry" Since my Name is Jerry My Friend CaLLs Me 'Jurry
+Extracted spelling variant:Terry
+925825 ('Turry', 'Terry')
+The cute/preppy country girl's way of saying "yo".
+Extracted spelling variant:yo
+927002 ('Yoddles', 'yo')
+ack is another way of saying "meh", but it sounds german. You can say it if youre annoyed with someone. Or, if you don't believe somebody.
+Extracted spelling variant:meh
+927592 ('ack', 'meh')
+Another (slang) way of saying "girl".
+Extracted spelling variant:girl
+934199 ('girdle', 'girl')
+Another way of saying "no" (Antonym = Naw)
+Extracted spelling variant:no
+943454 ('ne', 'no')
+the southerners way of saying "gulf"
+Extracted spelling variant:gulf
+965724 ('guff', 'gulf')
+Another way of saying "what", but sounding cooler. Used in the online cartoon "Schfifty-Five".
+Extracted spelling variant:what
+972493 ('schwat', 'what')
+another way of saying "brb" see also stuff you and lamayo.
+Extracted spelling variant:brb
+973412 ('burb', 'brb')
+A combination of the word Jack... and ass, forming a quicker faster way of saying "jackass". Origanated from a kid who was confused and didnt know what word he should say. he was going to say ass at first, but he also wanted to saY jackass. And so jass was formed.
+Extracted spelling variant:jackass
+976090 ('JASS', 'jackass')
+1. A term to define hardcore and metalcore kids, mainly around demographics of 24 years old and under. These are the same kids who may be considered fashioncore, emo, hXc and etc. with their tight jeans as well long shags blindfolding their eyes. 2. A way of saying "cool" in definition #1's very perspective of relevance. It's used to express approval/acceptance usual to a scene kid by a scene kid.
+Extracted spelling variant:cool
+1005259 ('scene', 'cool')
+A polite way of saying "phukk".
+Extracted spelling variant:phukk
+1044524 ('phawk', 'phukk')
+another way of saying "fuck" favoured by us in the midlands/north england
+Extracted spelling variant:fuck
+1053612 ('fook', 'fuck')
+l33t way of saying "totally"
+Extracted spelling variant:totally
+1080748 ('t0t^LLy', 'totally')
+Ebonicized way of saying "dollars", plural of "dollar", which refers to the official currency of the United States of America.
+Extracted spelling variant:dollars
+1083042 ('dalluz', 'dollars')
+1. The elite way of saying "sex" 2. The elite way of saying "sexy" 3. The alternative way of saying the word "f**k" in chatrooms where swearings are blocked.
+Extracted spelling variant:sex
+1092054 ('secks', 'sex')
+Just a different way of saying "they". Means exactly the same thing as "they"
+Extracted spelling variant:they
+1103046 ('Dey', 'they')
+1. Another way of saying "own" in a dominant way. 2. Showing someone up in a conversation, kind of like getting "served."
+Extracted spelling variant:own
+1103725 ('pajone', 'own')
+New way of saying "yeah" or "yes" or "of course". Probably a combine of "yes sir", with slightly altered pronounciation.
+Extracted spelling variant:yeah
+1105695 ('yizzur', 'yeah')
+To leave. Another way of saying "outtie".
+Extracted spelling variant:outtie
+1106447 ('bizout', 'outtie')
+the jamaican way of saying "boy"
+Extracted spelling variant:boy
+1117394 ('bwai', 'boy')
+Noun. 1. Shortened way of saying "sabotaged". 2. Description of someones, usually a boss or work colleague, deliberate subversion of your personal plans.
+Extracted spelling variant:sabotaged
+1127510 ('Sabo', 'sabotaged')
+Another way of saying "customer". Or Someone who uses many profanities.
+Extracted spelling variant:customer
+1149621 ('cussy', 'customer')
+A retarded way of saying "dumb"- emphasis on the B.
+Extracted spelling variant:dumb
+1152745 ('dum-b', 'dumb')
+The poser-mainer-accent way of saying "Yea" the real mainer would say something only understandable to another true mainer.
+Extracted spelling variant:Yea
+1164859 ('aeyeah', 'Yea')
+The 1337 or h4xx0r way of saying "crap". Coined by Internet writer/comedian Ruud from Rudyism 101.
+Extracted spelling variant:crap
+1180056 ('crapp0rz', 'crap')
+leet way of saying "warez"
+Extracted spelling variant:warez
+1180292 ('guarez', 'warez')
+see also ills ...just another slightly less obvious way of saying "pills"
+Extracted spelling variant:pills
+1187213 ('illies', 'pills')
+a lazy way of saying "dog" when referring to ones close friends or "homies."
+Extracted spelling variant:dog
+1187401 ('dah', 'dog')
+A really stupid way of saying "like" used by teenage girls while Iming each other.
+Extracted spelling variant:like
+1220514 ('lyk', 'like')
+Yet another way of saying "Bitch" made famous by Group X's song "Too many guys."
+Extracted spelling variant:Bitch
+1223753 ('baish', 'Bitch')
+joe pesci way of saying "youths"
+Extracted spelling variant:youths
+1223782 ('yoots', 'youths')
+The cool people's way of saying "hello"
+Extracted spelling variant:hello
+1224650 ('hullo', 'hello')
+Another way of saying "NO". It is just used alone, when replying to someone. Commonly used in instant messengers. Its "o" is pronounced like in "go"
+Extracted spelling variant:NO
+1231493 ('nop', 'NO')
+vietnamese way of saying "girl" when they're trying to holla.
+Extracted spelling variant:girl
+1232246 ('guh', 'girl')
+a hopeless attempt in trying to be funny.... OR a very Hoyan and Bertina way of saying "hahahaha"
+Extracted spelling variant:hahahaha
+1237939 ('wakakaka', 'hahahaha')
+Goa is a cute and childish way of saying "grr" It's used in an anime called Air here character Misuzu Kamio uses it as her interpretation of the sound that dinosaurs make. She uses it she's troubled or about to cry.
+Extracted spelling variant:grr
+1245968 ('Goa', 'grr')
+A posh, Shakespearean way of saying "Suck". Used to make the insulter seem more intellectual than the insultee.
+Extracted spelling variant:Suck
+1264951 ('Sucketh', 'Suck')
+A cool, shexy way of saying "hot". Made famous by Paris Hilton
+Extracted spelling variant:hot
+1279223 ('hawt', 'hot')
+A shexy and hawt way of saying "sexy" aka sexc or secksi.
+Extracted spelling variant:sexy
+1279227 ('shexy', 'sexy')
+A ghetto way of saying "anyways". Usually used after someone says something retarded, or something you don't want to hear or talk about.
+Extracted spelling variant:anyways
+1286841 ('nstewaze', 'anyways')
+Word meaning "lots of giggles". A girly way of saying "lol"
+Extracted spelling variant:lol
+1286877 ('log', 'lol')
+Online geek talk for "lots of giggles". A girly way of saying "lol" (laugh out loud).
+Extracted spelling variant:lol
+1293355 ('log', 'lol')
+A quicker and more convenient (lazy) way of saying "yours"
+Extracted spelling variant:yours
+1293709 ('Yourn', 'yours')
+another way of saying "yes" when you're COOL, LAID BACK, OR HIGH. lol
+Extracted spelling variant:yes
+1296210 ('gyeah', 'yes')
+Another way of saying "n00b". A derogatory term used as a slur towards rap artists, by those who don't have a clue about rap or hip-hop. Also a shite artist who has been ridiculed by critics all over the world.
+Extracted spelling variant:n00b
+1302104 ('piddy', 'n00b')
+Ramwa way of saying "Quiz" or "Test"
+Extracted spelling variant:Quiz
+1303866 ('twiz', 'Quiz')
+superheatedliquidcool, superheatedliquid coming from a science text book and cool coming from common sense, is another way of saying "extremley"
+Extracted spelling variant:extremley
+1308722 ('superheatedliquidcool', 'extremley')
+Another way of saying "awesome".
+Extracted spelling variant:awesome
+1312804 ('skrankie', 'awesome')
+An appropriate, yet annoying way of saying "newbie" in reference to someone who is an unexperienced and unskilled gamer. Most often used by people who have nothing better to do than play video or computer games for most of their pathetic lives, and are offended by the overconfidence of unproven new comers. "Noob" is a popular word in gamer language. In some instances, exceptionally bad players may be referred to as "boon" or "nub" (but only in rare, extreme cases)
+Extracted spelling variant:newbie
+1316196 ('noob', 'newbie')
+Polite way of saying "dumbass".
+Extracted spelling variant:dumbass
+1327951 ('creationist', 'dumbass')
+Differnt way of saying "heart" so it rhyms with Darth as in Darth Vader. Coming from things like "I heart (<3) you," meaning "I love you." Originally from the great iharthdath of livejournal. Also used by iharthdarth roxors and ridonkulous.
+Extracted spelling variant:heart
+1330502 ('harth', 'heart')
+Differnt way of saying "heart" so it rhyms with Darth as in Darth Vader. Coming from things like "I heart (<3) you," meaning "I love you." Originally from the great iharthdath of livejournal.
+Extracted spelling variant:heart
+1330517 ('harth', 'heart')
+1. (Mar-i-ju-wana) Short for "Marijuana" 2. (Mar-ige) A second grader's way of saying "marriage"
+Extracted spelling variant:marriage
+1331345 ('maarij', 'marriage')
+Redneck, hillbilly way of saying "father" or "dad"
+Extracted spelling variant:father
+1342859 ('Daddy', 'father')
+A lazy or non-enthusiastic way of saying "Hi". It's "Hi" spelled backwards. It's like saying "Hi" when you really don't feel like saying anything.
+Extracted spelling variant:Hi
+1343334 ('Ih', 'Hi')
+Another way of saying "negative".
+Extracted spelling variant:negative
+1346590 ('Nilbag', 'negative')
+another way of saying "leet". short for elite. on a road trip up to the lake district i saw a car with l337 on their lisence plate!!! i can only hope the rather sour looking driver appreciates this legendary lisence plate.
+Extracted spelling variant:leet
+1360322 ('l337', 'leet')
+Origanilly to make fun of the Japanese way of saying "only"
+Extracted spelling variant:only
+1362781 ('onry', 'only')
+An alternate way of saying "person".
+Extracted spelling variant:person
+1394620 ('pairson', 'person')
+Thats A Bunch OF Foolishness pron.Tab'of a polite way of saying "bullshit"
+Extracted spelling variant:bullshit
+1395381 ('Tabof', 'bullshit')
+The cuter way of saying "otter". Mostly used by Garix, a furry. It is probable that the changing of the "-er" suffix to an "-ar" one was done to reflect the common use of words such as evar and nevar.
+Extracted spelling variant:otter
+1397572 ('ottar', 'otter')
+discreet way of saying "pornography" so that girls, parents, girls parents are unaware that a conversation of porn is taking place. pronounced rapidly for desired effect. term of enderment for friends, like dog, homie, bro.
+Extracted spelling variant:pornography
+1401322 ('ponno', 'pornography')
+Another, slightly more interesting way of saying "Ugh"
+Extracted spelling variant:Ugh
+1418775 ('Gah', 'Ugh')
+The retarded way of saying "Hey" in conversation. Mostly used over the internet because the person is a complete dumbass and can't spell "Hey", or they're just being sarcastic and making fun of those dumbasses.
+Extracted spelling variant:Hey
+1421231 ('hay', 'Hey')
+1. A more literate way of saying "lol". 2. A way for literates in chatrooms to make fun of illiterates.
+Extracted spelling variant:lol
+1425007 ('lolz', 'lol')
+A really lazy way of saying "think"
+Extracted spelling variant:think
+1444846 ('Tink', 'think')
+A really cheesy way of saying "Mommy"
+Extracted spelling variant:Mommy
+1449025 ('Moommy', 'Mommy')
+a way of saying "gay" and or "bi-sexual" with humour and wit, sure to disarm even the angriest redkneck bible thumper, or at least make them think so you have time to run
+Extracted spelling variant:gay
+1468469 ('hetero-flexible', 'gay')
+A fancy way of saying "yo". Fancy mostly because of the use of the letter 'u' immideatly followed by a 'j'. Can be followed by 'jud?' ("sup?") for a combo of fancines. *Should only be utilized online, real world useage is just retarded*
+Extracted spelling variant:yo
+1469262 ('duj', 'yo')
+1. Another way of saying "shit" 2. Used to describe something that is undeniably scrumptious.
+Extracted spelling variant:shit
+1472719 ('shiznuts', 'shit')
+a really cool way of saying "tits"
+Extracted spelling variant:tits
+1475651 ('tatch', 'tits')
+An uneducated way of saying "educational" by adding "ma" in between.
+Extracted spelling variant:educational
+1476091 ('edumacational', 'educational')
+Just an obscure way of saying "head".
+Extracted spelling variant:head
+1477790 ('golova', 'head')
+A "leet" way of saying "loves".
+Extracted spelling variant:loves
+1493428 ('lovse', 'loves')
+money or cash; just another way of saying "paper"
+Extracted spelling variant:paper
+1497156 ('guak', 'paper')
+Another way of saying "there" made popular by the ever ignornant rapper, Chingy.
+Extracted spelling variant:there
+1505196 ('thurr', 'there')
+It is a way to say "I'm out" of a conversation when you are chatting online. Another way of saying "Peace" or "Duece", but being chill about it. And, chill / laid back now a days seem to be reflected by the word "Payce". This has nothing to do with someone trying to impersonate a Black person, its the attitude / emotion being replicated.
+Extracted spelling variant:Peace
+1537535 ('Payce', 'Peace')
+Term used in a chat service. A creative way of saying "Later" as in bye.
+Extracted spelling variant:Later
+1539099 ('L8er', 'Later')
+Sarcastic way of saying "sure" or "no".
+Extracted spelling variant:sure
+1543549 ('shirk', 'sure')
+People who cross-dress. Politically correct way of saying "transistors" ("trans-sisters").
+Extracted spelling variant:transistors
+1544538 ('semiconductors', 'transistors')
+"Gae" is a way of saying "Gay" but less English, And Gaeland is the true name for that place known as "England"
+Extracted spelling variant:Gay
+1549180 ('Gaeland', 'Gay')
+A way of saying "explode" with a Spanish accent. To burst violently.
+Extracted spelling variant:explode
+1594565 ('assplode', 'explode')
+affirmative. a way of saying "yes"
+Extracted spelling variant:yes
+1599114 ('yizzerd', 'yes')
+Another name for "Shots" Often used at parties, a cooler and more pronouncative way of saying "Shots". Also See sho'iez
+Extracted spelling variant:Shots
+1601306 ('shotties', 'Shots')
+A more decent way of saying "fucked" - appropriate for use around kids, upper management and more moderate grandparents.
+Extracted spelling variant:fucked
+1611447 ('fookayed', 'fucked')
+the lazy, but hip way of saying "something"
+Extracted spelling variant:something
+1612081 ("sut'en", 'something')
+A new way of saying "Meh". A sign that they probably don't care.
+Extracted spelling variant:Meh
+1615075 ('mehya', 'Meh')
+It's basically another way of saying "cool" or "fly" in a very laid back kind of way. It can also be used as a compliment. This is not a word that should be shouted with excitement... its very relaxed and calm.
+Extracted spelling variant:cool
+1615944 ('Stycious', 'cool')
+Another much better way of saying "if". Note: Doesn't mean "if in"
+Extracted spelling variant:if
+1628605 ('iffen', 'if')
+n00b is a derivitive of the word "noobie", which is a cooler way of saying "newbie". n00b's are people who aren't good at online gaming. Usually, people call others "n00b's" after they beat them in a game. A newb is someone who is new to a game, whether they're good or not. A noob doesn't necessarily mean someone who is new to the game, it is mostly referring to someone who isn't good at the game. All the different ways of saying "Newbie" refer to gaming, if the ones who are speaking it are talking about gaming.
+Extracted spelling variant:newbie
+1630458 ('n00b', 'newbie')
+A fun way of saying "cool" when just the word cool seems so bland.
+Extracted spelling variant:cool
+1638052 ('Popsicles!', 'cool')
+A lazy and better way of saying "Gangsta" or "Gangster".
+Extracted spelling variant:Gangsta
+1644170 ('Gangst', 'Gangsta')
+its a "l337 sp34k" way of saying "you" it can also be used as a greeting online instead of saying yo
+Extracted spelling variant:you
+1644270 ('j00', 'you')
+Slang term for a large peice of crack, a crystalized form of cocaine. The term comes from the U-bonics way of saying "boulder". When someone is trying to say they have a large quantity of crack cocaine, they refer to it as a "bobo". Because the term was used so frequently by crack addicts, it (mistakenly) became associated with smoking tabacco and marijuana.
+Extracted spelling variant:boulder
+1656532 ('bobo', 'boulder')
+A way of saying "fucking" more gently. It works best when you make a little pause before you say it.
+Extracted spelling variant:fucking
+1668283 ('kin', 'fucking')
+another way of saying "shit"
+Extracted spelling variant:shit
+1676156 ('shat', 'shit')
+the incorrect way of saying "lol". the real way to say it is lole I don't see an A in lol, do you? no. why should it be prononced lawl then?
+Extracted spelling variant:lol
+1680838 ('lawl', 'lol')
+A lazy and better way of saying "Gangsta" or "Gangster".
+Extracted spelling variant:Gangsta
+1683826 ('gangst', 'Gangsta')
+A way of saying "goodbye" or "see you later"
+Extracted spelling variant:goodbye
+1693954 ('Peazle', 'goodbye')
+A bundle of sticks tied together, not a wrong way of saying "faggot" for all you anti-homosexuals, you should all burn in hell!!!
+Extracted spelling variant:faggot
+1703478 ('fagot', 'faggot')
+An alternative way of saying "Nigger" it is the literal spelling of how many old-southern people say it.
+Extracted spelling variant:Nigger
+1711294 ('naygur', 'Nigger')
+short for "turrible", which is a way of saying "terrible"
+Extracted spelling variant:terrible
+1717530 ('turr', 'terrible')
+Fdisk Format Reload/Reinstall. A geek abbreviation I picked up a while ago at work. It's another way of saying "reformat".
+Extracted spelling variant:reformat
+1719376 ('FFR', 'reformat')
+A Queer's way of saying "lmfao" L: Laugh M: My Q: Queer R: Rear O: Off lmqro
+Extracted spelling variant:lmfao
+1720661 ('lmqro', 'lmfao')
+1. A gesture of confirmation. 2. Another way of saying "okay". 3. In good condition.
+Extracted spelling variant:okay
+1757725 ('kay-o', 'okay')
+The ignorant way of saying "ignorant" aka STEPHEN
+Extracted spelling variant:ignorant
+1762062 ('ignat', 'ignorant')
+n. A 1337 way of saying "Sexor" or "Sexy" or "Sex". Typically meaning the act of sex or one who is proficiently good at having mind-blowing sex.
+Extracted spelling variant:Sexor
+1769799 ('s3xor', 'Sexor')
+Another way of saying "Gross". To be nasty and or disturbing in several ways. (derived from groaty)
+Extracted spelling variant:Gross
+1793002 ('groats', 'Gross')
+The way of saying "Hello" or "Thankyou" in Thai!
+Extracted spelling variant:Hello
+1802966 ('krap', 'Hello')
+A lazy or British way of saying "Nothing".
+Extracted spelling variant:Nothing
+1822076 ('nufink', 'Nothing')
+short way of saying "Biatch" but not actually calling anyone a name, more of an interjection to just yell, also used as a greeting.
+Extracted spelling variant:Biatch
+1830604 ('BIA!!!', 'Biatch')
+An alternate way of saying "bye". It can be used especially when you need to leave quickly or circumstances call for it. Literally, it means "bye to you", a more direct salutation than just saying "bye".
+Extracted spelling variant:bye
+1837645 ('bai2u', 'bye')
+A different way of saying "good" in Swedish
+Extracted spelling variant:good
+1846709 ('Godermän', 'good')
+A swankified, phat, EXTREME way of saying "no". Originated in Port Washington and Paul D. Schreiber High School.
+Extracted spelling variant:no
+1847172 ('napes', 'no')
+Polite way of saying "ugly"
+Extracted spelling variant:ugly
+1850188 ('ritter', 'ugly')
+A variation of the word "pwn", which is a l337-way of saying "own"
+Extracted spelling variant:own
+1857524 ('p00n', 'own')
+The Russian way of saying "liar".
+Extracted spelling variant:liar
+1858017 ('Lir', 'liar')
+Different way of saying "yes" in swedish
+Extracted spelling variant:yes
+1861960 ('Jajemän', 'yes')
+The cool way of saying "Roar".
+Extracted spelling variant:Roar
+1862991 ('Rawr', 'Roar')
+The Scots or Scottish English way of saying "ampersand".
+Extracted spelling variant:ampersand
+1876294 ('epershand', 'ampersand')
+An online gaming way of saying "Should"
+Extracted spelling variant:Should
+1882773 ('shud', 'Should')
+A fancy way of saying "the" but with an austrian accent, spelled phoenetically
+Extracted spelling variant:the
+1885819 ('zjeh', 'the')
+1) L33t way of saying "Awesome".
+Extracted spelling variant:Awesome
+1886475 ('Osome', 'Awesome')
+the cool and boikyn way of saying "pretty". it's also more general, in that someone who is pretty isn't pretty in the typical sense, but instead they are pretty, beautiful, gorgeous, sexy, etc. it's like the all encompassing word for all things that look good. while it may in writting remind you of a hip hop mogul, when spoken it sounds nearly identical to the original word. it's simply the new way of writting it.
+Extracted spelling variant:pretty
+1887075 ('priddy', 'pretty')
+1.- A way of saying "You" used by a n00b or 1337 trying to copy a n00b 2.- Not m3
+Extracted spelling variant:You
+1888052 ('j00', 'You')
+A really long way of saying "lol".
+Extracted spelling variant:lol
+1892984 ('ROMFFLMMFAO', 'lol')
+Chuuch is just an old pimp way of saying "Amen" "CHUUCH". The word came from Chicago's Own - SEAMORE - But it is mainly used in place of "So It Is"
+Extracted spelling variant:Amen
+1902112 ('Chuuch', 'Amen')
+Defintion One The area of Virginia Beach north of 32nd street. Shortened form of North End. South end VB is all a bunch of pussies, broke ass niggas, or fucking annoying Ohio tourists. Locals live at the NE. Definition Two: A totally lame ass way of saying "any" while on AOL Instant Messager or during text messaging.
+Extracted spelling variant:any
+1910296 ('NE', 'any')
+A betch is another way of saying "Bitch" except it sounds a million times better and makes you feel cool!
+Extracted spelling variant:Bitch
+1916366 ('Betch', 'Bitch')
+A cooler more 1337 way of saying "The". Not unlike 'teh' but usualy done to sound cool, when you know that your right or when talking about something 'cool' or 'uber 1337'
+Extracted spelling variant:The
+1918014 ("th'a", 'The')
+1. A country in Ethiopia. 2. An inventive and much better way of saying "Indeed", usually used in chatrooms.
+Extracted spelling variant:Indeed
+1926565 ('Indode', 'Indeed')
+A cleaner way of saying "bitch". Used for people who wish not to feel any guilt from cursing. Can also be used as a universal noun. (ie, "sandbijj). "bijj, bijjy, bijjo, bijjing, bijjjjjjjjj"
+Extracted spelling variant:bitch
+1928911 ('bijj', 'bitch')
+A leet way of saying "loot"
+Extracted spelling variant:loot
+1928945 ('lootz', 'loot')
+Other way of saying "penis".
+Extracted spelling variant:penis
+1933698 ('painus', 'penis')
+Another way of saying "seen". Way of acknowledgement. Probably comes from some idiot typing "scene" instead of "seen" to his friend, and when that idiot read it, he pronounced it "skeen? Skeeeeen".
+Extracted spelling variant:seen
+1938921 ('skeen', 'seen')
+another way of saying "Hug".
+Extracted spelling variant:Hug
+1942426 ('Huggles', 'Hug')
+another way of saying "Hug".
+Extracted spelling variant:Hug
+1942430 ('Huggles', 'Hug')
+1. To express excitement 2. Another way of saying "yes" or "yeah" 3. Another way of saying or asking "do you agree?" or "right?"
+Extracted spelling variant:yes
+1953235 ('yeee', 'yes')
+NOOOH is the retarded way of saying "NO".
+Extracted spelling variant:NO
+1955818 ('noooh', 'NO')
+An old-fashioned English way of saying "blonde". As flax possesses golden fibers, this term was inevitably used for a person with fair hair.
+Extracted spelling variant:blonde
+1955930 ('flaxen', 'blonde')
+1. A more eloquent or refined way of saying "shit". 2. Sometimes a stronger or more emphasized way of saying "shit": "really shit". To understand the slightly paradoxical difference note that the word "shite" is usually said in a grimmer and lower tone than the word "shit", which is sharper to say. You can really tear into the word "shite" when you're using it as an insult as in the second example, the word "shit" ends more suddenly. However generally "shite" is not as offensive to say as "shit".
+Extracted spelling variant:shit
+1967255 ('shite', 'shit')
+Cute, slurred, not-quite-sober way of saying "no" that V is fond of. Often accompanied with a smile.
+Extracted spelling variant:no
+1967945 ('nerh', 'no')
+a stupid, wannabe way of saying "fosho"; what losers say
+Extracted spelling variant:fosho
+1973000 ('foshodohdoh', 'fosho')
+A slightly more musical way of saying "insanity". It was once an accepted medical term, but like "retarded" and "dwarf" it has fallen by the wayside. The word derives from the belief that mental illness is somehow related to the phases of the moon, a conviction widely held until it was debunked by the advent of modern medicine.
+Extracted spelling variant:insanity
+1978189 ('lunacy', 'insanity')
+A funny way of saying "pedophile".
+Extracted spelling variant:pedophile
+1990253 ('pedrophile', 'pedophile')
+1. usually said when excited 2. a kid-friendly way of saying "shit"
+Extracted spelling variant:shit
+1993253 ('shizam', 'shit')
+fobby way of saying "sup"
+Extracted spelling variant:sup
+1995942 ('sap', 'sup')
+A snazzy way of saying "update" (noun)
+Extracted spelling variant:update
+1996366 ('update-a-roony', 'update')
+A computer geek way of saying "punk" or "punx", part of a common disorder for people to constantly add "0rz" to the end of every other word. Part of a common wannabe "leet speek" (13375p33k) language.
+Extracted spelling variant:punk
+1998659 ('Punx0rz', 'punk')
+a grinddier way of saying "smudge" or scratch + smudge = scudge
+Extracted spelling variant:smudge
+2004457 ('scudge', 'smudge')
+Another way of saying "hello" that will impress your friends, family and present company.
+Extracted spelling variant:hello
+2005500 ('Yodal', 'hello')
+shite way of saying "lol" scene wannabe kids say it.
+Extracted spelling variant:lol
+2005810 ('lolz', 'lol')
+Ulleh is NOT greek, it's actually in a Lebanese Arabic accent, it is most definently NOT just a random saying. it's actually a slang way of saying "you" equivilent to "man" in english. In the Iraqi Arabic accent it's actually pronounced "willeh" or "willak (short "lak"). It's mildly offensive to elders or people of a respectable status within the community.
+Extracted spelling variant:you
+2006760 ('ulleh', 'you')
+1) To like someone in a sexual way; lust for; perverted way of saying "like"; you kno, its LAYke". 2) a Yo Game Server admin, who works tirelessly to dispense witty retorts to Smash and Admirable on a daily basis.
+Extracted spelling variant:like
+2013797 ('layke', 'like')
+The word Yarhs is derived from "yes". It is the shorter and cooler way of saying "yes". The word Yarhs is said loud and long i.e "Yarrrrhhhhs". You use the word at the end of a sentence from a pay out or from a joke.
+Extracted spelling variant:yes
+2013965 ('Yarhs', 'yes')
+An upper class way of saying "serious".
+Extracted spelling variant:serious
+2016021 ('Seirous', 'serious')
+A strange and over-enthusiastic way of saying "bye", used when you are in a hyper/happy mood
+Extracted spelling variant:bye
+2050080 ('BHYER', 'bye')
+an old's way of saying "yes" origin: yerman, from the word "ja"
+Extracted spelling variant:yes
+2053754 ('yels', 'yes')
+another way of saying "Woo" or "woot"
+Extracted spelling variant:Woo
+2076880 ('weew', 'Woo')
+In relation to the actor Robert Downey Jr, it's another way of saying "fantastic" or "really well acted"
+Extracted spelling variant:fantastic
+2089166 ('Downeyriffic', 'fantastic')
+a less vulgar way of saying "fuck". It is pronounced like: feyk. Really, it's that much cooler.
+Extracted spelling variant:fuck
+2102134 ('feque', 'fuck')
+A super 1337 way of saying "lol"
+Extracted spelling variant:lol
+2106975 ('lawl', 'lol')
+Slang way of saying "nice", with a drawl in the voice
+Extracted spelling variant:nice
+2108231 ('nass', 'nice')
+zmonga is another way of saying "oh my god". it was supposed to say "ZOMG" wich is the gamer, or noob, way of saying "omg" (oh my god), but Chrissy aciddently typed, and obnoxiously blurted out "ZMONGA!" (ZA-MON-GUH)
+Extracted spelling variant:omg
+2120658 ('zmonga', 'omg')
+a less crude way of saying "nipples".
+Extracted spelling variant:nipples
+2145244 ('nibbles', 'nipples')
+A gangsta way of saying "Pickle".
+Extracted spelling variant:Pickle
+2157453 ('Pizzickle', 'Pickle')
+Another way of saying "MOUTH"
+Extracted spelling variant:MOUTH
+2185219 ('biscuitbasher', 'MOUTH')
+The common pronouncement and name for the current decade, the '00s. The 'Oughties' was created out of the word "ought" which is an old-fashioned or British way of saying "zero".
+Extracted spelling variant:zero
+2203151 ('oughties', 'zero')
+1)female crotch...or just a crotch. 2)a slang term endorsed by teens in New Rochelle and Yonkers meaning just a weird way of saying "face"
+Extracted spelling variant:face
+2262528 ('fotch', 'face')
+"Oresama" is both an overly-self-confident and narcissistic way of saying "me" in Japanese.
+Extracted spelling variant:me
+2269166 ('oresama', 'me')
+Noun A way of saying "Nigga" without being jumped by every black person whithin earshot. A synonym for "Nigga" The phrase originated in Bristol England, allegedly to help those who invented it cover up their racism. The full phrase is gun and trigger, which stems from the massive increase in black gun crime. commonly abrieviated to g+t
+Extracted spelling variant:Nigga
+2273112 ('G&T', 'Nigga')
+a shorthand way of saying "bogus" which generally means anything that sucks, is nonsensical or weird.
+Extracted spelling variant:bogus
+2284017 ('bogy', 'bogus')
+A shortened form of "whatever", usually expressing disinterest or mild defensive derision. Origin unknown, but likely formed simultaneously in numerous locales Related to TEEV Another way of saying "Lame"
+Extracted spelling variant:Lame
+2289432 ('tev', 'Lame')
+An alternate way of saying "Geeza", originated accidently due to alchohol intoxication disrupting the ability to refer to a friend as a "Geeza"
+Extracted spelling variant:Geeza
+2302360 ('geena', 'Geeza')
+Chi-Town/Chicago way of saying "dice", most commonly used as a reference to "shooting dice", or, "ghetto craps".
+Extracted spelling variant:dice
+2311914 ('dips', 'dice')
+1337 way of saying "LOL".
+Extracted spelling variant:LOL
+2324829 ('lolz', 'LOL')
+A hyphy way of saying "fast". Popularized by a song by Kafani featuring Keak Da Sneak.
+Extracted spelling variant:fast
+2342326 ('Fasst', 'fast')
+A slightly nicer way of saying "bullshit"
+Extracted spelling variant:bullshit
+2349084 ('belsh', 'bullshit')
+The southern way of saying "Child". Frequently used today in the south, and even northern states. Also seen in the plural form "chaldren".
+Extracted spelling variant:Child
+2361936 ('chald', 'Child')
+crocodile dundee's way of saying "nice"
+Extracted spelling variant:nice
+2368771 ('nawce', 'nice')
+1.another word used to substitute for "fight". 2. also used as another way of saying "argueing".
+Extracted spelling variant:argueing
+2370356 ('skush', 'argueing')
+14th century old english term roughly meaning "dude." Actually, it was a term used by Catherine Duke (Khandi Alexander) to trick Bill McNeal (Phil Hartman) in the classic sitcom News Radio. She led him to believe that the term was a new way of saying "peeps" or "homies," when, in fact, it just made him sound like an idiot.
+Extracted spelling variant:peeps
+2388607 ('dilsnoofus', 'peeps')
+1. A common misspelling of the word "holy" 2. From, of, or related to a hole 3. Cute way of saying "hole"
+Extracted spelling variant:hole
+2406405 ('holey', 'hole')
+A west country way of saying "cheers" or "thankyou" originated from Pond Farm
+Extracted spelling variant:cheers
+2414657 ('cherbs', 'cheers')
+A short and to some people (like myself) slightly confusing when you first see it, way of saying "cutie" online.
+Extracted spelling variant:cutie
+2444588 ('Q2', 'cutie')
+The Ye Olde English way of saying "Morons".
+Extracted spelling variant:Morons
+2452404 ('mormons', 'Morons')
+Yeag: A much cooler way of saying "YES" to someone who is much uncooler than you!
+Extracted spelling variant:YES
+2454513 ('Yeag', 'YES')
+Less forceful way of saying "bastard"
+Extracted spelling variant:bastard
+2454647 ('batad', 'bastard')
+Another way of saying "rad"
+Extracted spelling variant:rad
+2463048 ('dank', 'rad')
+span\glish 1.a funny way of saying a "sluty prick" 2.a nicer way of saying "hoodrat" 3.a hoe
+Extracted spelling variant:hoodrat
+2475578 ('eskonka', 'hoodrat')
+A funny way of saying "retard".
+Extracted spelling variant:retard
+2494138 ('wetawt', 'retard')
+1. A pimp's way of saying "Confused" 2. When you get confused because you woke up in your best friends kitchen naked with a sharp pain in your ass, and wearing a cock ring!
+Extracted spelling variant:Confused
+2539821 ('Confuzzled', 'Confused')
+a weird way of saying "whatever" or "yeah. right." whatever
+Extracted spelling variant:whatever
+2542827 ('poofeh', 'whatever')
+fierce; very impressive, remarkable, or outstanding; inspiring awe, admiration, or wonderment; a way to describe the high one might get from a drug, dance club, or party; (thought to be derived from "ferocious" as an alternate way of saying "fierce" as it became over-used specifically in gay culture). SEE ALSO the circuit song by Alan T entitled "Ferosh".
+Extracted spelling variant:fierce
+2545797 ('ferosh', 'fierce')
+The white-yet-ghetto way of saying "Bacardi". Heard in Saosin's "Show Me Your Booty Hole".
+Extracted spelling variant:Bacardi
+2554240 ('bacizzle', 'Bacardi')
+Greetings: Adjective: To greet the coming of an event. Commonly used as a way of saying "hello" - However, when used properly it can be used as a way of saying that you like something, or that something is pleasing. Often used in the past tense, but can be used in almost any situation.
+Extracted spelling variant:hello
+2557285 ('greetings', 'hello')
+Thunk: A really stupid mans way of saying "thought"
+Extracted spelling variant:thought
+2558506 ('Thunk', 'thought')
+The less vulgar way of saying "Punani".
+Extracted spelling variant:Punani
+2559196 ('boonami', 'Punani')
+A way of saying "wetback" without infuriating all the mexicans in the general area.
+Extracted spelling variant:wetback
+2561308 ('moistback', 'wetback')
+Taken (well, more like stolen) from Hairspray, it's the black way of saying "fantastic"
+Extracted spelling variant:fantastic
+2565952 ('afrotastic', 'fantastic')
+The opposite of yadada, meaning "No, I don't know what you mean" or "No, I don't agree with you." Its a Bay Area way of saying "NO".
+Extracted spelling variant:NO
+2566119 ('nadada', 'NO')
+an exaggerated, stretched out way of saying "shit". pronounced shee-yit.
+Extracted spelling variant:shit
+2572163 ('shiyet', 'shit')
+seen skeen - Another way of saying "seen", a commonly used word by inner city chavs to say "ok" or "alright".. Example..
+Extracted spelling variant:seen
+2572849 ('skabeen', 'seen')
+(n): another way of saying "fingers", "digits".
+Extracted spelling variant:fingers
+2590965 ('fibgers', 'fingers')
+A simple way of saying "your"
+Extracted spelling variant:your
+2592260 ('cho', 'your')
+a simple way of saying "here"
+Extracted spelling variant:here
+2592263 ('hiyah', 'here')
+A less offensive way of saying "fuck"hole, which could mean any hole on the body....
+Extracted spelling variant:fuck
+2600109 ('farkhole', 'fuck')
+Another way of saying "Noob" but with the word muffin to add some spice to the insult. No-one wants to be a muffin and a noob at the same time either.
+Extracted spelling variant:Noob
+2608133 ('noobmuffin', 'Noob')
+chillioning- verb spanglish way of saying "chilling" or known also known as "kicking it" .
+Extracted spelling variant:chilling
+2611448 ('chillioning', 'chilling')
+A shorter way of saying "Distracted" but meant to be used on someone who is crazy, out of there mind, drunk or drugged, or even just weird.
+Extracted spelling variant:Distracted
+2614236 ('Stracted', 'Distracted')
+this word is used as another way of saying "please" it sounds really funny and its a good use for begging on online games its meant to annoy others personally i think its funny i hope some of you will annoy others via mmorpg's ie"gif mai manee! plooz! however you wanna use this enjoy.
+Extracted spelling variant:please
+2615262 ('plooz', 'please')
+A comical way of saying "Problem" (pronounced poor-blum). Derived from the misspelling of the original word, "porblem" is usually used when the issue is blatantly obvious and/or vital to the action or operation.
+Extracted spelling variant:Problem
+2617526 ('Porblem', 'Problem')
+The absolute gayest way of saying "please", generally used by prepubescents in online games.
+Extracted spelling variant:please
+2628875 ('Pl0x', 'please')
+A cool way of saying "peace" when saying goodbye or signing an email.
+Extracted spelling variant:peace
+2632163 ('peices', 'peace')
+A cute way of saying "okay".
+Extracted spelling variant:okay
+2640013 ('Okie', 'okay')
+One of the largely recognized words in Egyptian slang. It has been growing and getting popularity throughout the last decade. It is equivalent to "dude" in English slang. Prince is usually pronounced "brince" by most people. 1. Usually said to guys with lots of influence to group, like their leader or something. 2. Another way of saying "fellow" or "dude" or anything of the same meaning.
+Extracted spelling variant:fellow
+2657383 ('prince', 'fellow')
+a cute way of saying "sorry"
+Extracted spelling variant:sorry
+2687507 ('sawee', 'sorry')
+A completely wrong way of saying "formula". Some jew rats from New Jersey are incapable of saying "formula", so they add an -r, creating formular.
+Extracted spelling variant:formula
+2688334 ('formular', 'formula')
+Another way of saying "okay"
+Extracted spelling variant:okay
+2689667 ('pokay', 'okay')
+A baby talk way of saying "drink"
+Extracted spelling variant:drink
+2696495 ('dwink', 'drink')
+Laughing My Socks Off A politer way of saying "lmao"
+Extracted spelling variant:lmao
+2704691 ('lmso', 'lmao')
+Short way of saying "Jennifer" or "Jenna". Sometimes mistaken for Alex Trebek from Jeopardy.
+Extracted spelling variant:Jennifer
+2705386 ('jenners', 'Jennifer')
+Calpone is like another way of saying "word", "cool" or "thats whats up". It is usually used after saying you like someone but also can be used to agree or approve to something.
+Extracted spelling variant:word
+2716442 ('calpone', 'word')
+"Father". A retarded way of saying "Dad". Best used in a dopey, deep voice.
+Extracted spelling variant:Dad
+2722732 ('dayud', 'Dad')
+The new way of saying "xxx". The sound of a kiss.
+Extracted spelling variant:xxx
+2723065 ('mmwahh', 'xxx')
+another way of saying "nigger" or "negro" racially aggressive slang.
+Extracted spelling variant:nigger
+2739923 ('lohman', 'nigger')
+Another way of saying "sexy" or "hot".
+Extracted spelling variant:sexy
+2742847 ('Petya', 'sexy')
+The number "666" by itself or in combination with other numbers. A shorthand way of saying "666" when the number is combined with other numbers, as in "one-devil-five-nine-two-eight" for "16665928".
+Extracted spelling variant:666
+2748112 ('devil', '666')
+A cool and hip way of saying "bear". Yes, bear as in the animal. Relating to the term "errbody", which is an alternative way of saying everybody.
+Extracted spelling variant:bear
+2751549 ('ber', 'bear')
+Scottish way of saying "lady".
+Extracted spelling variant:lady
+2764488 ('laddy', 'lady')
+A different way of saying "What".
+Extracted spelling variant:What
+2765472 ('svhat', 'What')
+a shorter and much more cooler way of saying "whatever".
+Extracted spelling variant:whatever
+2770336 ('whatevz', 'whatever')
+Another way of saying "legend" or "The Legend of".
+Extracted spelling variant:legend
+2771711 ('Densetsu', 'legend')
+Another way of saying "Becky" also used to describe a short haired brunette with glasses and ADD
+Extracted spelling variant:Becky
+2778127 ('bekii', 'Becky')
+The old school lazy way of saying "sharp". It can also be spelled, "Shob". Commonly used by people aged 40+
+Extracted spelling variant:sharp
+2785499 ('shaub', 'sharp')
+A nice, secretive way of saying "bitch". Derived from the way "bitch" sounds when yelled and muffled at the same time.
+Extracted spelling variant:bitch
+2812273 ('bert', 'bitch')
+The mexican way of saying "video" or "videos"
+Extracted spelling variant:video
+2816792 ('Bideo', 'video')
+A poor way of saying "buddy" or "friend"
+Extracted spelling variant:buddy
+2819414 ('Booday', 'buddy')
+1. A phrase used to attract attention 2. The ghetto way of saying "Your" 3. A way to greet someone, like "Hey" or "Hi" 4. Is the spanish pronoun I
+Extracted spelling variant:Your
+2822714 ('yo', 'Your')
+another way of saying "bitch"
+Extracted spelling variant:bitch
+2845932 ('biach', 'bitch')
+A hell hardcore way of saying "yo"
+Extracted spelling variant:yo
+2849717 ('yoe', 'yo')
+Adverb 1. "without lack of regard" or "not without regard" Adjective 1. "not disregardful" While many claim it to be grammatically incorrect and brush it off as the dumb way of saying "regardless", there is a meaningful place for this word in the English language. The unreduced double negative formed by the prefix and affix acts as a redundant intensifier of the root word "regard"; meaning this word is useful in certain circumstances for emphasizing the sheer amount of regard or the mere presence of regard in a given situation. It is similar to the usage of superlative reflexive pronouns.
+Extracted spelling variant:regardless
+2853279 ('irregardless', 'regardless')
+A cute way of saying "boyfriend"
+Extracted spelling variant:boyfriend
+2854793 ('Boyfraaannn', 'boyfriend')
+'Madea' Simmons way of saying "lunch" with an "er" in place of the "u"...can even be spelled "lurnch"...
+Extracted spelling variant:lunch
+2858612 ('lernch', 'lunch')
+A really cute way of saying "Reeses". Can apply to both the peanut butter cup and Reeses Pieces, but in the case of the later, is more commonly reffered to as "Reesies Piecies."
+Extracted spelling variant:Reeses
+2862673 ('reesies', 'Reeses')
+Another way of saying "racaille".... a french word, meaning " hustla /gangsta". Distinguished by their Lacoste clothing, they usually ride in big numbers.
+Extracted spelling variant:racaille
+2870151 ('caille', 'racaille')
+A superior and more mellifluous way of saying "tasty" that originated from typos of said word. Ignore the other definition about a hubristic dullard, and say it out loud - it's catchy!
+Extracted spelling variant:tasty
+2872845 ('Tatsy', 'tasty')
+A way of saying "idiot" in such a way that said idiot can understand. Also a way of showing someone's idiocy (idgicy) by said person not being able to understand the word. Also used to speak of idiotic actions: "idgitoic"
+Extracted spelling variant:idiot
+2878902 ('idgit', 'idiot')
+childs way of saying "spinning"
+Extracted spelling variant:spinning
+2891835 ('pinning', 'spinning')
+Norwegian and Swedish way of saying "Hello". Used in informal speech.
+Extracted spelling variant:Hello
+2892806 ('Hallo', 'Hello')
+A totally gangsta way of saying "purpose".
+Extracted spelling variant:purpose
+2894567 ('purdpuss', 'purpose')
+something so hard that it is harde, canadian way of saying "hard", or a term for a someone who is a badass
+Extracted spelling variant:hard
+2906860 ('harde', 'hard')
+a funnier way of saying "steal", usually used in light conversation. stems from the word "burglary"
+Extracted spelling variant:steal
+2914127 ('burgle', 'steal')
+Another way of saying "is".
+Extracted spelling variant:is
+2923747 ('Ish', 'is')
+Another word for, or another way of saying "gross".
+Extracted spelling variant:gross
+2938444 ('Gruss', 'gross')
+(HECKK-UHH) Hecka is word that was originated in NorCal as a more subtle way of saying "Hella". If you don't know what "Hella/Hecka" means, it is another way of saying "very", "really", or "so". It is very often used much more often then just for those three words as a replacement. When said jokingly, people will also say "Heck Of" instead of "Hecka". "Hecka" is probably the sole most annoying word to say around people from out of Northern California. If you say "Hecka" around people from other states often, they get annoyed really quick and generally, absolutely suck at trying to use the word correctly... but it is fun to watch them fail miserably at using an awesome word. It can also be used at the end of a sentence, even though it my sound a little weird, it is still accepted unlike "very", "really", and "so".
+Extracted spelling variant:Hella
+2961207 ('Hecka', 'Hella')
+another way of saying "no", but with more emphasis. Seemingly derived from the Dutch "nooit" Also, perhaps a combination of the words "no" and "not"
+Extracted spelling variant:no
+2994963 ('noit', 'no')
+another way of saying "awesome" or "great" but so awesome that the word awesome, or any other known word in any vocabulary doesn't do it justice. it can only be expressed as dhanika.
+Extracted spelling variant:awesome
+3001900 ('Dhanika', 'awesome')
+The Spaniard and Mexican way of saying "Si" due to their lisp. Only Americans say "Si" because they do not have a native tongue.
+Extracted spelling variant:Si
+3012162 ('thi', 'Si')
+A cooler way of saying "Bitch". And not in any way, Mario's word, It's Ellen's.
+Extracted spelling variant:Bitch
+3017241 ('Biznatch', 'Bitch')
+lazy way of saying "something" in south of england
+Extracted spelling variant:something
+3023493 ('sank', 'something')
+Melody's cute way of saying "later" because she's wonderful. Used as an adverb.
+Extracted spelling variant:later
+3029049 ('laterhosen', 'later')
+Basically a cooler way of saying "novice", except adding an "ass" on the end instead of "ice" making the victim of such a cool word feel more like a dumbass!
+Extracted spelling variant:novice
+3036233 ('Novass', 'novice')
+Playful way of saying "motherfucker".
+Extracted spelling variant:motherfucker
+3080019 ('Miggifiggi', 'motherfucker')
+1. A pothead's way of saying "nothin". 2. Shortened version of mother fucking.
+Extracted spelling variant:nothin
+3100470 ('muffin', 'nothin')
+Silab is a new and secret way of saying "gay". A couple kids seen a site made by Miss Silabsoft. Now the definition was made as they thought her site was gay.Silab can be taken in all differnt negative ways. This could also mean stupid, crappy, slutty, or my favorite whack! There is also a online book with this and more on the hidden language!
+Extracted spelling variant:gay
+3100947 ('Silab', 'gay')
+an illiteret, and/or, retarted, persons way of saying "with"
+Extracted spelling variant:with
+3103133 ('Wit', 'with')
+A term loosely used in place of "darling". The friendly way of saying "darling".
+Extracted spelling variant:darling
+3106260 ('Dahling', 'darling')
+this is an alternative and cool way of saying "booty" it is often used in Jamaica
+Extracted spelling variant:booty
+3110299 ('bwatay', 'booty')
+A cooler and better way of saying "stupid"
+Extracted spelling variant:stupid
+3125960 ('estooped', 'stupid')
+The white (and bad) gangster way of saying "reals" and "I couldn't butcher the word 'reals' beyond one letter"
+Extracted spelling variant:reals
+3149108 ('realz', 'reals')
+The gangsta way of saying "here" or "hear." or The ghetto black girl's way of saying "hair."
+Extracted spelling variant:here
+3152947 ('Hurr', 'here')
+A shortened way of saying "alrite". Commonly used as slang or in instant messaging and social networking sites like Myspace.
+Extracted spelling variant:alrite
+3214579 ('Igght', 'alrite')
+Another way of saying "bear".
+Extracted spelling variant:bear
+3218829 ('ber', 'bear')
+bitchy way of saying "okay"
+Extracted spelling variant:okay
+3231080 ('Merkay', 'okay')
+Owned by the rival unexpectedly and illegally. Another way of saying "Invaded". Word of Origin: Americans took over Iraq in 2003 by bombing Baghdad, which is an illegal act towards the UN and the world.
+Extracted spelling variant:Invaded
+3237405 ('iraqed', 'Invaded')
+a nicer way of saying "shitty". In reference to the term "pinch a loaf", where the "loaf" is a turd.
+Extracted spelling variant:shitty
+3243922 ('Loafie', 'shitty')
+Short way of saying "stupid"
+Extracted spelling variant:stupid
+3244122 ('stu', 'stupid')
+the stupid way of saying "love" that practically no one takes notice to, unless youre 12 years old, in a relationship and you think you "luv dis person til da day u die". :)
+Extracted spelling variant:love
+3256045 ('luv', 'love')
+Lazy man's way of saying "serious". Can be used in the same terms as ferl and word
+Extracted spelling variant:serious
+3259841 ('surs?', 'serious')
+coy way of saying "lesbian" in public.
+Extracted spelling variant:lesbian
+3262227 ('lebanese', 'lesbian')
+A different way of saying "heck" when you are confused, or in a random situation
+Extracted spelling variant:heck
+3263502 ('[heckers]', 'heck')
+A way of saying "tits" by using alphaneumeric characters. Commonly used by nerdy engineers.
+Extracted spelling variant:tits
+3271365 ('T1T5', 'tits')
+Derived from the root word "Twunt" an amalgamation of "Twat" and "Cunt." Twuntish is a slightly more polite way of saying "twattish" or "cuntish" behaviour. Crass behaviour to the point of rudeness. Unfriendly, crass, stupid, nasty, rude, insensitive or spiteful behaviour.
+Extracted spelling variant:twattish
+3274529 ('Twuntish', 'twattish')
+a very amusing heavily accented way of saying "sex". when somebody asks what it means, you say that schecks are small animals that look similar to young chickens.
+Extracted spelling variant:sex
+3286904 ('schecks', 'sex')
+a very old way of saying "yes" or "hey" was used by the early U.S. army as well.
+Extracted spelling variant:yes
+3296538 ('yo', 'yes')
+ugly fat mofo' way of saying "L" prolly the letter of their name becuz they are too fucking fat and lazy to type it in whole.
+Extracted spelling variant:L
+3300970 ('El', 'L')
+the latin or mexican way of saying "vagina". a vargina is often a lot bigger than a normal vagina, and normally is more accessable.
+Extracted spelling variant:vagina
+3306893 ('vargina', 'vagina')
+Another way of saying "here", but in a cooler way. Part of the Corwinish language.
+Extracted spelling variant:here
+3331430 ('hyaugh', 'here')
+another way of saying "you"
+Extracted spelling variant:you
+3340043 ('yhuu', 'you')
+a northern way of saying "joker" especially people from HUDDERSFIELD. lol
+Extracted spelling variant:joker
+3340562 ('Jorka', 'joker')
+chaldean way of saying "what" or sometimes used as a greeting
+Extracted spelling variant:what
+3356405 ('ha', 'what')
+a different and far cooler way of saying "lame".
+Extracted spelling variant:lame
+3412998 ('Lem', 'lame')
+Another way of saying "exploded", just better.
+Extracted spelling variant:exploded
+3430583 ('Explodified', 'exploded')
+A term used to define the level of quality used in many modern-day American "greasy spoon" restaurants. Its a fancy way of saying "slop".
+Extracted spelling variant:slop
+3432533 ('Schloppe', 'slop')
+Another way of saying "super", but just a slang way of saying/typing/texting it.
+Extracted spelling variant:super
+3468006 ('Supah', 'super')
+1. a pirate word. 2. a way of saying "yes". 3. a pirate's way of saying yes.
+Extracted spelling variant:yes
+3473891 ('yargh', 'yes')
+Very strong way of saying "positively"
+Extracted spelling variant:positively
+3490285 ('absofantabolutely', 'positively')
+A much easier and quicker way of saying "vibrated"
+Extracted spelling variant:vibrated
+3540247 ('Vibrote', 'vibrated')
+The ultimate way of saying "OWNED"
+Extracted spelling variant:OWNED
+3557942 ('Shaved', 'OWNED')
+lil waynes way of saying "yea" with his autotune
+Extracted spelling variant:yea
+3571422 ('yar', 'yea')
+A g-rated way of saying "fucked", but pronounced "fee-uked". Synonymous with being screwed, burned, or messed up.
+Extracted spelling variant:fucked
+3588409 ('fuked', 'fucked')
+A very drawn out, and unnecessary way of saying "Omfg". It means "Oh my fucking Jesus Christ in heaven".
+Extracted spelling variant:Omfg
+3595367 ('Omfjcih', 'Omfg')
+A really stupid way of saying "noob" Which a really stupid way of saying "newb" Which is a really stupid way of saying "newbie" Used by staggeringly unclever nerds to insult people but end up looking staggeringly retarded. Average age of user: 13-22 (When 99% of users reach 23 they realize how damn stupid they sound and stop speaking with lame, internet affectations) People can cite the military all they like. Game nerds only use the word, because it is the mouth breathing internet dweller's idea of "clever" to respell shit in stupid ways.
+Extracted spelling variant:noob
+3599356 ('nub', 'noob')
+A silly/quirky way of saying "K", often used in IM and "TM (text messaging)" conversations.
+Extracted spelling variant:K
+3602624 ('k-lmnop', 'K')
+This is an alternative way of saying "Bless" with a lisp-type pronunciation. More commonly used to imply the liking of something and not used as a farewell.
+Extracted spelling variant:Bless
+3618122 ('Bleth', 'Bless')
+The G-rated way of saying "Bullshitting". Only the gangsterest of the gangsters are permitted to use this word.
+Extracted spelling variant:Bullshitting
+3621755 ('Bullspitting', 'Bullshitting')
+Censored and obscure way of saying "clitoris"
+Extracted spelling variant:clitoris
+3641908 ('Plitterbug', 'clitoris')
+Another (way schmexxier) way of saying "sexy". Invented by MSN chats or "l33t-speakers". Usually refers to a certain act, rather than a person or object. Used by scene 13-15yr-olds from London.
+Extracted spelling variant:sexy
+3643709 ('Schmexxie', 'sexy')
+1. Ghetto way of saying "Vietnamese" 2. The way white folks often mispronounce "Vietnamese." (Nubs)
+Extracted spelling variant:Vietnamese
+3646192 ('Vietmanese', 'Vietnamese')
+The new gangster way of saying "ass", commonly used by gangster kids everywhere. Including the ones that think they're gangster when they really aren't, but just try to prove themselves otherwise while epically failing.
+Extracted spelling variant:ass
+3654878 ('Azzizle', 'ass')
+in spanish a disrespectful way of saying "dude". usually used between men as both a friendly and unfriendly term.
+Extracted spelling variant:dude
+3654959 ('Guay', 'dude')
+an excited way of saying "yes" in terms of agreeing to a statement or answering a question. most often said in a tone of voice relating to lil waynes in "you aint got nuthin'" at 3 minutes and 16 seconds into the song.
+Extracted spelling variant:yes
+3657520 ('yarrr', 'yes')
+A sexier way of saying "second", a measurement of time.
+Extracted spelling variant:second
+3668913 ('secsies', 'second')
+A fancy way of saying "mindfuck"
+Extracted spelling variant:mindfuck
+3674270 ('Dietrich', 'mindfuck')
+Another way of saying "jerk" or "asshole", used mainly by Polish internet users.
+Extracted spelling variant:jerk
+3677142 ('Therin', 'jerk')
+1. A medical term referring to a red blood cell infected with so many malaria parasites that it is about to burst. 2. A ghetto way of saying "shit".
+Extracted spelling variant:shit
+3686164 ('Schizont', 'shit')
+1. An exclamation of anger, surprise, distaste, dislike, pain or pleasure. 2. A way of saying "fuck" without the social taboo of dropping the f-bomb. Can be pronounced as: fuh-cack fuh-cock foo-cack foo-cock
+Extracted spelling variant:fuck
+3712503 ('Fucack', 'fuck')
+An exaggerated way of saying "dog", usually said in a mid to high pitch voice which eventually goes throughout the entire sentence.
+Extracted spelling variant:dog
+3718463 ('dag', 'dog')
+The internet way of saying "guys". Also a way to sound retarded on the interweb.
+Extracted spelling variant:guys
+3719886 ('Guice', 'guys')
+a shorter easier way of saying "Government"
+Extracted spelling variant:Government
+3734934 ('gobment', 'Government')
+Just darcy mcgee students being retarded. stupid way of saying "retard", or also could have come from Shane G. calling someone that.
+Extracted spelling variant:retard
+3762632 ('Wetahd', 'retard')
+Scotts idiotic and childish way of saying "Orange", His favorite color.
+Extracted spelling variant:Orange
+3762661 ('Ornage', 'Orange')
+A feminine way of saying "guy" when projected towards a girl/girls/ladies/or woman, in general.
+Extracted spelling variant:guy
+3787181 ('Guyette', 'guy')
+Pronounced "sus-pick-you-us" A gangsta way of saying "suspicious".
+Extracted spelling variant:suspicious
+3836632 ('suspicuous', 'suspicious')
+The lazy or slang way of saying "hooker"
+Extracted spelling variant:hooker
+3843920 ('Hookah', 'hooker')
+Another way of saying "yes" or Agreeing with something
+Extracted spelling variant:yes
+3853167 ('Yuperdoz', 'yes')
+A better way of saying "ridiculous". Try it out.
+Extracted spelling variant:ridiculous
+3901338 ('Ridonculous', 'ridiculous')
+FOB way of saying "cholesterol"
+Extracted spelling variant:cholesterol
+3912305 ('cohletarhonn', 'cholesterol')
+a very pleasant boy that makes flowers bloom and small turtles smile. he also has a fantastic way of saying "absorb" and "process". he spends his time making loverly friends on youtube.
+Extracted spelling variant:absorb
+3912330 ('itscalum010', 'absorb')
+1) Children's way of saying "toilet".2) Smelling as if one has just left a restroom.
+Extracted spelling variant:toilet
+3933918 ('toily', 'toilet')
+A cute way of saying "promise"
+Extracted spelling variant:promise
+3947847 ('pwamise', 'promise')
+Another retarded redneck way of saying Stillwater(a town full of fags). This is why OU gets all the glory b/c OSU fans are too retarded to pronounce and spell Stillwater correctly. Another retarded inbred redneck way of saying "Mustang" is "Stang." It has been proven that rednecks in Oklahoma love smoking meth with their trailer trash mom(s). Hence, this results in an extremely low IQ.
+Extracted spelling variant:Mustang
+3952450 ('Stilly', 'Mustang')
+another way of saying "random" but it;s like saying random and DAMNN put together.
+Extracted spelling variant:random
+3952720 ('randamn', 'random')
+kk is often meant as a quick way of saying "okay"however, it has an alternate meaning that many don't know about. kk can be short for "Keke", which is the Korean equivalent of "Haha"...
+Extracted spelling variant:okay
+3958439 ('kk', 'okay')
+Pwned: The complete shut down or domination of a person place or thing. It is commonly used as a derogatory way of saying "owned" which originated from the word "own" it is commonly used in places such as: Hawaii, Japan, Mexico, etc.
+Extracted spelling variant:owned
+3966203 ('Pwned', 'owned')
+an awesome way of saying "what".
+Extracted spelling variant:what
+3986198 ('juat', 'what')
+V/N :"Party" A slang way of saying "Party" Also, usually said in a "LOUD" manner. Also means, "Going to bar" Also means, "A cool birthday of some friend." A word originated from the Philippines. (Since there's no definition yet.)
+Extracted spelling variant:Party
+3995443 ('Partey', 'Party')
+A way of saying "nigga", originating from the Boondocks.
+Extracted spelling variant:nigga
+3995817 ('Nyukka', 'nigga')
+An uncommonly used slang way of saying "anything" when one is feeling rather cool and unstoppable.
+Extracted spelling variant:anything
+4001472 ('anitang', 'anything')
+Another way of saying "COPS"-An extension of the word "POPO", which is used by urban dwellers to describe the unwelcome authority of the LAPD.
+Extracted spelling variant:COPS
+4001919 ('Poporatzzi', 'COPS')
+-a shorter way of saying "bullshit"-meaning "bullshit" in a way people may not get in trouble for
+Extracted spelling variant:bullshit
+4004743 ('bullsh', 'bullshit')
+A way of saying "Amazing" in an amazing way; smazin'. Lindsay Renne came up with this word, and people have been trying to steal it and claim it as their own ever since.
+Extracted spelling variant:Amazing
+4006338 ("smazin'", 'Amazing')
+Something that society forces upon people, esp. nowadays. If you do not have a career, people automatically assume you are a lazy good-for-nothing bum. An unnecessary thing to have, and it's a shame that so many people spend all their lives aspiring to have a career. The concept is installed into most western children from birth, as their first twenty-odd years of their life is dedicated to "education", which generally teaches people to become "clever". Being "clever" means you will have a "good" career.The majority of humans hate their careers, and up dying miserable. But hey, at least they paid off their mortgage.Also, a pretentious way of saying "job".
+Extracted spelling variant:job
+4006678 ('Career', 'job')
+An emphasized way of saying "better"
+Extracted spelling variant:better
+4014517 ('Bedder', 'better')
+A shortened way of saying "session".
+Extracted spelling variant:session
+4017844 ('Sesh', 'session')
+A combination of the words "sup" and "baloni," supaloni basically is a way of saying "sup" in and even cooler way. It's also sounds like "what's up homie," which makes it that more awesome.
+Extracted spelling variant:sup
+4022919 ('Supaloni', 'sup')
+a sophisticated way of saying "lol". it makes conversations more high class.
+Extracted spelling variant:lol
+4033403 ('lolzorina', 'lol')
+A cool and hip way of saying "loser" in espanich. A person who fails frequently and fails to succeed in life.
+Extracted spelling variant:loser
+4035812 ('Lucer', 'loser')
+Old-school way of saying "expenses"
+Extracted spelling variant:expenses
+4044216 ('Expendibles', 'expenses')
+a funnier way of saying "yup"
+Extracted spelling variant:yup
+4044595 ('chyup', 'yup')
+A gayish, fussy way of saying "merci" in France these days which could eventually catch up in non French speaking countries - hopefully not.
+Extracted spelling variant:merci
+4051357 ('Merki', 'merci')
+a way of saying "thanks" that is only one letter short. sounded out like Sh-fanks. said when texting or IMing. most scene, emo, rebellious, or punk kids say this when they try to act cool.
+Extracted spelling variant:thanks
+4055399 ('shfnx', 'thanks')
+It's an acronym whose definition is left as an exercise to you, but can also be taken for an ADD version of "later", so it's another way of saying "mañana".
+Extracted spelling variant:mañana
+4058846 ('LAAETTR', 'mañana')
+1. An even more feminine way of saying "betch" which stemmed from those Kelly videos "Don't text message break-up" and "Shoes!"2. Or it can be defined as a "little" betch.
+Extracted spelling variant:betch
+4070169 ('betchette', 'betch')
+Jes is a boys or mens name.Sometimes related to the Danish newshost and journalist, Jes Dorph-Petersen.Someone who's usually strongly oppinunated.Not to be confused with a way of saying "Yes" or shorting down a name.
+Extracted spelling variant:Yes
+4092443 ('Jes', 'Yes')
+Crude way of saying "slut" in Japanese. Only used to describe girls."yari" comes from the verb "yaru" when is used to mean "play" and "man" is short for manko which is a derogatory way to say "pussy" in Japanese.Basically it means a girl has or is a "playing around pussy"There are not many BAD bad words in Japanese but this one will make even the most liberal Japanese cringe.
+Extracted spelling variant:slut
+4111630 ('yariman', 'slut')
+(Dee-rih-shush) Funny accented way of saying "delicious" usually used when something is beyond the normal form of delicious. Also used when the person making the description is a super-awesome intellectual person.
+Extracted spelling variant:delicious
+4113188 ('Derishus', 'delicious')
+A playful way of saying "LOL". (or laugh out loud) The Lawl part is derivative of the sound lol makes when said aloud. And the -erbee part is the playful twist.Also: you can add more -e's to the end of the word to represent more humor expressed.
+Extracted spelling variant:LOL
+4130328 ('Lawlerbee', 'LOL')
+A short-hand way of saying "Awkward" and "Right"
+Extracted spelling variant:Awkward
+4145505 ('Awkright', 'Awkward')
+A prolonged way of saying "fuck" when you are busted in an awkward/uncomfortable situation.
+Extracted spelling variant:fuck
+4152115 ('fack', 'fuck')
+A chavs way of saying "shoot"
+Extracted spelling variant:shoot
+4155027 ('Zamolt', 'shoot')
+a slightly more subtle way of saying "dick"
+Extracted spelling variant:dick
+4168809 ('d', 'dick')
+1.) another way of saying "cool", or "nice".2.) someone who has a pretty attractive and toned body.
+Extracted spelling variant:cool
+4185610 ('lean', 'cool')
+Ghetto way of saying "messing".
+Extracted spelling variant:messing
+4200366 ('meffin', 'messing')
+A nice way of saying "mota" or marijuana in Spanish; slang for marijuana in spanish and in english in some parts of the United States.
+Extracted spelling variant:mota
+4217721 ('Mois', 'mota')
+maid; yaya; house helperFilipino slang way of saying "katulong" meaning maid.
+Extracted spelling variant:katulong
+4217785 ('longkatuts', 'katulong')
+Lazo is a misspelt way of saying "lesbian", usually said by retarded people and/or for insults, First discovered in 2008 by a noble child in greensborough
+Extracted spelling variant:lesbian
+4228792 ('Lazo', 'lesbian')
+A cool way of saying "seriouslly".
+Extracted spelling variant:seriouslly
+4239773 ('Smeriouslly', 'seriouslly')
+A polite way of saying "Gay". Named after the Hillary Duff Commercial in which she states that saying "Gay" is wrong.
+Extracted spelling variant:Gay
+4239952 ('Duff', 'Gay')
+The English person's way of saying "dentist" if they attempted a Swiss or German accent. Also how a child might say "dentist".
+Extracted spelling variant:dentist
+4240222 ('densafiss', 'dentist')
+Another term brought to the web by Kaedaq in the early 2000s.Thup is a way of saying "Sup" or "Wassup".Comes from the mid-90s east coast trend of pronouncing words that begin with "S"with a "Th" sound instead.
+Extracted spelling variant:Sup
+4240548 ('Thup', 'Sup')
+A lazy way of saying "OK". Try not to hang on that second K, or you may get shot.
+Extracted spelling variant:OK
+4246106 ('kk', 'OK')
+Ned Flanders way of saying "Jonesing"
+Extracted spelling variant:Jonesing
+4259248 ('jonesdidilyownsing', 'Jonesing')
+Jeydical, its another word for "Jeydon", (which is also defined on here). Jeydical is a combination of Jeydon and Radical. Its just a cooler way of saying "Jeydon".
+Extracted spelling variant:Jeydon
+4270523 ('Jeydical', 'Jeydon')
+The most passive aggressive way of saying "no". "Maybe" is about 40% of "yes", and "perhaps" is approx. 20% of "maybe".
+Extracted spelling variant:no
+4284519 ('maybe-perhaps', 'no')
+A new and more swank way of saying "word" i.e. "word homie"
+Extracted spelling variant:word
+4291127 ('Befro', 'word')
+A desperate and annoying way of saying "please", it almost sounds as if the user is throwing up.Mostly used in Chats/Text msgs.
+Extracted spelling variant:please
+4293453 ('bl0rx', 'please')
+The completely nerdy Battlestar Galactica way of saying "fucktard", a fucktard being the commonly angry way of expressing ones stupidity, derived from fucking retard.
+Extracted spelling variant:fucktard
+4295956 ('fraktard', 'fucktard')
+A heavily accented way of saying "sure", pronounced as "shoy".
+Extracted spelling variant:sure
+4299859 ('shoi', 'sure')
+A way of saying "bitch" without "bitches" knowing about it. Or, a woman who thinks she's all that, but she ain't - she's just a bitch...you know, a narch!
+Extracted spelling variant:bitch
+4303761 ('Narch', 'bitch')
+The Estonian way of saying "please"
+Extracted spelling variant:please
+4308020 ('pl0x', 'please')
+another way of saying "there".in particular, used in part of a greeting.
+Extracted spelling variant:there
+4319279 ('dur', 'there')
+There are many variations for the word twitchles. (1) If a person calls you this, they simply are too lazy to call you by your real name; (2) Being a twitch is another way of saying "Gay" or "Homo" or "pole greaser" etc, (3) Twatchina is simply the feminem version of twitchles, but since most gays are feminem, we save it for the fag hags a.k.a. back bone to the gay community; (4) It can also be converted to "Twitchy" and is often used as an adjective describing one's fabulosity.
+Extracted spelling variant:Gay
+4320074 ('Twitchles', 'Gay')
+Stupid way of saying "lol", used by idiots. It's suppose to be what "lol" sounds like in real life, but really "lol" is an acronym and/or abbreviation which means you would say the letters: El Oh El. And if you type it out your just adding another letter to say the same thing, very pointless.
+Extracted spelling variant:lol
+4338559 ('lawl', 'lol')
+Basically a more subtle way of saying "Mwahahahaha".Said after foiling somebody and being slightly victorious.
+Extracted spelling variant:Mwahahahaha
+4351165 ('snurf-snurf', 'Mwahahahaha')
+another way of saying "lame", "stupid", etc.
+Extracted spelling variant:lame
+4364079 ('botulism', 'lame')
+another way of saying "Pedal"
+Extracted spelling variant:Pedal
+4365136 ('Pedular', 'Pedal')
+1. A lazy Internet slang way of saying "Touché".
+Extracted spelling variant:Touché
+4374983 ('tooshay', 'Touché')
+A more extreme and gangsta way of saying "motherfucker".
+Extracted spelling variant:motherfucker
+4375033 ('Madafaqa', 'motherfucker')
+Used in a passionate agreement of something, another way of saying "fersure" or "hell yea" by college students. Possibly derived from a middle east term, with a similar pronunciation(pronounced Ap-ahhh) *used with a lot of emphasis
+Extracted spelling variant:fersure
+4393058 ('A-pah', 'fersure')
+Derived from the saying "oh my goodness gracious me". A more formal way of saying "OMG". First originated in England, however is now a common phrase throughout the youth of Christchurch, New Zealand. Plural: OMGGMS: only necessary if you have multiple personality disorder.
+Extracted spelling variant:OMG
+4399611 ('OMGGM', 'OMG')
+A cooler way of saying "noob" or "low skilled".Often used in games such as Call of Duty etc.
+Extracted spelling variant:noob
+4419066 ('Low', 'noob')
+a more ghetto way of saying "tight"
+Extracted spelling variant:tight
+4432951 ('tizight', 'tight')
+Another and funnier way of saying "indeed" but it is more nerdier too
+Extracted spelling variant:indeed
+4434434 ('Indidly', 'indeed')
+a drunken mans way of saying "sorry"when he is drunk as hell.
+Extracted spelling variant:sorry
+4437600 ('slaw-ri', 'sorry')
+a cuter way of saying "please", or a slang for "please". it is pronounced as "chu-wiz". It is best to say it with blushing cheeks and batting eyelashes.
+Extracted spelling variant:please
+4444657 ('chwiz', 'please')
+Another way of saying "diesel". Aka the cooler way.
+Extracted spelling variant:diesel
+4462271 ('Dizzle', 'diesel')
+A less formal way of saying "Hello" in russian. More equatable to the english "Hey" or "Hi". Commonly said to friends or people your own age. Zdravstvuitye would be the formal way.
+Extracted spelling variant:Hello
+4463059 ('privyet', 'Hello')
+another way of saying "pussy" , "twat" , "cunt" and good old vagina
+Extracted spelling variant:pussy
+4466786 ('hamster', 'pussy')
+Pretty much the best way of saying "cool" or "dank" or "sick"
+Extracted spelling variant:cool
+4479168 ('Hella', 'cool')
+another way of saying "kk" otherwise known as "okay"only used by the savviest of word users.
+Extracted spelling variant:kk
+4480085 ('kkizzle', 'kk')
+the lisp way of saying "guys"
+Extracted spelling variant:guys
+4492089 ('githe', 'guys')
+a cutesy way of saying "sandwich".
+Extracted spelling variant:sandwich
+4498116 ('sammer', 'sandwich')
+Typo-that-isn't-a-typo, non-offensive way of saying "bullcrap", mentioning carp, the fish.
+Extracted spelling variant:bullcrap
+4513936 ('Bullcarp', 'bullcrap')
+1. To praise someone 2. A sarcastic way of saying "congratulations"
+Extracted spelling variant:congratulations
+4516625 ('Kudos', 'congratulations')
+1) A sarcastic way of saying "yeah" to someone who just said something awkward/unnecessary/weird.2) A comeback to piss someone off after they just had a verbal frenzy. 3) A way to change subject
+Extracted spelling variant:yeah
+4533762 ('Eyeah', 'yeah')
+An alternative way of saying "probably". Really the best way to get the message across when trying to convey "probably".Pwobwy! Damn Wight!Replacing R's with W's makes the English language much more appealing.
+Extracted spelling variant:probably
+4587231 ('Pwobwy', 'probably')
+a cuter way of saying "rabbit" a cute furry lil animal
+Extracted spelling variant:rabbit
+4640448 ('wabbit', 'rabbit')
+another way of saying "okay" , "solid" or "that's good"
+Extracted spelling variant:okay
+4657987 ('she-bang', 'okay')
+Yet another way of saying "whatever". Very abbreviated, very aloof, very annoying. Mostly otaku use this word, as the Japanese pronouce the English "v" as "b".
+Extracted spelling variant:whatever
+4658486 ('wutebs', 'whatever')
+fashion freak. A big ocean with million oceans. Also could be another way of saying "minimart".
+Extracted spelling variant:minimart
+4659551 ('milimar', 'minimart')
+pronounced (brah-skeez)A cooler way of saying "bro".A good friend.A hipper version of bro.
+Extracted spelling variant:bro
+4683373 ('brahskis', 'bro')
+Casual way of saying "yes" or acknowledging a statement. Shortened form of "sou desu ka"
+Extracted spelling variant:yes
+4685276 ('sou', 'yes')
+Another way of saying "Alright" or "Okay."
+Extracted spelling variant:Alright
+4700878 ('Oligh', 'Alright')
+The hip way of saying "cool" . This version of the word cool is sooo this century.
+Extracted spelling variant:cool
+4736237 ('Co-ral', 'cool')
+An annoying, pretentious, condescending way of saying "obviously". Used primarily in contexts where the subject in question is not actually obvious. Pronounced, essentially, by faking a cough before saying "obviously".
+Extracted spelling variant:obviously
+4753536 ('cobviously', 'obviously')
+Retarded way of saying "curse" aka swear terms.
+Extracted spelling variant:curse
+4753874 ('cuss', 'curse')
+A clever or pretentious way of saying "rejected" under the context of an internet relationship or "e-lationship." The word omits the use of the letter "R" in order to emphasize the "E" and make the word more Internet related.
+Extracted spelling variant:rejected
+4763722 ('E-jected', 'rejected')
+Another word for "awesome", "gangster", "cool". Or the ghetto way of saying "true"
+Extracted spelling variant:true
+4774876 ('Troo', 'true')
+Bruno's way of saying "hello"
+Extracted spelling variant:hello
+4790001 ('Vassap', 'hello')
+Laughing Mad Loud. Written when something funny is said through text format. (texts, instant messenger etc) LML is the eastcoast version of "LOL"(laughing out loud) replacing the word out for MAD which is used as another way of saying "Very" or "Extremely" which is commonly used on the east coast but now widely used everywhere. Created by Conceited in the early to mid 2000'sLol lmao rotfl mad
+Extracted spelling variant:Very
+4804429 ('LML', 'Very')
+A basic way of saying "hello" in an IM.
+Extracted spelling variant:hello
+4815211 ('yhalo', 'hello')
+The cool kid way of saying "dip". It means to run away fast.
+Extracted spelling variant:dip
+4832488 ('dyyyap', 'dip')
+Another way of saying "thanks"
+Extracted spelling variant:thanks
+4839780 ('Thanxz', 'thanks')
+A polite way of saying "Goddamn"
+Extracted spelling variant:Goddamn
+4847777 ('Daggone', 'Goddamn')
+(Noun) Another word for "shit"Basically a different way of saying "shit" a little less offensively, and used to describe almost anything (like the word shit it does not necessarily refer to actual shit) Similar to shiz
+Extracted spelling variant:shit
+4882848 ('shizlaz', 'shit')
+1. A term of endearment, another way of saying "cutie" 2. Someone very short
+Extracted spelling variant:cutie
+4901152 ('Babylegs', 'cutie')
+1. What you say when an attractive girl walks past.... preferably just within her earshot!! -- 2. Another way of saying "Yes", "Hell Yeah", etc! --
+Extracted spelling variant:Yes
+4909695 ('Smash', 'Yes')
+a hipper way of saying "epic". epic is overused and not as cool.
+Extracted spelling variant:epic
+4917213 ('dank', 'epic')
+A more effective and stronger way of saying "penis". May be used over the intergalactic web, or through general conversation.
+Extracted spelling variant:penis
+4934133 ('paynus', 'penis')
+the really super gay way of saying "picture".
+Extracted spelling variant:picture
+4935120 ('piccie', 'picture')
+A New England way of saying "saw". Mostly said by teenage girls.
+Extracted spelling variant:saw
+4935474 ('Sore', 'saw')
+the ebonic way of saying "boy" niggers always find a way to change up the english language...que se vayan a la verga pinches esclavos!
+Extracted spelling variant:boy
+4953608 ('buah', 'boy')
+Another way of saying "yea" or acknowledgment with excitement or force.
+Extracted spelling variant:yea
+4957147 ('jiuh', 'yea')
+hard ususally is a way of saying "right" or "totally". Also it can be a sacastic way of saying something.
+Extracted spelling variant:right
+4981677 ('hard', 'right')
+chur is another way of saying "sure".also see chur chursty chursday mixchur furnichur strutchur churmander churros churkey torchur picchur fixchur churific
+Extracted spelling variant:sure
+4983410 ('chur', 'sure')
+A colorful way of saying "lol" or know as Laugh Out Loud.
+Extracted spelling variant:lol
+4989020 ('Valoloraptor', 'lol')
+another way of saying "whoops" can also mean whoppers as in burger king whoppers
+Extracted spelling variant:whoops
+4991792 ('whopzz', 'whoops')
+A much lazier way of saying "OMG",by combining the letter to be one word. To mean, Oh My Gosh;Oh my Goodness; No you didnt;or Your kidding.
+Extracted spelling variant:OMG
+4995870 ('Omengee', 'OMG')
+Commonly known as "hung the fuck over", it can also stand for "hop the fuck off", which is generally another way of saying "GTFO"
+Extracted spelling variant:GTFO
+5004523 ('HTFO', 'GTFO')
+a suave or fancy way of saying "couch" another way to spell coochie.
+Extracted spelling variant:couch
+5008903 ('Couche', 'couch')
+An odd way of saying "hello".
+Extracted spelling variant:hello
+5010435 ('hewwoz', 'hello')
+Hillbilly way of saying "doesn't" as in Patrick Swayze's She's Like the Wind.
+Extracted spelling variant:doesn't
+5010972 ("dudn't", "doesn't")
+it's a short way of saying "bullshitted"
+Extracted spelling variant:bullshitted
+5040019 ('bsed', 'bullshitted')
+A stupid person's way of saying "hello"
+Extracted spelling variant:hello
+5059885 ('duapmo', 'hello')
+A retarded way of saying "mock". Only fagtiods and fucktards say this!
+Extracted spelling variant:mock
+5120212 ('mahc', 'mock')
+someone who looks cute. a loving way of saying "darling" that most people confuse with the word "pipi" which really means "pee" or using the bathroom. this is a word that everyone should say when speaking to their girl or boyfriends because it shows true love and understanding.
+Extracted spelling variant:darling
+5120297 ('pippudi', 'darling')
+Nick Jonas' (typo) way of saying "Love".
+Extracted spelling variant:Love
+5206608 ('Loge', 'Love')
+Abhilasha is the female version of the indian name Abhilash. Abhilasha's tend to express there feelings through animal noises but don't be alarmed this is their friendly way of saying "hello" or "how is your day"
+Extracted spelling variant:hello
+5210937 ('Abhilasha', 'hello')
+the lazy way of saying "ditto" meaning "same"
+Extracted spelling variant:ditto
+5231422 ('dido', 'ditto')
+A simple way of saying "sweet" (in agreement or approval) . Meaning "ok" or "cool" in confirming an arrangement.
+Extracted spelling variant:sweet
+5232812 ('swedish', 'sweet')
+the uncool lazy way of saying "definitely"
+Extracted spelling variant:definitely
+5239868 ('defs', 'definitely')
+the uncool, lazy way of saying "definitely"
+Extracted spelling variant:definitely
+5240465 ('defs', 'definitely')
+the uncool way of saying "roar"
+Extracted spelling variant:roar
+5240469 ('rawrr', 'roar')
+A cooler, more gangsta way of saying "stop"
+Extracted spelling variant:stop
+5243572 ('Wrop', 'stop')
+A well appreciated, lovable person. It can be a term of endearment that you can give to your special someone. A cuter way of saying "darling"
+Extracted spelling variant:darling
+5264448 ('darlinger', 'darling')
+Another way of saying "whitey" in other words, when someone under the influence of marijuana goes pale faced and even throws up. Plural is 'yubzed"
+Extracted spelling variant:whitey
+5280642 ('Yubz', 'whitey')
+an Indian's kid way of saying "tomorrow"
+Extracted spelling variant:tomorrow
+5283296 ('tom2', 'tomorrow')
+Stands for "My Life Sucks Right Now", a more mature and considerate way of saying "FML". No life should or deserves to be "F"ed.
+Extracted spelling variant:FML
+5292441 ('MLSRN', 'FML')
+The redneck way of saying "penis"
+Extracted spelling variant:penis
+5298791 ('Pernis', 'penis')
+The best way of starting a conversation, better that the way of saying "Sup".
+Extracted spelling variant:Sup
+5320597 ('Rup', 'Sup')
+A simpler and more familiar way of saying "prostitutes" for those with a great deal of experience and familiarity on the subject. Especially used by U.S. Marines serving on the island of Okinawa, Japan.
+Extracted spelling variant:prostitutes
+5340512 ('Tutes', 'prostitutes')
+the awesome, just overall amazing way of saying "yes"yeuz can be used just like the word "yes"...except it can be used more frequently and randomly in any sentence.
+Extracted spelling variant:yes
+5344889 ('Yeuz', 'yes')
+Another way of saying "Oh" eaux= "O" sound. Eaux also a suffix used at the end of French or Cajun names or words.
+Extracted spelling variant:Oh
+5357641 ('Eaux', 'Oh')
+A FOBby way of saying "hi" or "hello"
+Extracted spelling variant:hi
+5359708 ('hai', 'hi')
+A way of saying "hey" at any time of day, emphasising positive emotions like happiness, joy and excitement. Not appropriate at funerals.
+Extracted spelling variant:hey
+5374509 ('Showdy', 'hey')
+In Costa Rica, it's another way of saying "dude" or "mate". It's also another way to say "mae", which is more commonly used. Mop is newer, though, and it seems to be used more amongst potheads.
+Extracted spelling variant:dude
+5381944 ('mop', 'dude')
+Nizzah is another way of saying "niggah". It's a more acceptable way of white people (e.g. Jailbreak players on CSS) to say it. It's also a way around the no racism rules.
+Extracted spelling variant:niggah
+5389604 ('nizzah', 'niggah')
+the fancy way of saying "whore"
+Extracted spelling variant:whore
+5396481 ('hoore', 'whore')
+The prissy bitch way of saying "ew"; popularly used by preppy sorority girls and all skanks who think they are better than they really are.Pronounced (EH-UH-WAH);said really fast with a disgusted face
+Extracted spelling variant:ew
+5400504 ('eauw', 'ew')
+extremely angry. Hulk angry.a softer way of saying "pissed" said by people who don't want to sound overtly vulgar.
+Extracted spelling variant:pissed
+5424126 ('pished', 'pissed')
+A censored way of saying "bitch". Often used online by girls trying to style their name
+Extracted spelling variant:bitch
+5464633 ('bxtch', 'bitch')
+It's the Trinidadian way of saying "asshole" caca means shit. Literally shit-hole.It can also be used to refer to someone in a derogatory manner.
+Extracted spelling variant:asshole
+5482141 ('cacahole', 'asshole')
+Another way of saying "K" in a sassy way on AIM or Facebook.Potassium = K on periodic table
+Extracted spelling variant:K
+5498140 ('Potassium', 'K')
+creative way of saying "sup", which is abbreviation for "what's up", which means "what is up?" Which is asking a person what somebody is up to or doing.It's better than simply asking what's up, purely because soup is fucking awesome.
+Extracted spelling variant:sup
+5503153 ('soup?', 'sup')
+1. A word that is used everyday most likely, but a word like no other. It is the douchey way of saying "deal" in an attempt to seem cool or superior to the other lesser mortals who say it normally. One of the more recent additions to acts of douchebaggery, however, people use it because they are not aware of the way they appear to the others in their company.2. The lyrics to the song by P!nk. "what's the dealio?"
+Extracted spelling variant:deal
+5544033 ('Dealio', 'deal')
+another way of saying "papertowel"Usually is said the most while being extremely fucking high
+Extracted spelling variant:papertowel
+5548261 ('pear-pa-tear', 'papertowel')
+A way of saying "porno" to get around word filters on many chat sites.
+Extracted spelling variant:porno
+5556260 ('prono', 'porno')
+1. a more efficient way of saying "farewell" and "fuck you"2. an extremely effective word used to win any argument (best used when all other insults have been said + especially effective when said to parents)3. an alternative way of saying "My name is ______. I'm __ years old, and I don't give a f*%k."5. fruit juice full of antioxidants
+Extracted spelling variant:farewell
+5587638 ('Bai', 'farewell')
+An annoying way of saying "sup".This originated from the CSPSP and SF communities.
+Extracted spelling variant:sup
+5593798 ('sop', 'sup')
+1. most commonly used in the DMV area, referring to when someone/something is irritating you or annoying to you.2. most commonly used down south referring to a female. just a southern way of saying "girl" (gurl)
+Extracted spelling variant:girl
+5607117 ('guh', 'girl')
+The most annoying and infuriating way of saying "okay" or "alright". Usually accompanied by a period (k.) and often the only thing said for one person's part of a conversation. Often used by people in text conversations who are too damn lazy to type out the entire word. It's very indirect and nondescript, you can't tell how someone feels about something if they just say "k."Don't do it. It's annoying.
+Extracted spelling variant:okay
+5619434 ('k', 'okay')
+Another word for "Thanks" , usually said by teenage girls . Shpanks is just a more fun/cool way of saying "Thanks" .
+Extracted spelling variant:Thanks
+5631167 ('Shpanks', 'Thanks')
+a way of saying "everyday" yet in a cooler country slang accent, typically used by cool people in random conversation.
+Extracted spelling variant:everyday
+5647012 ('ERRday', 'everyday')
+1) A dick, in Armenian. Pronounced like the "juj" in JUJy Fruits". 2) Humorous way of saying "judge", especially so if you're Armenian and familiar with the meaning in 1).
+Extracted spelling variant:judge
+5648996 ('jouj', 'judge')
+gangsta way of saying "romford"
+Extracted spelling variant:romford
+5666271 ('Rofod', 'romford')
+A ghetto way of saying "bitch". It was used in the early nineties by teenagers, but took a while to progress to the ghetto. It is often used instead of bitch when one doesn't want to come across as a jerk.
+Extracted spelling variant:bitch
+5676271 ('Biznatch', 'bitch')
+interchangeable with, "daaamn" or "shiiit". Basically another way of saying "Fuck".
+Extracted spelling variant:Fuck
+5688783 ('Faiiike', 'Fuck')
+Another way of saying "Aight"
+Extracted spelling variant:Aight
+5707207 ('Whatever', 'Aight')
+Hanea is cool, "Hanea" is a more respectful way of saying "twin" . People like to copy his hair style and want to look just like him because he is so awesome. He rarely wears shoes and likes to get bindys in his feet.
+Extracted spelling variant:twin
+5727620 ('Hanea', 'twin')
+a cooler and more hip way of saying "everyday"...... people who say "everyday" are squares
+Extracted spelling variant:everyday
+5731214 ('errday', 'everyday')
+A nicer and a more fun way of saying "retarded"
+Extracted spelling variant:retarded
+5736678 ('Retipid', 'retarded')
+an alternative way of saying "decent". Often used when trying to sound more like a junkie, or just to sound awsome.
+Extracted spelling variant:decent
+5737200 ('Deecebag', 'decent')
+A completely fucked up way of saying "shit" favored by people who think it's very important for you to know that they have read a book, or been to Europe, or are down with U2 or the Pogues, or any other losers from Europe and want you to immediately recognize how cool they are: "Hey! He said 'shite' instead of 'shit'! That's way cool!""Shite" is never said by black people, even in Europe, because it will never, ever be cool. Seriously, did Shaft ever say "shite"? Did Ice-T ever say "shite"? I think we're done here.
+Extracted spelling variant:shit
+5746995 ('shite', 'shit')
+A polite way of saying "Byotch", and an even politer way of saying "Bitch", for when you are in certain company who may not approve these terms i.e Parents
+Extracted spelling variant:Byotch
+5773769 ('Byorg', 'Byotch')
+Ghetto way of saying "when" and "though"
+Extracted spelling variant:when
+5814095 ('window', 'when')
+Russian P.O.W.s during WW2 were described as being "rusky" or "rusked up". It's another way of saying "husky". Anyone that knows a Russian can confirm this. It's a bi product of the Russian Physical Education curriculum.
+Extracted spelling variant:husky
+5815901 ('Rusky', 'husky')
+the coolest way of saying "no" eva.
+Extracted spelling variant:no
+5822172 ('narz', 'no')
+Perfulé is a very sophisticated way of saying "Cool" as in awesome, in a sarcastic manner.
+Extracted spelling variant:Cool
+5840108 ('Perfulé', 'Cool')
+A cooler way of saying "Sup" (abbreviated version of whats up).
+Extracted spelling variant:Sup
+5843844 ('supcakes', 'Sup')
+just another way of saying "cant" except with "aint" in it
+Extracted spelling variant:cant
+5871545 ('caint', 'cant')
+It is a way of saying "hi" or "hello" but it is much better then both of those words put together. Its "hoi". You can also change the word "bye" into "boi" when you are leaving the conversation. This can be used on facebook or in real life. it cannot be used to replace the word "high", only "hi" and "hello".
+Extracted spelling variant:hi
+5893686 ('hoi', 'hi')
+Another way of saying "hella" for some people.
+Extracted spelling variant:hella
+5895263 ('Helluh', 'hella')
+different way of saying "Stuttgart", large capital city of the Bundesland known as Baden-Württemberg in Germany; famous for its nightlife, sauerkraut, and spätzle; usually used among Baden-Württemberger dialects and other southern German dialects
+Extracted spelling variant:Stuttgart
+5904934 ('Stuggi', 'Stuttgart')
+Ospe is an indirect way of saying "peos", the greek translation of the word "penis".
+Extracted spelling variant:peos
+5915130 ('ospe', 'peos')
+a cool way of saying "lol" or laugh out loud.
+Extracted spelling variant:lol
+5918383 ('lozozzles', 'lol')
+Another way of saying "shit"
+Extracted spelling variant:shit
+5929544 ('Shalitz', 'shit')
+Literally "walking whale", it's a mean-spirited way of describing an obese person. Essentially, it's a stealthy or mocking pseudo-technical way of saying "landwhale".
+Extracted spelling variant:landwhale
+5933092 ('ambulocetus', 'landwhale')
+Old school different way of saying "dork". first coined in the early 90's in Redlands, CA by locals wanting to sound South Central-like. Later he brought it up north to "P Town", (Prunedale), near Salas, and from there it's usage spread throughout the known universe.
+Extracted spelling variant:dork
+5934435 ('dizzork', 'dork')
+Fancy way of saying "redo".
+Extracted spelling variant:redo
+5972787 ('Redoux', 'redo')
+The fob way of saying "future" in Spanish. Many mexicanas, and muzzamils make this mistake.
+Extracted spelling variant:future
+5980720 ('Futuristica', 'future')
+chai's way of saying "module". pronounced like "fondue"
+Extracted spelling variant:module
+5992820 ('modu', 'module')
+The politer way of saying "fuck". Usually used around your grandparents who would whack you with their cane if you cussed.
+Extracted spelling variant:fuck
+5995165 ('Frickerdoodle', 'fuck')
+-Another way of saying "sex" or "fuck".-Can also be used in the past tense or present tense forms. "kunsayed" or "kunsaying"Originally created by Neno Started in Colorado
+Extracted spelling variant:sex
+6004699 ('Kunsay', 'sex')
+The dumbass way of saying "everybody"
+Extracted spelling variant:everybody
+6010637 ('Errrbody', 'everybody')
+a hurried way of saying "wasn't". pronounced "wuh dn"variants: wud'n, wudd'n, wu'n
+Extracted spelling variant:wasn't
+6030454 ('wudden', "wasn't")
+An acronym to express laughter or joy.My Mirth Is Audible(A slightly more pretentious way of saying "LOL")this can either be pronounced M-M-I-A, or like it the name "Mia" is pronounced.*Some people might have to look up the word mirth, and that's okay.
+Extracted spelling variant:LOL
+6038674 ('MMIA', 'LOL')
+the sophisticated enlightened way of saying "negroes", especially in a casual sense
+Extracted spelling variant:negroes
+6047532 ('Knee-Greaux', 'negroes')
+a way of saying "alright" or "okay" or "mkay" made famous by the great history teacher of Plymouth South Middle School, Ms. Joyce Ashley.
+Extracted spelling variant:alright
+6058545 ('ngite', 'alright')
+Chola way of saying "hella" (meaning "very")
+Extracted spelling variant:hella
+6076273 ('heyla', 'hella')
+A way of saying "yes" or a replacement for any other word or phrase.
+Extracted spelling variant:yes
+6108339 ('Yoss!', 'yes')
+A stupid way of saying "congratulation". Made up by morons.
+Extracted spelling variant:congratulation
+6130979 ('gratz', 'congratulation')
+an enthusiastic way of saying "mega" or meaning more than "mega".
+Extracted spelling variant:mega
+6132474 ('Chamega', 'mega')
+Phoure is another way of saying "hi", Phoure involves a small fanning motion using only four fingers and just barely tilting your hand maybe 45 degrees max, it also involves saying "Phoure" while you do this (sort of like how you would fan your self on a hot day but instead using only 4 fingers and not towards yourself, but instead of just using your hands you use your whole forearm like a fan but just barely tilting 45 degrees going up and down with four fingers)
+Extracted spelling variant:hi
+6132745 ('Phoure', 'hi')
+A way of saying "please" with a so-called 'attitude'
+Extracted spelling variant:please
+6140613 ('Pa-lease', 'please')
+A fancy way of saying "jizz".
+Extracted spelling variant:jizz
+6157503 ('giselle', 'jizz')
+A way of saying "that's".
+Extracted spelling variant:that's
+6179743 ('Dass', "that's")
+Another way of saying "swag". This was is cooler though, because it's spelt with two "j's". Used by most high school idiots who think they have enough to brag about.
+Extracted spelling variant:swag
+6225978 ('Swajjur', 'swag')
+The new way of saying "Sketchy". This was made by three guys named Brandon, David, and Matt.
+Extracted spelling variant:Sketchy
+6244163 ('SketchMcGetch', 'Sketchy')
+1. Ahsan 2. Synonymous with loser - but still cute and dorky 3. Noop-like way of saying "loser"
+Extracted spelling variant:loser
+6244908 ('luzr', 'loser')
+a new, dumber sounding and therefore funnier way of saying "zing"
+Extracted spelling variant:zing
+6248604 ('zorp', 'zing')
+shorter way of saying "everyone"
+Extracted spelling variant:everyone
+6320607 ('err1', 'everyone')
+Another way of saying "Hello" or "What's up?". Most commonly used with the word "what" with a suffix of "s" following it.
+Extracted spelling variant:Hello
+6379388 ('Chiz-Chazzlin', 'Hello')
+Another way of saying "cones". Used as cover to reduce and avoid suspicion when smoking marijuana.
+Extracted spelling variant:cones
+6399078 ('Kenez', 'cones')
+adj. Another way of saying "clusterfuck"; describes a multitude of calamities/fuck-ups.Contrary to popular belief, "klausterfokken" is not a real German word.
+Extracted spelling variant:clusterfuck
+6415782 ('klausterfokken', 'clusterfuck')
+Niaw is basically another way of saying "aww" as said to cute things by women / girls / gay dudes.
+Extracted spelling variant:aww
+6444170 ('Niaw', 'aww')
+Having the urge to go pee. Another word for having to go to the washroom. Cute way of saying "pee" in Polish.
+Extracted spelling variant:pee
+6447116 ('shushu', 'pee')
+An Atlanta way of saying "wassup" or "what's going on. Also a word used in excitement, typically used in Atlanta.
+Extracted spelling variant:wassup
+6463856 ('Wessup', 'wassup')
+A stupid persons way of saying "minutes" or it's also known as a popular way of saying it in the ghetto "a hood minute".
+Extracted spelling variant:minutes
+6479467 ('monutes', 'minutes')
+Another way of saying "environment". Popular among video game players, especially frequent MineCraft players.
+Extracted spelling variant:environment
+6535902 ('biome', 'environment')
+Awesome way of saying "examined". Can be used to replace examined.
+Extracted spelling variant:examined
+6608814 ('Examinated', 'examined')
+Pronounced Peh wpp -Pawap = Crap .-dumb persons verbal way of saying "Poop"-Also an acronym for :People Associated With Anal Productsmeaning , Poop
+Extracted spelling variant:Poop
+6609233 ('Pawap', 'Poop')
+Phonetic abbreviation for the word facetious.Typically coupled with the word "no" (i.e. "no facesh") as another way of saying "seriously" or "for serious".Also pronounced and spelled "fasheesh" or "faceesh".
+Extracted spelling variant:seriously
+6618692 ('Facesh', 'seriously')
+A twelve-year-old girl's way of saying "sexy", as she is still uncomfortable using even minor cuss words.
+Extracted spelling variant:sexy
+6655502 ('smexy', 'sexy')
+1. Discrete way of saying "jackhole" in public without any close association to a derivative of asshole or jackass.2. Third tier level of saying jackass or asshole.
+Extracted spelling variant:jackhole
+6694444 ('Jackpie', 'jackhole')
+A type of New Yorker way of saying "garbage".
+Extracted spelling variant:garbage
+6719747 ('Yabage', 'garbage')
+The classy way of saying "dickhead".
+Extracted spelling variant:dickhead
+6744560 ('Cocknoggin', 'dickhead')
+A way of saying "duh" while sounding like you're knowledgeable about world events.
+Extracted spelling variant:duh
+6747503 ('duhfur', 'duh')
+Originated on the social media site Twitter it is basically a lazy way of saying "lol" and "okay" at the same time
+Extracted spelling variant:lol
+6820916 ('Lokay', 'lol')
+another way of saying "never" never --> nevar --> nebar
+Extracted spelling variant:never
+6827122 ('nebar', 'never')
+retarded/ghetto way of saying "nothing"
+Extracted spelling variant:nothing
+6846004 ('nofink', 'nothing')
+Pronounced Rodree-feys. Noun.1. A disappointed expression with a pouty mouth and squinty eyes. 2. Shows a person that disagrees with you or doesn't want to talk further about something; can show lack of care or that the person thinks something is lame. 3. A more extreme way of saying "whatever" i.e. "fuck this shit, man whatevz"
+Extracted spelling variant:whatever
+6886726 ('Rodryface', 'whatever')
+A more polite way of saying "motherfucker", but not as polite as "mofo" or "maryland farmer" Can be used interchangabily as a verb, noun, adjective or pronoun
+Extracted spelling variant:motherfucker
+6894693 ('motherqueefer', 'motherfucker')
+A gay way of saying "why"
+Extracted spelling variant:why
+6913002 ('whai', 'why')
+A better way of saying "nigga" which incisive people use when implied to their best friends in texting or chatting. Usually replacing the "g" with "q" within a word causes the user to gain some "swaq", or swag on the internet and a few haters.
+Extracted spelling variant:nigga
+6940735 ('Niqqa', 'nigga')
+Zid is the only known word in English that is a noun, verb, and adjective. Zid is just another cool way of saying "cool".
+Extracted spelling variant:cool
+6958380 ('zid', 'cool')
+cool way of saying "gucci"
+Extracted spelling variant:gucci
+7010697 ('khachi', 'gucci')
+An idiot's way of saying "though", usually at the end of a sentence.
+Extracted spelling variant:though
+7029974 ('doe', 'though')
+"Lolz" has two meanings. the first meaning is another way of saying "lol"but the second meaning is the mostly used abbreviation which is "loving orange Latino zebras"
+Extracted spelling variant:lol
+7031165 ('Lolz', 'lol')
+A sadist is one who enjoys inflicting pain on OTHERS. The description given by the other poster describes a masochist (someone who enjoys being inflicted with pain). I'd also like to point out that "sadic" is another way of saying "sadistic", not "sadist".
+Extracted spelling variant:sadistic
+7078115 ('sadic', 'sadistic')
+1. the 11th letter in the english alphabet 2. the shortest way of saying "okay". Often used in chat rooms, texting, or any form of communication used on the internet. (forums, youtube comments, etc)
+Extracted spelling variant:okay
+7079736 ('k', 'okay')
+An impolite way of saying "American" (or a polite way of saying "Americunt") while wanting to project a sense to dislike towards that country and its inhabitants.
+Extracted spelling variant:American
+7092028 ('Murican', 'American')
+Polite way of saying "goddamn"
+Extracted spelling variant:goddamn
+7099520 ('GD', 'goddamn')
+(adj.) a way of saying "best" that makes you sound unacceptably wight.
+Extracted spelling variant:best
+7106314 ('bizzest', 'best')
+Another way of saying "cool" or "awesome." A word used to describe an object, event, person, or circumstance as crazy, insane, or badass.
+Extracted spelling variant:cool
+7109926 ('Beare', 'cool')
+An idiots way of saying "competitive".
+Extracted spelling variant:competitive
+7155361 ('competetive', 'competitive')
+A heavily exaggerated Australian way of saying "sweet". Having the same definition as "good" and "nice", this version sounds more brutal and masculine.
+Extracted spelling variant:sweet
+7155950 ('swoite', 'sweet')
+Ojnab is the new way of saying "lame" or "that is so not cool" or "that is so not banjo." See also banjo (antonym)
+Extracted spelling variant:lame
+7186627 ('Ojnab', 'lame')
+A pretentious way of saying "combination" or "blend".
+Extracted spelling variant:combination
+7206709 ('amalgamation', 'combination')
+A sexual way of saying "today". If your day has been frisky, use it.
+Extracted spelling variant:today
+7214614 ('Tittay', 'today')
+A pokemon fan's way of saying "cut", as it is the ability "cut" in pokemon games.
+Extracted spelling variant:cut
+7233686 ('HM01', 'cut')
+A way of saying "ever".
+Extracted spelling variant:ever
+7281868 ('evah', 'ever')
+a retarded way of saying "hi". It is not formal. This term is for people who have surpassed the highest level of retardation (on a scale of 0-100, potato) and now are so dumb, the word "hi" is not relevant anymore. It is usually used in conjuction with the term '"faget".
+Extracted spelling variant:hi
+7323938 ('hellaj', 'hi')
+Another way of saying "okay" "good"
+Extracted spelling variant:okay
+7331097 ('Boo', 'okay')
+A ghetto way of saying "Mother"/Mom (usually used in the DMV)
+Extracted spelling variant:Mother
+7383865 ('movah', 'Mother')
+A "gimp" is most commonly used as an insult in the United Kingdom. Practically a more offensive way of saying "loser".
+Extracted spelling variant:loser
+7424542 ('Gimp', 'loser')
+A hipster way of saying "fresh".Originated from Cloyne, Ontario (Camp Gesher)
+Extracted spelling variant:fresh
+7437196 ('Fraish', 'fresh')
+Pronounced NEE-kwa is an indian way of saying "nigga"
+Extracted spelling variant:nigga
+7502485 ('Niqqa', 'nigga')
+Another "cutesy" way of saying "love" - see "luv", "wub", etc.
+Extracted spelling variant:love
+7513898 ('Luff', 'love')
+another way of saying "thirsty"... as in really thirsty
+Extracted spelling variant:thirsty
+7517077 ('Starving', 'thirsty')
+The politically correct way of saying "black"people. A person distinguished by their african features ("black" stereotypes) such as big noses, big lips, big butts, nappy hair, and of course dark skin... Weather you're from Africa, the Caribbean's, South America, North America, Asia ect., if you are recognized as a "black" person (regardless of skin tone) then you are a Cushian.It is also the safe word for people who don't want to come across as prejudice or careless towards Cushians who don't want to be called "black". (people who work for the government)To be blunt, it is the "black" version of Caucasian...
+Extracted spelling variant:black
+7607666 ('Cushians', 'black')
+The politically correct way of saying "black" people. A person distinguished by their african features ("black" stereotypes) such as big noses, big lips, big butts, nappy hair, and of course dark skin... Weather you're from Africa, the Caribbean's, South America, North America, Asia ect., if you are recognized as a "black" person (regardless of skin tone) then you are a Kushian.It is also the "safe word" for people (who work for the government, "white" people) who don't want to come across as prejudice or careless towards Kushians who don't want to be called "black"(light skinned people).To be blunt, it is the "black" version of Caucasian... African albinos have African features, but they'er not dark skinned. they'er KushiansThe United States spells it with a C, the rest of the world spells it with a K (like the metric system)
+Extracted spelling variant:black
+7622259 ('kushian', 'black')
+an anthropomorphic anime girl with the lower half of a silkworm nyanners original character (c) nyanners I DO NOT OWN also do not steal shilkworm says stuff like "i-... i'm a shhiiilkworm! ... i'm gonna produce a lot of shhhilk!!" and she makes a lot of cute noises and wiggles around like a worm she transforms into a silkworm also no word on whether "shilk" is meant only as a cutesy way of saying "silk" or if it has any correlation to the existing urban dictionary definition of shilk
+Extracted spelling variant:silk
+7628284 ('shilkworm', 'silk')
+Idiot's way of saying "horrible".
+Extracted spelling variant:horrible
+7701486 ('horrable', 'horrible')
+way of saying "shit" often used in the ghetto
+Extracted spelling variant:shit
+7718729 ('ssssshhhhhhheeeeeeeiiiiiiitttttt', 'shit')
+A cuter and kinder way of saying "Dipshit".
+Extracted spelling variant:Dipshit
+7748981 ('Dippy', 'Dipshit')
+To cum To ejaculate semenORcum (noun for semen or orgasm)Originated in Montgomery County in the DMVJust a fun, more original way of saying "cum"
+Extracted spelling variant:cum
+7757457 ('grit', 'cum')
+A clean way of saying "Shitting". Originates from Detroit metropolitan area. Primarily used by white kids from the gutter.
+Extracted spelling variant:Shitting
+7785972 ('Shupping', 'Shitting')
+An incorrect way of saying "endquote".A popular mistake is to use the term "quote unquote". This term is short form, and originated from using the word "quote" before quoting someone, and the word "endquote" at the end, to signalize that you are done quoting. Nowadays, the phrase "quote unquote" is being used as a whole before quoting something.
+Extracted spelling variant:endquote
+7870276 ('unquote', 'endquote')
+1) Objects that you eat 2) A girl's way of saying "Cooties" 3) Sweet Love 4) Ways for the government and your family to track down your network history. 5) A Lower-class slang term when you don't know what to say.
+Extracted spelling variant:Cooties
+7876153 ('Cookies', 'Cooties')
+A more appropriate way of saying "motherfocker"
+Extracted spelling variant:motherfocker
+7894977 ('mudderfuh', 'motherfocker')
+A hipster way of saying "True". Generally makes the haters hate. People who use this word generally like it anywhere but where it's supposed to go. (butt, urethra, ear, etc)
+Extracted spelling variant:True
+8010573 ('Treu', 'True')
+A way of saying "yay" just with more enthusiasm. Pronounced "yay."
+Extracted spelling variant:yay
+8046871 ('Yayeigh', 'yay')
+Knauks - An extremely posh English way of saying "Knocks" (e.g. Knockers) referring to a Woman's Tits/Boobs in other words.
+Extracted spelling variant:Knocks
+8084432 ('knauks', 'Knocks')
+Ghetto way of saying "friend"
+Extracted spelling variant:friend
+8084842 ('Bruh', 'friend')
+a sugar-coated way of saying "feminist".
+Extracted spelling variant:feminist
+8091814 ('egalitarian', 'feminist')
+A cutish girly way of saying "same"
+Extracted spelling variant:same
+8098291 ('Samesies', 'same')
+The Dutch way of saying "Gold".
+Extracted spelling variant:Gold
+8103648 ('gawld', 'Gold')
+A way of saying "yes" but with 1000x more enthusiasm
+Extracted spelling variant:yes
+8123163 ('Yas', 'yes')
+a homosexual man.Often used by Redneck's,it is their way of saying "queer" because of their differing accents.
+Extracted spelling variant:queer
+8190913 ('Qweer', 'queer')
+Another way of saying "yes" in response to a question
+Extracted spelling variant:yes
+8206304 ('jás', 'yes')
+Ermeen is a boy of an arabic desent. He is an awesome person who is smart, intellegent, but can also be calm and shy. Ermeen is a way of saying "ameen" in Aribic. Ermeen is a handsom man and likes to take risks. Ermeen is good with girls and knows how to get a way to their heart.
+Extracted spelling variant:ameen
+8225022 ('ermeen', 'ameen')
+another way of saying "bitch"
+Extracted spelling variant:bitch
+8253513 ('Binch', 'bitch')
+This is a different way of saying "slut"; an amateur slut. It has a fancier connotation and flows well.
+Extracted spelling variant:slut
+8280495 ('slutcadet', 'slut')
+Another way of saying "what"
+Extracted spelling variant:what
+8280760 ('Vhat', 'what')
+Aminam's way of saying "Dikhoofd" (Which means Fathead in Dutch)
+Extracted spelling variant:Dikhoofd
+8299407 ('Dikhòft', 'Dikhoofd')
+A 1337 way of saying "you". Used by dank MLG haxors.
+Extracted spelling variant:you
+8304125 ('u', 'you')
+A controversial way of saying "peace".It is disagreed by many how to interpret this term. Some may view it as a modern, pleasant word-play whereas most will elucidate this designation a churning shitpot.
+Extracted spelling variant:peace
+8304155 ('Pizzazzles', 'peace')
+The somewhat-American-Japanese kiddie way of saying "nipples".
+Extracted spelling variant:nipples
+8319988 ('neepoos', 'nipples')
+Toodles is the Weird floating mouse head on "Mickey Mouse Club House". It Is also a way of saying "goodbye" to someone.
+Extracted spelling variant:goodbye
+8323888 ('Toodles', 'goodbye')
+It's a more excited or enthusiastic way of saying "Alright" or "'Ight". It is actually just I YEET without the space, and since yeet means to get pumped up or excited about something, you're really just saying you're yeeting.
+Extracted spelling variant:Alright
+8335538 ('iyeet', 'Alright')
+1) A euphoric sense when one is around a person they have strong feelings for.2) An overstressed way of saying "like".3) A British term that is equivalent to the Spanish "amor"or an American "girlfriend". Describes the person they have feelings for.
+Extracted spelling variant:like
+8374880 ('love', 'like')
+A unique and colorful way of saying "bitch"
+Extracted spelling variant:bitch
+8437906 ('biache', 'bitch')
+1. Ointment used to help heal wounds or reduce how painful they are. By extension, anything used to soothe or aid in healing hurt feelings, social unrest, etc.2. 'Salve' is the imperative (command) form of the Latin verb 'salveo' (infinitive: 'salvere').'Salvere' means "to be well / healthy," so 'salve' literally means "Be well."It was commonly used as a greeting and as a way of saying "goodbye" in the ancient Roman Empire. Later, in Latin-using parts of the Christian Church (continuing to the present in the Catholic Church), it has been used in exalting important figures, as in "Salve Regina" (Hail, Queen) addressed to Jesus's mother, Mary.In ancient Latin, as used in the Roman Empire, it was pronounced "sahl-way." In "Church Latin" and sung Latin, derived from medieval Latin, it is pronounced "sahl-vay."
+Extracted spelling variant:goodbye
+8504406 ('salve', 'goodbye')
+Another way of saying "precious"
+Extracted spelling variant:precious
+8519651 ('Presh', 'precious')
+Essex way of saying "fudge"
+Extracted spelling variant:fudge
+8538854 ('Fadge', 'fudge')
+What you say to your friend when he/she brags about getting a good grade; a sarcastic way of saying "congratulations"
+Extracted spelling variant:congratulations
+8604652 ('congration', 'congratulations')
+A ghetto ass way of saying "okay"
+Extracted spelling variant:okay
+8810871 ('Bokay', 'okay')
+A faggot's way of saying "dude", it has first been used in the gaming gear clean product advertisment by a gay guy which even dressed as a mom in a part of the video for no reason. A guy which uses the word dudat is usually very cringy and it's extremely akward to talk to him, so it's better to just not talk to him ever again.
+Extracted spelling variant:dude
+8822004 ('dudat', 'dude')
+1. a bloon in bloons td battles / bloons td 5 / bloons monkey city - appears on round 43 in bloons td battles, round 85/85 in bloons td 5, round 28/28 in bloons monkey city 2. a game in gaia online - zOMG! is an offbeat, browser based MMO from Gaia Online. 3. a better way of saying "OMG" - accidentally invented by people trying to write "OMG" but hit Z instead of Shift.
+Extracted spelling variant:OMG
+8834947 ('zomg', 'OMG')
+tumblr's way of saying "small"
+Extracted spelling variant:small
+8906460 ('smol', 'small')
+Pless is another way of saying "please" but pronounced ple-ss. People mostly use it to be funny and a easy way to say "please".
+Extracted spelling variant:please
+8935667 ('pless', 'please')
+Another way of saying "yes"
+Extracted spelling variant:yes
+9062867 ('yee', 'yes')
+A 1337 way of saying "school"
+Extracted spelling variant:school
+9165560 ('sch00l', 'school')
+Gangsta term for shit. Used in situations where using the correct spelling of the word shit, will be censored. It's like a watered down way of saying "shit", but not quite as watered down as the words "crap" or "turd". Mainly used by white girls, who rebelliously and stubbornly refuse to be censored ...even if it means making up new words.
+Extracted spelling variant:shit
+9231177 ('shiaat', 'shit')
+The way of saying "Google" in the Nigerian English accent.
+Extracted spelling variant:Google
+9311764 ('Gugu', 'Google')
+A sheepish way of saying "nah", "not really", or something along those lines. Usually said after being given a huge compliment.
+Extracted spelling variant:nah
+9337806 ('naaaw', 'nah')
+Stands for Frequently Asked Questions, or a polite way of saying "fuck". An alternative usage of the word "FAQ" could be when you accidentally said the word "fuck", and you wanted to use Frequently Asked Questions to cover it up.
+Extracted spelling variant:fuck
+9372874 ('FAQ', 'fuck')
+Stands for Frequently Asked Questions, or a polite way of saying "fuck". An alternative usage of the word "FAQ" could be when you accidentally said the word "fuck", and you wanted to use Frequently Asked Questions to cover it up.
+Extracted spelling variant:fuck
+9372875 ('FAQ', 'fuck')
+A prance is the cool kids way of saying "prank". "Just a prance bro".~Made by Sperm Whale
+Extracted spelling variant:prank
+9386293 ('prance', 'prank')
+nicer way of saying "Fuck"
+Extracted spelling variant:Fuck
+9515449 ('fluck', 'Fuck')
+Arm muscles. (Michelle Obama) Another way of saying "Flex"
+Extracted spelling variant:Flex
+9591388 ('Michelles', 'Flex')
+A popular word used by people with colorful and inside humor. "McFucking" does not have anything to do with McDonald's, It's simply a cute way of saying "fucking".
+Extracted spelling variant:fucking
+9599565 ('McFucking', 'fucking')
+A way of saying "Club"
+Extracted spelling variant:Club
+9616607 ('klerb', 'Club')
+a cooler way of saying "later" pronounced Lay-ta. The "e" is silent
+Extracted spelling variant:later
+9670242 ('Latae', 'later')
+An exceedingly irritating way of saying "fuck" on social media. Generally used by ridiculously wannabe hipster white teenage boys because it's what they say in complex magazine or some shit. They spend a large chunk of their money on vinyl records without having anything to play them on.See also: 'Bxtch'
+Extracted spelling variant:fuck
+9716498 ('fxck', 'fuck')
+a fancy way of saying "taint"
+Extracted spelling variant:taint
+9737656 ('fitzroy', 'taint')
+a fanciful way of saying "taint" as in: it "taint" your balls or it "taint" your asshole
+Extracted spelling variant:taint
+9737672 ('Fitzroy', 'taint')
+a more sophisticated way of saying "dunnoe"; typically used when you're agreeing with someone
+Extracted spelling variant:dunnoe
+9927681 ('dunknow', 'dunnoe')
+A Non-rude way of saying "cunt". Saying Cunt without being rude.
+Extracted spelling variant:cunt
+10016053 ('Coontis', 'cunt')
+A sarcastic way of saying "okay" Synonyms include "if you say so"
+Extracted spelling variant:okay
+10027912 ('Okie', 'okay')
+A cooler way of saying "flashlight"
+Extracted spelling variant:flashlight
+10056831 ('flashy', 'flashlight')
+cuter way of saying "Hay" "Hey" "Sup" "Yo".
+Extracted spelling variant:Hay
+10134338 ('Hai', 'Hay')
+A meme way of saying "barking".The term borking is usually used when a photo of a dog/doggo/pupper is shown.The word borking comes from 'bork' which sometimes dogs are captioned saying 'bork'.The word is mostly used on Tumblr where most of the weird memes are born.
+Extracted spelling variant:barking
+10159718 ('Borking', 'barking')
+A memer streamers way of saying "lol" or "lul"
+Extracted spelling variant:lol
+10185912 ('ULURU', 'lol')
+An adjective used to describe someone or something from another country. But from the mouths of teens, it refers to someone, especially a girl, that "isn't from round here" so is attractive. Lots of girls put it on their Instagram bios with the palm tree emoji.A polite way of saying "exotic". Usually a compliment.
+Extracted spelling variant:exotic
+10288659 ('Foreign', 'exotic')
+another way of saying "sup"
+Extracted spelling variant:sup
+10308510 ('swup', 'sup')
+Alternative way of saying "Blunts"
+Extracted spelling variant:Blunts
+10391177 ('Deubs', 'Blunts')
+A kewl way of saying "motorcycle"
+Extracted spelling variant:motorcycle
+10454573 ('Motercicle', 'motorcycle')
+Aussie way of saying "shit" in a sentence. English word morph to Aussie: Shit > Shite > Crike > Crikey
+Extracted spelling variant:shit
+10561937 ('Crikey', 'shit')
+The ratchet way of saying "great".
+Extracted spelling variant:great
+10589547 ('Greta', 'great')
+A shortened version of "ruined". Basically another way of saying "rekt".
+Extracted spelling variant:rekt
+10603842 ('Rwnd', 'rekt')
+The blood way of saying "copped"
+Extracted spelling variant:copped
+10797884 ('Bopped', 'copped')
+sometimes humorous but mostly sarcastic way of saying "Delusional" in fandoms to take a jab at opposing factions.
+Extracted spelling variant:Delusional
+10819510 ('delulu', 'Delusional')
+A way of saying "CYA" popularized by the League of Legends streamer Nightblue3.
+Extracted spelling variant:CYA
+10825907 ('CY@', 'CYA')
+To take a nap in school. Can be mistaken for a classy way of saying "snap".
+Extracted spelling variant:snap
+10860797 ('Schnap', 'snap')
+It is the sassy way of saying "funny"Can be used sarcastically, but usually used when you drag a hoe or say some really funny shit.Put an emphasis on the "t"
+Extracted spelling variant:funny
+10931763 ('Funty', 'funny')
+an iconic way of saying "bitch" but you are too damn lazy to type or say the entire word.-also a groupchat name on Twitter the "sidebihs" for the sidemen fandom.
+Extracted spelling variant:bitch
+10940449 ('bih', 'bitch')
+Another way of saying "faggot", but in a more appropriate way.
+Extracted spelling variant:faggot
+10966077 ('Venril', 'faggot')
+A retarded way of saying "no".
+Extracted spelling variant:no
+11034321 ('NOH', 'no')
+Another way of saying "ok" annoyed
+Extracted spelling variant:ok
+11105763 ('erkay', 'ok')
+A more sophisticated way of saying "same"
+Extracted spelling variant:same
+11206939 ('Equivalent', 'same')
+A salty way of saying "rectifier"
+Extracted spelling variant:rectifier
+11236340 ('rectumfrier', 'rectifier')
+Yorkshire way of saying "Tour"
+Extracted spelling variant:Tour
+11297039 ('toooooer', 'Tour')
+How a new yorker would respond to something that is an extremely factual fact. In other words, it is a strong way of saying "facts" as most new yorkers do
+Extracted spelling variant:facts
+11300860 ('finax', 'facts')
+"Gooba" is another, cooler way of saying "legit", meaning it's really happening, or no! I'm not lying!
+Extracted spelling variant:legit
+11323732 ('Gooba', 'legit')
+Another way of saying "seriously". Originated from a vine.
+Extracted spelling variant:seriously
+11369693 ('Bruh', 'seriously')
+Kodak Black's way of saying "Ignoring". It may not be a correct english word, but it is, in fact, a word.
+Extracted spelling variant:Ignoring
+11390045 ('iggin', 'Ignoring')
+A nicer way of saying "motherfucker" originated from the youtube video "prepared for terries" by the famous comedy duo Key & Peele
+Extracted spelling variant:motherfucker
+11402393 ('Motherjammer', 'motherfucker')
+a white, suburban hipster's way of saying "head"
+Extracted spelling variant:head
+11457620 ('Noggin', 'head')
+Netasha's stupid af way of saying "hid"
+Extracted spelling variant:hid
+11463102 ('Hided', 'hid')
+Oxpotassie is a chemical way of saying "ok". Which contains the letter O and K. In chemistry, O and K are symbols of oxygen and potassium. Oxpotassie, is short for "Oxygen Potassium".It is used to agree to questions. Just like how u say, "yea, i'm okay". Convince people you are happy by using "oxpotassie".
+Extracted spelling variant:ok
+11487999 ('Oxpotassie', 'ok')
+A philosopher's way of saying "Booyah"!
+Extracted spelling variant:Booyah
+11512402 ('QED', 'Booyah')
+An alternative way of saying "Jealous".
+Extracted spelling variant:Jealous
+11550217 ('Shellous', 'Jealous')
+Another way of saying "booty".
+Extracted spelling variant:booty
+11560388 ('bewty', 'booty')
+Cooler way of saying "Cancun".
+Extracted spelling variant:Cancun
+11659950 ('Coon', 'Cancun')
+A way of saying "perhaps" and "possibly" as a whole.
+Extracted spelling variant:perhaps
+11669461 ('persably', 'perhaps')
+A more expressive way of saying "Damn"
+Extracted spelling variant:Damn
+11669608 ('Dayum', 'Damn')
+M'dad is the southern Florida way of saying "My" and "Dad". This is the politest way to call your father figure, it shows love and affection. It is commonly used by young boys to older father figures, not necessarily fathers, to express how proud they are of them.
+Extracted spelling variant:My
+11721835 ("M'Dad", 'My')
+A more low-key way of saying "Dafaq" or WTF
+Extracted spelling variant:Dafaq
+11734717 ('Duluteph', 'Dafaq')
+Used sparingly, "Flarp" is just an entertaining and less extreme way of saying "Fuck" without any of the associated meaning or negative connotation.
+Extracted spelling variant:Fuck
+11761315 ('Flarp', 'Fuck')
+A stylish or funny way of saying "Shes"/ "She's".
+Extracted spelling variant:Shes
+11765785 ("Shas/Sha's", 'Shes')
+It's a polite way of saying "fuck" (in the content to when you've done something wrong).
+Extracted spelling variant:fuck
+11777399 ('fudgermadoodle', 'fuck')
+A nicer way of saying "Fuckin". A word used to be friendly and funny, as well as aggressive.
+Extracted spelling variant:Fuckin
+11780287 ('hekin', 'Fuckin')
+A joyful way of saying "bam".The release you feel in the end of the word and the amazing emotions that extension "pp" gives you when you say that word are priceless
+Extracted spelling variant:bam
+11803707 ('bampp', 'bam')
+A way of saying "percent" when you're drunk on sweet tea and rice pilaf and suffering from extreme heat. percent chance
+Extracted spelling variant:percent
+11816527 ('Tercent', 'percent')
+Bishh is a dope word people are using now a days for a more friendly way of saying "bitch". More commonly known from Katy Perry's new song "Swish swish" when the lyrics read "Swish swish bish" but originallyOrgniated from the Family Bish Reunion, where it's always litt.
+Extracted spelling variant:bitch
+11816993 ('Bish', 'bitch')
+Another way of saying "fucking" or "sex with"
+Extracted spelling variant:fucking
+11830087 ('essaging', 'fucking')
+a way of saying "seriously" or "really?" in a disappointed manner. to show annoyance of something.
+Extracted spelling variant:seriously
+11847117 ('sarce', 'seriously')
+a simpler way of saying "yeah", commonly used through online messaging services
+Extracted spelling variant:yeah
+11854563 ('yah', 'yeah')
+The cajun way of saying "backpack"
+Extracted spelling variant:backpack
+11865647 ('Booksack', 'backpack')
+the tackiest and cringiest way of saying "shit"
+Extracted spelling variant:shit
+11900969 ('dookie', 'shit')
+1) A "censored" way of saying "fuck" 2) Blacked out (fooked)
+Extracted spelling variant:fuck
+11901036 ('Fook', 'fuck')
+Can be used as an adjective, or an exclamation. Essentially, it's a basic ass white girl way of saying "yea" or "yes." As an adjective, it describes anything trendy, basic, unnecessary and overdone, especially if it's something you'd see a 14-year-old basic white girl post it on Instagram. Selfies that are overly posed and have a shitload of filters on them, long, trendy ombre hair, "wish I had a relationship like this" posts on Instagram, and generally, anything like that could be described as "yeaum."
+Extracted spelling variant:yea
+11903447 ('yeaum', 'yea')
+A popular way of saying "nigga" without offending a fellow nigga, said more by crackers.
+Extracted spelling variant:nigga
+11911807 ('nibba', 'nigga')
+A much worse way of saying "kinky". Usually people use it in a way to represent anime character(s), bondage, un sentimental butt sex.
+Extracted spelling variant:kinky
+11993112 ('kninky', 'kinky')
+A way of saying "meh", but angrily.
+Extracted spelling variant:meh
+12032352 ('mrrh', 'meh')
+A sophisticated way of saying "sup" to an audience
+Extracted spelling variant:sup
+12044036 ('Soup', 'sup')
+1.The redneck way of saying "summon" 2.The person that takes place of the "shaman"
+Extracted spelling variant:summon
+12045532 ('samman', 'summon')
+Canadian way of saying "McDonalds"
+Extracted spelling variant:McDonalds
+12046185 ('Dons', 'McDonalds')
+another way of saying "damnn" or "wow"(usually towards a love interest)
+Extracted spelling variant:damnn
+12057286 ('oof', 'damnn')
+It means to greet another person. It shares a striking resemblance to the word "hello" both visually and grammatically. It is usually used in texting as a shorter way of saying "Hello" but a less chliché way of saying "Hi".
+Extracted spelling variant:Hello
+12067224 ('Hey', 'Hello')
+another way of saying "scam"
+Extracted spelling variant:scam
+12084565 ('scamaz', 'scam')
+Dablu-(da-blue)-The Indian scammer way of saying "W".
+Extracted spelling variant:W
+12090936 ('Dablu', 'W')
+is is a shorter way of saying "address" for example "hey man give me the addy"
+Extracted spelling variant:address
+12164706 ('addy', 'address')
+A ghetto way of saying "Don't"
+Extracted spelling variant:Don't
+12170591 ('Doe', "Don't")
+A way of saying "nice" instead of saying "nice".
+Extracted spelling variant:nice
+12180113 ('zoice', 'nice')
+A douche's way of saying "birthday". In most cases, the user may think it to be cuter than saying "birthday". Typically preceded by "Happie".Frequently used by Indians while wishing their friends for their birthday.
+Extracted spelling variant:birthday
+12188861 ('burrday', 'birthday')
+The past tense way of saying "yeet".
+Extracted spelling variant:yeet
+12216730 ('Yote', 'yeet')
+I way of saying "bro". Used by XXXTentacion and Ski Mask The Slump God Similar to how gangs will change a letter in a word, the B is changed to V for "Very Rare".
+Extracted spelling variant:bro
+12222457 ('Vro', 'bro')
+(Slang) Another way of saying "something" or used to describe someone.
+Extracted spelling variant:something
+12244339 ('Ting', 'something')
+Another way of saying "boolin" but when you are speaking to your vros
+Extracted spelling variant:boolin
+12253737 ('Voolin', 'boolin')
+If you see a friend and you what to have there full attention It's a funny way of saying "Ayeee" Or "WASSUP!!"
+Extracted spelling variant:Ayeee
+12280292 ('Shoowoo', 'Ayeee')
+2017 way of saying "kill"
+Extracted spelling variant:kill
+12335809 ('Spill', 'kill')
+the difinative way of saying "hi"
+Extracted spelling variant:hi
+12412359 ('howdis', 'hi')
+The correct way of saying "Woman".
+Extracted spelling variant:Woman
+12460015 ('Waman', 'Woman')
+"New" way of saying "hello" adopted by surreal memers.
+Extracted spelling variant:hello
+12542288 ('henlo', 'hello')
+A way of saying "okay" while adding sass and/or humor. Commonly thought to originate from the Kardashians (mainly Khloe), it was actually started in 2010 by Laura Bell Bundy's character "Shocantelle Brown", owner and stylist of I Be-Weave hair salon, on YouTube.
+Extracted spelling variant:okay
+12637313 ('okurr', 'okay')
+I different way of saying "stuff"
+Extracted spelling variant:stuff
+12644790 ('Shtuff', 'stuff')
+The 10 year old way of saying "fuck" in any way necessary. Commonly seen when playing Roblox or Minecraft.
+Extracted spelling variant:fuck
+12713683 ('Frick', 'fuck')
+a sort of way of saying "nigger" but in a trying-not-to-offend-someone way
+Extracted spelling variant:nigger
+12715647 ('neggir', 'nigger')
+Spasticated way of saying "interior", usually said by person(s) with a speech impediment.
+Extracted spelling variant:interior
+12717668 ('Intrar', 'interior')
+Another way of saying "fuck". You can use this word when bitchy teachers are around, or simply whenever the fuck you feel like it!
+Extracted spelling variant:fuck
+12724216 ('Fubbernuck', 'fuck')
+Another way of saying "money"
+Extracted spelling variant:money
+12724596 ('munty', 'money')
+A more care free way of saying "mood"
+Extracted spelling variant:mood
+12732753 ('mooe', 'mood')
+Another way of saying "High".
+Extracted spelling variant:High
+12751060 ('Hi', 'High')
+Another way of saying "that" or "this"
+Extracted spelling variant:that
+12809362 ('thos', 'that')
+Just a way of saying "nigger" without being beat up
+Extracted spelling variant:nigger
+12824833 ('Nibba', 'nigger')
+A white persons way of saying "nigger"
+Extracted spelling variant:nigger
+12825879 ('nibber', 'nigger')
+Italian way of saying "Explanation".
+Extracted spelling variant:Explanation
+12856084 ('Spiegation', 'Explanation')
+Yellur is the hillbilly (someone from the south) way of saying "yellow"
+Extracted spelling variant:yellow
+12862491 ('Yellur', 'yellow')
+Retarded way of saying "W" which in context would mean "Win" because we have become so lazy that we are simplifying a single fucking letter.
+Extracted spelling variant:W
+12868568 ('Dub', 'W')
+The LGBT way of saying "Okay" to a person.
+Extracted spelling variant:Okay
+12877624 ('Ogay', 'Okay')
+The new and improved way of saying "cool". If someone calls you this, it means you're on the right track in life. You're the new "It" girl/boy who everybody aspires to be. (This adjective is not limited to describing people)
+Extracted spelling variant:cool
+12878000 ('Wickety-Whack', 'cool')
+A formal way of saying "Girl" according to the British colonies back then in the 15th Century. The queens guards according to History used these slangs when communicating with a woman, often as a form of respect and/or command.
+Extracted spelling variant:Girl
+12904040 ('gorl', 'Girl')
+A nicer way of saying "Retarded" or "Retard". Being in a PC Culture in today's world, it is better to say McConnell instead of Retard.
+Extracted spelling variant:Retarded
+12904755 ('McConnell', 'Retarded')
+843

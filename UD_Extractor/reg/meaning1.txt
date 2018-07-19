@@ -1,0 +1,29 @@
+Starting loading Urdian Dict corpus ...
+meaning 'phat' but overson was more assimilated with 'fat' thinking he was 'phat'
+Extracted spelling variant:phat
+239749 ('overson', 'phat')
+meaning 'isn't it' or 'i know'
+Extracted spelling variant:isn
+389264 ('Uznut', 'isn')
+meaning 'Owned'.. Has no w, which makes it 1337er
+Extracted spelling variant:Owned
+888141 ('oned', 'Owned')
+meaning 'nang' but betta made up out of pure randomness
+Extracted spelling variant:nang
+988274 ('blanjay', 'nang')
+meaning 'twat' a total asshole thinks hes funny but is, quite frankly, not. its painstakingly obvious of what hes going to do next also thinks he has friends likes to pick on people who suffer enough already in their own mind thinks way too much of himself makes up ALOT of 'shit'
+Extracted spelling variant:twat
+2779274 ('Eillo', 'twat')
+meaning 'finished' 'over'
+Extracted spelling variant:finished
+3422631 ('Fidoosh', 'finished')
+meaning 'cool' in hebrew, but slowly, in my opinion, should become incorporated into the english language.
+Extracted spelling variant:cool
+3438290 ('Sebaba', 'cool')
+meaning 'prostitute' or 'slag' ect...
+Extracted spelling variant:prostitute
+4370832 ('badgash', 'prostitute')
+meaning 'vagina'or making your hair look nice
+Extracted spelling variant:vagina
+5412501 ('jzoozje', 'vagina')
+9

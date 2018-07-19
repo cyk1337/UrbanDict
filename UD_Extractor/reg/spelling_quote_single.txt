@@ -1,0 +1,920 @@
+Starting loading Urdian Dict corpus ...
+A misspelling of the word 'owns'.
+Extracted spelling variant:owns
+21386 ('pwns', 'owns')
+Kejardon's misspelling of 'villain'.
+Extracted spelling variant:villain
+31795 ('villian', 'villain')
+Intentional misspelling for 'internet' usually used when making fun of people who are technologically impaired
+Extracted spelling variant:internet
+33748 ('intarweb', 'internet')
+A misspelling of the word 'You'
+Extracted spelling variant:You
+35956 ('yuo', 'You')
+A misspelling of 'dentist' due to a large amount of cock occupying the mouth and/or hands at the time of typing/saying.
+Extracted spelling variant:dentist
+61548 ('Dentisit', 'dentist')
+A misspelling of 'logic' due to a large amount of shitty cock occupying the mouth and/or hands at the time of your 23 hour sessions on SE.
+Extracted spelling variant:logic
+61559 ('logik', 'logic')
+Mistaken spelling of the word 'you' Often used on purpose as it sounds and reads funnier.
+Extracted spelling variant:you
+102364 ('ypou', 'you')
+1: a massive wall used to hold back water, such as those used in Holland to reclaim farmland. 2: an igneous intrusion cutting through layers of older rocks. 3: alternate spelling of 'dyke', referring to a woman whose sexual preference is exclusively other women. See also 'lesbian'.
+Extracted spelling variant:dyke
+121249 ('dike', 'dyke')
+Retarded spelling of 'retard'
+Extracted spelling variant:retard
+124034 ('retart', 'retard')
+mispelling on the word 'pork' often performed by nob jobs whilst in the act of tromboning
+Extracted spelling variant:pork
+152468 ('prok', 'pork')
+A misspelling of 'Hippo'.
+Extracted spelling variant:Hippo
+166152 ('hipppoo', 'Hippo')
+Alternative spelling for 'boner', which can mean dick/cock
+Extracted spelling variant:boner
+188164 ('bona', 'boner')
+The correct spelling of the word 'Meteor' (or so Mad Cammy says)
+Extracted spelling variant:Meteor
+196217 ('metior', 'Meteor')
+A misspelling of the word 'help', often typed when the typer is in extreme need of help. First seen in MMORPG's, like Everquest.
+Extracted spelling variant:help
+207841 ('hepl', 'help')
+Aszcake is a word entirely different from 'asscake'. Similar to 'asscake', it represents people considered by the rest of society to be either lazy, weird, or Thomas. It, however, is not used just to describe fat, nonsensical people, but rather, it is also used to describe the members of the Aszcake Society. People truly are not 'aszcakes' until they join the aszcake society (Note: The proper spelling is 'aszcake', and not 'asscake').
+Extracted spelling variant:aszcake
+220218 ('aszcake', 'aszcake')
+A mispelling of 'boss'
+Extracted spelling variant:boss
+221153 ('poss', 'boss')
+Incorrect spelling of 'write', often used by people that take the short bus to school.
+Extracted spelling variant:write
+266128 ('rite', 'write')
+A common misspelling of 'Encyclopedia'
+Extracted spelling variant:Encyclopedia
+296034 ('incyclopedia', 'Encyclopedia')
+An exclamation of joy or satisfaction. Alternative spelling 'monkeybosch'
+Extracted spelling variant:monkeybosch
+300602 ('monkeybosch', 'monkeybosch')
+'Yssup' is derived from spelling 'Pussy' backwards. It is the best way to get away with saying it in front of people who hate the P word.
+Extracted spelling variant:Pussy
+336578 ('Yssup', 'Pussy')
+A child who was locked in the basement for 20 years with only math textbooks' way of spelling the word 'guess'
+Extracted spelling variant:guess
+341583 ('quess', 'guess')
+Another way of spelling 'crazy'.
+Extracted spelling variant:crazy
+348842 ('kwazy', 'crazy')
+common mispelling of 'cracker' meaning a white person
+Extracted spelling variant:cracker
+352764 ('Crackelf', 'cracker')
+Funny misspelling of 'foot'. Laugh at people when they type foot like it.
+Extracted spelling variant:foot
+353389 ('Fooot', 'foot')
+v. to own may derive from misspelling of 'own'or may come from kapown as in 'al kapone' all ways of saying OWN, comes from all the l33ts of counter-strike
+Extracted spelling variant:own
+362835 ('pwn', 'own')
+Freakin stupid way of spelling 'the' since it sounds exactly the same.
+Extracted spelling variant:the
+382509 ('tha', 'the')
+at first it was a mis-spelling of 'fucktard' but due to my stooopidness i made it cooler by ... typing it in messenger. check and mate.
+Extracted spelling variant:fucktard
+421281 ('fucktarf', 'fucktard')
+1: Losing badly at something 2: l337 (online) slang for 'owned' 3: The mis-spelling of 'owned' 4: Getting showed up/embarressed in a public event by someone/something
+Extracted spelling variant:owned
+434296 ('pwn3d', 'owned')
+n : film or literature designed to stimulate sexual desire syn: pornography, porno n.Pornography. adj.Pornographic. "pron" or "pr0n" is An accidental or deliberate misspelling of the word 'porn'. Due to the common misspelling of the word, it has been accepted and encouraged amongst the online gaming community. It was also used to get around keyword filtering such as in AOL's parental control. This allowed all the children of the world to have access to all the porn (or pr0n) that is nessessary for a healthy childhood.
+Extracted spelling variant:porn
+452941 ('pron', 'porn')
+The antithesis of what a good boy should be - rude, obnoxious, violent and stupid. Formed by spelling 'boy' bacwards, it was coined in England in the 18th century as it was very popular amongst upperclasses to speak backwards at the time.
+Extracted spelling variant:boy
+465139 ('yob', 'boy')
+originally a mispelling of 'meow' on the internet... then came to be random word used when you have nothing else to say...
+Extracted spelling variant:meow
+521862 ('mewo', 'meow')
+It's what you are tasting when you felch someone. Alternative spelling is 'sbum'.
+Extracted spelling variant:sbum
+550463 ('spum', 'sbum')
+It's what you are tasting when you felch someone. Alternative spelling is 'spum'.
+Extracted spelling variant:spum
+550503 ('sbum', 'spum')
+Lazy typist's way of spelling 'before'
+Extracted spelling variant:before
+614402 ('b4', 'before')
+mispelling of 'tubular', invented by myself and two others. We decided, after using it for a week or so, that it means 'vibrator'. But don't tell anyone else that.
+Extracted spelling variant:tubular
+666443 ('tubulat', 'tubular')
+Adj. Expression to signify something of exceptional merit or 'goodness'. Originating from some dumbass' spelling of 'awesome' - probably someone going by the name 'The Latimer' or more likely 'Mr. Tube'. Also known in the forms: Awsmome Awesmore Awesmo
+Extracted spelling variant:awesome
+687796 ('Awesmome', 'awesome')
+1.The epitomy of superior, a step beyond master. 2.Ghetto spelling of 'master'
+Extracted spelling variant:master
+706366 ('Masta', 'master')
+a protective barrior used for contraception. it is the spelling of 'condom' backwards. originated from the late Jake Schumway, rest in peace.
+Extracted spelling variant:condom
+723967 ('modnoc', 'condom')
+A "1337" spelling of 'phreak' or freak where to as ph is pronounced f and 3 is an e. A nerdier version of phreak, which in turn is a nerdier version of freak. God bless the late 90s and the internet, eh? See also phreak.
+Extracted spelling variant:phreak
+745846 ('phr3ak', 'phreak')
+Alternative spelling of 'safe'. An attempt at individuality through corruption of language; only relevant in written or typed form where the word is visible as the pronunciation is not changed.
+Extracted spelling variant:safe
+747604 ('psafe', 'safe')
+Another way of spelling 'fuck'. This uses the standard hacker jargon of 'ph', like phuck but with double 00s.
+Extracted spelling variant:fuck
+828679 ('ph00k', 'fuck')
+n. 1: A term used to describe a keyboard which is below average, old, outdated or otherwise ill-suited to get the job of typing done. (American in origin, derived from a misspelling of the word 'keyboard' when typed on one such instrument)
+Extracted spelling variant:keyboard
+838152 ('Jeyboard', 'keyboard')
+A way of showing a juvinile excitment towards the subject matter Original misspelling of 'the' but also adds a childish tone to the word, and puts across a more inocent feel to the subject
+Extracted spelling variant:the
+839275 ('teh', 'the')
+A mis-spelling of the word 'pwned' which is a mis-spelling of the word 'owned'. Originally said by Noodles on a forum.
+Extracted spelling variant:pwned
+873998 ('xwned', 'pwned')
+A slang variation of hello, most commonly used by teenagers to start a casual, laid back conversation. Often this conversation takes places online using an instant messenger service, and so incorporates the appropriate slang. Derived from the the utterance 'mmm' and the word 'hello'. Alternate spellings include 'mmmyellow', 'myellow', 'myello' and 'myallo'.
+Extracted spelling variant:mmmyellow
+884796 ('Mmmyello', 'mmmyellow')
+Intentional misspelling of 'bong', intended for use as code word.
+Extracted spelling variant:bong
+888129 ('bnog', 'bong')
+Northern english alternative spelling for 'Butty'. Butti / Butty is a UK term for sandwich.
+Extracted spelling variant:Butty
+915298 ('Butti', 'Butty')
+1. The modified spelling of 'cocks', used to avoid actual use of profanities. 2. A popular surname
+Extracted spelling variant:cocks
+920674 ('cox', 'cocks')
+Alternate spelling to 'bonzer'. Means 'brilliant'.
+Extracted spelling variant:bonzer
+935803 ('bonza', 'bonzer')
+British slang See also: Uber Über; 1) <adjective> Good Über-; 2) <prefix> The most superlative ==> The word 'Über' is taken from German and is used in exactly the same way by an English slang speaker as a German speaker would. Über in German literally means 'Over' or 'Above' and is often merged with other German words to emphasise their excellence. e.g. "Übersoldat" or "Over-soldier" literally translated. In English, we would sooner say, "Super-soldier", but the meaning is the same. Other variations:- µber; Variant on the spelling of 'Über' with exactly the same meaning only the 'Ü' is replaced with the greek letter 'µ' (Myu). This is an informal and localised variant and would never be used in formal text.
+Extracted spelling variant:Über
+956387 ('Über', 'Über')
+A mispelling of 'penis'.
+Extracted spelling variant:penis
+958682 ('penus', 'penis')
+A n00b's typo. Correct spelling is 'lol'.
+Extracted spelling variant:lol
+964998 ('oll', 'lol')
+Noun, adjective and interjection. Variant spelling of 'baws'. Scottish dialect for 'balls'. 1. Noun Slang for 'testicles'. Commonly used figuratively. 2. Adjective (pejorative) 'To be bawz' is to be undesirable or unfavourable (tends to only apply to inanimate objects). 3. Interjection Shows disapproval. Used in the same way as same way as 'Damn!' or 'Shite!'.
+Extracted spelling variant:baws
+989762 ('bawz', 'baws')
+This word's been used at school a bit, apparently it is just another spelling for 'hot'. Don't ask me why, man.
+Extracted spelling variant:hot
+1031602 ('wehat', 'hot')
+Alternate spelling of 'cabbage'. Applies to a person who is a cabbage or something a stupid person would do. Originally used as "Cabaje Englandish"
+Extracted spelling variant:cabbage
+1121314 ('cabaje', 'cabbage')
+A shorter way of saying or spelling 'Crisps' Can be used with words like Chris or Christian (Xian)
+Extracted spelling variant:Crisps
+1122807 ('xisps', 'Crisps')
+A term popularly used by inbreds and substandard musicians who are incapable of correctly spelling the word 'polish'.
+Extracted spelling variant:polish
+1164050 ('ploish', 'polish')
+Australian Defense Force note: alt. spelling 'defence' when in pommy, matey or kiwi land A military force which is proven to be relatively weak judging by the fact that high school graduates can actually apply for officer positions and be accepted, FAR OUT MATE
+Extracted spelling variant:defence
+1179724 ('ADF', 'defence')
+A misspelling of 'own' in an instant message.
+Extracted spelling variant:own
+1212875 ('pwn', 'own')
+An erection. Originating from my 2nd period teacher's misspelling of the word 'bonus', another bon- word appeared in my mind: boner. So if a boner is a penis, a bonous is when said penis gets hard.
+Extracted spelling variant:bonus
+1213734 ('bonous', 'bonus')
+Alternate spelling of 'ridiculous', brought about by the inability of wireless predictive text input (such as iTap or T9) to figure out what word was intended. It is also likely that the person inputting this word didn't know how to spell 'ridiculous'. Note: That person is Hart@m. See also redunkulous.
+Extracted spelling variant:ridiculous
+1214796 ('ridicols', 'ridiculous')
+Alternate spelling of 'ridiculous', brought about by the inability of wireless predictive text input (such as iTap or T9) to figure out what word was intended. It is also likely that the person inputting this word was a dumbass and didn't know how to spell 'ridiculous'. Hart@m is likely that person. See also ridunkulous.
+Extracted spelling variant:ridiculous
+1214852 ('ridicols', 'ridiculous')
+Common misspelling of the 'php'
+Extracted spelling variant:php
+1238825 ('pho', 'php')
+1. Misspelling of 'cutie'. 2. Someone who is cute. 3. Endearing pronoun for a significant other.
+Extracted spelling variant:cutie
+1291599 ('Cuie', 'cutie')
+scrotum - the correct spelling for 'bawbag'
+Extracted spelling variant:bawbag
+1334736 ('bohbag', 'bawbag')
+A far superior way of spelling 'partay' and saying 'party'.
+Extracted spelling variant:partay
+1360874 ('partae', 'partay')
+(v.) variant spelling of 'wang'; this also means 'to smell bad'.
+Extracted spelling variant:wang
+1448541 ('whang', 'wang')
+alternate spelling 'shorty'--although shortie typically refers to girls, 'shortie' also refers to a guy that's a short bitch. Shorties are very persistent and act as if they're of normal height. They are mental irregulars and need meds. Beware!
+Extracted spelling variant:shorty
+1453199 ('shortie', 'shorty')
+A very screwed up way of spelling 'Linksys', a company that specializes in home networking devices.
+Extracted spelling variant:Linksys
+1454714 ('LynxSis', 'Linksys')
+Common misspelling of 'through' due to laziness and/or ignorance.
+Extracted spelling variant:through
+1485918 ('thru', 'through')
+Originating from the slang spelling of the word 'shit' (can also be spelt 'sh1nt' or 'sh-one-t'), 'shwunt' was designed to be a non-offensive alternative spelling for use in schools and other pc situation, but has evolved into a word in its own right. Can be used as a substitute for the words 'shit' or 'cunt.'
+Extracted spelling variant:shit
+1501936 ('shwunt', 'shit')
+a cooler way of spelling 'preggers' short for pregnant.
+Extracted spelling variant:preggers
+1539111 ('pregggerZz', 'preggers')
+French curse word. Ofently used as an insult by French Canadians and Quebecers. Originates from the french word 'tabernacle'. In the catholic Church, a 'tabernacle' is a small cupboard intended, since the XVI° century, to preserve the devoted hosts. Over a few decades, the pronounciation and spelling for 'tabernacle' evolved too 'tabarnaque'. 'Tabarnaque' can be the english equivalent for shit or piece of shit.
+Extracted spelling variant:tabernacle
+1563888 ('tabarnaque', 'tabernacle')
+Misspelling of 'ho' (short for 'whore'), confused with a tool for gardening.
+Extracted spelling variant:ho
+1571153 ('hoe', 'ho')
+the alternate spelling of 'lobster'. Came from a movie by Rob Taylor called 'pistachio pudding', which can be seen in the website 'Albinoblacksheep.com'
+Extracted spelling variant:lobster
+1573266 ('streblo', 'lobster')
+Intentional mispelling of the 'awp' sniper rifle in counter strike. Also can be used as a verb: 'wapped', or 'wappage'. Note that 'wap' rhymes with 'cap'.
+Extracted spelling variant:awp
+1574871 ('wap', 'awp')
+Apparently mackem way of spelling 'howay' (Geordie). north east term meaning 'come on'. never in my life have i heard it as a greeting. probably the most common word used in football grounds in the north east, aswell as 'shite'.
+Extracted spelling variant:howay
+1579476 ('haway', 'howay')
+1) A pasty substance made primarily of compressed ducks. Often served on nachos. 2) A commond mispelling of 'guacomole' 3) A vain attempt to create a new internet trend
+Extracted spelling variant:guacomole
+1636830 ('quacomole', 'guacomole')
+Pronounced s-BOOT-lay. A superior spelling of the word 'subtle', used only by people who are incredibly cool. It is more subtle than subtle, but more creamy and thick as well, sort of like the ultimate linguistic version of a triple choc fudge cookie covered in dark chocolate sauce.
+Extracted spelling variant:subtle
+1682147 ('sbutle', 'subtle')
+The wrong way of spelling 'tamagotchi'.
+Extracted spelling variant:tamagotchi
+1706538 ('tomagotchi', 'tamagotchi')
+(adj) the backwards spelling of 'legit'; its meaning is the opposite of the aforementioned word
+Extracted spelling variant:legit
+1711284 ('tigel', 'legit')
+The incorrect spelling of 'Theatre'. Used by those with no interests in the arts, or being an intellectual human.
+Extracted spelling variant:Theatre
+1723202 ('theater', 'Theatre')
+Slang spelling for 'Hundred'.
+Extracted spelling variant:Hundred
+1726288 ('hunnit', 'Hundred')
+(the incorrect spelling of the word ''elephantiasis'') adj. derived from the infectious disease elephantiasis which results in mass enlargement of bodily parts. in slang terms it refers to the large girth of the penis and/or testicles in normal males.
+Extracted spelling variant:elephantiasis
+1734193 ('elephantitus', 'elephantiasis')
+1. stuph: Alternate spelling of 'stuff'. 2. Stuph: Abreviation of 'Stuph Dot Tee Kay' (www.STUPH.tk).
+Extracted spelling variant:stuff
+1788697 ('stuph', 'stuff')
+booty Boody is the traditional spelling for the word booty. The spelling 'booty' became the accepted spelling at 70's band KC and the Sunshine Band had a popular hit called Shake Your Booty.
+Extracted spelling variant:booty
+1822674 ('Boody', 'booty')
+a way of expressing extreme and/or pitiful failure. Also, failing so badly that the person who failed does not deserve the correct spelling of 'fail' and therefore the 'f' is substituted with a 'ph'.
+Extracted spelling variant:fail
+1842062 ('phail', 'fail')
+Misspelling of the word 'pederast' made popular by The Big Lebowski. Webster's defines it as "one who practices anal intercourse especially with a boy."
+Extracted spelling variant:pederast
+1860277 ('petterass', 'pederast')
+Another way of spelling 'jfc' which is an acronym for 'Jesus Fucking Christ'
+Extracted spelling variant:jfc
+1904033 ('jayfc', 'jfc')
+A (according to Google) very common misspelling of the word 'spontaneity'.
+Extracted spelling variant:spontaneity
+1916474 ('spontinuity', 'spontaneity')
+intentional misspelling of 'gentlemen'
+Extracted spelling variant:gentlemen
+1933789 ('gontlemen', 'gentlemen')
+A derogatory term for a Canadian (an alternate spelling for 'canuck', presumably).
+Extracted spelling variant:canuck
+1947827 ('kanook', 'canuck')
+Caused by a misspelling of 'hekka' on AIM, this word has mutated into the coolest word on the planet- no wait, the universe. the same as hella or hekka. but with more cobwell.
+Extracted spelling variant:hekka
+1962096 ('hejja', 'hekka')
+Mispelling of the word 'Shaitan'(Shaytan) from the Arabic for adversary. Also the Islamic version of Satan. Was once know as Lucifer, ''The light of heaven'', in Christian dogma.
+Extracted spelling variant:Shaitan
+1963415 ('satan', 'Shaitan')
+Caused by a misspelling of 'hekka' on AIM, this word has mutated into the coolest word on the planet- no wait, the universe. the same as hella or hekka. but with more cobwell.
+Extracted spelling variant:hekka
+1963899 ('hejja', 'hekka')
+The sadly incorrect way of spelling 'Misies' for those who don't know. The incorrect spelling of 'A missus'
+Extracted spelling variant:Misies
+1966471 ('Miscies', 'Misies')
+The alternate spelling of the word 'argument' in British English, as with 'judgment' and 'judgement'.
+Extracted spelling variant:argument
+1966601 ('arguement', 'argument')
+1. What occurs when two individuals, in a very awkward set of circumstances, attempt to rape each other. 2. The act of rape taken to an extreme, intensely vigorous degree, such that the raper is almost always fatally wearied by the end. 3. Hilarious misspelling of 'battlerap'.
+Extracted spelling variant:battlerap
+2005210 ('battlerape', 'battlerap')
+Deliberate misspelling of 'yes' that originated at the Figure Skating Universe forums, often used by people who want to add a bit of wannabe "Russian flavour" to what they're writing. Can also be used in the same way as "aren't you?" at the end of questions.
+Extracted spelling variant:yes
+2018780 ('eys', 'yes')
+A word popularized by automotivetech.org for something that is either homosexual or just lame. This word is often used as a noun, but can be an adjective as well. The word stems from the often misspelling of the word 'gay' as 'fay' and the acceptance.
+Extracted spelling variant:gay
+2067555 ('fayt', 'gay')
+intentional misspelling of the word 'mansion'
+Extracted spelling variant:mansion
+2088749 ('mantion', 'mansion')
+any oxymoronic spelling of 'fine' that actually means. I'll think about it.
+Extracted spelling variant:fine
+2093998 ('fuine', 'fine')
+A misspelling of the word 'weeaboo'
+Extracted spelling variant:weeaboo
+2108744 ('Weaboo', 'weeaboo')
+Common misspelling of 'Jealous'.
+Extracted spelling variant:Jealous
+2158133 ('jelous', 'Jealous')
+1. wikkid - (adjective)- Slang: a misspelling of the word 'wicked' which is slang for 'awesome', 'cool', or any word or phrase that expresses something being impressive, awe-inspiring, remarkable, incredible, outstanding or exciting, the best, the shit, the bomb, etc. This definition has been around since the 50's or more. Can also mean fun, funny, sexy, hardcore, chill, non-chalant, laid-back. The New England slang of the word only defines an adverb that express the degree of the word or phrase. Such as: very, really, well, so, hella, totally (so awesome, very cool, hella crazy, totally awe-insipring, fuckin' nuts/crazy). This definition actually denotes both adverb and adjective, as in the previous examples. Wikkid can express an extreme degree, usually indicated by the excitement in the vocal emphasis and volume. "Yeah, that's wikkid." (That's cool.) or "CHECK THAT OUT! THAT IS WIKKID!" (CHECK THAT OUT! THAT IS FUCKIN' AWESOME!" ~Anyone who votes 'Thumbs down' for this definition is seriously confused.~ 2. wikkid - a person who's personality, demeanor and presence are made up of all the following qualities: Non-chalant, cool, extraordinary, awe-inspiring, amazing, intense, brilliant, sweet, funny, sexy/beautiful/hot and crazy (in a fun, exciting way). 3. Wikkid - This is also my infamous nickname among friends and women which describes my personality (see definition 2.) and the impact I have on people. I'm Wikkid and anyone who doesn't think so is sadly mistaken.
+Extracted spelling variant:wicked
+2169971 ('wikkid', 'wicked')
+The americanized spelling of 'theatre'. A side effect of the American Revolution.
+Extracted spelling variant:theatre
+2209986 ('theater', 'theatre')
+An alternative spelling of 'llow'. The P is silent, so the pronunciation is the same as the word 'llow'. To not bother doing something.
+Extracted spelling variant:llow
+2219774 ('(p)lough', 'llow')
+Misspelling of the word 'niggy' which is a different version of the word "nigga". The 'P' is silent so it's still pronounced 'niggy', unless you are talking to someone in real life and you wanted them to notice you were using the word 'pniggy'. But 'pniggy' is just meant for IM and chat. How this word was mispelled? Nobody knows, because 'P' is so far away from 'N' on the keyboard. It makes no sense, yet it happened.
+Extracted spelling variant:niggy
+2232773 ('pniggy', 'niggy')
+Misspelling of the word 'niggy' which is a different version of the word "nigga". The 'P' is silent so it's still pronounced 'niggy', unless you are talking to someone in real life and you wanted them to notice you were using the word 'pniggy'. But 'pniggy' is just meant for IM and chat. How this word was mispelled? Nobody knows, because 'P' is so far away from 'N' on the keyboard. It makes no sense, yet it happened.
+Extracted spelling variant:niggy
+2240065 ('pniggy', 'niggy')
+Misspelling of the word 'niggy', which is an alternate of the word 'nigga'. The 'P' is silent. This is mostly used on the internet in chat or something. How this word was misspelled? Nobody knows, because 'P' is so far from 'N' on the keyboard.
+Extracted spelling variant:niggy
+2251307 ('pniggy', 'niggy')
+A misspelling of 'ensue'.
+Extracted spelling variant:ensue
+2260578 ('insue', 'ensue')
+A 'flats' or humuorous misspelling of 'fats' means that someone is 'fat' but used to escape the wrath of so person. 'Flats' should not be sparingly used as it means no harm. 'Flats' also is used in place for an explicit word.
+Extracted spelling variant:fats
+2263331 ('Flats', 'fats')
+The correct spelling of the word 'windmill', according to it's typical pronunciation. This variant of the word is commonly used by those of the Pacific Northwest and Puget Sound regions, whose accents are considered to be "very neutral" to most Americans and Canadians. The Northwest's accent is one of the closest living accents to conservative General American English. It lacks the Northern Cities Vowel Shift, and does not participate as strongly in the California Vowel Shift, or the Canadian raising as do other regional accents. Because of its lack of any distinguishing vowel shift, the accent is very similar to and hard to distinguish from conservative speakers in other dialect regions especially the Northern Midlands, California, and the praries.
+Extracted spelling variant:windmill
+2282657 ('windmeal', 'windmill')
+A mis-spelling of the word 'putang'. I think it means something to do with space travel.
+Extracted spelling variant:putang
+2283245 ('putarg', 'putang')
+The correct spelling of the word 'windmill', according to it's typical pronunciation. This variant of the word is commonly used by those of the Pacific Northwest and Puget Sound regions, whose accents are considered to be "very neutral" to most Americans and Canadians. The Northwest's accent is one of the closest living accents to conservative General American English. It lacks the Northern Cities Vowel Shift, and does not participate as strongly in the California Vowel Shift, or the Canadian raising as do other regional accents. Because of its lack of any distinguishing vowel shift, the accent is very similar to and hard to distinguish from conservative speakers in other dialect regions especially the Northern Midlands, California, and the praries.
+Extracted spelling variant:windmill
+2288738 ('windmeal', 'windmill')
+Phytoestrogens are chemicals produced by plants that act like estrogens in animal cells and bodies. They are often trace substances in food. These chemicals mimic and supplement the action of the body's own hormones, estrogen (the British spelling is 'oestrogen'). They are a comparatively recent discovery, and researchers are still exploring the nutritional role of these substances in such diverse metabolic functions as the regulation of cholesterol, and the maintaining of proper bone density post-menopause. Also, the phytoestrogens have been indicated to play a role in some types of cancers, although it is not clear if this is due to the phytoestrogens or overall eating habits. Phytoestrogens mainly fall into the class of flavonoids: the coumestans, prenylated flavonoids and isoflavones are three of the most potent in this class. The best-researched are isoflavones, which are commonly found in soy and red clover. The uses for these isoflavones are just like that of soy, simply because isoflavones are found in soy. However, so are many other compounds so its not easy to say what exactly isoflavones account for. Lignan has also been identified as a phytoestrogen, although it is not a flavonoid. The estrogenic properties of these biochemicals have been shown to be due to their structural similarities to the hormone estradiol. Mycoestrogens produced by fungi have similar structures and effects. Some evidence suggests that phytoestrogens can help "balance" hormone levels throughout the body since oestrogen exists within them in trace amounts. Hormone balancing can improve such things as mood. Imbalanced hormone levels (for example those seen at puberty) can cause such things as acne. According to a study by Canadian researchers, flax seed contains the highest total phytoestrogen content followed by soy bean and tofu. Isoflavones are found in high concentration in soy bean and soy bean products (eg. tofu) whereas lignans are mainly found in flax seed.
+Extracted spelling variant:oestrogen
+2297445 ('Phytoestrogen', 'oestrogen')
+The incorrect spelling of 'Beero', a slang evolution for someone with the surname Beer.
+Extracted spelling variant:Beero
+2319344 ('Berroo', 'Beero')
+The correct spelling of the word 'windmill', according to it's typical pronunciation. This variant of the word is commonly used by those of the Pacific Northwest and Puget Sound regions, whose accents are considered to be "very neutral" to most Americans and Canadians. The Northwest's accent is one of the closest living accents to conservative General American English. It lacks the Northern Cities Vowel Shift, and does not participate as strongly in the California Vowel Shift, or the Canadian raising as do other regional accents. Because of its lack of any distinguishing vowel shift, the accent is very similar to and hard to distinguish from conservative speakers in other dialect regions especially the Northern Midlands, California, and the praries.
+Extracted spelling variant:windmill
+2321559 ('windmeal', 'windmill')
+adj. (cool) an alternate spelling of the word 'cool', however this version is NOT used to describe temperature. It is used to describe something that one likes. (also can be spelled 'kool')
+Extracted spelling variant:cool
+2359830 ('qool', 'cool')
+Definition 1) Noun - Derrived from the name Lucy. Usually given to females who are also Jewish and called Lucy. Can be adapted for other names such as Victoria to Jewtoria. Not meant to be taken as an insult, just a nickname. Definition 2) Noun - For retards (and Chav's) incapable of spelling 'juicy'.
+Extracted spelling variant:juicy
+2390347 ('Jewcy', 'juicy')
+Frek is a commonly mispelling of the word 'Freak' used to describe a retarded, abnormal human being. Even though it is a mispelling, it can also be used to describe someone as a Freak, even though it makes you sound like a frek.
+Extracted spelling variant:Freak
+2452942 ('Frek', 'Freak')
+A stupid variation of the spelling 'cool', which is actually longer than the real word.
+Extracted spelling variant:cool
+2468204 ('kewell', 'cool')
+Likely derived from a misspelling of 'owned'; possibly derived from the Latin verb pono, ponere (to put, place, set aside). To thoroughly and totally overcome or surpass someone, often in a surprising or wholly humiliating fashion. Most commonly refers to whaling on someone in video games. See also pwnt.
+Extracted spelling variant:owned
+2488761 ('pwned', 'owned')
+Furcle (sometimes with the spelling 'Furckle', firkle) is cooking at the lowest temperature attainable from a cooking source, below simmering - usually over a long period of time to extract the full flavour of food, particularly important in cooking Curry (punjabi and Caribbean food)
+Extracted spelling variant:Furckle
+2552092 ('furcle', 'Furckle')
+originally derived by mispelling the word 'hokie' (Virgina Tech Mascot) while trying to address William Chang. In present day society hoakie is used to describe someone you feel is out of place in society, or simply a hick. Hoakie can also be used to describe someone who frequents hookah bars. Please be advised that that the term hoakie was orginally created as a form of endearment towards gays and should be used sparingly.
+Extracted spelling variant:hokie
+2568863 ('hoakie', 'hokie')
+the phonetic spelling of 'tune' - it is uttered when you hear a song that you like.
+Extracted spelling variant:tune
+2574300 ('choon', 'tune')
+some say it's a mispelling of 'rofl' and others say it means "rolling in the fucking kitchen" these are inaccurate it's true meaning is, roll(ing) in fuzzy kittens
+Extracted spelling variant:rofl
+2576025 ('rifk', 'rofl')
+(adj.) Misspelling of the word 'crazy'. First seen in a snippet of men's bathroom graffiti at Sterling's Restaurant (Sunland, CA) in 1985.
+Extracted spelling variant:crazy
+2588353 ('carzy', 'crazy')
+Misspelling of the word 'they'. First seen in a snippet of men's bathroom graffiti at Sterling's Restaurant (Sunland, CA) in 1985.
+Extracted spelling variant:they
+2588354 ('thay', 'they')
+Derived from 'cunt' where deliberate misspelling to 'cnut' is used to bypass online smut filters. A more polite way of calling someone a 'cunt'
+Extracted spelling variant:cnut
+2612155 ('seanut', 'cnut')
+Internet misspelling of the word 'cute'.
+Extracted spelling variant:cute
+2624196 ('kyuut', 'cute')
+A short spelling of the word 'bright' yu mite also see it as 'brite'. The SSS sujests tu use 'bryt, lyt, lym, ly, lyn, lyk, myt, dy, dyet, spy, sky, myn, etc.'
+Extracted spelling variant:bright
+2645066 ('Bryt', 'bright')
+1. Completely ridiculous misspelling of the word 'homie', used by wannabe hip hoppers who think they have a good vocabulary but haven't yet discovered that the two Ms together make an AWW sound on the O.... 2. Person from the city of Homs, Syria or Homs, Libya.
+Extracted spelling variant:homie
+2669997 ('hommie', 'homie')
+Bi-otch (p) An alternate way of spelling 'bitch'. An excited, friendly, joking way of saying 'bitch'
+Extracted spelling variant:bitch
+2685080 ('bi-otch', 'bitch')
+To dispatch messages in a sloppy or haphazard fashion, without due concern for detail, data integrity or the world around you. Derived from a computer application where a misspelling of 'dispatcher' became symbolic of more fundamental attitudes towards the design and implementation of computer systems.
+Extracted spelling variant:dispatcher
+2689829 ('displatch', 'dispatcher')
+One of several nerd gathering places on the internet. Speaks the ever-popular nerd language, consisting of lowercase mispellings of 'words', including 'pwnage', 'n00b', 'woot', and 'bump'.
+Extracted spelling variant:words
+2709943 ('gaiaonline.com', 'words')
+Deliberate mispelling of the word 'fanboy' typically referring to an annoying, immature fan of a specific video game console. fanbois typically spend most of their free time telling anyone who will listen how perfect thier console of choice is, and how inferior all other products are. fanbois will not stop annoying other people until everyone they know is converted to their way of thinking.
+Extracted spelling variant:fanboy
+2782842 ('Fanboi', 'fanboy')
+Irish spelling of 'plank' - A stupid or silly person having a similar mental capacity to a piece of wood.
+Extracted spelling variant:plank
+2813743 ('pleanc', 'plank')
+Correct spelling is actually PIKEY but due to modern society's frivolous spelling tendencies the spelling 'PYKIE' features on numerous occasions, most particularly on informal cyberforums and blogs. The word has taken on the role of maligning a sector of the human population that is viewed as anti-society and a threat to human development.
+Extracted spelling variant:PYKIE
+2881527 ('pykie', 'PYKIE')
+Apparent misspelling of the word 'insane'. Originates from the "How is babby formed" Flash cartoon of 2 cavemen discussing how babies are formed. The cartoon got it's 'text' from a Yahoo Question.
+Extracted spelling variant:insane
+2906843 ('instain', 'insane')
+1. A corruption of 'lol' or a purpose misspelling of 'lol'. 2. An idiotic excuse to do ANYTHING offensive or disturbing (and as such, funny) used mostly by Chantards (4chan, IIchan, etc.) Gaiafags, or any usual member of Encyclopedia Dramatica. 3. Something funny that is caused at the expensive of others.
+Extracted spelling variant:lol
+2917017 ('lulz', 'lol')
+The common misspelling of the word 'vegetarian' by males who, although they often insist they are dyslexic, are in fact, simply lazy. This misspelling often causes offended 'vegetarians' to stick insulting post-it notes on the offenders back. Common alias' of said male offenders are: Fox, LamFo, Liam, Lam, boy-in-AcapellaRockafella, criminal mastermind of Wonderful Criminals. Uses of the word Vegiterian: 1. Often used as an insult to 'Vegetarians.' 2. Can be used instead of using the actual name of a 'Vegetarian'. 3. Can be used to make jokes about the intelligence and observance of 'Vegetarians'.
+Extracted spelling variant:vegetarian
+2932319 ('Vegiterian', 'vegetarian')
+A deliberate mis-spelling of "life" by adolescents who believe that poor spelling is 'kewl'. May add the illusion of meaning to a dreary, small existence.
+Extracted spelling variant:kewl
+2938033 ('lyfe', 'kewl')
+an utterly ridiculous attempt at spelling 'peeps'. Users of this spelling need to repeat every grade they've attended thus far. Then be stripped of their computers pending investigation into their IQ.
+Extracted spelling variant:peeps
+2959424 ('peops', 'peeps')
+A common mispelling of 'Myrthe'.
+Extracted spelling variant:Myrthe
+2969781 ('Myrte', 'Myrthe')
+An alternate spelling of 'trick'; usually in reference to "tricking," the evolved form of tumbling + martial arts kicks.
+Extracted spelling variant:trick
+2973612 ('Trikk', 'trick')
+alternate spelling of the word 'superb', semi-phonetically in order to imitate a new yoik (york) accent.
+Extracted spelling variant:superb
+2975507 ('supoib', 'superb')
+(noun) alternative spelling for 'lead' in its meaning of 'introductory section of a news story' or 'first-page news item'
+Extracted spelling variant:lead
+2985172 ('lede', 'lead')
+1. Another spelling for 'soon' 2. Usage can also be more versatile
+Extracted spelling variant:soon
+3047801 ('siouxn', 'soon')
+adverb Another spelling for 'soon' playing off the Native American tribe name "Sioux" which is pronounced: \sü\ (like sue)
+Extracted spelling variant:soon
+3048274 ('siouxn', 'soon')
+The alternative spelling of the word 'was' usually associated with and implemented in online chatting, texting, posting, blogging, etc... (also see wazup, wasup)
+Extracted spelling variant:was
+3067776 ('Waz', 'was')
+Homer Simpson's misspelling of the word 'stop'. In the Simpsons Movie, when Homer located the truck in which his family was being held, he made an attempt to hold the truck off for a moment, using a red hexagon (as opposed to an octagon) with the word 'SOP' sloppily painted on it. But as with almost anything that Homer does, it actually worked.
+Extracted spelling variant:stop
+3104665 ('sop', 'stop')
+Another word for Portkey. You know, that thing in Harry Potter that people use when they're too lazy to use brooms. Tis also a rather retarded, but amusing spelling of 'link'
+Extracted spelling variant:link
+3172103 ('Lonk', 'link')
+An alternate spelling for 'huge'
+Extracted spelling variant:huge
+3193957 ('Yooge', 'huge')
+an outrageous and ingenious way of spelling 'fail' to give it more emphasis and gravitas in an msn or text argument. (the b is silent)
+Extracted spelling variant:fail
+3203738 ('phayllb', 'fail')
+The incorrect spelling of the word 'retarded'. It is a well known fact that people that say retarded, are in-fact, a retard themselves.
+Extracted spelling variant:retarded
+3211050 ('Retarted', 'retarded')
+Ham-bee-comb - ADJ When something is good or more than acceptable. To be pleased/Content/Show agreement Applications mostly within on-line gaming - FPS, MMORPG, RTS 1st appeared on the pictionary game 'Draw my thing', most likely an incorrect spelling of 'honeycomb'.
+Extracted spelling variant:honeycomb
+3212427 ('Hambycomb', 'honeycomb')
+Acronym for "Bored At Work Crowd". Indicates a group of workers with either nothing to do at their job, or who are ignoring their duties. The bored then pursue other activities -- including browsing the web -- where they can congregate with fellow BAWC members and attempt to keep each other entertained. One popular BAWC is present on the Warlock class forums for the PC game World of Warcraft. http://forums.worldofwarcraft.com/board.html?forumId=10014 (This entry is for people who enjoy spelling 'crowd' correctly.)
+Extracted spelling variant:crowd
+3213481 ('BAWC', 'crowd')
+a different way of saying and spelling 'cute'
+Extracted spelling variant:cute
+3216194 ('qoot', 'cute')
+different way of saying and spelling 'cutey'
+Extracted spelling variant:cutey
+3216204 ('qooty', 'cutey')
+1.) The Spanish name for certain varieties of peppers (Capsicum annuum) having a smooth flavor, fleshy body, and large size with a square or rectangular form. Usually refered to as bell peppers in English 2.) More commonly, an incorrect spelling of the word 'moron' Used exclusively by true morons in all forms of print as well as the internet. This misspelling is a clear indication that the user is not just a moron but also an illiterate ignoramus incapable of intelligent intercourse with the rest of humanity.
+Extracted spelling variant:moron
+3216768 ('morron', 'moron')
+The written-out spelling of 'WTF', meaning 'what the fuck'.
+Extracted spelling variant:WTF
+3224339 ('doubleyouteeeff', 'WTF')
+A club in which the only members are Chelsea, Ian, vampires and werewolves. This club consists of sitting in a circle, naked, eating pie and play on Nintendo DS's, after which it involves plotting against Bella Swan. Also, naked pie fights. Origin: taken from the word 'super' and the word pro'. A common misspelling is 'supro', but that's just silly.
+Extracted spelling variant:supro
+3263414 ('Subro', 'supro')
+L33t spelling of 'the', often used to proceed an adjective, which more thank likely is also a l33t word or concept.
+Extracted spelling variant:the
+3307057 ('teh', 'the')
+Hillbilly-ism/mispelling of the word 'Giant'.
+Extracted spelling variant:Giant
+3324483 ('Gaint', 'Giant')
+An alternate spelling to 'jinn'. (In Arabian or Muslim mythology) an intelligent spirit of lower rank than angels, able to appear in human and animal forms and to posess humans.
+Extracted spelling variant:jinn
+3347305 ('Djinn', 'jinn')
+A misspelling of 'metalhead', usually made by unemployed weed-smoking losers who listen to 'classic rock' (whatever that is) and got beaten up by metalheads in high school.
+Extracted spelling variant:metalhead
+3383366 ('metal-head', 'metalhead')
+1) A term used to attract people to acoustic shows because it seems some how more enticing. 2) A common mis-spelling of the word 'acoustic' refering to the acoustic guitar or acoustic type of music.
+Extracted spelling variant:acoustic
+3482051 ('a-cew-stick', 'acoustic')
+Misspelling of the word 'verbatim', used by silly people like kte who felt the need to create this entry before spell-checking.
+Extracted spelling variant:verbatim
+3571983 ('verbatum', 'verbatim')
+An insult to use when somebody is being a retard, it can be used in various different forms - preferably the most complicated. It makes the insult funnier if the victim doesn't know what you're on about. Which you most likely won't - because you are all tupes, who don't own awesome home-made certificates. *Originated from the mistake of spelling 'type', 'tupe'. Well done ;
+Extracted spelling variant:type
+3579996 ('tupe', 'type')
+Verb Pronounced: OWN A big misconception is that it is pronounced 'pone' instead of 'own'. It was a miss-spelling of 'own', and it caught on. Just, the original people who came up with it pronounced it 'own'. But there were so many people who didn't get the joke, that they just assumed that it was pronounced 'pone'. www.purepwnage.com Explains it in episode 10. 1. It brutally win, it school someone, to get tons of headshots, etc. 2. To describe something cool or great.
+Extracted spelling variant:own
+3613015 ('pwn', 'own')
+The proper spelling of 'loser'. Rhymes with 'boozer'. Same def as before. Someone who loozes.
+Extracted spelling variant:loser
+3667097 ('loozer', 'loser')
+different spelling of the word 'bear', which means 'a lot' or 'very'
+Extracted spelling variant:bear
+3687335 ('ber', 'bear')
+Common misspelling of the word 'hessian' - a coarse woven material often used for making bags. Referred to as 'burlap' in the US.
+Extracted spelling variant:hessian
+3715703 ('heshen', 'hessian')
+1. The quality of an object or substance with respect to light reflected by the object, usually determined visually by measurement of hue, saturation, and brightness of the reflected light; saturation or chroma; hue. 2. One of the words that's most popularly debated about the correct spelling of. Color vs Colour. In the USA the spelling of the word is 'color'. Many "Yankophiles" (people that live outside of the USA, but admire the USA) also spell it this way. In the UK, Canada, New Zealand, Australia, etc. the correct spelling of the word is 'colour'. Anglophiles in the USA (Americans that admire England) also spell the word 'colour'. Simple as. There's no real correct way to spell the word, if it's officially adopted as the correct spelling there. That's why in the US, they speak American-English, not exactly English per se.
+Extracted spelling variant:color
+3730811 ('Color', 'color')
+While a common mispelling of the word 'trendy' for retards, in western society it's also known as to cloak a man or woman's sexuality.
+Extracted spelling variant:trendy
+3780846 ('Trendeh', 'trendy')
+A misspelling of the word 'nearly'.
+Extracted spelling variant:nearly
+3891378 ('nearky', 'nearly')
+Believed to be the result of misspelling 'Fuck' due to massive intoxication courtesy of Sam Adams and Jaegermeister, then played off as the invention of another, new, upgraded word; can be used as a noun or verb. Meaning 'geography' in Slovakian proper.
+Extracted spelling variant:Fuck
+3917353 ('Fujk', 'Fuck')
+LMGAO = Licking my green ass opening. or A typ-o made when spelling 'LMFAO'
+Extracted spelling variant:LMFAO
+3924492 ('LMGAO', 'LMFAO')
+Superior to 'amazing'; often used when describing unbelievable, adorable, or hilarious posts on forums or irc. Used to communicate approval.Note: this is NOT the British spelling of 'amazing', despite popular(?) belief.
+Extracted spelling variant:amazing
+3932316 ('amasing', 'amazing')
+When you're im-ing, and make a typo while spelling 'haha'
+Extracted spelling variant:haha
+3946827 ('hshs', 'haha')
+Deelen, noun, a poor indian spelling of 'dylan'. This person is a very musical person.Deelen is never a Neil, because Neil is in total better than Deelen.
+Extracted spelling variant:dylan
+3955112 ('Deelen', 'dylan')
+The correct spelling of the word 'fish'You take the 'gh' in troughthe 'o' in womenand the 'ti' in actionghoti=fish
+Extracted spelling variant:fish
+3962153 ('ghoti', 'fish')
+NAP is a word which is a misspelling of 'NAO', a commonly used version of the word 'now'. Used to say hi, bye, or if you are basically speechless.
+Extracted spelling variant:NAO
+3982902 ('NAP', 'NAO')
+Your is a normal word, it has a proper definition just like any other. However becoming more and more prevalent is idiots who are trying to be smart and think they are doing so by using the full spelling of 'YOUR' instead of 'UR' to mean 'YOU'RE'. This mistake is extremely common because in every day life you hear people saying 'your' which is actually spelled 'you're', as in you are.
+Extracted spelling variant:YOUR
+4000133 ('your', 'YOUR')
+Short acronym for:Eat A Dick. Originated from the mmorpg game WoW, By the guild Intensity. After winning a massive battle, the leader of the guild spamed in the game EAD Mother Fuckers. Mispelling the word 'Dead'. Hence how the word 'ead' orginated. After sometime, EAD is now known as a short acronym forEat A Dick.
+Extracted spelling variant:Dead
+4048499 ('EAD', 'Dead')
+A punk is someone who lives the punk lifestyle. A punk wears "whacky" clothes to show their true colors. A punk is generally anti-authority and apolitical. A punk should firmly be proud of who they are.Punks are normally anarchists or nihilists, mostly anti-fascist (unless your a Nazi punk, go fuck yourself), sometimes anti-communist, almost always anti-capitalist, sometimes vegetarian, sometimes straight edge, and often very cool, fun people. Punks are found all over the world.Punks come in all shapes, sizes, colors and creeds. There are all kinds of punks, like crust punks (or crusties), anarchopunks (anarchist punks), street punks (also known as Oi! Punks, which are commonly anarchists), skate punks, surf punks, and the list goes on.Don't be fooled though, not just anybody can be a punk.It takes someone who truly believes in the punk way of life-someone who knows what it actually is to be a punk, not the crappy bands Hot Topic or MTV is force-feeding you this week.Its more than a type of music and instead of just pretending you like it you have to live. Its more than spelling 'punks' as 'punx'.It takes someone who can take other peoples' shit and criticism without faultering and continuing to be who they are. It takes someone who can be themselves and hold their head high and say, "Hey world! I am what I am, so fuck you!"Its more than the Ramones and the Misfits and other mainstream punk bands- punk music is more than Rancid and NOFX. Its more than dressing in bondage pants and patched-up studded leather jackets and having a mohawk or your hair dyed blue.Its something you don't conform to. It is something you just are and believe in. Its more than being anti-authority. Its more than being anti-trendy.ITS A WAY OF FUCKIN LIFE!
+Extracted spelling variant:punks
+4050647 ('Punk', 'punks')
+Aegh is derived from the misspelling of 'Argh', but once said aloud, aegh has pleasing results.With heavy pronunciation on the 'gh' at the end of the word, it sounds your disgust far more appropriately than 'argh' ever could. Can be used to mean the same as 'rage'
+Extracted spelling variant:Argh
+4073468 ('Aegh', 'Argh')
+noun, a misspelling of the word 'thread', as in forum thread. Originally coined on The Escapist, by iammatt95
+Extracted spelling variant:thread
+4077062 ('Threae', 'thread')
+An shortened spelling of 'retard'.
+Extracted spelling variant:retard
+4154842 ('RTD', 'retard')
+A Middle-aged Urban FailureAlternate spelling: 'muffy'.
+Extracted spelling variant:muffy
+4187785 ('muffie', 'muffy')
+The proper spelling of 'USC', the University of Southern California, after a 2007 scandal involving over $280,000 in cash, rent and gifts were given to former player Reggie Bush and his family.May also be used to refer to the rich, spoiled students that attend the school.
+Extracted spelling variant:USC
+4220233 ('U$C', 'USC')
+A person of Italian descent who hails from Brooklyn. Often holding an extremely large ego, the Brooklytalian (Alternative spelling: 'Brooklitalian'), has no problem boasting about what a badass they believe themselves to be, and can often be seen declaring their believed standing on the human food chain; That is, the top.Due to coming from 'the most ghetto place in the world', most if not all members of the Brooklytalian race like to make others believe they're the head of a gang or in the mafia or some bullshit like that. If one makes an unfortunate encounter with a Brooklytalian, especially an irate one, they best prepare themselves for a long, long bragging session. Attempting to get away from the situation will only result in a threat to have a 'cap popped in your ass'.It is to be noted that female Brooklytalians can go on bullshit sessions just as long-winded as the males can, if not longer.
+Extracted spelling variant:Brooklitalian
+4248205 ('Brooklytalian', 'Brooklitalian')
+1. A rather stupid way of spelling 'magical' when making a typo. 2. A rather perverted way of spelling 'magical'. 3. Something as magical as one's dick. 4. 'My dick jiggles' in polite language. 5. Something that is simply too awesome for words.
+Extracted spelling variant:magical
+4249982 ('Madickagical', 'magical')
+A mistake of spelling 'hello'. It has become trending among the Australian public, especially on MSN.
+Extracted spelling variant:hello
+4290995 ('Hellok', 'hello')
+originally a mis-spelling of 'gosh', later developed into spoken word to mean the same thing
+Extracted spelling variant:gosh
+4298333 ('gish', 'gosh')
+Frifat is the common misspelling of the word 'Friday' when entered via text as two words: Fri and Day, the latter often being confused for the word Fat due to the letters being located on the same keys, depending on the model of phone used to text.
+Extracted spelling variant:Friday
+4356435 ('Frifat', 'Friday')
+The correct way of spelling 'chode'. Commonly used as a term of abuse and accusing someone of being a 'fat, but tiny penis'. Used to describe a fat, tiny penis.
+Extracted spelling variant:chode
+4407338 ('Choad', 'chode')
+the retarded way of spelling 'need'a Loch in the north of Scotlanda not so common, but awesome surname
+Extracted spelling variant:need
+4431324 ('Nedd', 'need')
+a website which contains kewl junk. although 'kewl' is the spelling of 'cool' by morons, it is not when used on kewljunk
+Extracted spelling variant:cool
+4439352 ('kewljunk', 'cool')
+-The common mispelling of 'tourettes'-a small tower, usually that conjoining another, larger building
+Extracted spelling variant:tourettes
+4460324 ('Turrets', 'tourettes')
+What the word 'sandwich' can sound like when said.A misspelling of the word 'sandwich'.
+Extracted spelling variant:sandwich
+4475277 ('Samwidge', 'sandwich')
+Correct spelling of the word 'Maths'.
+Extracted spelling variant:Maths
+4505468 ('Mafs', 'Maths')
+a perverse alternate spelling of the word 'wierd' used primarily by english nerds and grammar nazi's.
+Extracted spelling variant:wierd
+4530385 ('weird', 'wierd')
+A common mispelling of 'liek'.
+Extracted spelling variant:liek
+4622595 ('like', 'liek')
+A Snadwich (mistakenly thought to be derived from mispelling the word 'Sandwich') is a mystical small furry creature that resides in the darkest corners of the majority of households across the world.Their presence is only noticeable through the disappearance of socks.NB. This is never a pair of socks, only one (leading to the current odd sock problem across the globe).The Snadwiches breed and raise their young in said stolen socks. When more and more socks go missing in a household, it normally suggests a 'Snadwich Infestation', for which a 'Snadwich Exterminator' must be contacted. Failure to do so could lead to a 'Snadwich Attack' (the need for more territory drives the increasing population of Snadwiches to be more agressive) which can often be fatal.When a human sees a Snadwich, very often they mistake it for a ball of dust or hair.
+Extracted spelling variant:Sandwich
+4634172 ('Snadwich', 'Sandwich')
+(name): alternate spelling for 'kristen'; usually extremely beautiful. can surprise you at what she can do. very outgoing. can be emotional at times, but mostly just wants to party!
+Extracted spelling variant:kristen
+4639179 ('christen', 'kristen')
+A seemingly innocent common error made in a text when your friend's ex-girlfriend texts you misspelling 'talked' intending to say "Hey! We haven't talked in a while...", however in reality 'Tlaked' is meant as a sexual invitation that will undoubtedly leave your friend furious with you after you have ravaged his ex with passionate sex in his backyard. Often the friendship is ruined however in cases of a 'Double-Tlaked' in which each party tlaks each others ex the betrayal is neutralized.
+Extracted spelling variant:talked
+4679675 ('Tlaked', 'talked')
+Misspelling of 'wikipedia' which if typed into google ACCIDENTALLY opens up a portal to another universe full of magical flying vampire unicorns.
+Extracted spelling variant:wikipedia
+4752463 ('Wokipedia', 'wikipedia')
+This is the common mis-spelling of the word 'good' when you are either intoxicated, confused, delirious, not concentrating, or just downright stupid.Doog may also be construed as the word 'dog' for someone who doesn't realise that the victim of the typo meant 'good'.But it is not 'dog'. It is 'good'.
+Extracted spelling variant:good
+4816200 ('doog', 'good')
+Variant spelling of 'tired' on Twitter and some chats. Maybe implying extreme tiredness, boredom and/or depression.
+Extracted spelling variant:tired
+4840513 ('tiyadddd', 'tired')
+The British/Canadian/Australian correct way of spelling 'center' when pretaining to a gathering place. (ie. Community Centre)
+Extracted spelling variant:center
+4861955 ('Centre', 'center')
+n. A word used to mean a chubby girl that thinks she is "all that." The word dral originates from spelling the word 'lard' backwards.n. Word used in place of a name of someone who just disgusts you in general.(pronounced "drall")
+Extracted spelling variant:lard
+4886029 ('Dral', 'lard')
+Generally, improper spelling of 'emasculate'Used in urban language to reduce the masculinity of.
+Extracted spelling variant:emasculate
+4898507 ('immasculate', 'emasculate')
+shexcks is a cooler way of spelling the word 'sex' becuase we kids are cool like
+Extracted spelling variant:sex
+4901640 ('shexcks', 'sex')
+The dictionary would like to inform you that the now previous spelling of 'Hate' has been changed to 'Hayte' to over emphasise on how much you hate someone or something.
+Extracted spelling variant:Hate
+4947841 ('Hayte', 'Hate')
+1) A misspelling of 'bitch', often caused by fast typing. 2) Short for "bitch cunt jr." (pronounced 'bit-kuh-juh')
+Extracted spelling variant:bitch
+4951200 ('bitcj', 'bitch')
+Alternative pronunciation and spelling of 'obstacle'.
+Extracted spelling variant:obstacle
+4952154 ('abstacle', 'obstacle')
+Originally created through a misspelling of the word 'talk', 'tlak' means 'To Lack a Kidney'
+Extracted spelling variant:talk
+4963682 ('Tlak', 'talk')
+While it merely looks like a misspelling of 'distribution', it probably refers to an obscure sex act.
+Extracted spelling variant:distribution
+4989391 ('sistribution', 'distribution')
+The derogatory spelling of the word 'gay' without meaning any offense homosexuals
+Extracted spelling variant:gay
+4993926 ('ghey', 'gay')
+The common misspelling of the word 'epitome'. Ironically, some pompous fucks also misspell it as 'empitome'.
+Extracted spelling variant:epitome
+5005888 ('epitomy', 'epitome')
+Epic Motherfucking Phail.A fail so epic that not only did the spelling of the word 'fail' change, just for that moment but it also fucked several mothers.
+Extracted spelling variant:fail
+5033085 ('EMP', 'fail')
+The proper spelling of the word 'chicken'.
+Extracted spelling variant:chicken
+5041462 ('Cheekkin', 'chicken')
+Very annoying person.Normally have "bad crack" or "terrible banter"They enjoy being called 'lads' when really they are just boys who enjoy 'tinnies' and football and sausage fests.A Smelk (the noun), is not to be confused with a misspelling of the word 'smell' on texts.The person actually mispelling the word 'smell' may use the word to regain their dignity.
+Extracted spelling variant:smell
+5051744 ('Smelk', 'smell')
+past tense of 'lawl' which is a way of spelling 'lol' when used as a verb. sometimes used sarcastically
+Extracted spelling variant:lol
+5067636 ('lawled', 'lol')
+People who are made fun of by british people for calling football soccer even though calling football soccer actually originated in England. Also made fun of for spelling''mum'' mom and brits say we cant use the letter u. If we put the letter U instead of O wed call it Eurupe.
+Extracted spelling variant:mum
+5071124 ('American', 'mum')
+'Thay' is often associated with the words 'hay', 'ay bay bay' and 'crazay', etc. Also associated with white hip-hop fans in an attempt to sound 'cool'. As well as bad impersonations of gay men, usually pronounced 'th-aaaaaay' or 'h-aaaay', etc. More commonly, 'thay' is a misspelling of 'they'.
+Extracted spelling variant:they
+5077077 ('Thay', 'they')
+against. Not a misspelling of 'against'. Formed from 'agin' and 'st' as in 'amongst'.
+Extracted spelling variant:against
+5123822 ('aginst', 'against')
+originated from a misspelling of 'job'; created my two middle school teeni boppers; means: a homosexual paycheck having a nice day
+Extracted spelling variant:job
+5135240 ('Jop', 'job')
+1. A varied spelling of 'awesome' meant to mimick the New Zealand accent. 2. The kiwi spelling of 'awesome'
+Extracted spelling variant:awesome
+5154944 ('orsim', 'awesome')
+a promise that is no longer valid now; an outdated promise. Not a misspelling of 'backward'.
+Extracted spelling variant:backward
+5162597 ('backword', 'backward')
+Oval shaped object used to go qanoing in. Alternative spelling 'canoe', but preferably spelt with 'q'
+Extracted spelling variant:canoe
+5196587 ('Qanoe', 'canoe')
+The correct way of spelling 'woman'.
+Extracted spelling variant:woman
+5288782 ('wimmins', 'woman')
+A fail way of spelling 'quality'
+Extracted spelling variant:quality
+5316017 ('Auality', 'quality')
+Misspelling of 'catastrophe'. One of those scenarios when you know the word looks wrong, but you can't figure out what's wrong with it.
+Extracted spelling variant:catastrophe
+5417108 ('catastrophy', 'catastrophe')
+Alternative, "cute" spelling of 'chocolates'.
+Extracted spelling variant:chocolates
+5424979 ('chucklets', 'chocolates')
+A misspelling of the word 'mestizo'. Mestizo is a person of mixed racial ancestry.
+Extracted spelling variant:mestizo
+5448740 ('mezito', 'mestizo')
+AdjectiveOriginating as a common misspelling of 'sound', to refer to something as 'snoud' is to express one's agreement or condoning of a particular activity or proposition in much the same manner as 'sound' has come to mean in modern slang.Takes on similar meanings to 'awesome', 'epic', 'sound', 'safe' and 'noice'.See sound
+Extracted spelling variant:sound
+5481082 ('Snoud', 'sound')
+The word that results when a moron that is lacking basic English grammar skills spells the word "want" as "wan't", with a completely unnecessary apostrophe.Can be taken to mean 'want not' or 'do not want', but is generally a misspelling of the word 'want'.
+Extracted spelling variant:want
+5535315 ('wanot', 'want')
+1. The act of insinuating a sexual innuendo, when it may or may not actually exisit. 2. A miss-spelling of the word 'wink'
+Extracted spelling variant:wink
+5547401 ('qink', 'wink')
+- n (ord-n-art); (1)uninspired art created only for commercial purposes, usually at the order of an excitable, but un-talented executive; (2) mis-spelling of the word 'ordinary' brought on by typing too quickly on a QWERTY-type keyboard.Not to be confused with commercial art, which can be inspired but still has the stigma of preying on hearts and minds to part hard working assholes from their milk money.
+Extracted spelling variant:ordinary
+5550037 ('Ordinart', 'ordinary')
+A common misspelling of the word 'Reticle'. Recticle is an optic one uses to look out their own ass (or up someone else's).
+Extracted spelling variant:Reticle
+5568125 ('Recticle', 'Reticle')
+A failed spelling of the word 'your'. Usually said when typing too fast.
+Extracted spelling variant:your
+5679369 ('Yoru', 'your')
+A completely retarded way of spelling 'using'.Some people haven't been blessed with grade 3 English skills, thus can't tell the difference between 'u' and 'you'. In many cases people use 'u' instead of 'you' to save time, but some people are so fucking stupid that the do vice verse.If you see anyone stupid enough to use the word 'yousing', please direct them to this webpage.
+Extracted spelling variant:using
+5699838 ('yousing', 'using')
+Common misspelling of 'perineum', the part of the body between the anus and genitals, aka the pelvic floor. This term is commonly used in discussions about anatomy, yoga, tantra and Kegel exercise.
+Extracted spelling variant:perineum
+5722627 ('paraneum', 'perineum')
+The correct way of saying and spelling 'Islam'.100% guaranteed to piss off any self-hating guilt-tripped liberal that hears the term.
+Extracted spelling variant:Islam
+5854364 ('Pisslam', 'Islam')
+literally, it is a common misspelling of the word 'count'. however, in colloquial terms it refers to a woman with a bat-like nose; one that is slightly upturned and flared outward. typically, women with xount noses are universally attractive.
+Extracted spelling variant:count
+5905882 ('xount', 'count')
+Derived from the misspelling of 'fun'. Means fun.
+Extracted spelling variant:fun
+6033105 ('Fan', 'fun')
+With the continued success of smiking, a new phenomenon of 'starfing' was spawned. Former (or current) smikers such as Jizz and Bitchin' took smiking to Starbucks coffee shops anywhere and everywhere. On very rare but welcome occasions, individuals such as Flo from Capital City join in to bring new dimensions of conversations to a starfing session.The word itself began as a deliberate misspelling of 'Starbucks' as 'Starfucks', but since the new word was too vulgar, the Bitchin' Lee deemed it necessary to shorten it to simply 'starf'. In essence, to starf is to smike during the daytime.It is a term used to denote a wanton waste of time spent sipping iced caramel macchiatos, smoking Mild Sevens or Bohem No.6's while discussing issues such as what needs to be done to Nasties' ride, or the latest apps on smartphones.
+Extracted spelling variant:Starbucks
+6057876 ('starf', 'Starbucks')
+1.) A commonly used term for asbestos, but with a much more abrasive appearence; often abrasive enough to make someone cringe upon seeing it in writing or text.2.) An asbestos like material that is far more dangerous than actual asbestos, and is often used to celebrate the rememberance of 9-11 by blowing it into the house of one's neighbor after setting a pile of money on fire.3.) A word often mistaken as a mis-spelling of the word 'asbestos' by people who have no idea how fatal and dangerous aspestis actually is, and in some cases, people may not even be familiar with aspestis because the governments of the world have been trying to keep it a secret by distracting the masses with less dangerous materials such as asbestos.4.) A word that only a genius would use.5.) A material developed by scientist in Sweden to be used as an alternate fuel source for military purposes only.6.) Superman's second weakness, aside from krytonite.
+Extracted spelling variant:asbestos
+6073555 ('Aspestis', 'asbestos')
+native spelling of 'retard'
+Extracted spelling variant:retard
+6087721 ('retrad', 'retard')
+1. The retarded way of spelling 'hypocrite'.2. A large container used for transporting a hippo.
+Extracted spelling variant:hypocrite
+6141680 ('Hippocrate', 'hypocrite')
+an incorrect spelling of the word 'food'
+Extracted spelling variant:food
+6172435 ('fud', 'food')
+arabic, ikhlas meaning sincere Common misspelling of 'IKHLAS'. Only stupid people write 'IKLAS'.
+Extracted spelling variant:IKHLAS
+6205133 ('iklas', 'IKHLAS')
+The misspelling of the word 'Balloons' when my co-worker attempts to get our chat bot to spit out links of big bouncy breasts.
+Extracted spelling variant:Balloons
+6263411 ('ballons', 'Balloons')
+Another way of spelling 'chilling' AKA 'chillin' for dipshits who think their "cool"Its just spelling the word like sounding it out...
+Extracted spelling variant:chilling
+6277737 ('Cheelin', 'chilling')
+A friendly name used to describe a Polish person. The word originated from the backwards spelling of 'Pole' (another common word describing people of Polish descent).Elop can either be used to (i) describe a Polish national, (ii) as a replacement of their name (n.b. this is only likely to work if the Polish national is in the company of non-Polish nationals), OR (iii) to describe the Polish race as a whole.
+Extracted spelling variant:Pole
+6316310 ('Elop', 'Pole')
+Apparently the moron who wrote the first definition doesn't even understand that biast would not be a misspelling of 'bias' but 'biased' the past-tense of the word. He also doesn't know it's "an opinionated" not "a opinionated". Trolling is a art, but this isn't the Mona Lisa.
+Extracted spelling variant:bias
+6322294 ('biast', 'bias')
+A misspelling of the word 'again'
+Extracted spelling variant:again
+6328428 ('ahain', 'again')
+1)Misspelling of 'backwards'.2)Also meaning backwards but slightly crazier than just saying it normally.
+Extracted spelling variant:backwards
+6443184 ('kackwards', 'backwards')
+The closest one can get to spelling the word 'faggot' on a casio scientific calculator
+Extracted spelling variant:faggot
+6599171 ('Faggotan', 'faggot')
+An incorrect spelling of the word 'Diamond'. Often applied by individuals with little to no education. Also those in a hurry.
+Extracted spelling variant:Diamond
+6659224 ('Daimond', 'Diamond')
+Alternate way of spelling 'Cobber', Australian colloquial for mate, friend, good bloke.
+Extracted spelling variant:Cobber
+6792098 ('Cobba', 'Cobber')
+Hai is the spelling for 'Hi' used by children under twenty years of age who are trying to appear more Japanese but unknowingly don't realize it already means 'yes' in Japanese.
+Extracted spelling variant:Hi
+6795649 ('Hai', 'Hi')
+(ih-rain-ee-uhs)1) Fun, Energetic, Exciting2) The term lent to an indigenous people populating a country currently at war with your own3) Common Name for a Bearded DragonALTERNATIVE spelling of 'Irraneous'.NOT spelled 'Iranious'NOT to be confused with 'Erroneous' meaning 'wrong' or 'incorrect'.
+Extracted spelling variant:Irraneous
+6829896 ('Iraniuos', 'Irraneous')
+An uncommon misspelling of the word 'told'. Usually used by the stupider folk among our community.
+Extracted spelling variant:told
+6839448 ('tolled', 'told')
+a misspelling of the word 'suave', with the more colloquial definition, i.e., posh, swanky, classy, etc.
+Extracted spelling variant:suave
+6890940 ('swarve', 'suave')
+A misspelling of 'Quality', It is often used as a joke online to describe a poorly built product.
+Extracted spelling variant:Quality
+6957092 ('qwolity', 'Quality')
+adjective -- prone to examining beliefs critically and skeptically (neologism based on the common misspelling of 'atheist' as 'athiest')
+Extracted spelling variant:atheist
+6995856 ('athy', 'atheist')
+alternative spelling of 'jism', slang for 'semen'
+Extracted spelling variant:jism
+7019754 ('jizz', 'jism')
+The term 'Gerrye' has recently been discovered to be a variation of the old saying 'Divvy'. Divvy was a popular term during the late 1990's to early 2000's and it described someone who acted in a silly manner or behaved like someone who was know as a joker, wally or class clown.'Gerrye' in 2013 is used as a exact duplicate as 'Divvy' and can also be used as a descriptive term. The term 'Gerrye' is widely used around the south east region of the UK but is rapidly growing through other regions of the country.There are other spellings of 'Gerrye' i.e 'Gerrii', 'Jereye' and Jehrye but it's commonly spelt as 'Gerrye' and pronounced as ' Jeh - rye'
+Extracted spelling variant:Gerrye
+7063611 ('Gerrye', 'Gerrye')
+The word that your girlfriend requires when you ask her to do anal sex.Discovered by a couple of teenagers, the product of the misspelling of the word 'password', omitting the P and thus creating 'assword'.
+Extracted spelling variant:password
+7112063 ('assword', 'password')
+a) variant spelling of 'homework'b) homework from the underworldc) terribly annoying homework
+Extracted spelling variant:homework
+7292432 ('Humwuk', 'homework')
+Charismatic, beautiful, unique, creative and fun-loving. She is blonde and brownish/golden eyed. Usually Madeline is quite short but thin and slightly muscular. She appreciates gentleman but also wants independence in a relationship, she is teasingly sexy, and playfully charming. She is the ideal girlfriend she wants someone to love, and share her life with, her only fault is the amount of her time and energy she gives to people. She has a somewhat child-like manner but happens to be very deep with an understanding for situations like she's really lived them. Intelligence she secretly uses when nobody's looking or when she is really motivated. Don't be fooled by her musical giggle, she has a certain sense of humor she only uses with those she is close to a person. If you look very closely you will realize that in everything she does she adds a bit of her creative-self, whether her dance beat in her little strut-like walk or how she wears her clothes.Madeline usually goes by Madi because she doesn't like when people don't say her name right but rarely corrects them. She loathes the spelling of 'Maddie' so she goes with 'Madi'. She loves everything exotic and beautiful, because of her creative nature, she normally loves music but when she doesn't like a song she hates it. If you get to know her you will really love her, the only haters are the ones who misunderstand her.
+Extracted spelling variant:Maddie
+7306397 ('Madeline', 'Maddie')
+Another way of spelling 'Daria'. You know, like that TV show ?
+Extracted spelling variant:Daria
+7370303 ('Darya', 'Daria')
+The spelling of 'misogyny' to mock third wave feminists, as a result of their persistent cries of sexism over trivial first world problems.
+Extracted spelling variant:misogyny
+7901349 ('missojinny', 'misogyny')
+A better way of spelling 'enough' because 'enough' doesn't look like how you say it.
+Extracted spelling variant:enough
+8103560 ('Enuf', 'enough')
+This is a common misspelling of 'capisce'. This is a slang word in American English borrowed from the Italian. It translates to 'to understand', as in 'Do you understand?' or 'Is that clear?'.
+Extracted spelling variant:capisce
+8216366 ('capice', 'capisce')
+A commonly misspelled name. The correct spelling is 'Ritchie' (Rih-chee). Astrologists say this name carries a bad omen in relation to the relative position of the objects in the solar system. Researchers also predict that this term will be eradicated and have a similar fate to that of the ex-planet Pluto.
+Extracted spelling variant:Ritchie
+8236983 ('Ruiqi', 'Ritchie')
+Not to be confused with brew, bru is an alternate spelling of the word 'bro'. Often but not necessarily pronounced with a slurred tone humorous.
+Extracted spelling variant:bro
+8336539 ('Bru', 'bro')
+A common misspelling of 'laid'
+Extracted spelling variant:laid
+8418669 ('layed', 'laid')
+Alternative spelling of 'queef' (vaginal fart)Use of word must must be accompanied with appropriate level of sass.
+Extracted spelling variant:queef
+8428638 ('Kweaf', 'queef')
+Unfortunately, this word doesn't actually exist. It is but a mere misspelling of the word 'cutest'.
+Extracted spelling variant:cutest
+8517742 ('Cutiest', 'cutest')
+The British spelling of 'fagot', meaning a bundle of sticks or wood, commonly used for fuel as kindling.
+Extracted spelling variant:fagot
+8623245 ('Faggot', 'fagot')
+The eventual corrected spelling of the second month of the year. The currently accepted spelling of 'February' is a joke designed to stump and single out idiots, as well as bringing even more shame to the month.
+Extracted spelling variant:February
+8859361 ('Febuary', 'February')
+1. The state of not being able to hop 2. A misspelling of 'hopeless'
+Extracted spelling variant:hopeless
+9001764 ('hopless', 'hopeless')
+A common misspelling of the word 'hilarious', mostly used over the internet when large handed people with toes for fingers try to type too quickly
+Extracted spelling variant:hilarious
+9286559 ('halerious', 'hilarious')
+A friend, a buddy, a pal. Someone you've known for a while and feel comfortable with. An alternate spelling for 'pally' which, of course, has the same definition. Somewhat commonly used in the 40s, 50s and 60s by the 'cool' people as exemplified by Sinatra's "Rat Pack." dlc
+Extracted spelling variant:pally
+9506963 ('pallie', 'pally')
+The act of being a dumbass and spelling 'Make' as mkae
+Extracted spelling variant:Make
+9563351 ('mkae', 'Make')
+An incorrect spelling of 'Yeah' used when you dont know how to spell the word
+Extracted spelling variant:Yeah
+10046024 ('Yea', 'Yeah')
+the real nigga spelling of 'Marcus' the younger version of Rakim Mayers Rocky reincarnated and.. ..justutterlysupreme.aka; asap m; Quiose; Flacko; KingQuiose; KingM; Worst Head Boy Out (jk the greatest)
+Extracted spelling variant:Marcus
+10557507 ('marquiose', 'Marcus')
+misspelling of 'tryna', as in 'trying to'
+Extracted spelling variant:tryna
+10843275 ('Trine', 'tryna')
+another way of spelling 'where'
+Extracted spelling variant:where
+11022426 ('WUR', 'where')
+1. A misspelling of 'raddest'
+Extracted spelling variant:raddest
+11472246 ('raffest', 'raddest')
+a contemporary, alternative way of spelling 'gay' meant to enforce there exists no heterosexuality in a situationit is to be used for emphasis on full homo
+Extracted spelling variant:gay
+11483754 ('gai', 'gay')
+:To sleep deprived to have a conversation or textOriginally originated from a Tweet from Donald Trump in Late may 2017 allegedly misspelling 'coverage'
+Extracted spelling variant:coverage
+11640909 ('Covfefe', 'coverage')
+whimsical, usually deliberate misspelling of 'puppy', i.e. baby dog.
+Extracted spelling variant:puppy
+11851678 ('puppeh', 'puppy')
+A beautiful kind spirited young lady. An abegale is very rare as it is a different way of spelling 'abigail' and therefore the abegale would get extra pissed off when her name is spelt 'abigail' her excuse it that her name is spelt the way that you say it!
+Extracted spelling variant:abigail
+11855975 ('abegale', 'abigail')
+a funnier spelling of the word 'Hot' used in a more flagrant way.
+Extracted spelling variant:Hot
+11936135 ('Hut', 'Hot')
+A misspelling of 'boss' (Pronounced ('báz' or 'bahz'). Commonly used similarly to 'lit'.
+Extracted spelling variant:boss
+12266154 ('bos', 'boss')
+Multiple meanings, can refer to someone who is being momentarily mean, moody or unresponsive. Is an endearing term when used with significant other. Originally another way of spelling 'cunt'. Sometimes dragged out pronunciation for emphasis. The ultimate kent can also be called a Kenterson.
+Extracted spelling variant:cunt
+12436084 ('Kent', 'cunt')
+Correct spelling of 'smol'
+Extracted spelling variant:smol
+12438531 ('smul', 'smol')
+A misspelling of 'summit', from a text
+Extracted spelling variant:summit
+12796054 ('Susmit', 'summit')
+A person who uses any means to defend a controversial claim by the State, in particular one who brands any counter-claim a 'conspiracy', the most famous such debate being that the USA landed men on the Moon from 1969 to 1972 in the Apollo missions, hence the deliberate misspelling of the word 'apologist'. Apollogists are the modern day equivalent of the Religious apologetics, who sought to defend inconsistencies of fact and logic in their faith by excusing the author. Likewise, Apollogists attempt to defend inconsistencies in evidence distributed by the State through unsubstantiated claims, diversion, the abuse of natural effects, and the misuse of scientific principles. Unlike their Religious counterparts, Apollogists are inclined to belittle or berate the author of a counter-claim, accusing them of being mindless; having no education or no understanding of a scientific principle; wearing tin-foil hats; on medication; or more recently as being part of a social movement attempting to subvert the State.
+Extracted spelling variant:apologist
+12840461 ('Apollogist', 'apologist')
+An incorrect spelling of 'retarded', commonly used as an insult within light-tear shitposting communities, such as YouTube comments.
+Extracted spelling variant:retarded
+12859128 ('rarted', 'retarded')
+306
