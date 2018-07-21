@@ -72,8 +72,8 @@ cbow100_w5_min200 = os.path.join(dname, 'w2v', 'cbow100_win5_minCount200.txt')
 cbow200_w5_min200 = os.path.join(dname, 'w2v', 'cbow200_win5_minCount200.txt')
 cbow100_w10_min200 = os.path.join(dname, 'w2v', 'cbow100_win10_minCount200.txt')
 cbow200_w10_min200 = os.path.join(dname, 'w2v', 'cbow200_win10_minCount200.txt')
-cbow100_15_min200 = os.path.join(dname, 'w2v', 'cbow100_win15_minCount200.txt')
-cbow200_15_min200 = os.path.join(dname, 'w2v', 'cbow200_win15_minCount200.txt')
+cbow100_w15_min200 = os.path.join(dname, 'w2v', 'cbow100_win15_minCount200.txt')
+cbow200_w15_min200 = os.path.join(dname, 'w2v', 'cbow200_win15_minCount200.txt')
 
 ft100_w5_min200 = os.path.join(dname, 'fasttext', 'ft100_win5_minCount200.vec')
 ft200_w5_min200 = os.path.join(dname, 'fasttext', 'ft200_win5_minCount200.vec')
@@ -97,12 +97,12 @@ embedding_path2 = [sg100_w5_min200, sg200_w5_min200, sg100_w10_min200, sg200_w10
 # embedding_path2 = [sg100_w15_min200, sg200_w15_min200]
 
 embedding_name3 = ['cbow100_w5_min200', 'cbow200_w5_min200', 'cbow100_w10_min200', 'cbow200_w10_min200',
-                   'cbow100_15_min200', 'cbow200_15_min200']
-embedding_path3 = [cbow100_w5_min200,cbow200_w5_min200, cbow100_w10_min200, cbow200_w10_min200,cbow100_15_min200, cbow200_15_min200]
+                   'cbow100_w15_min200', 'cbow200_w15_min200']
+embedding_path3 = [cbow100_w5_min200,cbow200_w5_min200, cbow100_w10_min200, cbow200_w10_min200,cbow100_w15_min200, cbow200_w15_min200]
 
 
 embedding_name4 = ['ft100_w5_min200', 'ft200_w5_min200', 'ft100_w10_min200', 'ft200_w10_min200',
-                   'ft100_15_min200', 'ft200_15_min200']
+                   'ft100_w15_min200', 'ft200_w15_min200']
 embedding_path4 = [ft100_w5_min200,ft200_w5_min200, ft100_w10_min200, ft200_w10_min200, ft100_w15_min200, ft200_w15_min200]
 
 
