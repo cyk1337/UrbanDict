@@ -41,6 +41,7 @@ from keras.utils.np_utils import to_categorical
 
 from data_loader import load_tweets, load_pretrained_model
 from plot_fit import plot_fit, visialize_model, save_history, plot_all_history
+import os
 
 # embedding_name = ['glove50', 'sg50','cbow50', 'glove100','sg100', 'cbow100']
 # embedding_path = [glove50, sg50, cbow50, glove100, sg100, cbow100]
@@ -49,8 +50,51 @@ from plot_fit import plot_fit, visialize_model, save_history, plot_all_history
 # embedding_path = [glove_w5, sg_w5, cbow_w5]
 
 # v10k
-embedding_name = ['glove_w5_v10k', 'sg_w5_v10k', 'cbow_w5_v10k']
-embedding_path = [glove_w5_v10k, sg_w5_v10k, cbow_w5_v10k]
+# embedding_name = ['glove_w5_v10k', 'sg_w5_v10k', 'cbow_w5_v10k']
+# embedding_path = [glove_w5_v10k, sg_w5_v10k, cbow_w5_v10k]
+
+dname='/Volumes/Ed/embedding/min200'
+
+glove100_w5_min200 = os.path.join(dname, 'glove','glove100_min200_w5_vectors')
+glove200_w5_min200 =  os.path.join(dname, 'glove','glove200_min200_w5_vectors')
+glove100_w10_min200 =  os.path.join(dname, 'glove','glove100_min200_w10_vectors')
+glove200_w10_min200 = os.path.join(dname, 'glove','glove200_min200_w10_vectors')
+glove100_w15_min200 = os.path.join(dname, 'glove','glove100_min200_w15_vectors')
+glove200_w15_min200 = os.path.join(dname, 'glove','glove200_min200_w15_vectors')
+
+sg100_w5_min200 = os.path.join('w2v', 'sg100_win5_minCount200.txt')
+sg200_w5_min200 = os.path.join('w2v', 'sg200_win5_minCount200.txt')
+sg100_w10_min200 = os.path.join('w2v', 'sg100_win10_minCount200.txt')
+sg200_w10_min200 = os.path.join('w2v', 'sg200_win10_minCount200.txt')
+sg100_w15_min200 = os.path.join('w2v', 'sg100_win15_minCount200.txt')
+sg200_w15_min200 = os.path.join('w2v', 'sg200_win15_minCount200.txt')
+
+cbow100_w5_min200 = os.path.join('w2v', 'cbow100_win5_minCount200.txt')
+cbow200_w5_min200 = os.path.join('w2v', 'cbow200_win5_minCount200.txt')
+cbow100_w10_min200 = os.path.join('w2v', 'cbow100_win10_minCount200.txt')
+cbow200_w10_min200 = os.path.join('w2v', 'cbow200_win10_minCount200.txt')
+cbow100_15_min200 = os.path.join('w2v', 'cbow100_win15_minCount200.txt')
+cbow200_15_min200 = os.path.join('w2v', 'cbow200_win15_minCount200.txt')
+
+ft100_w5_min200 = os.path.join(dname,'fasttext', 'ft100_win5_minCount200.vec')
+ft200_w5_min200 = os.path.join(dname,'fasttext', 'ft200_win5_minCount200.vec')
+ft100_w10_min200 = os.path.join(dname,'fasttext', 'ft100_win10_minCount200.vec')
+ft200_w10_min200 = os.path.join(dname,'fasttext', 'ft200_win10_minCount200.vec')
+ft100_w15_min200 = os.path.join(dname,'fasttext', 'ft100_win15_minCount200.vec')
+ft200_w15_min200 = os.path.join(dname,'fasttext', 'ft200_win15_minCount200.vec')
+
+
+
+
+# final
+embedding_name= ['glove100_w5_min200','glove200_w5_min200', 'glove100_w10_min200', 'glove200_w10_min200',
+                'sg100_w5_min200','sg200_w5_min200', 'sg100_w10_min200', 'sg200_w10_min200',
+                'cbow100_w5_min200','cbow200_w5_min200', 'cbow100_w10_min200', 'cbow200_w10_min200',
+                'ft100_w5_min200','ft200_w5_min200', 'ft100_w10_min200', 'ft200_w10_min200']
+embedding_path = [glove100_w5_min200,glove200_w5_min200, glove100_w10_min200, glove200_w10_min200,
+                sg100_w5_min200,sg200_w5_min200, sg100_w10_min200, sg200_w10_min200,
+                cbow100_w5_min200,cbow200_w5_min200, cbow100_w10_min200, cbow200_w10_min200,
+                ft100_w5_min200,ft200_w5_min200, ft100_w10_min200, ft200_w10_min200]
 
 label_num = 10
 
@@ -163,7 +207,7 @@ for filters in filters_list:
             subdir = 'CNN_%s' % embedding_name[EXP_INDEX]
             save_history(history, '{}.csv'.format(plot_filename[:-4]), subdir=subdir)
             # save model
-            visialize_model(model, filepath=plot_filename)
+            # visialize_model(model, filepath=plot_filename)
             # save single history
-            plot_fit(history, plot_filename=plot_filename)
+            # plot_fit(history, plot_filename=plot_filename)
 

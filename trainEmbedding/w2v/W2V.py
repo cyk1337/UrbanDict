@@ -41,12 +41,14 @@ from gensim.models import FastText
 
 parser = argparse.ArgumentParser(description='Give max vocab size of gensim: ')
 parser.add_argument('--MaxVocab', type=int, default=None)
-parser.add_argument('--minCount', type=int, default=100)
+parser.add_argument('--minCount', type=int, default=200)
+parser.add_argument('--vecSize', type=int, default=100)
+parser.add_argument('--window', type=int, default=100)
 args = parser.parse_args()
 max_final_vocab= args.MaxVocab
 minCount= args.minCount
-size = 100
-window = 5
+size = args.vecSize
+window = args.window
 
 # max vocab
 # sg_file = os.path.join(w2v_dir, 'sg%s_win%s_v%s' % (size, window, max_final_vocab))

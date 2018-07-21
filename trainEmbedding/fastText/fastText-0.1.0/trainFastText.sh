@@ -32,11 +32,17 @@ make
 #tweet dir
 TWEET_DIR=/Volumes/Ed/data/tweet
 tweets=${TWEET_DIR}/en_2G
+MIN_COUNT=200
+for WIN in 15; do
+for VEC_SIZE in 200; do
+output_file=${RESULTDIR}/ft${VEC_SIZE}_win${WIN}_minCount${MIN_COUNT}
 
-output_file=${RESULTDIR}/fasttextModel
+echo "$ ./fasttext skipgram -input $tweets -output $output_file -dim $VEC_SIZE -ws $WIN -epoch 5 -minCount $MIN_COUNT -neg 5"
+./fasttext skipgram -input $tweets -output $output_file -dim $VEC_SIZE -ws $WIN -epoch 5 -minCount $MIN_COUNT -neg 5
 
-echo "$ ./fasttext skipgram -input $tweets -output $output_file -dim 100 -ws 5 -epoch 5 -minCount 100 -neg 5"
-./fasttext skipgram -input $tweets -output $output_file -dim 100 -ws 5 -epoch 5 -minCount 100 -neg 5
+done
+
+done
 # ./fasttext skipgram -input $CORPUS -output $outputfile -dim 100 -ws 5 -epoch 5 -minCount 100 -neg 5
 
 #cut -f 1,2 "${DATADIR}"/rw/rw.txt | awk '{print tolower($0)}' | tr '\t' '\n' > "${DATADIR}"/queries.txt
