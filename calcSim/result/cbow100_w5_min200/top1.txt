@@ -1,0 +1,12 @@
+('hey', 'hi')	0
+('tv', 'television')	0
+('yea', 'yeah')	0
+('theater', 'theatre')	0
+('lightening', 'lightning')	0
+('bitch', 'hoe')	0
+('hi', 'hello')	0
+('heck', 'hell')	0
+('issues', 'problems')	0
+('mum', 'mom')	0
+('kudos', 'congratulations')	0
+('comp', 'competition')	0

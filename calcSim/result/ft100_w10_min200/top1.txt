@@ -1,0 +1,8 @@
+('lightening', 'lightning')	0
+('hi', 'hello')	0
+('theater', 'theatre')	0
+('bitch', 'hoe')	0
+('hey', 'hello')	0
+('tv', 'television')	0
+('yea', 'yeah')	0
+('intercourse', 'sex')	0
