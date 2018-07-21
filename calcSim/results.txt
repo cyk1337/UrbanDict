@@ -1,45 +1,25 @@
-simpwiki
----------------------------------------------------------------
-glove_w5, vocab size: 33622, formal vacab: simpWiki, tuple num: 238, correct: 7, top20: 24, top50: 30, top100:37
-cbow_w5, vocab size: 7985, formal vacab: simpWiki, tuple num: 91, correct: 9, top20: 19, top50: 25, top100:28
-sg_w5, vocab size: 7985, formal vacab: simpWiki, tuple num: 91, correct: 7, top20: 20, top50: 25, top100:28
-
-glove_w5, vocab size: 33622, formal vacab: enWiki_vocab, tuple num: 245, correct: 7, top20: 24, top50: 30, top100:37
-cbow_w5, vocab size: 7985, formal vacab: enWiki_vocab, tuple num: 91, correct: 9, top20: 19, top50: 25, top100:28
-sg_w5, vocab size: 7985, formal vacab: enWiki_vocab, tuple num: 91, correct: 7, top20: 20, top50: 25, top100:28
-
-
-****************************
-v50k
-simpwiki
-======
-glove_w5, vocab size: 33622, formal vacab: simpWiki_vocab, tuple num: 238, correct: 7, top20: 24, top50: 30, top100:37
-cbow_w5, vocab size: 33567, formal vacab: simpWiki_vocab, tuple num: 238, correct: 12, top20: 34, top50: 42, top100:48
-sg_w5, vocab size: 33567, formal vacab: simpWiki_vocab, tuple num: 238, correct: 11, top20: 31, top50: 43, top100:50
-
-enwiki
-=====
-glove_w5, vocab size: 33622, formal vacab: enWiki_vocab, tuple num: 245, correct: 7, top20: 24, top50: 30, top100:37
-cbow_w5, vocab size: 33567, formal vacab: enWiki_vocab, tuple num: 245, correct: 12, top20: 35, top50: 43, top100:50
-sg_w5, vocab size: 33567, formal vacab: enWiki_vocab, tuple num: 245, correct: 11, top20: 31, top50: 43, top100:50
-
-****************************
-v10k
-enwiki
------
-glove_w5_v10k, vocab size: 8706, formal vacab: enWiki_vocab, tuple num: 99, correct: 5, top20: 18, top50: 21, top100:27
-sg_w5_v10k, vocab size: 8704, formal vacab: enWiki_vocab, tuple num: 99, correct: 7, top20: 23, top50: 27, top100:32
-cbow_w5_v10k, vocab size: 8704, formal vacab: enWiki_vocab, tuple num: 99, correct: 10, top20: 24, top50: 27, top100:30
-
-simpwiki
-----
-glove_w5_v10k, vocab size: 8706, formal vacab: simpWiki_vocab, tuple num: 99, correct: 5, top20: 18, top50: 21, top100:27
-sg_w5_v10k, vocab size: 8704, formal vacab: simpWiki_vocab, tuple num: 99, correct: 7, top20: 23, top50: 27, top100:32
-cbow_w5_v10k, vocab size: 8704, formal vacab: simpWiki_vocab, tuple num: 99, correct: 10, top20: 24, top50: 27, top100:30
-
-w5_min100
----
-glove_w5_min100, vocab size: 54083, formal vacab: simpWiki_vocab, tuple num: 293, correct: 7, top20: 25, top50: 32, top100:35
-fasttext_w5_min100, vocab size: 54083, formal vacab: simpWiki_vocab, tuple num: 293, correct: 8, top20: 25, top50: 37, top100:50
-sg_w5_min100, vocab size: 54082, formal vacab: simpWiki_vocab, tuple num: 293, correct: 10, top20: 34, top50: 44, top100:51
-cbow_w5_min100, vocab size: 54082, formal vacab: simpWiki_vocab, tuple num: 293, correct: 14, top20: 36, top50: 45, top100:51
+glove100_w5_min200, vocab size: 36160, formal vacab: simpWiki_vocab, tuple num: 248, correct: 7, top20: 25, top50: 29, top100:35
+glove200_w5_min200, vocab size: 36160, formal vacab: simpWiki_vocab, tuple num: 248, correct: 7, top20: 28, top50: 33, top100:39
+glove100_w10_min200, vocab size: 36160, formal vacab: simpWiki_vocab, tuple num: 248, correct: 5, top20: 26, top50: 31, top100:34
+glove200_w10_min200, vocab size: 36160, formal vacab: simpWiki_vocab, tuple num: 248, correct: 5, top20: 28, top50: 34, top100:42
+glove100_w15_min200, vocab size: 36160, formal vacab: simpWiki_vocab, tuple num: 248, correct: 7, top20: 25, top50: 29, top100:30
+glove200_w15_min200, vocab size: 36160, formal vacab: simpWiki_vocab, tuple num: 248, correct: 6, top20: 27, top50: 34, top100:40
+sg100_w5_min200, vocab size: 36159, formal vacab: simpWiki_vocab, tuple num: 248, correct: 11, top20: 32, top50: 41, top100:54
+sg200_w5_min200, vocab size: 36159, formal vacab: simpWiki_vocab, tuple num: 248, correct: 10, top20: 41, top50: 48, top100:55
+sg100_w10_min200, vocab size: 36159, formal vacab: simpWiki_vocab, tuple num: 248, correct: 10, top20: 23, top50: 36, top100:43
+sg200_w10_min200, vocab size: 36159, formal vacab: simpWiki_vocab, tuple num: 248, correct: 8, top20: 31, top50: 42, top100:53
+sg100_w15_min200, vocab size: 36159, formal vacab: simpWiki_vocab, tuple num: 248, correct: 8, top20: 18, top50: 33, top100:40
+sg200_w15_min200, vocab size: 36159, formal vacab: simpWiki_vocab, tuple num: 248, correct: 7, top20: 29, top50: 41, top100:50
+cbow100_w5_min200, vocab size: 36159, formal vacab: simpWiki_vocab, tuple num: 248, correct: 12, top20: 33, top50: 42, top100:49
+cbow200_w5_min200, vocab size: 36159, formal vacab: simpWiki_vocab, tuple num: 248, correct: 13, top20: 36, top50: 44, top100:55
+cbow100_w10_min200, vocab size: 36159, formal vacab: simpWiki_vocab, tuple num: 248, correct: 12, top20: 34, top50: 38, top100:48
+cbow200_w10_min200, vocab size: 36159, formal vacab: simpWiki_vocab, tuple num: 248, correct: 15, top20: 38, top50: 43, top100:53
+cbow100_15_min200, vocab size: 36159, formal vacab: simpWiki_vocab, tuple num: 248, correct: 11, top20: 33, top50: 39, top100:48
+cbow200_15_min200, vocab size: 36159, formal vacab: simpWiki_vocab, tuple num: 248, correct: 12, top20: 36, top50: 45, top100:52
+ft100_w5_min200, vocab size: 36160, formal vacab: simpWiki_vocab, tuple num: 248, correct: 9, top20: 27, top50: 39, top100:43
+ft200_w5_min200, vocab size: 36160, formal vacab: simpWiki_vocab, tuple num: 248, correct: 8, top20: 34, top50: 41, top100:49
+ft100_w10_min200, vocab size: 36160, formal vacab: simpWiki_vocab, tuple num: 248, correct: 8, top20: 21, top50: 35, top100:39
+ft200_w10_min200, vocab size: 36160, formal vacab: simpWiki_vocab, tuple num: 248, correct: 6, top20: 24, top50: 35, top100:49
+ft100_15_min200, vocab size: 36160, formal vacab: simpWiki_vocab, tuple num: 248, correct: 5, top20: 20, top50: 27, top100:33
+ft200_15_min200, vocab size: 36160, formal vacab: simpWiki_vocab, tuple num: 248, correct: 7, top20: 30, top50: 33, top100:48
+glove100_w5_min200, vocab size: 36160, formal vacab: enWiki_vocab, tuple num: 255, correct: 7, top20: 25, top50: 29, top100:35

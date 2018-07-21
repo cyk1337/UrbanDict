@@ -57,12 +57,6 @@ formal_vocab_paths = [simpWiki_vocab, enWiki_vocab]
 result_dir = 'result'
 os.system('mkdir -p %s' % result_dir)
 
-#########################
-# settings
-#########################
-_wiki_index = 0
-Formal_vacab = formal_vocab[_wiki_index]
-formal_vocab_file = formal_vocab_paths[_wiki_index]
 
 # glove_w5 = '/Volumes/Ed/embedding/w5/tweet_V50000_w5_vectors.txt'
 # cbow_w5 = '/Volumes/Ed/embedding/w5/cbow100_win5_v50000.txt'
@@ -70,19 +64,102 @@ formal_vocab_file = formal_vocab_paths[_wiki_index]
 # EXP_ = ['glove_w5', 'cbow_w5', 'sg_w5']
 # embedding_path = [glove_w5, cbow_w5, sg_w5]
 
-glove_w5_v10k = '/Volumes/Ed/embedding/w5_v10k/tweet_V10000_w5_vectors.txt'
-cbow_w5_v10k = '/Volumes/Ed/embedding/w5_v10k/cbow100_win5_v10000.txt'
-sg_w5_v10k = '/Volumes/Ed/embedding/w5_v10k/sg100_win5_v10000.txt'
+# glove_w5_v10k = '/Volumes/Ed/embedding/w5_v10k/tweet_V10000_w5_vectors.txt'
+# cbow_w5_v10k = '/Volumes/Ed/embedding/w5_v10k/cbow100_win5_v10000.txt'
+# sg_w5_v10k = '/Volumes/Ed/embedding/w5_v10k/sg100_win5_v10000.txt'
 
 # EXP_ = ['glove_w5_v10k', 'sg_w5_v10k', 'cbow_w5_v10k']
 # embedding_path = [glove_w5_v10k, sg_w5_v10k, cbow_w5_v10k]
 
-glove_w5_min100 ='/Volumes/Ed/embedding/w5_min100/glove/tweet_min100_w5_vectors.txt'
-fasttext_w5_min100 ='/Volumes/Ed/embedding/w5_min100/fasttext/fasttext_min100_w5.vec'
-sg_w5_min100 ='/Volumes/Ed/embedding/w5_min100/sg/sg100_win5_minCount100.txt'
-cbow_w5_min100 ='/Volumes/Ed/embedding/w5_min100/cbow/cbow100_win5_minCount100.txt'
-EXP_ = ['glove_w5_min100', 'fasttext_w5_min100','sg_w5_min100', 'cbow_w5_min100']
-embedding_path = [glove_w5_min100,fasttext_w5_min100, sg_w5_min100, cbow_w5_min100]
+
+# -------
+# glove_w5_min100 ='/Volumes/Ed/embedding/w5_min100/glove/tweet_min100_w5_vectors.txt'
+# fasttext_w5_min100 ='/Volumes/Ed/embedding/w5_min100/fasttext/fasttext_min100_w5.vec'
+# sg_w5_min100 ='/Volumes/Ed/embedding/w5_min100/sg/sg100_win5_minCount100.txt'
+# cbow_w5_min100 ='/Volumes/Ed/embedding/w5_min100/cbow/cbow100_win5_minCount100.txt'
+# EXP_ = ['glove_w5_min100', 'fasttext_w5_min100','sg_w5_min100', 'cbow_w5_min100']
+# embedding_path = [glove_w5_min100,fasttext_w5_min100, sg_w5_min100, cbow_w5_min100]
+
+
+dname = '/Volumes/Ed/embedding/min200'
+
+glove100_w5_min200 = os.path.join(dname, 'glove', 'glove100_min200_w5_vectors.txt')
+glove200_w5_min200 = os.path.join(dname, 'glove', 'glove200_min200_w5_vectors.txt')
+glove100_w10_min200 = os.path.join(dname, 'glove', 'glove100_min200_w10_vectors.txt')
+glove200_w10_min200 = os.path.join(dname, 'glove', 'glove200_min200_w10_vectors.txt')
+glove100_w15_min200 = os.path.join(dname, 'glove', 'glove100_min200_w15_vectors.txt')
+glove200_w15_min200 = os.path.join(dname, 'glove', 'glove200_min200_w15_vectors.txt')
+
+sg100_w5_min200 = os.path.join(dname, 'w2v', 'sg100_win5_minCount200.txt')
+sg200_w5_min200 = os.path.join(dname, 'w2v', 'sg200_win5_minCount200.txt')
+sg100_w10_min200 = os.path.join(dname, 'w2v', 'sg100_win10_minCount200.txt')
+sg200_w10_min200 = os.path.join(dname, 'w2v', 'sg200_win10_minCount200.txt')
+sg100_w15_min200 = os.path.join(dname, 'w2v', 'sg100_win15_minCount200.txt')
+sg200_w15_min200 = os.path.join(dname, 'w2v', 'sg200_win15_minCount200.txt')
+
+cbow100_w5_min200 = os.path.join(dname, 'w2v', 'cbow100_win5_minCount200.txt')
+cbow200_w5_min200 = os.path.join(dname, 'w2v', 'cbow200_win5_minCount200.txt')
+cbow100_w10_min200 = os.path.join(dname, 'w2v', 'cbow100_win10_minCount200.txt')
+cbow200_w10_min200 = os.path.join(dname, 'w2v', 'cbow200_win10_minCount200.txt')
+cbow100_15_min200 = os.path.join(dname, 'w2v', 'cbow100_win15_minCount200.txt')
+cbow200_15_min200 = os.path.join(dname, 'w2v', 'cbow200_win15_minCount200.txt')
+
+ft100_w5_min200 = os.path.join(dname, 'fasttext', 'ft100_win5_minCount200.vec')
+ft200_w5_min200 = os.path.join(dname, 'fasttext', 'ft200_win5_minCount200.vec')
+ft100_w10_min200 = os.path.join(dname, 'fasttext', 'ft100_win10_minCount200.vec')
+ft200_w10_min200 = os.path.join(dname, 'fasttext', 'ft200_win10_minCount200.vec')
+ft100_w15_min200 = os.path.join(dname, 'fasttext', 'ft100_win15_minCount200.vec')
+ft200_w15_min200 = os.path.join(dname, 'fasttext', 'ft200_win15_minCount200.vec')
+
+# final
+embedding_name1 = ['glove100_w5_min200', 'glove200_w5_min200', 'glove100_w10_min200', 'glove200_w10_min200',
+                   'glove100_w15_min200', 'glove200_w15_min200']
+embedding_path1 = [glove100_w5_min200, glove200_w5_min200, glove100_w10_min200, glove200_w10_min200,
+                   glove100_w15_min200, glove200_w15_min200]
+
+embedding_name2 = ['sg100_w5_min200', 'sg200_w5_min200', 'sg100_w10_min200', 'sg200_w10_min200', 'sg100_w15_min200',
+                   'sg200_w15_min200']
+embedding_path2 = [sg100_w5_min200, sg200_w5_min200, sg100_w10_min200, sg200_w10_min200, sg100_w15_min200,
+                   sg200_w15_min200]
+
+embedding_name3 = ['cbow100_w5_min200', 'cbow200_w5_min200', 'cbow100_w10_min200', 'cbow200_w10_min200',
+                   'cbow100_15_min200', 'cbow200_15_min200']
+embedding_path3 = [cbow100_w5_min200, cbow200_w5_min200, cbow100_w10_min200, cbow200_w10_min200, cbow100_15_min200,
+                   cbow200_15_min200]
+
+embedding_name4 = ['ft100_w5_min200', 'ft200_w5_min200', 'ft100_w10_min200', 'ft200_w10_min200', 'ft100_15_min200',
+                   'ft200_15_min200']
+embedding_path4 = [ft100_w5_min200, ft200_w5_min200, ft100_w10_min200, ft200_w10_min200, ft100_w15_min200,
+                   ft200_w15_min200]
+
+import argparse
+
+parser = argparse.ArgumentParser(description='Select the embedding index: ')
+parser.add_argument('--embedding', type=int, default=1)
+parser.add_argument('--wiki', type=int, default=1)
+args = parser.parse_args()
+EXP_embedding = args.embedding
+_wiki_index = args.wiki
+
+#########################
+# settings
+#########################
+Formal_vacab = formal_vocab[_wiki_index]
+formal_vocab_file = formal_vocab_paths[_wiki_index]
+
+
+if (EXP_embedding == 1):
+    EXP_ = embedding_name1
+    embedding_path = embedding_path1
+elif (EXP_embedding == 2):
+    EXP_ = embedding_name2
+    embedding_path = embedding_path2
+elif (EXP_embedding == 3):
+    EXP_ = embedding_name3
+    embedding_path = embedding_path3
+elif (EXP_embedding == 4):
+    EXP_ = embedding_name4
+    embedding_path = embedding_path4
 
 
 def load_embedding(i, embedding_path):
@@ -215,8 +292,9 @@ def evaluate_all_pairs(i):
     print("%i pairs in top 50" % top50_cnt)
     print("%i pairs in top 100" % top100_cnt)
     with open(result_all, 'a') as f:
-        f.write('%s, vocab size: %s, formal vacab: %s, tuple num: %s, correct: %s, top20: %s, top50: %s, top100:%s\n' % (
-            EXP_[i], len(_embedding), Formal_vacab, len(variants), correct_cnt, top20_cnt, top50_cnt, top100_cnt))
+        f.write(
+            '%s, vocab size: %s, formal vacab: %s, tuple num: %s, correct: %s, top20: %s, top50: %s, top100:%s\n' % (
+                EXP_[i], len(_embedding), Formal_vacab, len(variants), correct_cnt, top20_cnt, top50_cnt, top100_cnt))
 
 
 if __name__ == '__main__':
