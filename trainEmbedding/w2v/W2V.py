@@ -61,15 +61,28 @@ cbow_file = os.path.join(w2v_dir, 'cbow%s_win%s_minCount%s' % (size, window, min
 print('Training w2v, win %s, vector size %s, min count %s,  max vocab size %s' % (window, size, minCount, max_final_vocab))
 
 
-def train_sg():
+def train_sg_ns():
     sg_model = Word2Vec(sentences=LineSentence(data_file), size=size, window=window, min_count=minCount, max_final_vocab=max_final_vocab, sg=1, workers=max(1, multiprocessing.cpu_count() - 1))
 
     sg_model.save(sg_file+'.model')
     sg_model.wv.save_word2vec_format(sg_file+'.txt')
 
 
-def train_cbow():
+def train_cbow_ns():
     cbow_model = Word2Vec(sentences=LineSentence(data_file), size=size, window=window, min_count=minCount, max_final_vocab=max_final_vocab, sg=0, workers=max(1, multiprocessing.cpu_count() - 1))
+
+    cbow_model.save(cbow_file + '.model')
+    cbow_model.wv.save_word2vec_format(cbow_file+'.txt')
+
+def train_sg():
+    sg_model = Word2Vec(sentences=LineSentence(data_file), size=size, window=window, min_count=minCount, negative=0, max_final_vocab=max_final_vocab, sg=1, workers=max(1, multiprocessing.cpu_count() - 1))
+
+    sg_model.save(sg_file+'.model')
+    sg_model.wv.save_word2vec_format(sg_file+'.txt')
+
+
+def train_cbow():
+    cbow_model = Word2Vec(sentences=LineSentence(data_file), size=size, window=window, min_count=minCount,negative=0, max_final_vocab=max_final_vocab, sg=0, workers=max(1, multiprocessing.cpu_count() - 1))
 
     cbow_model.save(cbow_file + '.model')
     cbow_model.wv.save_word2vec_format(cbow_file+'.txt')
