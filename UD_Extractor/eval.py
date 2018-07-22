@@ -155,7 +155,7 @@ def update_variant_db(defid, variant, sample_file):
         print("Update variant fail: %s: %s" % (sample_file[-18:-13], e))
 
 
-def _count_and_write_db(sample_file):
+def _count_and_write_db(sample_file, write_db=False):
     df = pd.read_csv(sample_file, sep="\t")
     # label 1: true defn and correct label
     label_1 = df[df['label'] == 1]
@@ -169,30 +169,31 @@ def _count_and_write_db(sample_file):
     # prec = label_1['pair'].count()/100
     prec = (label_1['pair'].nunique() + label_3['pair'].nunique()) / 100
 
-    # update label in db for label 0, 1, 2, 3
-    pos_list = tuple(label_1['defid'].tolist() + label_3['defid'].tolist())
-    neg_list = tuple(label_nan['defid'].tolist())
-    if len(pos_list) > 0:
-        update_label_db(pos_list, 1, sample_file)
-        update_label_db(neg_list, 0, sample_file)
-        if label_2['defid'].count() > 0:
-            label2 = tuple(label_2['defid'].tolist())
-            update_label_db(label2, 2, sample_file)
-        if label_3['defid'].count() > 0:
-            label3 = tuple(label_3['defid'].tolist())
-            update_label_db(label3, 3, sample_file)
-    else:
-        print('Please manually label first! %s' % sample_file)
+    if write_db is True:
+        # update label in db for label 0, 1, 2, 3
+        pos_list = tuple(label_1['defid'].tolist() + label_3['defid'].tolist())
+        neg_list = tuple(label_nan['defid'].tolist())
+        if len(pos_list) > 0:
+            update_label_db(pos_list, 1, sample_file)
+            update_label_db(neg_list, 0, sample_file)
+            if label_2['defid'].count() > 0:
+                label2 = tuple(label_2['defid'].tolist())
+                update_label_db(label2, 2, sample_file)
+            if label_3['defid'].count() > 0:
+                label3 = tuple(label_3['defid'].tolist())
+                update_label_db(label3, 3, sample_file)
+        else:
+            print('Please manually label first! %s' % sample_file)
 
-    # update variant in db for true labeled vairants
-    corr = df[df['label'] == 1]
-    if corr['label'].count() > 0:
-        variant = corr['pair'].str.split(',', expand=True)[1]
-        corr.insert(loc=2, column='variant', value=variant)
-        for i, row in corr.iterrows():
-            defid = row['defid']
-            variant = row['variant']
-            update_variant_db(defid, variant, sample_file)
+        # update variant in db for true labeled vairants
+        corr = df[df['label'] == 1]
+        if corr['label'].count() > 0:
+            variant = corr['pair'].str.split(',', expand=True)[1]
+            corr.insert(loc=2, column='variant', value=variant)
+            for i, row in corr.iterrows():
+                defid = row['defid']
+                variant = row['variant']
+                update_variant_db(defid, variant, sample_file)
 
     # write precision into log file
     result_dir = os.path.dirname(os.path.dirname(sample_file))
@@ -204,9 +205,20 @@ def _count_and_write_db(sample_file):
 
 
 def update_sample_dir(_dir):
-    for sample_file in os.listdir(_dir):
+    for sample_file in sorted(os.listdir(_dir)):
         if not sample_file.endswith('.txt'): continue
+        sample_file = os.path.join(_dir, sample_file)
         _count_and_write_db(sample_file)
+
+
+def count_num(_dir):
+    bt_dir = os.path.join('iter_result', _dir)
+    count_file = os.path.join(bt_dir, 'count.txt')
+    for iter_dir in sorted(os.listdir(bt_dir)):
+        if not iter_dir.startswith('Iter'): continue
+        filename = os.path.join(bt_dir, iter_dir, 'candi_tup.txt')
+        os.system('echo %s >> %s' % (iter_dir, count_file))
+        os.system('wc -l %s >> %s' % (filename, count_file))
 
 
 if __name__ == '__main__':
@@ -220,12 +232,19 @@ if __name__ == '__main__':
     # eval_recall(test)
 
     # sample
-    sample2Estimate_prec('RlogF_ctx3_tup20_pat20Stopword0.3')
+    # sample2Estimate_prec('RlogF_impr_ctx3_tup10_pat10')
     # sample2Estimate_prec('RlogF_ctx3_tup10_pat10Stopword0.3')
     # sample2Estimate_prec('RlogF_impr_ctx3_tup20_pat20Stopword0.5')
 
+    # COUNT tuple num
+    # count_num('@RlogF_impr_ctx3_tup10_pat10')
+
     # manual labeling
 
-    # summary
-    # file = 'iter_result/@RlogF_ctx3_tup10_pat10Stopword0.3/RlogF_ctx3_tup10_pat10Stopword0.3sample100/Iter0sample100.txt'
+    update_sample_dir('/Users/yekun/Documents/CODE_/UrbanDict/UD_Extractor/iter_result/'
+                      '@RlogF_impr_ctx3_tup10_pat10/RlogF_impr_ctx3_tup10_pat10sample100/')
+
+    # stest 1
+    # file = '/Users/yekun/Documents/CODE_/UrbanDict/UD_Extractor/iter_result' \
+    #        '/@RlogF_impr_ctx3_tup10_pat10/RlogF_impr_ctx3_tup10_pat10sample100/Iter0sample100.txt'
     # _count_and_write_db(file)

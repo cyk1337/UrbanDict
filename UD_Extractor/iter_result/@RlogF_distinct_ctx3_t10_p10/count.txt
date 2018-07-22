@@ -1,0 +1,16 @@
+Iter0
+   22878 iter_result/@RlogF_distinct_ctx3_t10_p10/Iter0/candi_tup.txt
+Iter1
+   28329 iter_result/@RlogF_distinct_ctx3_t10_p10/Iter1/candi_tup.txt
+Iter2
+   28329 iter_result/@RlogF_distinct_ctx3_t10_p10/Iter2/candi_tup.txt
+Iter3
+   28329 iter_result/@RlogF_distinct_ctx3_t10_p10/Iter3/candi_tup.txt
+Iter4
+   28329 iter_result/@RlogF_distinct_ctx3_t10_p10/Iter4/candi_tup.txt
+Iter5
+   28329 iter_result/@RlogF_distinct_ctx3_t10_p10/Iter5/candi_tup.txt
+Iter6
+   28329 iter_result/@RlogF_distinct_ctx3_t10_p10/Iter6/candi_tup.txt
+Iter7
+   28329 iter_result/@RlogF_distinct_ctx3_t10_p10/Iter7/candi_tup.txt

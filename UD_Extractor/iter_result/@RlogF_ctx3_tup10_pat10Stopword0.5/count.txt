@@ -1,0 +1,16 @@
+Iter0
+   19301 iter_result/@RlogF_ctx3_tup10_pat10Stopword0.5/Iter0/candi_tup.txt
+Iter1
+   24115 iter_result/@RlogF_ctx3_tup10_pat10Stopword0.5/Iter1/candi_tup.txt
+Iter2
+   24115 iter_result/@RlogF_ctx3_tup10_pat10Stopword0.5/Iter2/candi_tup.txt
+Iter3
+   24115 iter_result/@RlogF_ctx3_tup10_pat10Stopword0.5/Iter3/candi_tup.txt
+Iter4
+   24115 iter_result/@RlogF_ctx3_tup10_pat10Stopword0.5/Iter4/candi_tup.txt
+Iter5
+   24115 iter_result/@RlogF_ctx3_tup10_pat10Stopword0.5/Iter5/candi_tup.txt
+Iter6
+   24115 iter_result/@RlogF_ctx3_tup10_pat10Stopword0.5/Iter6/candi_tup.txt
+Iter7
+   24115 iter_result/@RlogF_ctx3_tup10_pat10Stopword0.5/Iter7/candi_tup.txt
