@@ -1,9 +1,9 @@
-('hi', 'hello')	0
-('hey', 'hi')	0
-('theater', 'theatre')	0
 ('bitch', 'hoe')	0
 ('comp', 'competition')	0
 ('bish', 'bitch')	0
+('hi', 'hello')	0
 ('tv', 'television')	0
+('theater', 'theatre')	0
+('hey', 'hi')	0
 ('yea', 'yeah')	0
 ('intercourse', 'sex')	0

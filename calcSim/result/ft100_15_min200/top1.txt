@@ -1,5 +1,5 @@
-('hi', 'hello')	0
-('hey', 'hi')	0
 ('bitch', 'hoe')	0
+('hi', 'hello')	0
 ('tv', 'television')	0
+('hey', 'hi')	0
 ('intercourse', 'sex')	0

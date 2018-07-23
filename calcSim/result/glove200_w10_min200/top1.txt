@@ -1,5 +1,5 @@
+('yea', 'yeah')	0
 ('hey', 'hello')	0
-('lightening', 'lightning')	0
 ('theater', 'theatre')	0
 ('bitch', 'hoe')	0
-('yea', 'yeah')	0
+('lightening', 'lightning')	0

@@ -1,8 +1,8 @@
-('bitch', 'hoe')	0
-('intercourse', 'sex')	0
-('lunacy', 'insanity')	0
-('m8', 'mate')	0
-('theater', 'theatre')	0
 ('hey', 'hi')	0
 ('tv', 'television')	0
+('theater', 'theatre')	0
 ('lightening', 'lightning')	0
+('intercourse', 'sex')	0
+('m8', 'mate')	0
+('bitch', 'hoe')	0
+('lunacy', 'insanity')	0

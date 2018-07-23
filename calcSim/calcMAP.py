@@ -186,6 +186,8 @@ def filter_variant_tuple(tup_file, formal_vocab, informal_vocab):
     f = open(tup_file)
     for line in f:
         (informal, formal) = line.split()
+        informal = informal.lower()
+        formal = formal.lower()
         if formal not in formal_vocab:
             excluded_formal += 1
             continue

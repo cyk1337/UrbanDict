@@ -1,8 +1,8 @@
-('intercourse', 'sex')	0
-('theater', 'theatre')	0
 ('hey', 'hi')	0
-('comp', 'competition')	0
+('tv', 'television')	0
+('theater', 'theatre')	0
 ('bish', 'bitch')	0
 ('yea', 'yeah')	0
-('tv', 'television')	0
 ('lightening', 'lightning')	0
+('intercourse', 'sex')	0
+('comp', 'competition')	0
