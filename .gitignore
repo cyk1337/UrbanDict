@@ -21,6 +21,7 @@ vectors.txt
 
 # unlabel.csv
 *.csv
+!sum.csv
 
 *.bin
 *.vacab
