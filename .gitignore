@@ -27,3 +27,6 @@ vectors.txt
 *.vacab
 *.model
 *.npy
+
+*.key
+fig.key

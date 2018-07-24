@@ -7,7 +7,7 @@ gova	car
 grammer	grammar
 hawt	hot
 hawt	hot
-reprecaution	repercussions.2)it
+reprecaution	repercussions
 gavno	russlan
 sesh	session
 dil	heart
