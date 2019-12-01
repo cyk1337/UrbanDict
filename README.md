@@ -1,7 +1,7 @@
 # Discovering spelling variants on Urban Dictionary
 
 
-Scraping Urban Dict through website and API
+Scraping Urban Dict through website and API :bamboo:
 -------------
 
 * Scraping data from webpage:
