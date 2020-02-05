@@ -1,8 +1,7 @@
 # Discovering spelling variants on Urban Dictionary
+Source code of the paper [How to Evaluate Word Representations of Informal Domain?](https://arxiv.org/abs/1911.04669)
 
-
-Scraping Urban Dict through website and API :bamboo:
--------------
+## Scraping data from [Urban Dictionary](https://www.urbandictionary.com/)  :bamboo:
 
 * Scraping data from webpage:
 ```diff
@@ -13,5 +12,24 @@ Scraping Urban Dict through website and API :bamboo:
 ```diff
 + scrapy crawl UD_API
 ```
+## Bootstrapping algorithms
+`UD_Extractor/`
 
-Source code of the paper [How to Evaluate Word Representations of Informal Domain?](https://arxiv.org/abs/1911.04669)
+## self-training based CRF tagging
+`SeqLabeling/`
+
+## Embedding pretraining with Tweets
+train Word2Vec, FastText, GloVe with tweets data. 
+`trainEmbedding/'
+
+## Twitter hashtag prediction task using pretrained embedding
+Employ Twitter hashtag prediction downstream task using above pretrained informal word vectors as the extrinsic evaluation.
+`HashtagPrediction/`
+
+## Analysis
+Use Mean Average Precision (MAP) as the intrinsic evaluation rate on word analogy task. Compare the correlations beween the intrinsic and extrinsic tasks.
+`calcSim`
+
+## Web interface
+informal word pair search tool, written in Flask: `demo/`
+
