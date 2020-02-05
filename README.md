@@ -13,3 +13,5 @@ Scraping Urban Dict through website and API :bamboo:
 ```diff
 + scrapy crawl UD_API
 ```
+
+Source code of the paper [How to Evaluate Word Representations of Informal Domain?](https://arxiv.org/abs/1911.04669)
